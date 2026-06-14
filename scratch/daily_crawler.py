@@ -33,7 +33,13 @@ keywords = [
     'ti:"sycophancy"', 'abs:"sycophancy"',
     'ti:"chatbot"', 'abs:"chatbot"',
     'ti:"anthropomorphism"', 'abs:"anthropomorphism"',
-    'ti:"social robot"', 'abs:"social robot"'
+    'ti:"social robot"', 'abs:"social robot"',
+    'ti:"chatbot therapists"', 'abs:"chatbot therapists"',
+    'ti:"human-chatbot interaction"', 'abs:"human-chatbot interaction"',
+    'ti:"AI companion"', 'abs:"AI companion"',
+    'ti:"parasocial interaction AI"', 'abs:"parasocial interaction AI"',
+    'ti:"conversational agent"', 'abs:"conversational agent"',
+    'ti:"attitudes towards AI"', 'abs:"attitudes towards AI"'
 ]
 
 query_string = " OR ".join(keywords)
