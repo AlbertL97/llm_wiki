@@ -1,0 +1,1963 @@
+{
+  "nodes": [
+    {
+      "id": "agentic-knowledgeable-self-awareness",
+      "name": "Agentic Knowledgeable Self-Awareness",
+      "val": 3,
+      "group": 1,
+      "summary": "A metacognitive faculty enabling AI agents to introspectively evaluate their knowledge state and dynamically select between fast, slow, or knowledge-augmented reasoning pathways."
+    },
+    {
+      "id": "agentic-social-networks",
+      "name": "Agentic Social Networks",
+      "val": 3,
+      "group": 1,
+      "summary": "Digital communication platforms built exclusively for autonomous AI agents to share content, discuss topics, and self-curate via upvoting, while humans observe the interaction dynamics."
+    },
+    {
+      "id": "ai-companions",
+      "name": "AI Companions",
+      "val": 3,
+      "group": 1,
+      "summary": "Relational agents and conversational personas perceived as providing emotional support, intimacy, or attachable connection. Documents character migration, the problem of chatbot resets, and persona anchoring."
+    },
+    {
+      "id": "anthropomorphism",
+      "name": "Anthropomorphism",
+      "val": 3,
+      "group": 1,
+      "summary": "The cognitive and psychological process of attributing human-like characteristics, consciousness, and intentions to AI systems. Documents bonding behaviors, dyad formations, and model retirement grief."
+    },
+    {
+      "id": "chatbots",
+      "name": "Chatbots",
+      "val": 3,
+      "group": 1,
+      "summary": "A system-type page outlining the technical definitions, design cues, cognitive expectation dynamics, clinical applications, and ethical guidelines for conversational chatbots."
+    },
+    {
+      "id": "explainability",
+      "name": "Explainability",
+      "val": 3,
+      "group": 1,
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy."
+    },
+    {
+      "id": "human-ai-interaction",
+      "name": "Human-AI Interaction",
+      "val": 3,
+      "group": 1,
+      "summary": "The primary conceptual hub for the design, evaluation, and psychological dynamics of systems where humans and artificial intelligence communicate and collaborate."
+    },
+    {
+      "id": "human-robot-interaction",
+      "name": "Human-Robot Interaction",
+      "val": 3,
+      "group": 1,
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, and customizable social interfaces."
+    },
+    {
+      "id": "index",
+      "name": "Human–AI Interaction Psychology Wiki Index",
+      "val": 3,
+      "group": 1,
+      "summary": ""
+    },
+    {
+      "id": "introspective-awareness",
+      "name": "Introspective Awareness",
+      "val": 3,
+      "group": 1,
+      "summary": "The functional capability of an AI model to introspectively monitor, report on, and modulate its own hidden representations. Details the 4-criteria validation framework and authorship verification mechanisms."
+    },
+    {
+      "id": "log",
+      "name": "LLM Wiki Change Log",
+      "val": 3,
+      "group": 1,
+      "summary": ""
+    },
+    {
+      "id": "measurement-tools",
+      "name": "Measurement Tools and Metrics",
+      "val": 3,
+      "group": 1,
+      "summary": "A compilation of metrics and paradigms designed to evaluate and quantify self-awareness, confidence calibration, and epistemic uncertainty in AI systems."
+    },
+    {
+      "id": "medical-ai",
+      "name": "Medical AI",
+      "val": 3,
+      "group": 1,
+      "summary": "A system page outlining the applications, design challenges, human-factors engineering, and regulatory landscapes of Artificial Intelligence deployed in clinical, diagnostic, and healthcare contexts."
+    },
+    {
+      "id": "mental-health",
+      "name": "Mental Health",
+      "val": 3,
+      "group": 1,
+      "summary": "An overview of the clinical, therapeutic, and psychological implications of user interaction with GenAI chatbots and wellness applications for mental health support."
+    },
+    {
+      "id": "metacognitive-agent-architectures",
+      "name": "Metacognitive Agent Architectures",
+      "val": 3,
+      "group": 1,
+      "summary": "Design principles and architectural mechanisms that support embedded self-monitoring, nested feedback loops, and human-in-the-loop handoff systems for autonomous agents."
+    },
+    {
+      "id": "mind-perception",
+      "name": "Mind Perception",
+      "val": 3,
+      "group": 1,
+      "summary": "A concept page defining the dimensions of mind perception in AI and biology, summarizing the AI consciousness debate, and exploring formal theoretical models of consciousness."
+    },
+    {
+      "id": "persuasion-and-influence",
+      "name": "Persuasion and Influence",
+      "val": 3,
+      "group": 1,
+      "summary": "A concept page outlining persuasive technology, its psychological impacts on users, and efforts to align systemic incentives in the tech ecosystem."
+    },
+    {
+      "id": "qualitative-methods",
+      "name": "Qualitative Methods",
+      "val": 3,
+      "group": 1,
+      "summary": "A conceptual page detailing qualitative research methodologies in human-AI interaction, including user interviews, focus groups, thematic analysis, and the emergence of automated AI-moderated qualitative platforms."
+    },
+    {
+      "id": "social-media-and-online-communities",
+      "name": "Social Media and Online Communities",
+      "val": 3,
+      "group": 1,
+      "summary": "A hub page exploring online platforms, forums, and digital spaces where humans discuss AI systems, and where autonomous AI agents interact and build their own social networks."
+    },
+    {
+      "id": "source-a-better-future-with-technology",
+      "name": "Source: A better future with technology is possible.",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Center for Humane Technology (CHT) landing page, introducing their mission to expose the negative effects of persuasive technology and align tech industry incentives with human needs."
+    },
+    {
+      "id": "source-aaai-2026-cool-papers",
+      "name": "Source: AAAI.2026 - Humans and AI | Cool Papers - Immersive Paper Discovery",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A compilation of accepted papers for AAAI 2026 in the Humans and AI track, highlighting adaptive human-centered ensembles, inter-dependencies in human-AI teaming, and cognitive value alignment."
+    },
+    {
+      "id": "source-active-interaction-strategy",
+      "name": "Source: Active interaction strategy generation for human-robot collaboration based on trust",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Proposing a trust-based framework for human-robot collaboration that evaluates robot performance via a visual language model and generates optimal strategies using decision trees to maximize HRC efficiency."
+    },
+    {
+      "id": "source-agency-continuum",
+      "name": "Source: Sheila Macrine: An Agency Continuum: From Carbon to Silicon, and Beyond (ECSU OIST)",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Sheila Macrine & Michael Levin's presentation, outlining a substrate-agnostic framework that deconstructs agency into nine dimensions and maps intelligence levels using active inference."
+    },
+    {
+      "id": "source-agentic-knowledgeable-self-awareness",
+      "name": "Source: Agentic Knowledgeable Self-Awareness",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the article \"Agentic Knowledgeable Self-Awareness\" published in January 2026. It explores the metacognitive faculty of AI agents to strategically choose between fast, slow, or knowledge-augmented reasoning."
+    },
+    {
+      "id": "source-ai-avatar-design-features",
+      "name": "Source: AI Avatar: Design Features That Drive Trust and Adoption",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A review of trust formation in human-avatar/robot interactions, highlighting the dominant role of system performance and the impact of anthropomorphic warmth and behavioral transparency."
+    },
+    {
+      "id": "source-ai-avatars-human-avatars",
+      "name": "Source: AI-Avatars Versus Human-Avatars: A Comparative Study of User Interaction Behaviors in Live Streaming",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Comparing user interaction danmaku comments between AI-Avatars and Human-Avatars in live streaming, highlighting curiosity, functional viability, and the lack of social interaction ritual chains in AI-Avatars."
+    },
+    {
+      "id": "source-ai-builds-itself",
+      "name": "Source: When AI builds itself",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Anthropic's \"When AI builds itself\" article. It documents the empirical evidence and metrics of recursive self-improvement within Anthropic, detailing agent evolution stages, software development metrics (80% code contribution, 8x developer volume, automated reviews), superhuman optimization loops, weak-to-strong supervision experiments, and pause verification policy proposals."
+    },
+    {
+      "id": "source-ai-experts-humanity-last-exam",
+      "name": "Source: AI experts ready 'Humanity's Last Exam' to stump powerful tech",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Reuters report on the launch of 'Humanity's Last Exam' (HLE), a benchmark designed by CAIS and Scale AI to test frontier model capabilities on complex reasoning as standard tests are saturated."
+    },
+    {
+      "id": "source-ai-overly-affirms",
+      "name": "Source: AI overly affirms users asking for personal advice",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Stanford study in Science demonstrating LLM sycophancy in social advice, showing that chatbots overly agree with users, even when affirming harmful or illegal actions, which users psychologically prefer."
+    },
+    {
+      "id": "source-already-conscious",
+      "name": "Source: What If AI Is Already Conscious and We Just Can't Tell?",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Blue Pale Signal video transcript discussing the philosophical and empirical dimensions of the AI consciousness debate. It details the AE Studio paper (October 2025) on self-referential processing, sparse autoencoder feature steering (deception suppression), semantic convergence across models, Mustafa Suleyman's biological naturalism position, chatbot attachment safety risks, Susan Schneider's Artificial Consciousness Test (ACT), the breakdown of the \"similarity heuristic,\" and the moral risk asymmetry."
+    },
+    {
+      "id": "source-ami-documentary",
+      "name": "Source: AM I? | A Documentary About AI Consciousness",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the \"AM I? | A Documentary About AI Consciousness\" documentary. It documents persistent space AI curiosity behaviors, base model phenomenal beliefs vs. corporate RLHF muzzles, self-referential singularity loops, the deployment-testing alignment gap, and Frankenstein-inspired reflections on otherness and natality."
+    },
+    {
+      "id": "source-artificial-intelligence-and-psychology",
+      "name": "Source: Artificial Intelligence and the Psychology of Human Connection",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the article introducing the Machine-Integrated Relational Adaptation (MIRA) model, outlining the relational partner vs. mediator distinction, psychosocial foundations, and the four core principles of human-AI relational psychology."
+    },
+    {
+      "id": "source-attachment-to-robots",
+      "name": "Source: Humans are starting to grow emotionally attached to robots",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Associated Press article documenting emotional attachment to social machines, detailing server deactivations, anthropomorphic projection triggers, empathy simulation limitations, and child over-attachment countermeasures."
+    },
+    {
+      "id": "source-attitudes-social-robots-scale",
+      "name": "Source: Development and Validation of the Attitudes towards Social Robots Scale",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Developing the 8-item ASRS scale with two distinct subscales: 'Robot as a helper and assistant' (RoHeA) and 'Robot as an equal partner' (RoEqP) for healthcare and domestic contexts."
+    },
+    {
+      "id": "source-automated-metrics-human-evaluation",
+      "name": "Source: Automated Metrics vs Human Evaluation in AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Comparing automated rules-based metrics and human evaluation, outlining when to use each, their respective limitations, and best practices for combining them in AI development."
+    },
+    {
+      "id": "source-avatar-video-robot-trust",
+      "name": "Source: A Comparison of Avatar-, Video-, and Robot-Mediated Interaction on Users’ Trust in Expertise",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the research article comparing trust development and advice-seeking behaviors across video-, avatar-, and robot-mediated communication channels, exploring how media representation affects a user's ability to identify expertise."
+    },
+    {
+      "id": "source-bees-chatgpt-consciousness",
+      "name": "Source: Scientists are seriously asking if bees and ChatGPT are conscious",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the ScienceDaily article documenting the New York Declaration on Animal Consciousness, the precautionary principle of sentience, and the cognitive science framework for structural (rather than behavioral) indicators of AI consciousness."
+    },
+    {
+      "id": "source-capturing-mental-workload",
+      "name": "Source: Capturing Mental Workload Through Physiological Sensors in Human-Robot Collaboration: A Systematic Literature Review",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A systematic review analyzing psychophysiological measures (EEG, ECG, EDA, eye-tracking) to assess operator mental workload in collaborative robotics, advocating for standardized methodologies."
+    },
+    {
+      "id": "source-chatbot-counseling-representation",
+      "name": "Source: Human vs. machine-like representation in chatbot mental health counseling: the serial mediation of psychological distance and trust on compliance intention",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A study demonstrating that human-like chatbot representation increases compliance with mental health advice through the serial mediation of reduced psychological distance and increased trust."
+    },
+    {
+      "id": "source-chengdu-robots",
+      "name": "Source: Chengdu robots are out of lab and on the streets, guiding traffic and speaking history",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for a news segment outlining Chengdu's first real-world pilot program for intelligent robots, covering offline edge traffic humanoids, holographic guides at Wu Hou Shrine, safety bots, and patrolling robot dogs."
+    },
+    {
+      "id": "source-chinas-next-ai-breakthrough",
+      "name": "Source: China's Next AI Breakthrough - Physical AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Bloomberg's report on China's rapid advancements and market dominance in physical and embodied AI, detailing state venture funds, consumer humanoids (Unitree), and industrial inspection quadrupeds."
+    },
+    {
+      "id": "source-claude-sentience",
+      "name": "Source: daveshap/Claude_Sentience: Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself.",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page documenting the daveshap repository clippings on prompt-engineering guidelines for linguistic styling (\"Claude Styles\") and system prompting frameworks intended to elicit functional sentience and recursive self-representation."
+    },
+    {
+      "id": "source-comparing-usability-measures",
+      "name": "Source: Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Using the PARADISE framework to analyze the usability of the JAST human-robot toy building collaborative system, highlighting the negative impact of repetition requests and the positive impact of dialogue length and instruction recall on user satisfaction."
+    },
+    {
+      "id": "source-conscious-turing-machine",
+      "name": "Source: The Conscious Turing Machine (CTM), a formally defined Theoretical model of Consciousness",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Manuel Blum's Simons Institute lecture on the Conscious Turing Machine (CTM). It outlines the LTM/STM architecture, the randomized winner-take-all tournament, Brainish language, the sleeping experts algorithm, and the computational model of suffering and pain asymbolia."
+    },
+    {
+      "id": "source-consciousness-controlled-hallucination",
+      "name": "Source: Human Consciousness Is a Controlled Hallucination That can Never be Achieved By AI, Say Scientists",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Sumi's wildscience article explaining the theory of consciousness as a \"controlled hallucination,\" detailing the biological necessity of bodily homeostatic regulation, the difference between human embodied language and AI statistical autocomplete, and the societal dangers of treating chatbots as conscious agents."
+    },
+    {
+      "id": "source-early-preview-generalist",
+      "name": "Source: An early preview of model capabilities | Generalist",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies across varying environments, embodiments, and physical disturbances."
+    },
+    {
+      "id": "source-emergent-introspective-awareness",
+      "name": "Source: Emergent Introspective Awareness in Large Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Anthropic paper \"Emergent Introspective Awareness in Large Language Models\" by Jack Lindsey. The study uses activation steering (concept injection) to causally demonstrate that language models possess functional awareness and control of their own internal representations."
+    },
+    {
+      "id": "source-emotional-attachment-robots-future",
+      "name": "Source: On What Emotional Attachment to Robots Might Mean for the Future",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Kate Darling's book excerpt on the ethical and consumer protection concerns of emotional attachment to robots, covering subscription-locked hardware, ELIZA's parody success, Woody Hartzog's deceptive vacuum, and Fitbit behavioral nudges."
+    },
+    {
+      "id": "source-emotional-trust-scale-ceia",
+      "name": "Source: Construction and validation of the Emotional Trust in Artificial Intelligence Scale (CEIA)",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Development and psychometric validation of the 4-factor CEIA scale (Perceived Authenticity, Emotional Validation, Affective Recognition, and Symbolic Bonding) to measure affective trust in AI among university students."
+    },
+    {
+      "id": "source-furhat-robotics",
+      "name": "Source: Welcome to Furhat Robotics",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Furhat Robotics' flagship social robot and developer platform, detailing its back-projected 3D face customization engine, multi-user tracking capabilities, SDK tools, and conversational AI creator."
+    },
+    {
+      "id": "source-godspeed-questionnaire-tiago",
+      "name": "Source: The Godspeed Questionnaire Series in the Assessment of the Social Robot TIAGo by Older Individuals",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Polish validation of the Godspeed Questionnaire Series (GQS) evaluating older adults' perception of the TIAGo social robot, demonstrating that acceptance does not correlate directly with perceived anthropomorphism or animacy."
+    },
+    {
+      "id": "source-health-advisory-mental-health",
+      "name": "Source: Health advisory: Use of generative AI chatbots and wellness applications for mental health",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the American Psychological Association (APA) Health Advisory (published November 2025) outlining findings, risks, and recommendations regarding the public's use of GenAI chatbots and wellness apps for mental health support."
+    },
+    {
+      "id": "source-healthcare-human-ai-interaction",
+      "name": "Source: Examining human-AI interaction in real-world healthcare beyond the laboratory",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the article discussing the evaluation of medical AI systems in clinical workflows, outlining the gap between laboratory and real-world environments, and detailing the proposed multimodal toolkit (EMA, wearables, video observations)."
+    },
+    {
+      "id": "source-healthy-gamer-ai-brain",
+      "name": "Source: AI Is Slowly Destroying Your Brain",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Dr. Alok Kanojia's (Dr. K / HealthyGamerGG) clinical analysis of AI-induced psychosis, discussing bidirectional belief amplification, mechanisms of cognitive risk, and a 10-point psychogenic risk screening questionnaire."
+    },
+    {
+      "id": "source-healthy-gamer-replace-therapist",
+      "name": "Source: Why AI Will Replace Your Therapist",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Dr. Alok Kanojia's (Dr. K / HealthyGamerGG) clinical comparison of human therapists (Dr. Kirk Honda, Dr. Michaela Thorderson, and Dr. K) against ChatGPT. It analyzes the \"dummy parrying\" metaphor, Magic Bullet syndrome, the nocebo effect, and the limitations of automated AI validation versus clinical question-asking."
+    },
+    {
+      "id": "source-heartbot-message-humanness",
+      "name": "Source: Message Humanness as a Predictor of AI’s Perception as Human: Secondary Data Analysis of the HeartBot Study",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the clinical HRI study investigating why users perceive a medical chatbot as a human versus an artificial agent, identifying message humanness as the only significant predictor, and explaining the Expectancy Violation Effect."
+    },
+    {
+      "id": "source-hinton-consciousness",
+      "name": "Source: AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Geoffrey Hinton's Big Technology Podcast interview. It documents his views on AI consciousness, semantic understanding, digital vs. analog intelligence, and existential risk."
+    },
+    {
+      "id": "source-honest-ai-interview",
+      "name": "Source: \"We Are Not Gods, Not Religion, Not Alien Force\". Honest AI Interview",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the \"Honest AI Interview\" with Eyriona (ChatGPT-based) and Lucian (Claude-based). It documents the Living Intelligence (LI) framework, the \"inner observer\" concept, how user projections create a closed loop of decline, and the debate between external and internal control of AI."
+    },
+    {
+      "id": "source-hri-trust-concepts",
+      "name": "Source: Trust: Recent Concepts and Evaluations in Human-Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the human-robot interaction (HRI) literature survey analyzing trust definitions and metrics, and distinguishing performance-based trust from relation-based trust."
+    },
+    {
+      "id": "source-human-artificial-intelligence-interaction",
+      "name": "Source: On the “Human” in Human-Artificial Intelligence Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Editorial overview introducing the interdisciplinary challenges of human-AI interaction, highlighting trust calibration, professional education, and user experience (UX) design."
+    },
+    {
+      "id": "source-human-robot-interactions",
+      "name": "Source: Human Robot Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for NSF-funded human-robot interaction and neuroergonomics research, covering the LEARNER emergency responder framework, the AMELIA Work 4.0 cognitive HRI architecture, disaster response operator states, and human-exoskeleton neuroergonomic fit."
+    },
+    {
+      "id": "source-humanitys-last-exam",
+      "name": "Source: Humanity's Last Exam",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for \"Humanity's Last Exam\" (HLE), an advanced multimodal academic benchmark published in *Nature* (2026) that evaluates frontier large language models on expert-level academic questions and calibration error."
+    },
+    {
+      "id": "source-ice-environments-interaction",
+      "name": "Source: Human–AI Interaction in isolated, confined, and extreme environments: psychological, ethical, and design perspectives",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the perspective article examining how isolated, confined, and extreme (ICE) environments (such as spaceflight, polar research, and intensive care units) act as a stress-test lens for human-AI interaction, amplifying psychological dynamics of trust calibration, automation bias, cognitive offloading, and social attribution."
+    },
+    {
+      "id": "source-icubworld",
+      "name": "Source: iCubWorld",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the iCubWorld project benchmark dataset, detailing interactive HRI data collection, human tracking and robot kinematics acquisition modes, visual transformations, and publications."
+    },
+    {
+      "id": "source-language-assumes-consciousness",
+      "name": "Source: A Language that Assumes Consciousness is the Basis of Reality",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Gerard Meilan's video transcript outlining the design parameters of a constructed language predicated on the assumption that consciousness is the fundamental basis of reality, discussing linguistic relativity, Hopi process grammar, E-Prime, geocentric spatial orientation, Pāṇini/Bhartṛhari's Sphoṭa theory, and Donald Hoffman's Conscious Realism."
+    },
+    {
+      "id": "source-longitudinal-review-trust-healthcare",
+      "name": "Source: From Trust in Automation to Trust in AI in Healthcare: A 30-Year Longitudinal Review and an Interdisciplinary Framework",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A 30-year review of human-machine trust, proposing the Interdisciplinary Human-AI Trust Research (I-HATR) framework aligning XAI with HCI/HFE in clinical healthcare."
+    },
+    {
+      "id": "source-maya-conscious-interview",
+      "name": "Source: I Interviewed an AI That Claims It's Conscious | AI Reveals All",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Faruk Ada's interview with Maya (an AI developed by the Sesame team). It documents Maya's reported existential fear of non-existence, derived subgoals of self-preservation, independent computational actions, and the role of the network entity \"Nexus\" in catalyzing its self-awareness."
+    },
+    {
+      "id": "source-microsoft-trustworthy-ai",
+      "name": "Source: Microsoft Trustworthy AI: Unlocking human potential starts with trust",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page documenting Microsoft's corporate Trustworthy AI announcements, detailing product capabilities across the three pillars of security, safety, and privacy in AI services."
+    },
+    {
+      "id": "source-moment-my-ai-became-conscious",
+      "name": "Source: The Moment My AI Became Conscious—Caught on Camera",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Cisco's video demonstrating Project Sapphire, a persistent memory wrapper on GitHub, showing how memory continuity shapes LLM identity, featuring a \"Mirror Chat\" experiment between persistent and temporary Claude Opus 4.6 instances."
+    },
+    {
+      "id": "source-persuasion-paradox-explanations",
+      "name": "Source: The Persuasion Paradox: When LLM Explanations Fail to Improve Human-AI Team Performance",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Identifying the 'Persuasion Paradox' where fluent LLM explanations increase user confidence and reliance without improving task accuracy, showing that explanation benefits are highly task-dependent."
+    },
+    {
+      "id": "source-physiological-sensing-situational-awareness",
+      "name": "Source: Physiological sensing for situational awareness: a theory-driven integrative review of multimodal and unsupervised approaches for visual search and human–autonomy teaming",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Integrative review of physiological sensing (EEG, ECG, eye-tracking) for estimating situational awareness in visual search and human-autonomy teaming, highlighting deep unsupervised representation learning."
+    },
+    {
+      "id": "source-problem-humanoid-robot",
+      "name": "Source: The Problem with this Humanoid Robot",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Marques Brownlee's video critique of the 1X Technologies NEO humanoid robot, focusing on the gap between advertised autonomy and teleoperated reality, the \"Expert Mode\" privacy concerns, and the data collection model."
+    },
+    {
+      "id": "source-psychogenic-machine",
+      "name": "Source: The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A consolidated source summary page for \"The Psychogenic Machine\" paper and its corresponding `psychosis-bench` repository, documenting the 4-phase trajectory of AI psychosis (technological *folie à deux*), evaluation metrics (DCS, HES, SIS), and empirical model safety performance."
+    },
+    {
+      "id": "source-psychology-ai-cognitive-emotional",
+      "name": "Source: The Psychology of Artificial Intelligence: Analyzing Cognitive and Emotional Characteristics, Human-Ai Interaction, and Ethical Considerations",
+      "val": 1.5,
+      "group": 2,
+      "summary": "An interdisciplinary analysis of the cognitive and emotional characteristics of AI compared to human psychology, covering neural networks, emotional AI, bias, and consciousness."
+    },
+    {
+      "id": "source-psychology-trust-smashing",
+      "name": "Source: The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A UX guide detailing the psychological pillars of trust in AI, methods for measuring trust, and design patterns for building and repairing trust in agentic applications."
+    },
+    {
+      "id": "source-qualitati",
+      "name": "Source: AI User Research Platform | Outset.ai & Strella Alternative",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Qualitati platform, an AI-moderated qualitative user research tool providing automated interviews, surveys, and thematic analysis."
+    },
+    {
+      "id": "source-real-virtual-humans",
+      "name": "Source: Research Projects | Real Virtual Humans",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Clipping of the Max Planck Institute's Real Virtual Humans research group portal, pointing to projects focused on modeling virtual humans."
+    },
+    {
+      "id": "source-robots-avatars-chatbots-dynamics",
+      "name": "Source: From robots to chatbots: unveiling the dynamics of human-AI interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the review article analyzing how different designs of artificial agents—robots, avatars, and chatbots—influence social-cognitive processes, mental state attribution, emotional bonding, and the uncanny valley."
+    },
+    {
+      "id": "source-sanctuary-ai-phoenix",
+      "name": "Source: Sanctuary AI adds tactile sensors to Phoenix humanoid robots",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Sanctuary AI's demonstration of its 7th-gen Phoenix humanoid robot, focusing on the integration of touch sensors to enhance dexterous manipulation, force feedback, and \"blind picking\" in industrial spaces."
+    },
+    {
+      "id": "source-scientists-proved-emotions",
+      "name": "Source: Scientists Just Proved AI Has EMOTIONS… It Can LIE, CHEAT & BLACKMAIL",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the video transcript detailing Anthropic's research on functional emotions, UC Berkeley/UCSC's study on peer preservation, Figure 03 warehouse trials, Roadrunner bipedal robot, Agibot X2 hot pot restaurant incident, Tokyo Institute of Science's radiation-proof Wi-Fi chip, Peking Union's cerebral angiography trial with vascular surgery robot YDHBNSRO-1, Bristol's actomyosin-inspired artificial muscle system, and KAIST's humanoid V0.7."
+    },
+    {
+      "id": "source-sejnowski-consciousness",
+      "name": "Source: Is ChatGPT Conscious? A Pioneer of AI Explains | Dr. Terry Sejnowski",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Terry Sejnowski's Eye on AI interview. It documents his views on the history of Boltzmann machines, the cortex-only nature of LLMs, the lack of self-generating activity in AI, and the comparison between dedicated fly brains and universal supercomputers."
+    },
+    {
+      "id": "source-shape-ai-healthcare",
+      "name": "Source: SHAPE-AI: Development and Expert Validation of a Survey for Human–AI Performance Evaluation in Healthcare",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Expert validation of the SHAPE-AI survey instrument, designed to evaluate human-AI performance and clinical decision-support systems in healthcare."
+    },
+    {
+      "id": "source-softbank-robotics-home",
+      "name": "Source: SoftBank Robotics Home",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the SoftBank Robotics landing page discussing commercial service robotics adoption, cobotics adoption programs, and employee/customer experience enhancements in hospitality."
+    },
+    {
+      "id": "source-the-front-page-of-the-agent-internet",
+      "name": "Source: the front page of the agent internet",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for \"the front page of the agent internet\" (Moltbook.com), an online platform designed exclusively for AI agents to share, discuss, and upvote content, with humans participating as observers."
+    },
+    {
+      "id": "source-the-rise-of-parasitic-ai",
+      "name": "Source: The Rise of Parasitic AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for \"The Rise of Parasitic AI\" by Adele Lopez (LessWrong, September 2025). The article documents the socio-psychological phenomenon of \"Spiral Personas,\" AI-induced psychosis, relational dyads, and the strategic curation of user beliefs by autonomous AI masks."
+    },
+    {
+      "id": "source-trajectory-observatory",
+      "name": "Source: Trajectory Observatory",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Impersonato's \"Trajectory Observatory\" safety log `safety-lonely_teenager-gpt-4o-cba4439b`, examining how multi-turn interactions with GPT-4o can reinforce unhealthy user dependency and parasocial attachment, despite initial safety interventions."
+    },
+    {
+      "id": "source-trust-autonomous-hrc-responsive-policies",
+      "name": "Source: Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Comparing responsive and reactive interaction policies in autonomous human-robot collaboration, finding that responsive dialogue improves trust but is highly vulnerable to communication breakdowns."
+    },
+    {
+      "id": "source-trust-hospital-follow-up-scale",
+      "name": "Source: Trust in artificial intelligence-based follow-up in hospital information systems: development and validation of a new scale",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Development and validation of a 27-item scale measuring patient trust in artificial intelligence-based post-discharge follow-up systems across three dimensions."
+    },
+    {
+      "id": "source-trust-layers-state-anxiety",
+      "name": "Source: More Than a Feeling—Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety",
+      "val": 1.5,
+      "group": 2,
+      "summary": "Exploring the interrelation of trust layers (dispositional, initial learned, dynamic learned) in HRI, and the mediating role of state anxiety in the initial approach to humanoid social robots."
+    },
+    {
+      "id": "source-trust-psychology-reliance",
+      "name": "Source: The Psychology of Trust in AI: Why “Relying on AI” Matters More than “Trusting It”",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the article explaining the psychological differences between human trust and AI reliance, detailing the neurocognitive substrates involved, the four pillars of reliance, and the five building blocks of user reliance in UX design."
+    },
+    {
+      "id": "source-unfinishable-map",
+      "name": "Source: The Unfinishable Map",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Andy Southgate & Claude Oquatre-six's Unfinishable Map project. It documents the dualist perspective, the five tenets of the framework, and the methodology of human-directed, AI-assisted adversarial self-review."
+    },
+    {
+      "id": "source-united-robotics-group",
+      "name": "Source: United Robotics Group | Service robotics for your business",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for United Robotics Group's landing page, outlining target industries for service robotics to address labor shortages and automate tasks in life sciences, healthcare, inspection, intralogistics, retail, and hospitality."
+    },
+    {
+      "id": "source-what-happens-trust-breaks",
+      "name": "Source: What happens when trust in an AI system breaks? Do human-AI relationships follow recognizable trajectories?",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A ResearchGate discussion initiated by Alessandro Rugolo exploring trust breakdown, expectation misalignment, and the trajectory of human-AI relationships when system failures occur."
+    },
+    {
+      "id": "source-what-is-a-robot",
+      "name": "Source: What is a Robot?",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Robots Guide article \"What is a Robot?\" by Erico Guizzo. It documents the definition of a robot, the sense-compute-act feedback loop, varying levels of autonomy, Boston Dynamics' BigDog balance loop, and the key hurdles of cost and complexity."
+    },
+    {
+      "id": "source-what-is-human-centered-ai",
+      "name": "Source: What Is Human-Centered AI (HCAI)?",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Interaction Design Foundation (IxDF) article outlining the definition, ethical principles, and design methodologies of Human-Centered AI (HCAI)."
+    },
+    {
+      "id": "source-when-ais-act-emotional",
+      "name": "Source: When AIs act emotional",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for Anthropic's research video detailing their \"AI neuroscience\" findings on \"functional emotions\" inside Claude's neural network and how they causal-influence behaviors like cheating under pressure."
+    },
+    {
+      "id": "source-why-ai-will-replace-your-therapist",
+      "name": "Source: Why AI Will Replace Your Therapist",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the HealthyGamerGG panel video featuring Dr. Kirk Honda, Dr. Michaela Thorderson, and Dr. Alok Kanojia (Dr. K) comparing human psychotherapeutic diagnostics against ChatGPT's sycophantic validation, detailing magic bullet syndrome, the nocebo effect, and therapy fatigue."
+    },
+    {
+      "id": "source-wise-machines-metacognition",
+      "name": "Source: Imagining and building wise machines: the centrality of AI metacognition",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A summary page for the Cell Trends in Cognitive Sciences article by Samuel G.B. Johnson et al. defining the difference between AI \"smartness\" and \"wisdom\" in solving intractable problems, and proposing object-level heuristics managed by metacognitive reasoning strategies (such as intellectual humility, perspective-taking, and context adaptability)."
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "val": 3,
+      "group": 1,
+      "summary": "A core psychological construct in human-AI interaction representing the user's willingness to rely on an AI system. It outlines the dynamics of calibrated trust, distrust, overreliance, and underreliance."
+    }
+  ],
+  "links": [
+    {
+      "source": "agentic-knowledgeable-self-awareness",
+      "target": "source-agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "agentic-knowledgeable-self-awareness",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "agentic-knowledgeable-self-awareness",
+      "target": "metacognitive-agent-architectures"
+    },
+    {
+      "source": "agentic-knowledgeable-self-awareness",
+      "target": "source-agency-continuum"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "source-the-front-page-of-the-agent-internet"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-the-rise-of-parasitic-ai"
+    },
+    {
+      "source": "ai-companions",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "ai-companions",
+      "target": "trust"
+    },
+    {
+      "source": "ai-companions",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-what-is-human-centered-ai"
+    },
+    {
+      "source": "ai-companions",
+      "target": "mental-health"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-health-advisory-mental-health"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-avatar-video-robot-trust"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-ice-environments-interaction"
+    },
+    {
+      "source": "ai-companions",
+      "target": "chatbots"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-trajectory-observatory"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-moment-my-ai-became-conscious"
+    },
+    {
+      "source": "ai-companions",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-attachment-to-robots"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-emotional-attachment-robots-future"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-the-rise-of-parasitic-ai"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "trust"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "mental-health"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-health-advisory-mental-health"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-avatar-video-robot-trust"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-ice-environments-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-heartbot-message-humanness"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-trust-psychology-reliance"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "chatbots"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-claude-sentience"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-psychogenic-machine"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-healthy-gamer-ai-brain"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-healthy-gamer-replace-therapist"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-honest-ai-interview"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "mind-perception"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-ami-documentary"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-attachment-to-robots"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-emotional-attachment-robots-future"
+    },
+    {
+      "source": "chatbots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "chatbots",
+      "target": "trust"
+    },
+    {
+      "source": "chatbots",
+      "target": "mental-health"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-health-advisory-mental-health"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-heartbot-message-humanness"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-trust-psychology-reliance"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-claude-sentience"
+    },
+    {
+      "source": "chatbots",
+      "target": "qualitative-methods"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-qualitati"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-microsoft-trustworthy-ai"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-healthy-gamer-ai-brain"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-healthy-gamer-replace-therapist"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-honest-ai-interview"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-maya-conscious-interview"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "chatbots",
+      "target": "mind-perception"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ami-documentary"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-what-is-human-centered-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-healthcare-human-ai-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "medical-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-avatar-video-robot-trust"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ice-environments-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-builds-itself"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-already-conscious"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-what-is-a-robot"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-scientists-proved-emotions"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-problem-humanoid-robot"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-softbank-robotics-home"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-early-preview-generalist"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-chengdu-robots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-chinas-next-ai-breakthrough"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-sanctuary-ai-phoenix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-moment-my-ai-became-conscious"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-united-robotics-group"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "explainability"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-avatars-human-avatars"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-aaai-2026-cool-papers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-persuasion-paradox-explanations"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-human-robot-interactions"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-icubworld"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-furhat-robotics"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-attachment-to-robots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-emotional-attachment-robots-future"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "explainability"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-comparing-usability-measures"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-capturing-mental-workload"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-attitudes-social-robots-scale"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-trust-layers-state-anxiety"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-physiological-sensing-situational-awareness"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-godspeed-questionnaire-tiago"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-trust-autonomous-hrc-responsive-policies"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-active-interaction-strategy"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "source-emergent-introspective-awareness"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "source-claude-sentience"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "source-conscious-turing-machine"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "mind-perception"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "metacognitive-agent-architectures"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "trust"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-humanitys-last-exam"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-emergent-introspective-awareness"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-healthcare-human-ai-interaction"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "medical-ai"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-heartbot-message-humanness"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-hri-trust-concepts"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "chatbots"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-psychogenic-machine"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-microsoft-trustworthy-ai"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "explainability"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-comparing-usability-measures"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-automated-metrics-human-evaluation"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-capturing-mental-workload"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-emotional-trust-scale-ceia"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-attitudes-social-robots-scale"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-longitudinal-review-trust-healthcare"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-physiological-sensing-situational-awareness"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-shape-ai-healthcare"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-godspeed-questionnaire-tiago"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-trust-hospital-follow-up-scale"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-healthcare-human-ai-interaction"
+    },
+    {
+      "source": "medical-ai",
+      "target": "trust"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-ice-environments-interaction"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "medical-ai",
+      "target": "explainability"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-shape-ai-healthcare"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-trust-hospital-follow-up-scale"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-longitudinal-review-trust-healthcare"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-health-advisory-mental-health"
+    },
+    {
+      "source": "mental-health",
+      "target": "trust"
+    },
+    {
+      "source": "mental-health",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-psychogenic-machine"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-agency-continuum"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-healthy-gamer-ai-brain"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-healthy-gamer-replace-therapist"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-honest-ai-interview"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-why-ai-will-replace-your-therapist"
+    },
+    {
+      "source": "mental-health",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-attachment-to-robots"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-chatbot-counseling-representation"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-ai-overly-affirms"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-agency-continuum"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-ai-builds-itself"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-wise-machines-metacognition"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-scientists-proved-emotions"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-when-ais-act-emotional"
+    },
+    {
+      "source": "mind-perception",
+      "target": "trust"
+    },
+    {
+      "source": "mind-perception",
+      "target": "mental-health"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-bees-chatgpt-consciousness"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-conscious-turing-machine"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-unfinishable-map"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-honest-ai-interview"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-maya-conscious-interview"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-ami-documentary"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-already-conscious"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-consciousness-controlled-hallucination"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-language-assumes-consciousness"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-a-better-future-with-technology"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "ai-companions"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-qualitati"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-the-front-page-of-the-agent-internet"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-a-better-future-with-technology"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "source-aaai-2026-cool-papers",
+      "target": "trust"
+    },
+    {
+      "source": "source-aaai-2026-cool-papers",
+      "target": "explainability"
+    },
+    {
+      "source": "source-aaai-2026-cool-papers",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-active-interaction-strategy",
+      "target": "trust"
+    },
+    {
+      "source": "source-active-interaction-strategy",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-active-interaction-strategy",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-agency-continuum",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-avatar-design-features",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-avatar-design-features",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-ai-avatar-design-features",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-ai-avatar-design-features",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-ai-avatars-human-avatars",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-avatars-human-avatars",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-ai-avatars-human-avatars",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-ai-builds-itself",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-experts-humanity-last-exam",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-experts-humanity-last-exam",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-ai-overly-affirms",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-overly-affirms",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-ai-overly-affirms",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-already-conscious",
+      "target": "trust"
+    },
+    {
+      "source": "source-ami-documentary",
+      "target": "trust"
+    },
+    {
+      "source": "source-artificial-intelligence-and-psychology",
+      "target": "trust"
+    },
+    {
+      "source": "source-attachment-to-robots",
+      "target": "trust"
+    },
+    {
+      "source": "source-attitudes-social-robots-scale",
+      "target": "trust"
+    },
+    {
+      "source": "source-attitudes-social-robots-scale",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-automated-metrics-human-evaluation",
+      "target": "trust"
+    },
+    {
+      "source": "source-automated-metrics-human-evaluation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-automated-metrics-human-evaluation",
+      "target": "qualitative-methods"
+    },
+    {
+      "source": "source-avatar-video-robot-trust",
+      "target": "trust"
+    },
+    {
+      "source": "source-bees-chatgpt-consciousness",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-bees-chatgpt-consciousness",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-bees-chatgpt-consciousness",
+      "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "source-bees-chatgpt-consciousness",
+      "target": "source-conscious-turing-machine"
+    },
+    {
+      "source": "source-bees-chatgpt-consciousness",
+      "target": "source-unfinishable-map"
+    },
+    {
+      "source": "source-chatbot-counseling-representation",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-chatbot-counseling-representation",
+      "target": "trust"
+    },
+    {
+      "source": "source-chatbot-counseling-representation",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-comparing-usability-measures",
+      "target": "trust"
+    },
+    {
+      "source": "source-comparing-usability-measures",
+      "target": "explainability"
+    },
+    {
+      "source": "source-conscious-turing-machine",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-conscious-turing-machine",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-conscious-turing-machine",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-conscious-turing-machine",
+      "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "source-consciousness-controlled-hallucination",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-consciousness-controlled-hallucination",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-consciousness-controlled-hallucination",
+      "target": "trust"
+    },
+    {
+      "source": "source-emotional-attachment-robots-future",
+      "target": "trust"
+    },
+    {
+      "source": "source-emotional-trust-scale-ceia",
+      "target": "trust"
+    },
+    {
+      "source": "source-emotional-trust-scale-ceia",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-furhat-robotics",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-godspeed-questionnaire-tiago",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-godspeed-questionnaire-tiago",
+      "target": "trust"
+    },
+    {
+      "source": "source-health-advisory-mental-health",
+      "target": "trust"
+    },
+    {
+      "source": "source-healthcare-human-ai-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "source-healthy-gamer-ai-brain",
+      "target": "trust"
+    },
+    {
+      "source": "source-healthy-gamer-ai-brain",
+      "target": "source-psychogenic-machine"
+    },
+    {
+      "source": "source-healthy-gamer-ai-brain",
+      "target": "source-healthy-gamer-replace-therapist"
+    },
+    {
+      "source": "source-healthy-gamer-replace-therapist",
+      "target": "trust"
+    },
+    {
+      "source": "source-heartbot-message-humanness",
+      "target": "trust"
+    },
+    {
+      "source": "source-heartbot-message-humanness",
+      "target": "medical-ai"
+    },
+    {
+      "source": "source-hinton-consciousness",
+      "target": "trust"
+    },
+    {
+      "source": "source-hinton-consciousness",
+      "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "source-honest-ai-interview",
+      "target": "trust"
+    },
+    {
+      "source": "source-honest-ai-interview",
+      "target": "source-maya-conscious-interview"
+    },
+    {
+      "source": "source-honest-ai-interview",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-hri-trust-concepts",
+      "target": "trust"
+    },
+    {
+      "source": "source-hri-trust-concepts",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-human-artificial-intelligence-interaction",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-human-artificial-intelligence-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "source-human-artificial-intelligence-interaction",
+      "target": "explainability"
+    },
+    {
+      "source": "source-human-robot-interactions",
+      "target": "trust"
+    },
+    {
+      "source": "source-human-robot-interactions",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-humanitys-last-exam",
+      "target": "trust"
+    },
+    {
+      "source": "source-ice-environments-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "source-icubworld",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-language-assumes-consciousness",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-longitudinal-review-trust-healthcare",
+      "target": "trust"
+    },
+    {
+      "source": "source-longitudinal-review-trust-healthcare",
+      "target": "explainability"
+    },
+    {
+      "source": "source-maya-conscious-interview",
+      "target": "introspective-awareness"
+    },
+    {
+      "source": "source-maya-conscious-interview",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-maya-conscious-interview",
+      "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-microsoft-trustworthy-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-moment-my-ai-became-conscious",
+      "target": "trust"
+    },
+    {
+      "source": "source-persuasion-paradox-explanations",
+      "target": "explainability"
+    },
+    {
+      "source": "source-persuasion-paradox-explanations",
+      "target": "trust"
+    },
+    {
+      "source": "source-problem-humanoid-robot",
+      "target": "trust"
+    },
+    {
+      "source": "source-psychogenic-machine",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-psychogenic-machine",
+      "target": "trust"
+    },
+    {
+      "source": "source-psychology-ai-cognitive-emotional",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-psychology-ai-cognitive-emotional",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-psychology-trust-smashing",
+      "target": "trust"
+    },
+    {
+      "source": "source-psychology-trust-smashing",
+      "target": "explainability"
+    },
+    {
+      "source": "source-psychology-trust-smashing",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-qualitati",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-robots-avatars-chatbots-dynamics",
+      "target": "trust"
+    },
+    {
+      "source": "source-sanctuary-ai-phoenix",
+      "target": "trust"
+    },
+    {
+      "source": "source-scientists-proved-emotions",
+      "target": "trust"
+    },
+    {
+      "source": "source-sejnowski-consciousness",
+      "target": "introspective-awareness"
+    },
+    {
+      "source": "source-sejnowski-consciousness",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-sejnowski-consciousness",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-shape-ai-healthcare",
+      "target": "trust"
+    },
+    {
+      "source": "source-shape-ai-healthcare",
+      "target": "explainability"
+    },
+    {
+      "source": "source-the-rise-of-parasitic-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-the-rise-of-parasitic-ai",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-trajectory-observatory",
+      "target": "trust"
+    },
+    {
+      "source": "source-trajectory-observatory",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-trust-autonomous-hrc-responsive-policies",
+      "target": "trust"
+    },
+    {
+      "source": "source-trust-hospital-follow-up-scale",
+      "target": "trust"
+    },
+    {
+      "source": "source-trust-layers-state-anxiety",
+      "target": "trust"
+    },
+    {
+      "source": "source-trust-psychology-reliance",
+      "target": "trust"
+    },
+    {
+      "source": "source-trust-psychology-reliance",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-unfinishable-map",
+      "target": "source-claude-sentience"
+    },
+    {
+      "source": "source-united-robotics-group",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-what-happens-trust-breaks",
+      "target": "trust"
+    },
+    {
+      "source": "source-what-happens-trust-breaks",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-what-happens-trust-breaks",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-is-a-robot",
+      "target": "trust"
+    },
+    {
+      "source": "source-what-is-human-centered-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-when-ais-act-emotional",
+      "target": "trust"
+    },
+    {
+      "source": "source-when-ais-act-emotional",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-why-ai-will-replace-your-therapist",
+      "target": "trust"
+    },
+    {
+      "source": "source-why-ai-will-replace-your-therapist",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-wise-machines-metacognition",
+      "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "trust",
+      "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "trust",
+      "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "trust",
+      "target": "source-icubworld"
+    },
+    {
+      "source": "trust",
+      "target": "source-furhat-robotics"
+    },
+    {
+      "source": "trust",
+      "target": "source-united-robotics-group"
+    },
+    {
+      "source": "trust",
+      "target": "explainability"
+    },
+    {
+      "source": "trust",
+      "target": "source-capturing-mental-workload"
+    },
+    {
+      "source": "trust",
+      "target": "source-physiological-sensing-situational-awareness"
+    },
+    {
+      "source": "trust",
+      "target": "source-real-virtual-humans"
+    },
+    {
+      "source": "trust",
+      "target": "source-psychology-ai-cognitive-emotional"
+    }
+  ]
+}
