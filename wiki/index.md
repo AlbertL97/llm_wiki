@@ -92,6 +92,7 @@
 - [[source-beyond-usability-withdrawal-design]] — Summary of the Kai Ploeger et al. UX study on social robot withdrawal, anxiety reduction, and SMS/RMET social motivational siloing.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
+- [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
 
 ## Core theoretical frameworks
 

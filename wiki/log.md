@@ -738,3 +738,25 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-16 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_muvap-turn-taking-prediction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-muvap-turn-taking-prediction.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild" and created summary page wiki/source-muvap-turn-taking-prediction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

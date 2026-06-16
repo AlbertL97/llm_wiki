@@ -24,8 +24,9 @@
 - (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md
 - AAAI.2026 - Humans and AI _ Cool Papers - Immersive Paper Discovery.md
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
+- raw_muvap-turn-taking-prediction.md
 
-**Last updated**: 2026-06-07
+**Last updated**: 2026-06-16
 
 ---
 
@@ -154,6 +155,13 @@ Explanations are critical in collaborative interfaces but can trigger a **Persua
 - **Confidence Decoupling**: Highly fluent natural language explanations increase user confidence in the AI, even when the AI's recommendation is incorrect.
 - **Error Masking**: Textual explanations mask mistakes, suppressing the user's ability to catch and correct the AI's errors. This effect is highly task-dependent: narrative explanations degrade performance in visual reasoning, but significantly improve error recovery in language-based logical tasks (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a comprehensive breakdown, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
 
+### 19. Multiparty Interaction and Turn-taking Prediction
+Facilitating natural and effective human-AI/robot interaction requires advanced capabilities like accurate turn-taking in multiparty conversations (source: raw_muvap-turn-taking-prediction.md). New frameworks are addressing the practical challenges of deploying conversational AI in real-world scenarios by minimizing sensor requirements and focusing on causal, real-time prediction (source: raw_muvap-turn-taking-prediction.md).
+
+- **Efficient Multimodal Turn-taking Prediction**: The MuVAP framework is a causal approach that predicts turn-taking using both monaural audio and single-camera video, thereby reducing the hardware complexity typically required for such tasks (source: raw_muvap-turn-taking-prediction.md). This efficiency makes it more feasible for real-world human-robot interaction (HRI) applications (source: raw_muvap-turn-taking-prediction.md).
+- **Speaker-Aware and Role-Relative Projection**: This framework grounds acoustic predictions in face tracks, allowing for speaker-specific turn-taking decisions essential for natural group dynamics (source: raw_muvap-turn-taking-prediction.md). It also simplifies the modeling of multiparty interactions by mapping N-speaker dynamics onto a fixed 'current vs. next floor-holder' state, managing combinatorial complexity (source: raw_muvap-turn-taking-prediction.md).
+- **Impact on Perception**: Accurate turn-taking is fundamental to fluid human-human interaction. When AI and robots demonstrate seamless turn-taking, they are likely perceived as more intelligent, socially competent, and trustworthy, which enhances interaction quality and reduces user frustration or cognitive load (source: raw_muvap-turn-taking-prediction.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -186,3 +194,4 @@ Explanations are critical in collaborative interfaces but can trigger a **Persua
 - [[source-ai-avatars-human-avatars]]
 - [[source-aaai-2026-cool-papers]]
 - [[source-persuasion-paradox-explanations]]
+- [[source-muvap-turn-taking-prediction]]

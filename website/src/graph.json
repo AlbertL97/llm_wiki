@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, and customizable social interfaces."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, and advanced turn-taking capabilities for natural multiparty interactions."
     },
     {
       "id": "index",
@@ -491,6 +491,13 @@
       "summary": "A summary page for Cisco's video demonstrating Project Sapphire, a persistent memory wrapper on GitHub, showing how memory continuity shapes LLM identity, featuring a \"Mirror Chat\" experiment between persistent and temporary Claude Opus 4.6 instances."
     },
     {
+      "id": "source-muvap-turn-taking-prediction",
+      "name": "MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-persuasion-paradox-explanations",
       "name": "Source: The Persuasion Paradox: When LLM Explanations Fail to Improve Human-AI Team Performance",
       "val": 1.5,
@@ -809,6 +816,10 @@
       "target": "source-emotional-attachment-robots-future"
     },
     {
+      "source": "ai-companions",
+      "target": "source-muvap-turn-taking-prediction"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -969,6 +980,10 @@
       "target": "source-ami-documentary"
     },
     {
+      "source": "chatbots",
+      "target": "source-muvap-turn-taking-prediction"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "source-what-is-human-centered-ai"
     },
@@ -1073,6 +1088,10 @@
       "target": "source-persuasion-paradox-explanations"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-muvap-turn-taking-prediction"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1131,6 +1150,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-active-interaction-strategy"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-muvap-turn-taking-prediction"
     },
     {
       "source": "introspective-awareness",

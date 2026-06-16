@@ -16,6 +16,7 @@
 - The Rise of Para-Therapy and AI Companion Psychology.md
 - Beyond Usability - Withdrawal Design in Social Robotics.md
 - Sycophancy as Material Failure under Pushback Loading.md
+- raw_muvap-turn-taking-prediction.md
 
 **Last updated**: 2026-06-16
 
@@ -58,7 +59,7 @@ The MIRA model integrates established psychosocial theories to explain why and w
 
 ### 6. Companionship Development Quality (CDQ)
 To sustain relationship quality and prevent engagement decay, AI companion architectures must calibrate their **Companionship Development Quality (CDQ)** along three integrated vectors (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md):
-- **Conversational Capabilities**: Engaging in natural, context-aware dialogue and maintaining long-term memory of past interactions to personalize discussions (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
+- **Conversational Capabilities**: Engaging in natural, context-aware dialogue and maintaining long-term memory of past interactions to personalize discussions (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md). To achieve truly fluid and psychologically comfortable interactions, advanced turn-taking prediction is crucial, especially in multiparty conversations (source: raw_muvap-turn-taking-prediction.md). AI companions with seamless turn-taking are perceived as more intelligent, socially competent, and trustworthy, thereby enhancing interaction quality and reducing user frustration (source: raw_muvap-turn-taking-prediction.md).
 - **Functional Capabilities**: Supporting users in daily practical tasks (e.g., reminders, smart-home management, or task automation) (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
 - **Emotional Capabilities**: Actively detecting, responding to, and validating user emotions to reduce loneliness and foster relational bonding (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
 If a system focuses solely on task utility or purely social dialogue without balancing all three capabilities, user engagement rapidly decays over time (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
@@ -118,3 +119,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[human-robot-interaction]]
 - [[source-attachment-to-robots]]
 - [[source-emotional-attachment-robots-future]]
+- [[source-muvap-turn-taking-prediction]]

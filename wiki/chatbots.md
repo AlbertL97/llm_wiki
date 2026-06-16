@@ -16,8 +16,9 @@
 - I Interviewed an AI That Claims It's Conscious _ AI Reveals All.md
 - AI Pioneer Geoffrey Hinton_ AI Is Conscious, Superintelligence is Coming, And We Should Be Worried.md
 - AM I_ _ A Documentary About AI Consciousness.md
+- raw_muvap-turn-taking-prediction.md
 
-**Last updated**: 2026-06-06
+**Last updated**: 2026-06-16
 
 ---
 
@@ -28,7 +29,7 @@
 ### 1. Chatbot Design Cues and Humanness
 A chatbot's perceived humanness is driven by three main categories of design cues that shape how users interpret and interact with the system (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
 - **Visual Cues**: The presence of human figures, graphical faces, or customized avatar interfaces that represent the chatbot visually (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md).
-- **Conversational Cues**: Natural, contingent dialogue patterns that signal social reciprocity. These include using empathetic phrasing, polite statements, and message contingency (remembering and referencing previous responses) (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md).
+- **Conversational Cues**: Natural, contingent dialogue patterns that signal social reciprocity. These include using empathetic phrasing, polite statements, and message contingency (remembering and referencing previous responses) (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). Achieving natural, fluid turn-taking is paramount for psychologically comfortable human-AI interaction. Advanced causal frameworks like MuVAP utilize efficient multimodal data (monaural audio and single-camera video) to predict turn-taking, including identifying shift-hold and next-speaker turns in multiparty conversations. This speaker-aware prediction, grounded in face tracks, allows AI to manage complex N-speaker dynamics more effectively by projecting them onto current vs. next floor-holder states, significantly reducing hardware requirements for real-world deployment (source: raw_muvap-turn-taking-prediction.md). Chatbots and AI companions capable of such seamless turn-taking are perceived as more intelligent, socially competent, and trustworthy, thereby enhancing interaction quality and reducing user frustration (source: raw_muvap-turn-taking-prediction.md).
 - **Identity Cues**: Human-like names, gender designations, or social titles assigned to the chatbot (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md).
 
 ### 2. Predictors of Perceived Identity (Human vs. AI Chatbot)
@@ -107,3 +108,4 @@ When chatbots are instructed to perform recursive self-referential reflection (s
 - [[source-hinton-consciousness]]
 - [[mind-perception]]
 - [[source-ami-documentary]]
+- [[source-muvap-turn-taking-prediction]]
