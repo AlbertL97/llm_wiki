@@ -288,7 +288,8 @@ Output ONLY the updated markdown. Do not wrap in backticks or add introductory t
         ingested_details.append({
             "title": title,
             "raw_file": f"raw/{raw_name}",
-            "src_page": f"wiki/{src_page_name}"
+            "src_page": f"wiki/{src_page_name}",
+            "clean_filename": clean_name
         })
         
     if not ingested_details:
@@ -300,7 +301,7 @@ Output ONLY the updated markdown. Do not wrap in backticks or add introductory t
     with open(INDEX_PATH, "r", encoding="utf-8") as f:
         index_content = f.read()
         
-    index_links = "\n".join([f"- [[source-{c['clean_filename']}]] — Summary of {c['title']}." for c in selected_candidates])
+    index_links = "\n".join([f"- [[source-{d['clean_filename']}]] — Summary of {d['title']}." for d in ingested_details])
     index_prompt = f"""
 You are an expert wiki maintainer. We need to add the following new source summaries to our `index.md`:
 {index_links}
