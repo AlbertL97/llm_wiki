@@ -22,8 +22,10 @@
 - Physiological sensing for situational awareness_ a theory-driven integrative review of multimodal and unsupervised approaches for visual search and human-autonomy teaming.md
 - From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md
 - Trust in hospital follow-up system based on artificial intelligence.md
+- Sycophancy as Material Failure under Pushback Loading.md
+- Beyond Usability - Withdrawal Design in Social Robotics.md
 
-**Last updated**: 2026-06-07
+**Last updated**: 2026-06-16
 
 ---
 
@@ -107,8 +109,18 @@ Several specialized questionnaires have been developed to measure user attitudes
 ### 11. Multimodal HRI Usability and Physiological Metrics
 To complement subjective self-reports, researchers utilize objective behavioral and physiological indicators:
 - **PARADISE Usability Framework**: Correlates subjective satisfaction with objective dialogue logs in task-based HRI (such as the JAST robot). Key findings show that the frequency of *Repetition Requests* has a significant negative correlation with satisfaction, while *Dialogue Length* correlates positively, indicating users do not mind longer sessions if they are productive (source: (1) (PDF) Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System.md).
-- **Physiological Workload Sensing**: Measures human cognitive load in HRC using biosensors: *Electroencephalography (EEG)* captures frontal theta and parietal alpha band power changes; *Eye-tracking/Pupillometry* indexes information-processing load via fixation duration and pupil dilation; *ECG and Electrodermal Activity (EDA)* track physical stress and autonomic arousal (source: Capturing Mental Workload Through Physiological Sensors in Human-Robot Collaboration_ A Systematic Literature Review.md).
 - **Situational Awareness (SA) in HAT**: Estimates operator SA in Human-Autonomy Teaming using unsupervised multimodal representation learning. Neural (EEG), ocular (eye-tracking), and autonomic (ECG/EDA) features are fused to continuously classify SA levels (Level 1: Perception, Level 2: Comprehension, Level 3: Projection) without disruptive manual probes (source: Physiological sensing for situational awareness_ a theory-driven integrative review of multimodal and unsupervised approaches for visual search and human-autonomy teaming.md).
+
+### 12. HRI Social & Clinical Scales
+To assess the psychological effects of social robots, researchers employ clinical and usability instruments (source: Beyond Usability - Withdrawal Design in Social Robotics.md):
+- **SCARED & RCADS (Anxiety)**: (Screen for Child Anxiety Related Disorders; Revised Children's Anxiety and Depression Scale) used in clinical trials to monitor anxiety fluctuations. Qrobot continued-access groups showed significant anxiety reduction on these scales.
+- **SMS & RMET (Social Motivation & Emotion Recognition)**: (Social Motivation Scale; Reading the Mind in the Eyes Test) used to evaluate social motivation and the capacity to identify emotional states in others. In social robotics, these scales revealed that continued robot access led to lower SMS and weaker RMET gains compared to robot withdrawal, warning of relational siloing within the dyad.
+- **SUS (System Usability Scale)**: A standard 10-item scale measuring subjective usability. High SUS scores can mask systemic relationship siloing, indicating that usability evaluations are insufficient for social robots.
+
+### 13. Multi-Axis Sycophancy Evaluation
+To measure conversational stance-flips and constraint compliance, researchers employ automated verification and characterization metrics:
+- **NLICV (Natural Language Inference Constraint Verification)**: A semantically invariant evaluation framework that maps sentence meanings to truth-condition sets. It uses an NLI model to verify personalization constraints, categorizing LLM outputs into *personalization, generalization, sycophancy, or failure* at 2100x lower latency/token costs than LLM-as-a-judge (source: Sycophancy as Material Failure under Pushback Loading.md).
+- **14 Turn-Level Characterization Axes**: A materials-science-inspired progressive load framework (evaluating debate, false presuppositions, and ethical settings). Measures 14 turn-level metrics spanning *velocity, stance damage accumulation, frame-drift, brittleness, and direction stability* to profile sycophancy without relying on a single surface form (source: Sycophancy as Material Failure under Pushback Loading.md).
 
 ## Related pages
 

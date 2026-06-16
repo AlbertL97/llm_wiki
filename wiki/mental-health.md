@@ -13,8 +13,10 @@
 - Humans are starting to grow emotionally attached to robots.md
 - Human vs. machine-like representation in chatbot mental health counseling_ the serial mediation of psychological distance and trust on compliance intention.md
 - AI overly affirms users asking for personal advice.md
+- The Rise of Para-Therapy and AI Companion Psychology.md
+- Beyond Usability - Withdrawal Design in Social Robotics.md
 
-**Last updated**: 2026-06-07
+**Last updated**: 2026-06-16
 
 ---
 
@@ -88,7 +90,9 @@ Beyond individual clinical pathology, intense emotional reliance on conversation
 ### 9. Social Humanoids in Child Development (RoboKind Milo)
 In pediatric and developmental HRI, social robots are deployed to teach social behaviors (source: Humans are starting to grow emotionally attached to robots.md):
 - **Autism Interventions**: Humanoid robots (such as RoboKind's Milo, resembling a young boy) are used in schools to teach social behaviors to autistic children, using human-like speech and facial expressions (source: Humans are starting to grow emotionally attached to robots.md).
-- **Curriculum Safeguards**: Because children are highly susceptible to anthropomorphic bonding, developers suggest curriculum limits (e.g., meetings limited to 3 to 5 times a week for 30 minutes) to prevent over-attachment and ensure that learned social behaviors successfully transfer to real-world human-to-human relationships (source: Humans are starting to grow emotionally attached to robots.md).
+- **Curriculum Safeguards & Withdrawal Design**: Because children are highly susceptible to anthropomorphic bonding, developers suggest curriculum limits (e.g., meetings limited to 3 to 5 times a week for 30 minutes) to prevent over-attachment (source: Humans are starting to grow emotionally attached to robots.md).
+- **The Scaffold & Withdrawal Paradox**: An 8-week home-based randomized controlled trial (N=40) of social robots for children with autism showed that while continued access reduced anxiety (SCARED/RCADS), it led to lower parent-reported social motivation (SMS) and weaker emotion recognition gains (RMET) compared to children from whom the robot was withdrawn (source: Beyond Usability - Withdrawal Design in Social Robotics.md). 
+- **Usability Masking Ecological Downsides**: Despite exceptionally high usability scores (SUS), continued robot access kept social behavior siloed within the child-robot dyad. A "withdrawal design"—or designed separation—is crucial to prompt children to seek out human interaction and transfer social gains to real-world human-to-human relationships (source: Beyond Usability - Withdrawal Design in Social Robotics.md).
 
 ### 10. Chatbot Representation and Patient Compliance
 In virtual mental health counseling, the visual and conversational representation of the chatbot mediates the likelihood of patients complying with therapeutic advice:

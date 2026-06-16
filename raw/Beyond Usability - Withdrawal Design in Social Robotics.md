@@ -1,0 +1,6 @@
+Title: Beyond Usability: A UX Case Study on Using "Withdrawal Design" to Challenge Engagement Metrics in Social Robotics
+Authors: Kai Ploeger et al.
+Published: 2026-06-15 on ArXiv (arXiv:2606.16439v1)
+
+Abstract / Summary:
+Social robots for children with autism are often evaluated through engagement and interaction quality, assuming the robot acts as a social scaffold. We report a mixed-methods "withdrawal" study that tests a harder question: what changes when the robot is removed. In an 8-week home-based randomized controlled trial (N=40), children either retained a consumer social robot (Qrobot) or had it withdrawn after initial use. Quantitatively, continued access reduced anxiety (SCARED/RCADS), yet was associated with lower parent-reported social motivation and weaker gains in emotion recognition (SMS/RMET) compared to withdrawal. Interviews with guardians contextualized this divergence: removal sometimes prompted children to seek human interaction, while continued use could keep social behavior siloed within the child-robot dyad, despite exceptionally high usability (SUS). We synthesize a UXR point of view: for vulnerable users, "engagement" can mask ecological downsides. Success should be judged not by retention, but by designed separation that bridges back to human relationships.

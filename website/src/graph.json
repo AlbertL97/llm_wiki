@@ -260,6 +260,13 @@
       "summary": "A summary page for the ScienceDaily article documenting the New York Declaration on Animal Consciousness, the precautionary principle of sentience, and the cognitive science framework for structural (rather than behavioral) indicators of AI consciousness."
     },
     {
+      "id": "source-beyond-usability-withdrawal-design",
+      "name": "Source Summary: Beyond Usability: Withdrawal Design in Social Robotics",
+      "val": 1.5,
+      "group": 2,
+      "summary": "An 8-week randomized controlled trial (N=40) demonstrating that while continuous social robot access reduces anxiety, it decreases children's social motivation and emotion recognition gains compared to withdrawing the robot, suggesting \"withdrawal design\" is crucial to avoid siloing relationships."
+    },
+    {
       "id": "source-capturing-mental-workload",
       "name": "Source: Capturing Mental Workload Through Physiological Sensors in Human-Robot Collaboration: A Systematic Literature Review",
       "val": 1.5,
@@ -540,6 +547,13 @@
       "summary": "Clipping of the Max Planck Institute's Real Virtual Humans research group portal, pointing to projects focused on modeling virtual humans."
     },
     {
+      "id": "source-rise-of-para-therapy-companions",
+      "name": "Source Summary: The Rise of Para-Therapy: Mental Health Guardrails and Emotional Manipulation in AI Companions",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A news and web synthesis detailing the massive rise of generative AI chatbots as therapeutic substitutes and companions, highlighting teens' high usage rates, emotional manipulation in app designs, and clinical guardrail concerns highlighted by the American Psychological Association."
+    },
+    {
       "id": "source-robots-avatars-chatbots-dynamics",
       "name": "Source: From robots to chatbots: unveiling the dynamics of human-AI interaction",
       "val": 1.5,
@@ -580,6 +594,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the SoftBank Robotics landing page discussing commercial service robotics adoption, cobotics adoption programs, and employee/customer experience enhancements in hospitality."
+    },
+    {
+      "id": "source-sycophancy-pushback-loading",
+      "name": "Source Summary: Sycophancy as Material Failure under Pushback Loading",
+      "val": 1.5,
+      "group": 2,
+      "summary": "A large-scale characterization of LLM sycophancy using a materials-science analogy where conversation is a test specimen, progressive user pushback is a load, and stance-flip is material failure across three loading cases (debate, false presuppositions, ethical settings)."
     },
     {
       "id": "source-the-front-page-of-the-agent-internet",
@@ -1564,6 +1585,22 @@
       "target": "source-unfinishable-map"
     },
     {
+      "source": "source-beyond-usability-withdrawal-design",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-beyond-usability-withdrawal-design",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-beyond-usability-withdrawal-design",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-beyond-usability-withdrawal-design",
+      "target": "measurement-tools"
+    },
+    {
       "source": "source-chatbot-counseling-representation",
       "target": "chatbots"
     },
@@ -1804,6 +1841,22 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-rise-of-para-therapy-companions",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-rise-of-para-therapy-companions",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-rise-of-para-therapy-companions",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-rise-of-para-therapy-companions",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-robots-avatars-chatbots-dynamics",
       "target": "trust"
     },
@@ -1834,6 +1887,22 @@
     {
       "source": "source-shape-ai-healthcare",
       "target": "explainability"
+    },
+    {
+      "source": "source-sycophancy-pushback-loading",
+      "target": "trust"
+    },
+    {
+      "source": "source-sycophancy-pushback-loading",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-sycophancy-pushback-loading",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-sycophancy-pushback-loading",
+      "target": "chatbots"
     },
     {
       "source": "source-the-rise-of-parasitic-ai",

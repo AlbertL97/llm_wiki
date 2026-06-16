@@ -14,8 +14,9 @@
 - The Godspeed Questionnaire Series in the Assessment of the Social Robot TIAGo by Older Individuals.md
 - Active interaction strategy generation for human-robot collaboration based on trust.md
 - Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md
+- Beyond Usability - Withdrawal Design in Social Robotics.md
 
-**Last updated**: 2026-06-07
+**Last updated**: 2026-06-16
 
 ---
 
@@ -71,6 +72,11 @@ Polish validation studies of the Godspeed Questionnaire Series (GQS) evaluating 
 Implementing dynamic trust calibration optimizes collaboration efficiency and protects trust during in-person interactions:
 - **Active HRC Strategy Selection**: By evaluating workspace subscenes (successful grasps, collisions, drops) using a Visual Language Model (VLM), the system estimates the human's dynamic trust level in real time. Decision-tree strategy generation then adjusts the robot's actions: prioritizing cooperative trust-building tasks when trust is low, and independent high-efficiency tasks when trust is high (source: Active interaction strategy generation for human-robot collaboration based on trust.md).
 - **Responsive vs. Reactive Dialogue Policies**: Robots utilizing a responsive policy (proactively adapting dialogue and task support based on the user's affect and workspace states) achieve significantly higher post-interaction trust than those using a reactive policy (only responding to direct prompts). However, this trust advantage completely collapses under language communication breakdowns (speech recognition errors), which trigger erratic user trust ratings (source: Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md).
+
+### 10. Withdrawal Design and Usability Limits
+In social HRI, especially for vulnerable populations (e.g. child development and autism), standard metrics like system usability and engagement can be misleading:
+- **Usability Masking Ecological Downsides**: An 8-week home-based randomized controlled trial (N=40) using the Qrobot social robot showed that children with continued access suffered from lower social motivation (SMS) and weaker emotion recognition gains (RMET) compared to children from whom the robot was withdrawn, despite exceptionally high usability scores (SUS) (source: Beyond Usability - Withdrawal Design in Social Robotics.md).
+- **The Scaffold & Designed Separation**: Continued robot use kept social behavior siloed within the child-robot dyad. Actively implementing a "withdrawal design"—designed separation—is necessary to break this siloing and prompt users to seek out and bridge back to human-to-human relationships (source: Beyond Usability - Withdrawal Design in Social Robotics.md).
 
 ## Related pages
 

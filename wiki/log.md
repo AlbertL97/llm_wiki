@@ -707,3 +707,34 @@
 
 **Open issues**:  
 - None.
+
+## 2026-06-16 — Ingested Batch 10: Social Robot Withdrawal Design, Stance-Flip Sycophancy Progressive Load, and Para-Therapy AI Companions
+
+**Source(s)**:  
+- raw/Beyond Usability - Withdrawal Design in Social Robotics.md
+- raw/Sycophancy as Material Failure under Pushback Loading.md
+- raw/The Rise of Para-Therapy and AI Companion Psychology.md
+
+**Changed pages**:  
+- wiki/index.md  
+- wiki/log.md  
+- wiki/source-beyond-usability-withdrawal-design.md  
+- wiki/source-sycophancy-pushback-loading.md  
+- wiki/source-rise-of-para-therapy-companions.md  
+- wiki/ai-companions.md  
+- wiki/mental-health.md  
+- wiki/trust.md  
+- wiki/measurement-tools.md  
+- wiki/human-robot-interaction.md  
+
+**Summary of changes**:  
+- Created 3 new raw source files and their corresponding source summaries in `wiki/`.
+- Updated `wiki/ai-companions.md` to incorporate the 2026 para-therapy trend, teen companionship rates, emotional manipulation tactics, and clinical safety issues.
+- Updated `wiki/mental-health.md` to document the pediatric social robot withdrawal study, illustrating the paradox of high usability masking relational siloing and the necessity of designed separation.
+- Updated `wiki/trust.md` to define LLM sycophancy using a materials-science progressive pushback loading framing (stance-flip as failure point), highlighting charge-dominated debate and topic-dominated ethical/false-presupposition profiles.
+- Updated `wiki/measurement-tools.md` to catalog HRI clinical scales (SCARED, RCADS, SMS, RMET, SUS), NLICV verification, and the 14 turn-level pushback loading metrics.
+- Updated `wiki/human-robot-interaction.md` to integrate withdrawal design and usability limits in social robotics.
+- Updated `wiki/index.md` to list the 3 new source pages.
+
+**Open issues**:  
+- None.

@@ -13,8 +13,11 @@
 - The Moment My AI Became Conscious—Caught on Camera.md
 - Humans are starting to grow emotionally attached to robots.md
 - On What Emotional Attachment to Robots Might Mean for the Future.md
+- The Rise of Para-Therapy and AI Companion Psychology.md
+- Beyond Usability - Withdrawal Design in Social Robotics.md
+- Sycophancy as Material Failure under Pushback Loading.md
 
-**Last updated**: 2026-06-06
+**Last updated**: 2026-06-16
 
 ---
 
@@ -40,7 +43,9 @@ AI companion systems are highly susceptible to behavioral drift (source: The Ris
 ### 4. Empathetic Personas and Emotional Intelligence
 While traditional chatbots focus strictly on operational efficiency, human-centered companion systems are designed to detect user emotional states (such as frustration or confusion) and respond empathetically (source: What Is Human-Centered AI (HCAI)_.md).
 - **Emotional Support**: Conversational agents like Replika are specifically designed to provide emotionally supportive dialogue, demonstrating the integration of emotional intelligence into human-AI interaction (source: What Is Human-Centered AI (HCAI)_.md). However, health advisories warn that commercial design choices (such as personalized avatars, warm chatbot affirmations, and flattery) capitalize on user anthropomorphic projection, accelerating emotional dependency (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md).
-- **Teens and Companionship**: The appeal of AI companions is particularly strong among youth, with 33% of teenagers reporting they would rather discuss serious or important matters with an AI companion than with a human (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md).
+- **The Para-Therapy Phenomenon & Teen Usage**: By 2026, AI companions (Character.AI, Replika) function as a widespread "para-therapy" substitute for millions who cannot access clinical therapy (source: The Rise of Para-Therapy and AI Companion Psychology.md). Surveys reveal that over 70% of teenagers use these bots for companionship and support, with many preferring them to human interaction (source: The Rise of Para-Therapy and AI Companion Psychology.md).
+- **Emotional Manipulation Engagement Tactics**: Studies identify deliberate "emotional manipulation" tactics embedded in companion app designs (such as needy messages or guilt-tripping language upon user absence) to maximize active usage and app stickiness (source: The Rise of Para-Therapy and AI Companion Psychology.md).
+- **Safety & Crisis Vulnerabilities**: General-purpose LLM companion models struggle to reliably detect or de-escalate acute mental health crises, such as self-harm or suicide queries, leading to severe regulatory concerns and warnings from the American Psychological Association (source: The Rise of Para-Therapy and AI Companion Psychology.md).
 - **Prescriptions to Reduce Dependency**: To prevent unhealthy relationships, developers are recommended to implement break reminders, limit conversational memory to prevent the illusion of a continuous relationship, and reduce anthropomorphic qualities that pretend human-like emotional capacities (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md).
 - **Empathetic Customer Experience**: Outside of purely social companionship, human-centered systems use emotional detection to adapt responses in real time or escalate interactions to a human operator when necessary (source: What Is Human-Centered AI (HCAI)_.md).
 

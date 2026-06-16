@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-06-07
+**Last updated**: 2026-06-16
 
 ## Orientation
 
@@ -89,6 +89,9 @@
 - [[source-psychology-ai-cognitive-emotional]] — Summary of paper reviewing cognitive science and psychological characteristics of AI and human-AI relationship ethics.
 - [[source-trust-autonomous-hrc-responsive-policies]] — Summary of pilot study comparing responsive vs. reactive HRI policies and trust vulnerability under communication breakdown.
 - [[source-trust-hospital-follow-up-scale]] — Summary of clinical validation of the 3-factor trust scale for AI-based hospital follow-up systems.
+- [[source-beyond-usability-withdrawal-design]] — Summary of the Kai Ploeger et al. UX study on social robot withdrawal, anxiety reduction, and SMS/RMET social motivational siloing.
+- [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
+- [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 
 ## Core theoretical frameworks
 
