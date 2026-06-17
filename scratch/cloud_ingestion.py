@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 import json
 from datetime import datetime
 import subprocess
+import time
 
 # Config
 LOG_PATH = r"wiki/log.md"
@@ -26,13 +27,24 @@ def call_gemini(api_key, prompt, json_mode=False):
         body["generationConfig"] = {"responseMimeType": "application/json"}
         
     req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8"), headers=headers, method="POST")
-    try:
-        with urllib.request.urlopen(req) as response:
-            res_body = json.loads(response.read().decode("utf-8"))
-            return res_body["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception as e:
-        print(f"Error calling Gemini: {e}")
-        return None
+    
+    max_retries = 5
+    backoff = 2
+    for attempt in range(max_retries):
+        try:
+            with urllib.request.urlopen(req) as response:
+                res_body = json.loads(response.read().decode("utf-8"))
+                return res_body["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception as e:
+            print(f"Error calling Gemini (attempt {attempt + 1}/{max_retries}): {e}")
+            if attempt < max_retries - 1:
+                print(f"Retrying in {backoff} seconds...")
+                time.sleep(backoff)
+                backoff *= 2
+            else:
+                print("Max retries reached. Gemini API call failed.")
+                return None
+
 
 def normalize_title(t):
     return re.sub(r"[^\w]", "", t.lower()).strip()
