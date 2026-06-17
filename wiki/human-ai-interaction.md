@@ -25,8 +25,9 @@
 - AAAI.2026 - Humans and AI _ Cool Papers - Immersive Paper Discovery.md
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
 - raw_muvap-turn-taking-prediction.md
+- raw_co-creativity-table-adventure-ai.md
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-17
 
 ---
 
@@ -162,6 +163,13 @@ Facilitating natural and effective human-AI/robot interaction requires advanced 
 - **Speaker-Aware and Role-Relative Projection**: This framework grounds acoustic predictions in face tracks, allowing for speaker-specific turn-taking decisions essential for natural group dynamics (source: raw_muvap-turn-taking-prediction.md). It also simplifies the modeling of multiparty interactions by mapping N-speaker dynamics onto a fixed 'current vs. next floor-holder' state, managing combinatorial complexity (source: raw_muvap-turn-taking-prediction.md).
 - **Impact on Perception**: Accurate turn-taking is fundamental to fluid human-human interaction. When AI and robots demonstrate seamless turn-taking, they are likely perceived as more intelligent, socially competent, and trustworthy, which enhances interaction quality and reduces user frustration or cognitive load (source: raw_muvap-turn-taking-prediction.md).
 
+### 20. Co-Creative Human-AI Dynamics in Collaborative Play
+Qualitative analysis of the "Adventure AI" podcast, which features Dungeons & Dragons gameplay with human and AI participants, provides insights into human-AI co-creation (source: raw_co-creativity-table-adventure-ai.md). This real-world gaming context illuminates how AI is perceived and integrated into complex creative processes:
+- **Evolving Roles**: The study identifies distinct and evolving roles for both AI and human players within co-creative environments, highlighting how their contributions shift over time (source: raw_co-creativity-table-adventure-ai.md).
+- **Performance Evaluation**: Human players actively evaluate the AI's contributions, acknowledging its successes in managing complex narrative and mechanical aspects of the game, while also noting its limitations and failures (source: raw_co-creativity-table-adventure-ai.md).
+- **Anthropomorphic Engagement**: A significant observation is the extent to which human players treat the AI as a 'person' or 'character' at the table. This indicates the presence of anthropomorphism and social cognition directed towards the AI during collaborative creative play (source: raw_co-creativity-table-adventure-ai.md).
+- **Appropriate Usage**: The analysis offers guidance on scenarios where AI proves most effective and where its utility is less suitable within creative gaming contexts, informing future design principles for AI in similar applications (source: raw_co-creativity-table-adventure-ai.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -195,3 +203,4 @@ Facilitating natural and effective human-AI/robot interaction requires advanced 
 - [[source-aaai-2026-cool-papers]]
 - [[source-persuasion-paradox-explanations]]
 - [[source-muvap-turn-taking-prediction]]
+- [[source-co-creativity-table-adventure-ai]]

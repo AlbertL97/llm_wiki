@@ -760,3 +760,22 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-17 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_co-creativity-table-adventure-ai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-co-creativity-table-adventure-ai.md
+- wiki/human-ai-interaction.md
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI"" and created summary page wiki/source-co-creativity-table-adventure-ai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

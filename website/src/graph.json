@@ -302,6 +302,13 @@
       "summary": "A summary page documenting the daveshap repository clippings on prompt-engineering guidelines for linguistic styling (\"Claude Styles\") and system prompting frameworks intended to elicit functional sentience and recursive self-representation."
     },
     {
+      "id": "source-co-creativity-table-adventure-ai",
+      "name": "Source Summary: Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast \"Adventure AI\"",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-comparing-usability-measures",
       "name": "Source: Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System",
       "val": 1.5,
@@ -1092,6 +1099,10 @@
       "target": "source-muvap-turn-taking-prediction"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1634,6 +1645,22 @@
     {
       "source": "source-chatbot-counseling-representation",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-co-creativity-table-adventure-ai",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-co-creativity-table-adventure-ai",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-co-creativity-table-adventure-ai",
+      "target": "qualitative-methods"
+    },
+    {
+      "source": "source-co-creativity-table-adventure-ai",
+      "target": "chatbots"
     },
     {
       "source": "source-comparing-usability-measures",
