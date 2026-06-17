@@ -991,6 +991,10 @@
       "target": "source-muvap-turn-taking-prediction"
     },
     {
+      "source": "chatbots",
+      "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "source-what-is-human-centered-ai"
     },
@@ -1467,6 +1471,10 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -1653,14 +1661,6 @@
     {
       "source": "source-co-creativity-table-adventure-ai",
       "target": "mind-perception"
-    },
-    {
-      "source": "source-co-creativity-table-adventure-ai",
-      "target": "qualitative-methods"
-    },
-    {
-      "source": "source-co-creativity-table-adventure-ai",
-      "target": "chatbots"
     },
     {
       "source": "source-comparing-usability-measures",

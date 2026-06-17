@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-17
 
 ## Orientation
 
@@ -93,6 +93,7 @@
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
+- [[source-co-creativity-table-adventure-ai]] — Summary of Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI".
 
 ## Core theoretical frameworks
 

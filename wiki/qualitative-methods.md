@@ -5,14 +5,15 @@
 **Sources**:  
 - AI User Research Platform _ Outset.ai & Strella Alternative.md
 - Examining human-AI interaction in real-world healthcare beyond the laboratory.md
+- raw_co-creativity-table-adventure-ai.md
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-06-17
 
 ---
 
 ## Main content
 
-Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
+Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -36,3 +37,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[measurement-tools]]
 - [[human-ai-interaction]]
 - [[chatbots]]
+- [[source-co-creativity-table-adventure-ai]]
