@@ -141,6 +141,13 @@
       "summary": "A summary page for the Center for Humane Technology (CHT) landing page, introducing their mission to expose the negative effects of persuasive technology and align tech industry incentives with human needs."
     },
     {
+      "id": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers",
+      "name": "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-aaai-2026-cool-papers",
       "name": "Source: AAAI.2026 - Humans and AI | Cool Papers - Immersive Paper Discovery",
       "val": 1.5,
@@ -328,6 +335,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for Sumi's wildscience article explaining the theory of consciousness as a \"controlled hallucination,\" detailing the biological necessity of bodily homeostatic regulation, the difference between human embodied language and AI statistical autocomplete, and the societal dangers of treating chatbots as conscious agents."
+    },
+    {
+      "id": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
+      "name": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-early-preview-generalist",
@@ -827,6 +841,14 @@
       "target": "source-muvap-turn-taking-prediction"
     },
     {
+      "source": "ai-companions",
+      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -995,6 +1017,14 @@
       "target": "source-co-creativity-table-adventure-ai"
     },
     {
+      "source": "chatbots",
+      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "source-what-is-human-centered-ai"
     },
@@ -1029,10 +1059,6 @@
     {
       "source": "human-ai-interaction",
       "target": "source-ice-environments-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-builds-itself"
     },
     {
       "source": "human-ai-interaction",
@@ -1105,6 +1131,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
     },
     {
       "source": "human-robot-interaction",
@@ -1319,6 +1353,10 @@
       "target": "source-longitudinal-review-trust-healthcare"
     },
     {
+      "source": "medical-ai",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -1369,6 +1407,10 @@
     {
       "source": "mental-health",
       "target": "source-ai-overly-affirms"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -1447,6 +1489,10 @@
       "target": "source-language-assumes-consciousness"
     },
     {
+      "source": "mind-perception",
+      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
+    },
+    {
       "source": "persuasion-and-influence",
       "target": "source-a-better-future-with-technology"
     },
@@ -1473,6 +1519,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
     },
     {
       "source": "social-media-and-online-communities",
@@ -1545,6 +1595,10 @@
     {
       "source": "source-ai-builds-itself",
       "target": "trust"
+    },
+    {
+      "source": "source-ai-builds-itself",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-experts-humanity-last-exam",
@@ -1697,6 +1751,14 @@
     {
       "source": "source-consciousness-controlled-hallucination",
       "target": "trust"
+    },
+    {
+      "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
+      "target": "trust"
+    },
+    {
+      "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
+      "target": "explainability"
     },
     {
       "source": "source-emotional-attachment-robots-future",

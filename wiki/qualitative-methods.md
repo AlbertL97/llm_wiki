@@ -6,14 +6,15 @@
 - AI User Research Platform _ Outset.ai & Strella Alternative.md
 - Examining human-AI interaction in real-world healthcare beyond the laboratory.md
 - raw_co-creativity-table-adventure-ai.md
+- raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-18
 
 ---
 
 ## Main content
 
-Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
+Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). For instance, qualitative studies, such as those used to develop taxonomies of caregiver needs, are vital for uncovering complex psychosocial needs, enabling the design of adaptive and person-centered AI systems for vulnerable populations in sensitive domains like mental health (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -38,3 +39,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[human-ai-interaction]]
 - [[chatbots]]
 - [[source-co-creativity-table-adventure-ai]]
+- [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]

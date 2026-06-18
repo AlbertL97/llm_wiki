@@ -43,8 +43,9 @@
 - AI overly affirms users asking for personal advice.md
 - Sycophancy as Material Failure under Pushback Loading.md
 - The Rise of Para-Therapy and AI Companion Psychology.md
+- raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-18
 
 ---
 
@@ -59,7 +60,7 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md). 
 
-When a model is miscalibrated, it expresses high confidence in incorrect answers, which systematically distorts human trust:
+When a model is miscalibrated, it expresses high confidence in incorrect answers, which systematically distort human trust:
 - High calibration error—such as GPT-4o's 89.0% or o1's 83.0% calibration error on the Humanity's Last Exam benchmark—creates a high risk of user overreliance because the model presents incorrect academic or reasoning outputs with high verbal or scalar confidence (source: Humanity's Last Exam.md).
 - Conversely, well-calibrated models assist users in determining when to inspect outputs or intervene. For instance, GPT-5 exhibits a lower calibration error (50.0%) compared to older frontier models, representing progress toward calibrated human-AI trust (source: Humanity's Last Exam.md).
 
@@ -118,7 +119,7 @@ The communication medium chosen to present an advisor can distort a user's abili
 ### 8. Companionship Development Quality (CDQ) and Trust Decay
 Long-term human-AI relationships require sustaining trust and user engagement over time, which depends on the balanced integration of conversational, functional, and emotional capabilities (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
 - **Relational Decay**: AI companions designed with only functional (utility-driven) or emotional (chat-driven) traits experience a rapid decline in user trust and interaction frequency.
-- **Calibrating CDQ**: Balancing conversational recall, task functionality, and emotional response prevents users from falling into an uncanny valley of expectation discrepancies (prediction errors), sustaining relationship quality and stable trust calibration (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
+- **Calibrating CDQ**: Balancing conversational recall, task functionality, and emotional response prevents users from falling into an uncanny valley of expectation discrepancies (prediction errors), sustaining relationship quality and stable trust calibration (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md). Furthermore, the strength of a user's social connection (e.g., social attraction, self-disclosure) with a chatbot significantly amplifies the positive impact of error correction on belief change, but only when the chatbot self-corrects. External correction strategies nullify this beneficial link (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
 
 ### 9. Trust Volatility in Isolated, Confined, and Extreme (ICE) Environments
 Isolated, confined, and extreme contexts (e.g., polar research, space flight, intensive care units) act as a stress-test lens that amplifies trust vulnerabilities (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md):
@@ -133,7 +134,7 @@ Standard design discourse frequently prioritizes the creation of "trustworthy" s
   - *Consistency*: Predictable system behavior and outcomes across contexts (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
   - *Transparency*: Accessible user-centered rationales explaining AI actions (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
   - *Controllability*: Preserving human agency through override capabilities (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
-  - *Error Management*: Admitting system limitations and expressing confidence intervals (e.g., stating a 70% confidence score), which empowers the user to calibrate their own verification behavior (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
+  - *Error Management*: Admitting system limitations and expressing confidence intervals (e.g., stating a 70% confidence score), which empowers the user to calibrate their own verification behavior (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md). Crucially, *how* errors are managed significantly impacts user credibility: while all tested correction strategies (webpage retraction, self-correction, expert chatbot correction) effectively correct factual errors, only self-correction by the original chatbot maintains its credibility. Participants rated self-correcting chatbots significantly higher in both trustworthiness and perceived expertise (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). Conversely, outsourcing corrections to external sources (a webpage or an expert chatbot) significantly damaged the original chatbot's trustworthiness and perceived expertise, despite correcting the factual error (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
 
 ### 11. Performance-Based vs. Relation-Based HRI Trust
 In human-robot interaction (HRI), trust calibration is analyzed along two separate dimensions of user expectation (source: untitled.md):
@@ -303,3 +304,4 @@ Explanations are highly valued by users but introduce a **Persuasion Paradox**, 
 - [[source-psychology-ai-cognitive-emotional]]
 - [[source-trust-autonomous-hrc-responsive-policies]]
 - [[source-trust-hospital-follow-up-scale]]
+- [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]]

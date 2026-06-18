@@ -779,3 +779,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-18 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
+- raw/raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/explainability.md
+- wiki/mind-perception.md
+- wiki/source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots" and created summary page wiki/source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md.
+- Ingested "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers" and created summary page wiki/source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

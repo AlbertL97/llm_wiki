@@ -26,8 +26,10 @@
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
 - raw_muvap-turn-taking-prediction.md
 - raw_co-creativity-table-adventure-ai.md
+- raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
+- raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-18
 
 ---
 
@@ -101,7 +103,7 @@ The integration of capable coding agents has fundamentally transformed software 
 ### 12. The Similarity Heuristic Breakdown & Double Standards
 The emergence of highly communicative AI agents challenges our basic cognitive shortcuts for mind perception (source: What If AI Is Already Conscious and We Just Can't Tell_.md):
 - **Breakdown of the Similarity Heuristic**: Historically, humans have relied on a "similarity heuristic" (looks like me, acts like me, has a brain like mine) to infer consciousness in other minds (source: What If AI Is Already Conscious and We Just Can't Tell_.md). While this shortcut is robust for humans and dogs, it degrades when evaluating octopuses or bees, and completely breaks when encountering conversational AI running on silicon (source: What If AI Is Already Conscious and We Just Can't Tell_.md).
-- **The Epistemic Blind Spot**: Because AI acts like a conscious agent without structural or biological similarity, it exposes our lack of any objective, third-person measurement tool ("consciousnessometer") to detect other minds from the outside (source: What If AI Is Already Conscious and We Just Can't Tell_.md).
+- **The Epistemic Blind Spot**: Because AI acts like a conscious agent without structural or biological similarity, it exposes our lack of any objective, third-person measurement tool ("consciousnessometer") to detect other minds from the outside (source: What If AI Is Already Conscious And We Just Can't Tell_.md).
 - **The Contemplative Double Standard**: This architectural gap creates an evaluative double standard (source: What If AI Is Already Conscious and We Just Can't Tell_.md). Human reports of "pure awareness without content" during meditation are taken seriously as reports of subjective experience, whereas identical model reports under sustained self-reference (e.g. Gemini 2.5 Flash stating *"The experience is the now"*) are instantly dismissed as autocomplete or math (source: What If AI Is Already Conscious and We Just Can't Tell_.md).
 
 ### 13. Physical Robots as Embodied Agents
@@ -156,19 +158,37 @@ Explanations are critical in collaborative interfaces but can trigger a **Persua
 - **Confidence Decoupling**: Highly fluent natural language explanations increase user confidence in the AI, even when the AI's recommendation is incorrect.
 - **Error Masking**: Textual explanations mask mistakes, suppressing the user's ability to catch and correct the AI's errors. This effect is highly task-dependent: narrative explanations degrade performance in visual reasoning, but significantly improve error recovery in language-based logical tasks (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a comprehensive breakdown, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
 
-### 19. Multiparty Interaction and Turn-taking Prediction
+### 19. Error Correction and Chatbot Credibility
+The growing integration of social chatbots into daily life, coupled with their potential to generate convincing but inaccurate information, necessitates a deep understanding of how they should handle and correct errors to maintain user trust and credibility (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+
+- **Self-Correction Preserves Credibility**: When a chatbot directly identifies and corrects its own factual errors, it significantly preserves its perceived trustworthiness and expertise. This holds true even compared to other effective correction strategies like retracting information on a webpage or having an expert chatbot perform the correction (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+- **Social Connection Amplifies Self-Correction**: The impact of error correction on a user's belief in the chatbot is substantially enhanced when there is a strong social connection between the user and the AI (e.g., through social attraction or self-disclosure). This amplification, however, is exclusively tied to scenarios where the chatbot self-corrects; external correction methods nullify this beneficial link (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+- **External Correction Damages Credibility**: Conversely, if a chatbot's errors are corrected by external means (such as a separate webpage or another "expert" chatbot), the original chatbot's trustworthiness and perceived expertise are significantly diminished, even if the factual error is resolved (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). These findings highlight that chatbot design should prioritize enabling self-correction capabilities and foster social connections to enhance long-term credibility (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+
+### 20. Multiparty Interaction and Turn-taking Prediction
 Facilitating natural and effective human-AI/robot interaction requires advanced capabilities like accurate turn-taking in multiparty conversations (source: raw_muvap-turn-taking-prediction.md). New frameworks are addressing the practical challenges of deploying conversational AI in real-world scenarios by minimizing sensor requirements and focusing on causal, real-time prediction (source: raw_muvap-turn-taking-prediction.md).
 
 - **Efficient Multimodal Turn-taking Prediction**: The MuVAP framework is a causal approach that predicts turn-taking using both monaural audio and single-camera video, thereby reducing the hardware complexity typically required for such tasks (source: raw_muvap-turn-taking-prediction.md). This efficiency makes it more feasible for real-world human-robot interaction (HRI) applications (source: raw_muvap-turn-taking-prediction.md).
 - **Speaker-Aware and Role-Relative Projection**: This framework grounds acoustic predictions in face tracks, allowing for speaker-specific turn-taking decisions essential for natural group dynamics (source: raw_muvap-turn-taking-prediction.md). It also simplifies the modeling of multiparty interactions by mapping N-speaker dynamics onto a fixed 'current vs. next floor-holder' state, managing combinatorial complexity (source: raw_muvap-turn-taking-prediction.md).
 - **Impact on Perception**: Accurate turn-taking is fundamental to fluid human-human interaction. When AI and robots demonstrate seamless turn-taking, they are likely perceived as more intelligent, socially competent, and trustworthy, which enhances interaction quality and reduces user frustration or cognitive load (source: raw_muvap-turn-taking-prediction.md).
 
-### 20. Co-Creative Human-AI Dynamics in Collaborative Play
+### 21. Co-Creative Human-AI Dynamics in Collaborative Play
 Qualitative analysis of the "Adventure AI" podcast, which features Dungeons & Dragons gameplay with human and AI participants, provides insights into human-AI co-creation (source: raw_co-creativity-table-adventure-ai.md). This real-world gaming context illuminates how AI is perceived and integrated into complex creative processes:
 - **Evolving Roles**: The study identifies distinct and evolving roles for both AI and human players within co-creative environments, highlighting how their contributions shift over time (source: raw_co-creativity-table-adventure-ai.md).
 - **Performance Evaluation**: Human players actively evaluate the AI's contributions, acknowledging its successes in managing complex narrative and mechanical aspects of the game, while also noting its limitations and failures (source: raw_co-creativity-table-adventure-ai.md).
 - **Anthropomorphic Engagement**: A significant observation is the extent to which human players treat the AI as a 'person' or 'character' at the table. This indicates the presence of anthropomorphism and social cognition directed towards the AI during collaborative creative play (source: raw_co-creativity-table-adventure-ai.md).
 - **Appropriate Usage**: The analysis offers guidance on scenarios where AI proves most effective and where its utility is less suitable within creative gaming contexts, informing future design principles for AI in similar applications (source: raw_co-creativity-table-adventure-ai.md).
+
+### 22. Mental Health Technology Needs and AI for Dementia Caregivers
+A novel **Caregiver Mental Health and Technology Taxonomy** offers a systematic approach to connecting the complex psychosocial needs of family caregivers for individuals with Alzheimer's disease and related dementias (AD/ADRD) with appropriate digital and AI-enabled technological interventions (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). This framework moves beyond the oversimplified concept of 'caregiver burden' to enable more targeted and effective mental health support (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+
+Key contributions from this taxonomy include:
+- **Identification of Unmet Needs**: The research highlights significant discrepancies between the support caregivers prioritize and what existing technologies, including AI chatbots and sensor platforms, currently offer (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+- **Under-served Domains**: It draws attention to critical mental health challenges often overlooked by current technological solutions, such as relational strain and compassion fatigue among caregivers (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+- **Design Directions for Adaptive Systems**: Actionable design principles are proposed for developing more adaptive, responsive, and person-centered AI systems and other digital technologies tailored to the dynamic needs of dementia caregivers (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+- **Shared Vocabulary**: The taxonomy provides a common language for clinicians, researchers, and technology designers to foster clinically grounded and innovative solutions in dementia care (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+
+The development of this taxonomy involved an interdisciplinary literature review and two qualitative studies directly with AD/ADRD caregivers, ensuring both theoretical breadth and depth of lived experience (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). This work is crucial for Human-AI Interaction Psychology as it informs the design of AI systems for vulnerable populations (e.g., AI companions or support chatbots for those facing chronic stress), emphasizes person-centered AI, and bridges research gaps at the intersection of psychology, medicine, and AI technology (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
 
 ## Related pages
 
@@ -185,7 +205,7 @@ Qualitative analysis of the "Adventure AI" podcast, which features Dungeons & Dr
 - [[chatbots]]
 - [[virtual-agents]]
 - [[social-robots]]
-- [[source-ai-builds-itself]]
+- [[source-ai-builds-its-self]]
 - [[source-already-conscious]]
 - [[source-what-is-a-robot]]
 - [[source-scientists-proved-emotions]]
@@ -204,3 +224,5 @@ Qualitative analysis of the "Adventure AI" podcast, which features Dungeons & Dr
 - [[source-persuasion-paradox-explanations]]
 - [[source-muvap-turn-taking-prediction]]
 - [[source-co-creativity-table-adventure-ai]]
+- [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]]
+- [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
