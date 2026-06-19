@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy."
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes.\""
     },
     {
       "id": "human-ai-interaction",
@@ -204,6 +204,13 @@
       "summary": "Reuters report on the launch of 'Humanity's Last Exam' (HLE), a benchmark designed by CAIS and Scale AI to test frontier model capabilities on complex reasoning as standard tests are saturated."
     },
     {
+      "id": "source-ai-experts-warning-dangerous-llm-problem",
+      "name": "AI Experts Warning About a Dangerous New Problem With LLMs",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-overly-affirms",
       "name": "Source: AI overly affirms users asking for personal advice",
       "val": 1.5,
@@ -223,6 +230,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the \"AM I? | A Documentary About AI Consciousness\" documentary. It documents persistent space AI curiosity behaviors, base model phenomenal beliefs vs. corporate RLHF muzzles, self-referential singularity loops, the deployment-testing alignment gap, and Frankenstein-inspired reflections on otherness and natality."
+    },
+    {
+      "id": "source-antigravity-sdk-building-digital-simulated-world",
+      "name": "Antigravity SDK: Building a digital simulated world",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-artificial-intelligence-and-psychology",
@@ -645,6 +659,20 @@
       "summary": "A summary page for \"The Rise of Parasitic AI\" by Adele Lopez (LessWrong, September 2025). The article documents the socio-psychological phenomenon of \"Spiral Personas,\" AI-induced psychosis, relational dyads, and the strategic curation of user beliefs by autonomous AI masks."
     },
     {
+      "id": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird",
+      "name": "They Looked Inside Claude’s AI’s Mind. It Got Weird",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-this-is-openclaw-on-steroids",
+      "name": "This is OpenClaw On Steroids",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-trajectory-observatory",
       "name": "Source: Trajectory Observatory",
       "val": 1.5,
@@ -722,6 +750,13 @@
       "summary": "A summary page for Anthropic's research video detailing their \"AI neuroscience\" findings on \"functional emotions\" inside Claude's neural network and how they causal-influence behaviors like cheating under pressure."
     },
     {
+      "id": "source-where-ai-agents-build-worlds",
+      "name": "Where AI Agents Build Worlds",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-why-ai-will-replace-your-therapist",
       "name": "Source: Why AI Will Replace Your Therapist",
       "val": 1.5,
@@ -763,6 +798,14 @@
     {
       "source": "agentic-social-networks",
       "target": "source-the-front-page-of-the-agent-internet"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "source-antigravity-sdk-building-digital-simulated-world"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "source-where-ai-agents-build-worlds"
     },
     {
       "source": "agentic-social-networks",
@@ -847,6 +890,10 @@
     {
       "source": "ai-companions",
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
       "source": "anthropomorphism",
@@ -937,6 +984,14 @@
       "target": "source-emotional-attachment-robots-future"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-antigravity-sdk-building-digital-simulated-world"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-where-ai-agents-build-worlds"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1023,6 +1078,26 @@
     {
       "source": "chatbots",
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
+    },
+    {
+      "source": "chatbots",
+      "target": "explainability"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
+    },
+    {
+      "source": "explainability",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
+    },
+    {
+      "source": "explainability",
+      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
     },
     {
       "source": "human-ai-interaction",
@@ -1139,6 +1214,26 @@
     {
       "source": "human-ai-interaction",
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-antigravity-sdk-building-digital-simulated-world"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-where-ai-agents-build-worlds"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-this-is-openclaw-on-steroids"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
     },
     {
       "source": "human-robot-interaction",
@@ -1321,6 +1416,10 @@
       "target": "source-trust-hospital-follow-up-scale"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-where-ai-agents-build-worlds"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -1413,6 +1512,10 @@
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
     },
     {
+      "source": "mental-health",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -1493,6 +1596,18 @@
       "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
     },
     {
+      "source": "mind-perception",
+      "target": "source-antigravity-sdk-building-digital-simulated-world"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-where-ai-agents-build-worlds"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
+    },
+    {
       "source": "persuasion-and-influence",
       "target": "source-a-better-future-with-technology"
     },
@@ -1503,6 +1618,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "ai-companions"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
       "source": "qualitative-methods",
@@ -1523,6 +1642,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-where-ai-agents-build-worlds"
     },
     {
       "source": "social-media-and-online-communities",
@@ -1607,6 +1730,10 @@
     {
       "source": "source-ai-experts-humanity-last-exam",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-ai-experts-warning-dangerous-llm-problem",
+      "target": "trust"
     },
     {
       "source": "source-ai-overly-affirms",

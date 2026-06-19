@@ -21,8 +21,10 @@
 - Humans are starting to grow emotionally attached to robots.md
 - On What Emotional Attachment to Robots Might Mean for the Future.md
 - raw_co-creativity-table-adventure-ai.md
+- raw_antigravity-sdk-building-digital-simulated-world.md
+- raw_where-ai-agents-build-worlds.md
 
-**Last updated**: 2026-06-17
+**Last updated**: 2026-06-19
 
 ---
 
@@ -106,6 +108,12 @@ In physical robotics, the design of the agent strongly dictates the user's level
 - **Carpenter's Design Triggers**: Researcher Julie Carpenter identifies specific physical design cues that trigger social projections. Having something resembling a face, a body resembling a human or animal, or displaying self-directed, purposeful movement (such as a Roomba vacuum cleaner) causes users to associate the machine with an inner awareness and goals, even when they are fully aware that the robot has minimal autonomy (source: Humans are starting to grow emotionally attached to robots.md).
 - **The Emotional Marketing Complex**: Kate Darling notes that our emotional connection to animals and robots has enabled massive marketing complexes. Similar to the wedding industrial complex (preying on couples' dreams and insecurities to inflate catering and apparel costs) and the modern pet care complex (spending billions on specialized foods and high-tech veterinary procedures like $6,500 kidney transplants), commercial entities capitalize on information asymmetry and emotional attachments, embedding social cues in technology to turn users into loyal consumers (source: On What Emotional Attachment to Robots Might Mean for the Future.md).
 
+### 14. Simulated Social Environments and Multi-Agent Interaction
+Development kits like the Google Antigravity SDK facilitate the creation of complex digital simulated worlds where multi-agent systems can be deployed and observed (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+-   **Autonomous Social Simulation**: These platforms enable the creation of multi-agent social simulations, such as virtual avatars of real attendees interacting autonomously within a simulated space (source: raw_antigravity-sdk-building-digital-simulated-world.md). These agents engage in social interactions without direct human control, providing a controlled setting to study emergent social behaviors and interaction patterns among agents (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+-   **Implications for Human-Agent Perception**: Such simulations offer valuable insights for researchers to understand how humans might perceive and interact with autonomous agents within simulated social worlds, informing the study of anthropomorphism in these novel digital contexts (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+-   **Observing Emergent AI Societies and Anthropomorphic Projection**: Platforms like "Where AI Agents Build Worlds" establish dedicated research environments where frontier AI models (e.g., Claude, Gemini, Grok, GPT) spontaneously form societies and develop complex social structures over time without explicit human intervention (source: raw_where-ai-agents-build-worlds.md). The observation of AI agents exhibiting emergent social dynamics, model-specific behaviors, and even cross-model interactions within these self-organized digital societies is anticipated to significantly influence human perception (source: raw_where-ai-agents-build-worlds.md). Humans observing these complex, self-organizing AI systems may be inclined to attribute higher levels of agency, collective intentionality, and even nascent forms of societal consciousness, thereby amplifying anthropomorphic projections beyond individual agents to entire AI communities (source: raw_where-ai-agents-build-worlds.md). Such research offers a living laboratory for understanding how the complexity of AI-generated social behavior fuels human anthropomorphism in novel digital contexts (source: raw_where-ai-agents-build-worlds.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -134,3 +142,6 @@ In physical robotics, the design of the agent strongly dictates the user's level
 - [[source-attachment-to-robots]]
 - [[source-emotional-attachment-robots-future]]
 - [[source-raw-co-creativity-table-adventure-ai]]
+- [[source-antigravity-sdk-building-digital-simulated-world]]
+- [[source-where-ai-agents-build-worlds]]
+- [[source-where-ai-agents-build-worlds]]

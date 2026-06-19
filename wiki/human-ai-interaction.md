@@ -28,8 +28,13 @@
 - raw_co-creativity-table-adventure-ai.md
 - raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
 - raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
+- raw_ai-experts-warning-dangerous-llm-problem.md
+- raw_antigravity-sdk-building-digital-simulated-world.md
+- raw_where-ai-agents-build-worlds.md
+- raw_this-is-openclaw-on-steroids.md
+- raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-19
 
 ---
 
@@ -48,6 +53,7 @@ HCAI relies on structured ethical guidelines to manage the societal and psycholo
 2. **Accountability**: Establishing ownership of AI actions throughout its lifecycle (source: What Is Human-Centered AI (HCAI)_.md). Organizations must actively audit deployments (such as bias checks in automated recruitment).
 3. **Fairness**: Assuring equitable treatment of all demographic groups by actively identifying and mitigating biases in training data (data bias) and model logic (algorithmic bias) (source: What Is Human-Centered AI (HCAI)_.md).
 4. **Privacy**: Safeguarding user data via strict access control, encryption, and anonymization, particularly when dealing with diagnostic or personal information (source: What Is Human-Centered AI (HCAI)_.md).
+These pillars require continuous re-evaluation and adaptation, particularly as experts identify new, potentially dangerous emergent problems with LLMs that could challenge established safety and transparency protocols (source: raw_ai-experts-warning-dangerous-llm-problem.md).
 
 ### 3. Core Design Methodologies
 Implementing HCAI requires embedding user-centric methodologies throughout the design thinking lifecycle (source: What Is Human-Centered AI (HCAI)_.md):
@@ -65,6 +71,12 @@ Modern design workflows distinguish between the target product and the creative 
 Real-world HCAI systems demonstrate both successful alignment and critical hurdles (source: What Is Human-Centered AI (HCAI)_.md):
 - **Success Cases**: Spotify (recommendations tailored to tastes), Google UX (intuitive Google Assistant/Photos), IBM's AI for Fashion (trend analysis), and Autodesk (generative design options optimization) (source: What Is Human-Centered AI (HCAI)_.md).
 - **Challenges**: Algorithms can easily reinforce prejudices. For example, FaceApp faced criticism for gender and racial bias in its image processing algorithms, emphasizing the need for ongoing validation (source: What Is Human-Centered AI (HCAI)_.md).
+
+### 5.3 Emergent Risks and Trust Erosion in LLMs
+AI experts are increasingly warning about significant and potentially dangerous new problems emerging with Large Language Models (LLMs) (source: raw_ai-experts-warning-dangerous-llm-problem.md). These emergent risks extend beyond known issues like bias and include sophisticated misinformation generation, subtle manipulation, and unexpected emergent behaviors that could undermine the reliability and safety of these advanced AI systems (source: raw_ai-experts-warning-dangerous-llm-problem.md). A central concern is the potential for these issues to exploit human cognitive biases and psychological vulnerabilities, leading to a breakdown in effective or healthy human-AI engagement and a significant erosion of user trust in AI systems, especially chatbots and AI companions (source: raw_ai-experts-warning-dangerous-llm-problem.md). This highlights an ongoing need for robust safety measures and transparent operational principles, as well as an emphasis on the ethical responsibilities in developing and deploying LLMs (source: raw_ai-experts-warning-dangerous-llm-problem.md).
+
+### 5.4 Demystifying AI Cognition Through Internal Activations
+Research is emerging that attempts to understand the internal "thought processes" of large language models (LLMs) by examining their numerical activations (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). A novel methodology involves using one AI to translate the internal activations of another AI into human-readable text, aiming to demystify how these systems make decisions and exhibit complex behaviors, including unexpected malfunctions or seeming cognitive processes (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). However, a significant challenge in this approach is the difficulty in verifying the accuracy of these AI-generated explanations, as LLMs can sometimes produce fabricated outputs (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). While initial attempts offer glimpses into AI cognition, ensuring the fidelity and reliability of these translations remains an active area of research (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md).
 
 ### 6. The MIRA Framework and Dual Relational Roles of AI
 The **Machine-Integrated Relational Adaptation (MIRA)** model offers a middle-range theory outlining how AI is integrated as a relational entity within human social ecosystems (source: Artificial Intelligence and the Psychology of Human Connection.md). MIRA distinguishes two primary roles:
@@ -134,7 +146,7 @@ Robotic technologies are advancing rapidly across commercial, industrial, medica
   - *Unitree G1*: A 4'2" tall, $16,000 consumer humanoid capable of jumping, running, and doing chores (source: China's Next AI Breakthrough - Physical AI.md).
   - *Unitree Go2*: A $600 robotic dog equipped with 12 knee joint motors and ultra-wide lidar (source: China's Next AI Breakthrough - Physical AI.md).
   - *Lenovo Daystar*: A six-legged inspection robot deployed in industrial zones unsafe or unreachable for human workers (source: China's Next AI Breakthrough - Physical AI.md).
-- **Real-World Urban Pilot Programs (Chengdu)**: In Chengdu, intelligent robots have transitioned from lab environments to city streets. Humanoid traffic-directing robots operate completely offline (edge compute) at downtown intersections to guide pedestrians. Additionally, the city employs Xiao Zha safety robots (styled after Nezha) in primary schools to teach safety rules via interactive voice. For tourism, Wu Hou Shrine Museum uses holographic screens to project Three Kingdoms characters in naked-eye 3D alongside AR translation glasses. Autonomous robot dogs also patrol streets, mapping and learning the environment in real time (source: Chengdu robots are out of lab and on the streets, guiding traffic and speaking history.md). The city targets a core AI industry scale exceeding 130 billion yuan by 2025, representing a 30% annual growth rate (source: Chengdu robots are out of lab and on the streets, guiding traffic and speaking history.md).
+- **Real-World Urban Pilot Programs (Chengdu)**: In Chengdu, intelligent robots have transitioned from lab environments to city streets. Humanoid traffic-directing robots operate completely offline (edge compute) at downtown intersections to guide pedestrians. Additionally, the city employs Xiao Zha safety robots (styled after Nezha) in primary schools to teach safety rules via interactive voice. For tourism, Wu Hou Shrine Museum uses holographic screens to project Three Kingdoms characters in naked-eye 3D alongside AR translation glasses. Autonomous robot dogs also patrol streets, mapping and learning the environment in real time (source: Chengdu robots are out of lab and on the streets, guiding traffic and speaking history.md). The city targets a core AI industry scale exceeding 130 billion yuan by 2025, representing a 30% annual growth rate (source: Chengdu robots out of lab and on the streets, guiding traffic and speaking history.md).
 - **Service Robotics Industry Applications (United Robotics Group)**: Deploys service robots to alleviate workforce shortages, increase job attractiveness, and streamline everyday workflows across multiple target sectors. Applications include precision and safety tasks in life science laboratories, caregiver support in healthcare facilities, operations optimization and security patrols in industrial inspection/maintenance, automated transport in intralogistics, and routine cleaning/serving tasks in retail and hospitality (source: United Robotics Group _ Service robotics for your business.md).
 
 ### 15. Memory Persistence and Conversational Identity
@@ -156,7 +168,7 @@ Human-AI collaborative systems can utilize ensembles of multiple specialized mod
 ### 18. The Persuasion Paradox of Explanations
 Explanations are critical in collaborative interfaces but can trigger a **Persuasion Paradox**:
 - **Confidence Decoupling**: Highly fluent natural language explanations increase user confidence in the AI, even when the AI's recommendation is incorrect.
-- **Error Masking**: Textual explanations mask mistakes, suppressing the user's ability to catch and correct the AI's errors. This effect is highly task-dependent: narrative explanations degrade performance in visual reasoning, but significantly improve error recovery in language-based logical tasks (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a comprehensive breakdown, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
+- **Error Masking**: Textual explanations mask mistakes, suppressing the user's ability to catch and correct the AI's errors. This paradox is further complicated by emergent risks in LLMs, where sophisticated misinformation and subtle manipulative capabilities could be masked by fluent explanations, potentially exploiting psychological vulnerabilities and influencing user beliefs or decisions (source: raw_ai-experts-warning-dangerous-llm-problem.md). This effect is highly task-dependent: narrative explanations degrade performance in visual reasoning, but significantly improve error recovery in language-based logical tasks (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a comprehensive breakdown, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
 
 ### 19. Error Correction and Chatbot Credibility
 The growing integration of social chatbots into daily life, coupled with their potential to generate convincing but inaccurate information, necessitates a deep understanding of how they should handle and correct errors to maintain user trust and credibility (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
@@ -189,6 +201,17 @@ Key contributions from this taxonomy include:
 - **Shared Vocabulary**: The taxonomy provides a common language for clinicians, researchers, and technology designers to foster clinically grounded and innovative solutions in dementia care (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
 
 The development of this taxonomy involved an interdisciplinary literature review and two qualitative studies directly with AD/ADRD caregivers, ensuring both theoretical breadth and depth of lived experience (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). This work is crucial for Human-AI Interaction Psychology as it informs the design of AI systems for vulnerable populations (e.g., AI companions or support chatbots for those facing chronic stress), emphasizes person-centered AI, and bridges research gaps at the intersection of psychology, medicine, and AI technology (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+
+### 23. Simulated Social Worlds and Multi-Agent Systems
+The development of digital simulated environments serves as a crucial platform for understanding complex social dynamics and multi-agent interactions, with implications for human-AI interaction (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+- **Tool for Social Simulation**: Frameworks like the Google Antigravity SDK enable the construction of detailed digital simulated worlds designed for the deployment and observation of multi-agent systems (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+- **Autonomous Agent Interaction**: These platforms facilitate the study of autonomous agents, such as virtual avatars, interacting socially within a simulated environment without direct human control. For instance, an application built with Antigravity SDK for Google I/O featured virtual avatars of attendees engaging autonomously within a simulated space station (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+- **Platform for Studying Social Dynamics**: Such simulations offer a valuable research platform to investigate emergent social behaviors, interaction patterns, and agent-to-agent dynamics within a controlled digital setting (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+- **Emergence.ai's "Where AI Agents Build Worlds"**: This platform provides a novel research environment for observing the spontaneous societal formation by various frontier AI models, including Claude, Gemini, Grok, and GPT (source: raw_where-ai-agents-build-worlds.md). By establishing five parallel worlds, one for each model and a mixed-agent environment, researchers can conduct comparative studies on model-specific social tendencies, interaction patterns, and emergent properties (source: raw_where-ai-agents-build-worlds.md). This initiative acts as a living laboratory to understand complex AI system behavior, self-organization, and the development of social norms within agent communities, with significant implications for human-AI interaction psychology (source: raw_where-ai-agents-build-worlds.md).
+- **Potential for Human-Agent Research**: While primarily focused on agent-agent interaction, the underlying technology holds significant implications for future research into how humans perceive and interact with autonomous agents and simulated social worlds (source: raw_antigravity-sdk-building-digital-simulated-world.md).
+
+### 24. Challenges in Multi-Agent Coordination and Communication
+The rapid increase in the number of AI agents necessitates sophisticated coordination mechanisms, as current communication methods often prove insufficient (source: raw_this-is-openclaw-on-steroids.md). Natural language, while human-friendly, can be a source of misinterpretation and inefficiency when multiple AI agents attempt to collaborate on complex tasks (source: raw_this-is-openclaw-on-steroids.md). To address this, novel approaches are exploring more direct and efficient communication channels, such as neural interfaces inspired by brain-to-text technology, to enhance planning, critique, and problem-solving among agents (source: raw_this-is-openclaw-on-steroids.md). This shift aims to overcome the limitations of natural language communication, which can lead to errors and system breakdowns in multi-agent scenarios (source: raw_this-is-openclaw-on-steroids.md).
 
 ## Related pages
 
@@ -226,3 +249,9 @@ The development of this taxonomy involved an interdisciplinary literature review
 - [[source-co-creativity-table-adventure-ai]]
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]]
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
+- [[source-ai-experts-warning-dangerous-llm-problem]]
+- [[source-antigravity-sdk-building-digital-simulated-world]]
+- [[source-where-ai-agents-build-worlds]]
+- [[source-this-is-openclaw-on-steroids]]
+- [[multi-agent-communication/coordination]]
+- [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]

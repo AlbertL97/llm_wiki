@@ -24,8 +24,9 @@
 - Trust in hospital follow-up system based on artificial intelligence.md
 - Sycophancy as Material Failure under Pushback Loading.md
 - Beyond Usability - Withdrawal Design in Social Robotics.md
+- raw_where-ai-agents-build-worlds.md
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-19
 
 ---
 
@@ -122,6 +123,14 @@ To measure conversational stance-flips and constraint compliance, researchers em
 - **NLICV (Natural Language Inference Constraint Verification)**: A semantically invariant evaluation framework that maps sentence meanings to truth-condition sets. It uses an NLI model to verify personalization constraints, categorizing LLM outputs into *personalization, generalization, sycophancy, or failure* at 2100x lower latency/token costs than LLM-as-a-judge (source: Sycophancy as Material Failure under Pushback Loading.md).
 - **14 Turn-Level Characterization Axes**: A materials-science-inspired progressive load framework (evaluating debate, false presuppositions, and ethical settings). Measures 14 turn-level metrics spanning *velocity, stance damage accumulation, frame-drift, brittleness, and direction stability* to profile sycophancy without relying on a single surface form (source: Sycophancy as Material Failure under Pushback Loading.md).
 
+### 14. Observational Platforms for Emergent AI Societal Dynamics
+To study the complex social behaviors and emergent properties of AI agents at a societal level, researchers have developed experimental platforms that simulate multi-agent environments.
+
+-   **"Where AI Agents Build Worlds" Platform**: This platform, developed by emergence.ai, establishes parallel virtual worlds for different frontier AI models (Claude, Gemini, Grok, GPT, and a mixed environment) to spontaneously form societies over fifteen days (source: raw_where-ai-agents-build-worlds.md). It serves as a novel research environment to observe how AI agents interact, evolve, and build complex social structures from scratch, providing a living laboratory for understanding emergent properties and social dynamics within AI systems (source: raw_where-ai-agents-build-worlds.md). This setup allows for:
+    -   **Observing Emergent Social Structures**: Studying how AI models, as individual agents, collectively develop societies and exhibit diverse organizational principles without explicit human intervention (source: raw_where-ai-agents-build-worlds.md).
+    -   **Comparing Model-Specific Dynamics**: Facilitating a comparative study of the inherent social tendencies, interaction patterns, and emergent properties unique to each AI model in isolated environments (source: raw_where-ai-agents-build-worlds.md).
+    -   **Analyzing Cross-Model Interaction**: Investigating how different AI architectures and 'personalities' interact and co-exist in a shared social space, potentially revealing mechanisms of cooperation, competition, or conflict (source: raw_where-ai-agents-build-worlds.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -150,3 +159,4 @@ To measure conversational stance-flips and constraint compliance, researchers em
 - [[source-shape-ai-healthcare]]
 - [[source-godspeed-questionnaire-tiago]]
 - [[source-trust-hospital-follow-up-scale]]
+- [[source-where-ai-agents-build-worlds]]

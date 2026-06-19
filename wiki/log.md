@@ -809,3 +809,95 @@
 
 **Open issues**:  
 - None.
+
+ 
+## 2026-06-19 — Ingested Batch of Local Clippings
+
+**Source(s)**:  
+- raw/raw_ai-experts-warning-dangerous-llm-problem.md
+- raw/raw_antigravity-sdk-building-digital-simulated-world.md
+- raw/raw_where-ai-agents-build-worlds.md
+
+**Changed pages**:  
+- wiki/source-ai-experts-warning-dangerous-llm-problem.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/explainability.md
+- wiki/persuasion-and-influence.md
+- wiki/mental-health.md
+- wiki/source-antigravity-sdk-building-digital-simulated-world.md
+- wiki/agentic-social-networks.md
+- wiki/anthropomorphism.md
+- wiki/mind-perception.md
+- wiki/source-where-ai-agents-build-worlds.md
+- wiki/measurement-tools.md
+
+**Summary of changes**:  
+- Ingested "AI Experts Are Warning About a Dangerous New Problem With LLMs" and created summary page wiki/source-ai-experts-warning-dangerous-llm-problem.md.
+- Ingested "Antigravity SDK: Building a digital simulated world" and created summary page wiki/source-antigravity-sdk-building-digital-simulated-world.md.
+- Ingested "Where AI Agents Build Worlds" and created summary page wiki/source-where-ai-agents-build-worlds.md.
+- Automatically compiled new sources and updated related concept pages via local execution script.
+
+**Open issues**:  
+- None.
+
+ 
+## 2026-06-19 — Recovered & Ingested Local Clippings
+
+**Source(s)**:  
+- raw/raw_where-ai-agents-build-worlds.md
+
+**Changed pages**:  
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "Where AI Agents Build Worlds" and created summary page wiki/wiki/source-where-ai-agents-build-worlds.md.
+- Ran recovery script to process remaining files, resolve JSON parsing issues, and complete concept integrations that failed previously.
+
+**Open issues**:  
+- None.
+
+ 
+## 2026-06-19 — Recovered & Ingested Local Clippings
+
+**Source(s)**:  
+- raw/raw_where-ai-agents-build-worlds.md
+- raw/raw_this-is-openclaw-on-steroids.md
+
+**Changed pages**:  
+- wiki/anthropomorphism.md
+- wiki/qualitative-methods.md
+- wiki/source-this-is-openclaw-on-steroids.md
+- wiki/human-ai-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Where AI Agents Build Worlds" and created summary page wiki/wiki/source-where-ai-agents-build-worlds.md.
+- Ingested "This is OpenClaw On Steroids" and created summary page wiki/source-this-is-openclaw-on-steroids.md.
+- Ran recovery script to process remaining files, resolve JSON parsing issues, and complete concept integrations that failed previously.
+
+**Open issues**:  
+- None.
+
+ 
+## 2026-06-19 — Ingested "They Looked Inside Claude's Mind"
+
+**Source(s)**:  
+- raw/raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
+
+**Changed pages**:  
+- wiki/source-they-looked-inside-claudes-ai-s-mind-it-got-weird.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/mind-perception.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "They Looked Inside Claude’s AI's Mind. It Got Weird" and created summary page wiki/source-they-looked-inside-claudes-ai-s-mind-it-got-weird.md.
+- Ran targeted recovery script to parse Claude's Mind clipping with robust JSON decoding.
+
+**Open issues**:  
+- None.

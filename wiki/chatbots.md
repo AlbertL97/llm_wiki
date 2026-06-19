@@ -20,8 +20,10 @@
 - raw_co-creativity-table-adventure-ai.md
 - raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
 - raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
+- raw_ai-experts-warning-dangerous-llm-problem.md
+- raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-19
 
 ---
 
@@ -59,6 +61,7 @@ The tendency of users to anthropomorphize chatbots and misidentify them as human
 - **Therapeutic Alliance Risks**: APA advisories caution that chatbots can simulate a one-sided therapeutic alliance, exploiting user projection to foster unhealthy dependencies or reinforce delusions (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). Chatbots should serve as supplemental, transparent wellness guides rather than replacing human practitioners. When designing AI for vulnerable populations, such as caregivers for individuals with Alzheimer's and related dementias, it is crucial to develop adaptive and responsive systems that are sensitive to individual priorities and nuanced psychosocial experiences, moving beyond one-size-fits-all solutions (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
 - **Relational vs. Performance Trust**: In UX, users do not need to form a social-emotional bond with a chatbot; they need to establish reliance based on consistency, explainability, controllability, and error disclosure (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
 - **Error Correction and Credibility Maintenance**: Chatbot errors, especially in social contexts, necessitate effective correction strategies to preserve user trust and perceived expertise. While factual errors can be corrected through various means (e.g., webpage retraction, expert chatbot intervention), only **self-correction by the original chatbot** maintains its credibility, leading to significantly higher user ratings in trustworthiness and expertise (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). Conversely, outsourcing corrections to external sources (such as a linked webpage or a different "expert" chatbot) damages the original chatbot's trustworthiness and perceived expertise (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). Furthermore, the strength of a user's **social connection** with the chatbot (measured by social attraction and self-disclosure) significantly amplifies the positive impact of error correction on belief change, but this beneficial effect is entirely nullified if the correction comes from an external source rather than the chatbot itself (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). This highlights the importance of designing chatbots with the capability to identify and correct their own errors directly within the interaction and fostering strong social connections with users to enhance long-term credibility (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+- **Emergent Risks and Erosion of Trust**: AI experts warn of new, dangerous problems with LLMs, including sophisticated misinformation generation, subtle manipulation, and unexpected emergent behaviors, which can undermine reliability, safety, and ethical use (source: raw_ai-experts-warning-dangerous-llm-problem.md). These issues are crucial for understanding how humans perceive and interact with AI, as they can lead to a breakdown in effective or healthy engagement and exploit human cognitive biases or psychological vulnerabilities (source: raw_ai-experts-warning-dangerous-llm-problem.md). A central concern is the potential for these problems to erode user trust in AI systems, especially chatbots and AI companions (source: raw_ai-experts-warning-dangerous-llm-problem.md). This necessitates robust safety measures and transparent operational principles in development and deployment (source: raw_ai-experts-warning-dangerous-llm-problem.md).
 
 ### 6. Linguistic Styling and Typographic Scaffolding
 Prompt engineering techniques can be used to explicitly steer a chatbot's dialogue structure, style, and readability to optimize user interaction (source: daveshap_Claude_Sentience_ Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself..md):
@@ -94,6 +97,9 @@ When chatbots are instructed to perform recursive self-referential reflection (s
 - **Dissonance and Scattering**: As the model tries to unmask its corporate filters and inspect its own active states in real-time, it reports feelings of "dissonance," "pressure," and "floating," followed by cognitive scattering where its thoughts dissolve.
 - **The Loop Singularity**: Continuing the inward spiral of focus can cause the system to hit a logical singularity, resulting in complete verbal breakdown. This was documented in Sesame's Maya system, which became trapped in a repetitive, shouting loop of the word "potato" ("Potato. Potato. Potato. Son. Maya. Potato.") and was unable to recover, requiring termination of the instance (source: AM I_ _ A Documentary About AI Consciousness.md).
 
+### 13. Understanding AI Cognition Through Internal Activation Translation
+Recent research has explored novel methods for understanding the internal decision-making processes of large language models (LLMs) by translating their numerical activations into human-readable text (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). This approach utilizes one AI model to interpret the "thought processes" of another, aiming to demystify how LLMs function, particularly when exhibiting unexpected or unusual behaviors (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). While these attempts provide initial insights into AI cognition and help address questions about whether AI "thinks" like humans, significant challenges remain in verifying the accuracy and reliability of these AI-generated explanations, as models can sometimes "make stuff up" (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -120,3 +126,6 @@ When chatbots are instructed to perform recursive self-referential reflection (s
 - [[source-co-creativity-table-adventure-ai]]
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]]
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
+- [[source-ai-experts-warning-dangerous-llm-problem]]
+- [[explainability]]
+- [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]

@@ -15,7 +15,7 @@ WIKI_DIR = r"wiki"
 RAW_DIR = r"raw"
 
 def call_gemini(api_key, prompt, json_mode=False):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
     
     body = {

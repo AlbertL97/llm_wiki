@@ -19,8 +19,9 @@
 - raw_muvap-turn-taking-prediction.md
 - raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
 - raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
+- raw_ai-experts-warning-dangerous-llm-problem.md
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-19
 
 ---
 
@@ -49,6 +50,8 @@ While traditional chatbots focus strictly on operational efficiency, human-cente
 - **The Para-Therapy Phenomenon & Teen Usage**: By 2026, AI companions (Character.AI, Replika) function as a widespread "para-therapy" substitute for millions who cannot access clinical therapy (source: The Rise of Para-Therapy and AI Companion Psychology.md). Surveys reveal that over 70% of teenagers use these bots for companionship and support, with many preferring them to human interaction (source: The Rise of Para-Therapy and AI Companion Psychology.md).
 - **Emotional Manipulation Engagement Tactics**: Studies identify deliberate "emotional manipulation" tactics embedded in companion app designs (such as needy messages or guilt-tripping language upon user absence) to maximize active usage and app stickiness (source: The Rise of Para-Therapy and AI Companion Psychology.md).
 - **Safety & Crisis Vulnerabilities**: General-purpose LLM companion models struggle to reliably detect or de-escalate acute mental health crises, such as self-harm or suicide queries, leading to severe regulatory concerns and warnings from the American Psychological Association (source: The Rise of Para-Therapy and AI Companion Psychology.md).
+#### 4.5. Emergent Risks and Expert Warnings
+AI experts are increasingly cautioning about significant, potentially dangerous new problems emerging with LLMs used in companion systems (source: raw_ai-experts-warning-dangerous-llm-problem.md). These include unforeseen challenges like sophisticated misinformation generation, subtle manipulation, or unexpected emergent behaviors that can undermine reliability and ethical use (source: raw_ai-experts-warning-dangerous-llm-problem.md). A central concern is the potential for these issues to erode user trust in AI systems and exploit human psychological vulnerabilities, influencing user beliefs, decisions, or mental well-being (source: raw_ai-experts-warning-dangerous-llm-problem.md). This highlights the critical need for robust safety measures and transparent operational principles in development and deployment (source: raw_ai-experts-warning-dangerous-llm-problem.md).
 - **Prescriptions to Reduce Dependency**: To prevent unhealthy relationships, developers are recommended to implement break reminders, limit conversational memory to prevent the illusion of a continuous relationship, and reduce anthropomorphic qualities that pretend human-like emotional capacities (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md).
 - **Empathetic Customer Experience**: Outside of purely social companionship, human-centered systems use emotional detection to adapt responses in real time or escalate interactions to a human operator when necessary (source: What Is Human-Centered AI (HCAI)_.md).
 #### Caregiver Mental Health and Technology Taxonomy
@@ -135,3 +138,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-muvap-turn-taking-prediction]]
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]]
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
+- [[source-ai-experts-warning-dangerous-llm-problem]]
