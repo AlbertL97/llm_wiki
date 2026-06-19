@@ -901,3 +901,64 @@
 
 **Open issues**:  
 - None.
+
+ 
+## 2026-06-19 — Ingested Batch 11 of Local Clippings
+
+**Source(s)**:  
+- raw/raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md
+- raw/raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
+
+**Changed pages**:  
+- wiki/source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
+- wiki/measurement-tools.md
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "(1) (PDF) A Psychotechnology in the Making: Why Conversational AI Reorganizes Thinking Regardless of AGI" and created summary page wiki/source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md.
+- Ingested "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact" and created summary page wiki/source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md.
+- Automatically compiled new sources and updated related concept pages via local execution script.
+
+**Open issues**:  
+- None.
+
+ 
+## 2026-06-19 — Ingested Batch 12 of Local Clippings
+
+**Source(s)**:  
+- raw/raw_behavioral-signatures-large-language-models.md
+- raw/raw_llm-council-synthetic-cognitive-systems.md
+- raw/raw_trajectory-safety-observatory-vulnerable-user.md
+- raw/raw_what-is-ai-psychology.md
+
+**Changed pages**:  
+- wiki/index.md
+- wiki/source-behavioral-signatures-large-language-models.md
+- wiki/source-llm-council-synthetic-cognitive-systems.md
+- wiki/source-trajectory-safety-observatory-vulnerable-user.md
+- wiki/source-what-is-ai-psychology.md
+- wiki/human-ai-interaction.md
+- wiki/anthropomorphism.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+
+**Summary of changes**:  
+- Ingested "Behavioral Signatures of Large Language Models" and created summary page wiki/source-behavioral-signatures-large-language-models.md.
+- Ingested "Post | LinkedIn" (Synthetic Cognitive Systems and LLM-Councils) and created summary page wiki/source-llm-council-synthetic-cognitive-systems.md.
+- Ingested "Trajectory Safety Observatory for Vulnerable-User Interactions" and created summary page wiki/source-trajectory-safety-observatory-vulnerable-user.md.
+- Ingested "What Is AI Psychology?" and created summary page wiki/source-what-is-ai-psychology.md.
+- Automatically compiled new sources and updated related concept pages via local execution script.
+
+**Open issues**:  
+- None.
+

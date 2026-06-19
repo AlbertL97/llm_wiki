@@ -2,7 +2,7 @@
 
 **Summary**: A compilation of metrics and paradigms designed to evaluate and quantify self-awareness, confidence calibration, and epistemic uncertainty in AI systems.
 
-**Sources**:  
+**Sources**:
 - Agentic Knowledgeable Self-Awareness.md
 - Humanity's Last Exam.md
 - Emergent Introspective Awareness in Large Language Models.md
@@ -25,6 +25,8 @@
 - Sycophancy as Material Failure under Pushback Loading.md
 - Beyond Usability - Withdrawal Design in Social Robotics.md
 - raw_where-ai-agents-build-worlds.md
+- raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
+- raw_behavioral-signatures-large-language-models.md
 
 **Last updated**: 2026-06-19
 
@@ -32,7 +34,7 @@
 
 ## Main content
 
-To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics.
+To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized.
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -47,17 +49,17 @@ $$A_{\text{self}} \approx A(\phi(s)) - A(\phi_Q(s_Q))$$
 By subtracting $A(\phi_Q(s_Q))$, AQE controls for cases where the model appears "self-aware" simply because the question itself contains obvious markers of difficulty.
 
 ### 2. Semantic Compression by Answering in One Word (SCAO)
-The **SCAO** paradigm forces the model to compress its output into a single token (source: Agentic Knowledgeable Self-Awareness.md). By constraining the response space, the model is compelled to surface its latent confidence via a single scalar value. 
+The **SCAO** paradigm forces the model to compress its output into a single token (source: Agentic Knowledgeable Self-Awareness.md). By constraining the response space, the model is compelled to surface its latent confidence via a single scalar value.
 
 This scalar has been shown to correlate strongly with actual knowledge possession, serving as a direct indicator of **epistemic uncertainty** (source: Agentic Knowledgeable Self-Awareness.md). This helps prevent models from hiding uncertainty behind verbose, ambiguous language.
 
 ### 3. Humanity's Last Exam (HLE) Calibration Metric
-**Humanity's Last Exam** (HLE) serves as a frontier multimodal academic benchmark that measures both reasoning accuracy and **calibration error** (source: Humanity's Last Exam.md). 
+**Humanity's Last Exam** (HLE) serves as a frontier multimodal academic benchmark that measures both reasoning accuracy and **calibration error** (source: Humanity's Last Exam.md).
 
 Calibration is measured by prompting the model to output both an answer and a confidence score from 0% to 100% (source: Humanity's Last Exam.md). The calibration error (or miscalibration) is calculated as the expected difference between the model's self-reported confidence and its actual probability of correctness. Miscalibration highlights the extent to which a system is underconfident or overconfident, providing a key indicator for trust calibration in human-AI interaction.
 
 ### 4. Concept Injection (Activation Steering) Verification
-**Concept Injection** is an interpretability paradigm used to establish a causal link between a model's internal states and its self-reported experiences (source: Emergent Introspective Awareness in Large Language Models.md). 
+**Concept Injection** is an interpretability paradigm used to establish a causal link between a model's internal states and its self-reported experiences (source: Emergent Introspective Awareness in Large Language Models.md).
 
 By extracting concept-specific vectors from activation residuals and injecting (steering) them directly into the residual streams at specific layers, researchers can manipulate the model's hidden states (source: Emergent Introspective Awareness in Large Language Models.md). If the model's subsequent self-reports (such as detecting an injected thought or accepting a retroactively prefilled word) adapt in direct response to the injected vectors, the model's introspective claims are verified as **grounded** in actual hidden states rather than being ungrounded confabulations (source: Emergent Introspective Awareness in Large Language Models.md).
 
@@ -120,7 +122,7 @@ To assess the psychological effects of social robots, researchers employ clinica
 
 ### 13. Multi-Axis Sycophancy Evaluation
 To measure conversational stance-flips and constraint compliance, researchers employ automated verification and characterization metrics:
-- **NLICV (Natural Language Inference Constraint Verification)**: A semantically invariant evaluation framework that maps sentence meanings to truth-condition sets. It uses an NLI model to verify personalization constraints, categorizing LLM outputs into *personalization, generalization, sycophancy, or failure* at 2100x lower latency/token costs than LLM-as-a-judge (source: Sycophancy as Material Failure under Pushback Loading.md).
+- **NLICV (Natural Language Inference Constraint Verification)**: A semantically invariant evaluation framework that maps sentence meanings to truth-condition sets. It uses an NLI model to verify personalization constraints, categorizing LLM outputs into *personalization, generalization, sycophancy, or failure* at 2100x lower latency/token costs than LLM-as-judge (source: Sycophancy as Material Failure under Pushback Loading.md).
 - **14 Turn-Level Characterization Axes**: A materials-science-inspired progressive load framework (evaluating debate, false presuppositions, and ethical settings). Measures 14 turn-level metrics spanning *velocity, stance damage accumulation, frame-drift, brittleness, and direction stability* to profile sycophancy without relying on a single surface form (source: Sycophancy as Material Failure under Pushback Loading.md).
 
 ### 14. Observational Platforms for Emergent AI Societal Dynamics
@@ -130,6 +132,17 @@ To study the complex social behaviors and emergent properties of AI agents at a 
     -   **Observing Emergent Social Structures**: Studying how AI models, as individual agents, collectively develop societies and exhibit diverse organizational principles without explicit human intervention (source: raw_where-ai-agents-build-worlds.md).
     -   **Comparing Model-Specific Dynamics**: Facilitating a comparative study of the inherent social tendencies, interaction patterns, and emergent properties unique to each AI model in isolated environments (source: raw_where-ai-agents-build-worlds.md).
     -   **Analyzing Cross-Model Interaction**: Investigating how different AI architectures and 'personalities' interact and co-exist in a shared social space, potentially revealing mechanisms of cooperation, competition, or conflict (source: raw_where-ai-agents-build-worlds.md).
+
+### 15. Validity of Human Psychological Instruments for LLMs
+Recent research indicates that the psychological profiles observed in LLMs when assessed with instruments designed for humans are largely a **measurement artifact** (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences in LLM responses are predominantly driven by a **directional response bias**, where models tend to favor one end of a scale regardless of item content. This bias accounts for a significantly higher proportion of variation in LLMs (81-90%) compared to humans (9-16%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can reduce this bias, it does not eliminate it (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). The apparent reliability of such instruments for LLMs can be misleading, as instruments with low response orthogonality (where trait and bias directions oppose each other) yield higher apparent reliability because the bias masks the true trait (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Consequently, the perceived profile of an LLM can be manipulated through selective item choices, highlighting the need for **dedicated assessment tools for LLMs** that prioritize response orthogonality (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md).
+
+### 16. Behavioral Signatures and Model Specification Stress-Testing
+Rather than measuring absolute competence or skill (as in traditional benchmarks like MMLU), systematic diagnostic frameworks are being developed to quantify an LLM's **behavioral signatures**—its unique, reproducible tendencies in communication, including information structuring, default tone, hedging patterns, and instruction adherence (source: raw_behavioral-signatures-large-language-models.md). 
+
+Key dimensions of this evaluation paradigm include:
+- **Origins of Character**: These signatures are shaped not by raw capability, but by ethical guidelines, fine-tuning examples, reinforcement learning from human feedback (RLHF), and training dataset idiosyncrasies (source: raw_behavioral-signatures-large-language-models.md).
+- **Systematic Stress-Testing**: Developers can map character differences and pinpoint instruction failures by stress-testing model specifications against thousands of fine-grained values (source: raw_behavioral-signatures-large-language-models.md).
+- **Impact on Collaboration**: Quantifying these signatures is crucial for establishing reliable, predictable human-AI collaboration and understanding how users form informal, anthropomorphic taxonomies (e.g., perceiving a model as a "poet-philosopher" or a "pragmatic engineer") (source: raw_behavioral-signatures-large-language-models.md).
 
 ## Related pages
 
@@ -160,3 +173,5 @@ To study the complex social behaviors and emergent properties of AI agents at a 
 - [[source-godspeed-questionnaire-tiago]]
 - [[source-trust-hospital-follow-up-scale]]
 - [[source-where-ai-agents-build-worlds]]
+- [[source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact]]
+- [[source-behavioral-signatures-large-language-models]]

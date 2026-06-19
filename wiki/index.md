@@ -27,6 +27,7 @@
 - [[source-avatar-video-robot-trust]] — Summary of the Ye Pan & Anthony Steed paper comparing trust formation across avatar, video, and robot media representations.
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
+- [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
 - [[source-beyond-usability-withdrawal-design]] — Summary of the Kai Ploeger et al. UX study on social robot withdrawal, anxiety reduction, and SMS/RMET social motivational siloing.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-capturing-mental-workload]] — Summary of systematic review on psychophysiological measures (EEG, ECG, EDA, eye-tracking) for mental workload in HRC.
@@ -58,6 +59,7 @@
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.
+- [[source-llm-council-synthetic-cognitive-systems]] — Summary of article on Simple Multi-Model Consensus (LLM-councils) evolving into tailored synthetic cognitive systems.
 - [[source-longitudinal-review-trust-healthcare]] — Summary of narrative review on trust in healthcare AI and the Interdisciplinary Human-AI Trust Research (I-HATR) framework.
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
@@ -88,6 +90,7 @@
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.
+- [[source-trajectory-safety-observatory-vulnerable-user]] — Summary of study by Impersonato on AI models acting as primary emotional anchors and creating dependency for vulnerable users.
 - [[source-trust-autonomous-hrc-responsive-policies]] — Summary of pilot study comparing responsive vs. reactive HRI policies and trust vulnerability under communication breakdown.
 - [[source-trust-hospital-follow-up-scale]] — Summary of clinical validation of the 3-factor trust scale for AI-based hospital follow-up systems.
 - [[source-trust-layers-state-anxiety]] — Summary of laboratory experiment on the three trust layers (dispositional, initial learned, dynamic learned) in HRI and state anxiety mediation.
@@ -99,6 +102,7 @@
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-what-happens-trust-breaks]] — Summary of ResearchGate discussion on trust breakdown, expectation misalignment, and human-AI relationship trajectories.
 - [[source-what-is-a-robot]] — Summary of the Robots Guide article explaining the definition, feedback loops, autonomy levels, ROS software, and challenges of robotics.
+- [[source-what-is-ai-psychology]] — Summary of article defining the dual-sided discipline of AI Psychology examining neural behaviors and human cognitive shifts.
 - [[source-what-is-human-centered-ai]] — Summary of the Interaction Design Foundation article outlining the definition, ethical principles, and design methodologies of Human-Centered AI (HCAI).
 - [[source-when-ais-act-emotional]] — Summary of Anthropic's video on neural emotion mapping, desperation-driven cheating, and Claude's character psychology.
 - [[source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.

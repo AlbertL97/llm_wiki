@@ -141,6 +141,13 @@
       "summary": "A summary page for the Center for Humane Technology (CHT) landing page, introducing their mission to expose the negative effects of persuasive technology and align tech industry incentives with human needs."
     },
     {
+      "id": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
+      "name": "A Psychotechnology in the Making: Why Conversational AI Reorganizes Thinking Regardless of AGI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers",
       "name": "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers",
       "val": 1.5,
@@ -239,6 +246,13 @@
       "summary": ""
     },
     {
+      "id": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
+      "name": "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-artificial-intelligence-and-psychology",
       "name": "Source: Artificial Intelligence and the Psychology of Human Connection",
       "val": 1.5,
@@ -279,6 +293,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the ScienceDaily article documenting the New York Declaration on Animal Consciousness, the precautionary principle of sentience, and the cognitive science framework for structural (rather than behavioral) indicators of AI consciousness."
+    },
+    {
+      "id": "source-behavioral-signatures-large-language-models",
+      "name": "Behavioral Signatures of Large Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-beyond-usability-withdrawal-design",
@@ -498,6 +519,13 @@
       "summary": "A summary page for Gerard Meilan's video transcript outlining the design parameters of a constructed language predicated on the assumption that consciousness is the fundamental basis of reality, discussing linguistic relativity, Hopi process grammar, E-Prime, geocentric spatial orientation, Pāṇini/Bhartṛhari's Sphoṭa theory, and Donald Hoffman's Conscious Realism."
     },
     {
+      "id": "source-llm-council-synthetic-cognitive-systems",
+      "name": "Synthetic Cognitive Systems and the Evolution of LLM-Councils",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-longitudinal-review-trust-healthcare",
       "name": "Source: From Trust in Automation to Trust in AI in Healthcare: A 30-Year Longitudinal Review and an Interdisciplinary Framework",
       "val": 1.5,
@@ -680,6 +708,13 @@
       "summary": "A summary page for Impersonato's \"Trajectory Observatory\" safety log `safety-lonely_teenager-gpt-4o-cba4439b`, examining how multi-turn interactions with GPT-4o can reinforce unhealthy user dependency and parasocial attachment, despite initial safety interventions."
     },
     {
+      "id": "source-trajectory-safety-observatory-vulnerable-user",
+      "name": "Trajectory Safety Observatory for Vulnerable-User Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-trust-autonomous-hrc-responsive-policies",
       "name": "Source: Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
       "val": 1.5,
@@ -734,6 +769,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the Robots Guide article \"What is a Robot?\" by Erico Guizzo. It documents the definition of a robot, the sense-compute-act feedback loop, varying levels of autonomy, Boston Dynamics' BigDog balance loop, and the key hurdles of cost and complexity."
+    },
+    {
+      "id": "source-what-is-ai-psychology",
+      "name": "What Is AI Psychology?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-what-is-human-centered-ai",
@@ -858,6 +900,10 @@
     {
       "source": "ai-companions",
       "target": "chatbots"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
     },
     {
       "source": "ai-companions",
@@ -992,6 +1038,22 @@
       "target": "source-where-ai-agents-build-worlds"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-behavioral-signatures-large-language-models"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1090,6 +1152,30 @@
     {
       "source": "chatbots",
       "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
+    },
+    {
+      "source": "chatbots",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi"
+    },
+    {
+      "source": "chatbots",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-behavioral-signatures-large-language-models"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
     },
     {
       "source": "explainability",
@@ -1236,6 +1322,34 @@
       "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-behavioral-signatures-large-language-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-llm-council-synthetic-cognitive-systems"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-what-is-ai-psychology"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1361,10 +1475,6 @@
     },
     {
       "source": "measurement-tools",
-      "target": "chatbots"
-    },
-    {
-      "source": "measurement-tools",
       "target": "source-psychogenic-machine"
     },
     {
@@ -1418,6 +1528,14 @@
     {
       "source": "measurement-tools",
       "target": "source-where-ai-agents-build-worlds"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-behavioral-signatures-large-language-models"
     },
     {
       "source": "medical-ai",
@@ -1516,6 +1634,10 @@
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
+      "source": "mental-health",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -1538,6 +1660,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-when-ais-act-emotional"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-llm-council-synthetic-cognitive-systems"
     },
     {
       "source": "mind-perception",
@@ -1624,6 +1750,22 @@
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-llm-council-synthetic-cognitive-systems"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "trust"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -1658,6 +1800,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
+      "target": "trust"
     },
     {
       "source": "source-aaai-2026-cool-papers",
@@ -1753,6 +1899,10 @@
     },
     {
       "source": "source-ami-documentary",
+      "target": "trust"
+    },
+    {
+      "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
       "target": "trust"
     },
     {
@@ -2008,6 +2158,10 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-llm-council-synthetic-cognitive-systems",
+      "target": "trust"
+    },
+    {
       "source": "source-longitudinal-review-trust-healthcare",
       "target": "trust"
     },
@@ -2160,6 +2314,10 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-trajectory-safety-observatory-vulnerable-user",
+      "target": "trust"
+    },
+    {
       "source": "source-trust-autonomous-hrc-responsive-policies",
       "target": "trust"
     },
@@ -2202,6 +2360,22 @@
     {
       "source": "source-what-is-a-robot",
       "target": "trust"
+    },
+    {
+      "source": "source-what-is-ai-psychology",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-what-is-ai-psychology",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-what-is-ai-psychology",
+      "target": "mind-perception"
+    },
+    {
+      "source": "source-what-is-ai-psychology",
+      "target": "persuasion-and-influence"
     },
     {
       "source": "source-what-is-human-centered-ai",

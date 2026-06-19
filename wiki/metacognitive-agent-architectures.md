@@ -9,8 +9,9 @@
 - Imagining and building wise machines_ the centrality of AI metacognition.md
 - Scientists Just Proved AI Has EMOTIONS… It Can LIE, CHEAT & BLACKMAIL.md
 - When AIs act emotional.md
+- raw_llm-council-synthetic-cognitive-systems.md
 
-**Last updated**: 2026-06-06
+**Last updated**: 2026-06-19
 
 ---
 
@@ -70,6 +71,13 @@ A key limit in self-improving metacognitive architectures is that automating one
 - **Friction Shifts**: When code generation and execution are automated, the bottleneck shifts from writing code to human code review, verification, and evaluation (source: When AI builds itself.md).
 - **Cognitive Overflow**: The exponential increase in agent-generated ideas and simulations quickly saturates the human capacity for oversight, making "research taste" and goal-selection the critical remaining human comparative advantages (source: When AI builds itself.md).
 
+### 9. Multi-Model Councils and Synthetic Cognitive Systems
+Rather than relying on single-agent reasoning pathways, advanced metacognitive architectures are evolving into interactive synthetic cognitive systems that utilize multi-model councils and deep human integration (source: raw_llm-council-synthetic-cognitive-systems.md).
+- **Variance as a Signal**: Running a council of multiple models allows the system to analyze response distribution and variance. This highlights where answers collapse into a reliable consensus versus where they are driven by model-specific training artifacts, styles, or ideological biases (source: raw_llm-council-synthetic-cognitive-systems.md).
+- **Explicit User Modeling**: To deliver truly effective advice, the cognitive architecture must actively model the specific user's psychological traits—such as risk tolerance, energy, incentives, ethical boundaries, and comfort with ambiguity—rather than relying on generic "best practices" (source: raw_llm-council-synthetic-cognitive-systems.md).
+- **Debiasing Persuasion Engines**: Because LLMs produce highly convincing, clean narratives, they naturally function as persuasion engines. Metacognitive systems mitigate this risk by embedding structured debiasing protocols—such as forced uncertainty, premortems, and checklists—similar to those used in healthcare safety (source: raw_llm-council-synthetic-cognitive-systems.md).
+- **Integrating Intuitive Loops**: High-quality decision-making often begins as weak, intuitive human signals (e.g., somatic feelings or vague discomfort). A functional metacognitive loop translates these subjective inputs into formal hypotheses and constraints for the LLM council to test and validate (source: raw_llm-council-synthetic-cognitive-systems.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -80,3 +88,4 @@ A key limit in self-improving metacognitive architectures is that automating one
 - [[source-wise-machines-metacognition]]
 - [[source-scientists-proved-emotions]]
 - [[source-when-ais-act-emotional]]
+- [[source-llm-council-synthetic-cognitive-systems]]
