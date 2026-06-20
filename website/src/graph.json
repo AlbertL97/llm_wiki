@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, and advanced turn-taking capabilities for natural multiparty interactions."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, and developmental motor learning through bidirectional tutoring. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences."
     },
     {
       "id": "index",
@@ -309,6 +309,13 @@
       "summary": "An 8-week randomized controlled trial (N=40) demonstrating that while continuous social robot access reduces anxiety, it decreases children's social motivation and emotion recognition gains compared to withdrawing the robot, suggesting \"withdrawal design\" is crucial to avoid siloing relationships."
     },
     {
+      "id": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots",
+      "name": "Source Summary: Bidirectional Tutoring for Developmental Motor Learning in Robots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-capturing-mental-workload",
       "name": "Source: Capturing Mental Workload Through Physiological Sensors in Human-Robot Collaboration: A Systematic Literature Review",
       "val": 1.5,
@@ -374,6 +381,13 @@
     {
       "id": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "name": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai",
+      "name": "Source Summary: Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1054,6 +1068,10 @@
       "target": "source-trajectory-safety-observatory-vulnerable-user"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1350,6 +1368,14 @@
       "target": "source-what-is-ai-psychology"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1412,6 +1438,14 @@
     {
       "source": "human-robot-interaction",
       "target": "source-muvap-turn-taking-prediction"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
     },
     {
       "source": "introspective-awareness",
@@ -1536,6 +1570,14 @@
     {
       "source": "measurement-tools",
       "target": "source-behavioral-signatures-large-language-models"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
     },
     {
       "source": "medical-ai",

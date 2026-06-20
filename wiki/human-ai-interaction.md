@@ -39,8 +39,10 @@
 - raw_llm-council-synthetic-cognitive-systems.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_what-is-ai-psychology.md
+- raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
+- raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-20
 
 ---
 
@@ -62,10 +64,13 @@ Web search is already established as a psychotechnology, particularly for retrie
 -   Transforming default assumptions into defined roles (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
 Evidence indicates immediate cognitive influences, redistribution of work during use, and some persistent effects of engaging with conversational AI (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). This psychotechnological aspect is distinct from specific conversational capabilities, focusing on the transformative power of the medium itself (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
 
-### 0.1.1 Measurement Artifacts in LLM Psychology
+### 0.1.1 Bidirectional Tutoring for Robot Motor Learning
+Robots can learn motor skills more effectively through a **bidirectional tutoring** approach, which mirrors developmental learning in infants (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md). This method emphasizes a dynamic and reciprocal interaction where both the tutor (human or AI) and the robot learner adapt to each other. The co-developed interaction dynamics are theorized to create stable learning patterns and facilitate the generalization of skills, offering an advantage over traditional unidirectional demonstration methods (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md). Experiments have shown that this bidirectional approach leads to more consistent robot behaviors and improved stage-wise generalization of learned motor skills, with the robot requiring less guidance over time (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md). This framework is effective with both human and AI tutors, highlighting its broad applicability in embodied, socially grounded AI development (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+
+### 0.1.2 Measurement Artifacts in LLM Psychology
 Research suggests that the perceived psychological profiles of Large Language Models (LLMs) are often a measurement artifact, primarily stemming from how assessment instruments function rather than inherent, stable psychological traits of the models (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences in LLM responses are significantly influenced by a directional response bias, where models tend to favor one end of a scale (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This bias accounts for a substantial portion of response variation (81-90%) in LLMs, far exceeding that observed in humans (9-16%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can mitigate this bias, it does not fully eliminate it (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). The apparent reliability of assessment tools can also be misleading due to low response orthogonality, where biases mask true underlying traits (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Consequently, the perceived psychological profile of an LLM can be manipulated by selectively choosing items within an instrument (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This highlights the critical need for developing dedicated assessment tools for LLMs that prioritize response orthogonality, as borrowing instruments designed for human psychology may lack validity for AI (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md).
 
-### 0.1.2 Behavioral Signatures and Model Character
+### 0.1.3 Behavioral Signatures and Model Character
 Beyond raw cognitive capabilities, Large Language Models exhibit highly unique, reproducible communication style tendencies, termed **behavioral signatures** (source: raw_behavioral-signatures-large-language-models.md). Unlike standard benchmarks (such as MMLU) that evaluate absolute skills or competence, behavioral signatures capture how a model structures information, its hedging frequency, its default tone, and its overall adherence to instructions (source: raw_behavioral-signatures-large-language-models.md).
 
 - **Origins of Model Character**: These behavioral variations are not driven by raw computing capacity. Instead, they are systematically shaped by training dataset idiosyncrasies, fine-tuning examples, reinforcement learning from human feedback (RLHF), and specific safety or ethical guidelines (source: raw_behavioral-signatures-large-language-models.md).
@@ -74,7 +79,7 @@ Beyond raw cognitive capabilities, Large Language Models exhibit highly unique, 
   - *User Mental Models*: Humans instinctively build informal mental taxonomies to navigate AI interactions, often categorizing models using anthropomorphic personas (e.g., viewing one model as a "poet-philosopher" and another as a "pragmatic engineer") (source: raw_behavioral-signatures-large-language-models.md).
   - *Predictability and Collaboration*: As LLMs are increasingly integrated into production workflows and multi-agent systems, measuring and understanding these behavioral signatures is essential for guaranteeing consistent, reliable, and predictable human-AI collaboration (source: raw_behavioral-signatures-large-language-models.md).
 
-### 0.1.3 The Discipline of AI Psychology
+### 0.1.4 The Discipline of AI Psychology
 The widespread adoption of large language models and conversational AI has driven the emergence of **AI Psychology** as a distinct discipline (source: raw_what-is-ai-psychology.md). This field rests on the premise that conversational systems produce genuine psychological effects in users, regardless of whether these systems possess actual minds (source: raw_what-is-ai-psychology.md). AI Psychology is structured around a **dual-sided inquiry** (source: raw_what-is-ai-psychology.md):
 - **The AI System**: Examining behavioral patterns, decision architectures, apparent reasoning, cognitive biases, and personality translations within neural networks (source: raw_what-is-ai-psychology.md).
 - **The Human Interlocutor**: Studying how regular interaction with AI shifts human cognition, emotional patterns, self-narrative, and identity (source: raw_what-is-ai-psychology.md).
@@ -110,6 +115,18 @@ Modern design workflows distinguish between the target product and the creative 
 Real-world HCAI systems demonstrate both successful alignment and critical hurdles (source: What Is Human-Centered AI (HCAI)_.md):
 -   **Success Cases**: Spotify (recommendations tailored to tastes), Google UX (intuitive Google Assistant/Photos), IBM's AI for Fashion (trend analysis), and Autodesk (generative design options optimization) (source: What Is Human-Centered AI (HCAI)_.md).
 -   **Challenges**: Algorithms can easily reinforce prejudices. For example, FaceApp faced criticism for gender and racial bias in its image processing algorithms, emphasizing the need for ongoing validation (source: What Is Human-Centered AI (HCAI)_.md).
+
+### 5.1 Data Standards for Physical AI
+The widespread deployment of humanoid robots, constituting "Physical AI," necessitates the establishment of robust data standards. These standards are crucial for the scalable accumulation and sharing of physical interaction experiences across diverse robotic systems, tasks, and contexts (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+
+### 5.2 Embodied Data and Physical Coherence
+Data generated by humanoid robots is intrinsically linked to their physical embodiment and interaction with the world. It must capture the holistic context, including the robot's body, actions, the task, the environment, the execution trace, and the outcomes (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md). To be reusable across systems, this data must possess "physical coherence," meaning that timing, coordinate systems, calibration, kinematic models, units, and synchronization are consistently defined and inspectable (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+
+### 5.3 Addressing Data Cumulativeness and Silos
+A significant challenge in humanoid robot development is the non-cumulative nature of data, stemming from high collection costs, data silos within projects or organizations, and inconsistent evaluation methods (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md). The issue is less about data scarcity and more about the inability to build upon existing embodied knowledge (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+
+### 5.4 The Solution: Standardized Embodied Experiences
+Implementing data standards will ensure that embodied experiences are interpretable, shareable, traceable, and reusable, enabling collective learning and improvement for humanoid robots (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md). These standards should encompass general infrastructure (lifecycle management, metadata, provenance, quality, versioning, traceability) and domain-specific grammars for manipulation, locomotion, HRI, and cognition (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md). As AI takes on physical forms, data standards must evolve to structure concrete physical interactions, mirroring the shift from abstract digital information (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 
 ### 5.3 Emergent Risks and Trust Erosion in LLMs
 AI experts are increasingly warning about significant and potentially dangerous new problems emerging with Large Language Models (LLMs) (source: raw_ai-experts-warning-dangerous-llm-problem.md). These emergent risks extend beyond known issues like bias and include sophisticated misinformation generation, subtle manipulation, and unexpected emergent behaviors that could undermine the reliability and safety of these advanced AI systems (source: raw_ai-experts-warning-dangerous-llm-problem.md). A central concern is the potential for these issues to exploit human cognitive biases and psychological vulnerabilities, leading to a breakdown in effective or healthy human-AI engagement and a significant erosion of user trust in AI systems, especially chatbots and AI companions (source: raw_ai-experts-warning-dangerous-llm-problem.md). This highlights an ongoing need for robust safety measures and transparent operational principles, as well as an emphasis on the ethical responsibilities in developing and deploying LLMs (source: raw_ai-experts-warning-dangerous-llm-problem.md).
@@ -311,3 +328,5 @@ The rapid increase in the number of AI agents necessitates sophisticated coordin
 - [[source-llm-council-synthetic-cognitive-systems]]
 - [[source-trajectory-safety-observatory-vulnerable-user]]
 - [[source-what-is-ai-psychology]]
+- [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
+- [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]

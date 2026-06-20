@@ -1,8 +1,8 @@
 # Human-Robot Interaction
 
-**Summary**: The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, and advanced turn-taking capabilities for natural multiparty interactions.
+**Summary**: The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, and developmental motor learning through bidirectional tutoring. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences.
 
-**Sources**:  
+**Sources**:
 - Human Robot Interactions.md
 - iCubWorld.md
 - Welcome to Furhat Robotics.md
@@ -16,14 +16,16 @@
 - Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md
 - Beyond Usability - Withdrawal Design in Social Robotics.md
 - raw_muvap-turn-taking-prediction.md
+- raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
+- raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 
-**Last updated**: 2026-06-16
+**Last updated**: 2026-06-20
 
 ---
 
 ## Main content
 
-**Human-Robot Interaction (HRI)** is an interdisciplinary field dedicated to understanding, designing, and evaluating robotic systems for use by or with humans. While human-AI interaction often focuses on virtual, disembodied agents, HRI is characterized by physical embodiment, real-world agency, and co-present spatial collaboration (sources: Human Robot Interactions.md; iCubWorld.md).
+**Human-Robot Interaction (HRI)** is an interdisciplinary field dedicated to understanding, designing, and evaluating robotic systems for use by or with humans. While human-AI interaction often focuses on virtual, disembodied agents, HRI is characterized by physical embodiment, real-world agency, and co-present spatial collaboration (sources: Human Robot Interactions.md; iCubWorld.md). The evolution towards "Physical AI," where robots interact directly with the physical world, necessitates the development of robust data standards to facilitate the accumulation and sharing of embodied experiences across diverse robotic systems and tasks (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -33,7 +35,7 @@ Emergency response (ER) and disaster recovery settings represent high-stress env
 ### 2. The AMELIA Work 4.0 Architecture (Mind-Motor-Machine Nexus)
 To ensure safety and efficiency during collaborative work, HRI systems must monitor and adjust to the human user's state (source: Human Robot Interactions.md):
 - **AMELIA Architecture**: Augments human cognition by classifying HRI tasks vulnerable to system failures and mapping the "mind motor machine nexus" (source: Human Robot Interactions.md).
-- **Neurophysiological Capability Models**: The system monitors workload, cognitive load, fatigue, stress, and trust in real time (source: Human Robot Interactions.md). 
+- **Neurophysiological Capability Models**: The system monitors workload, cognitive load, fatigue, stress, and trust in real time (source: Human Robot Interactions.md).
 - **AR Mutual Learning**: AMELIA integrates an augmented reality (AR) layer that allows humans and collaborative robots to mutually communicate and learn current states, modifying the robot's autonomy or the human's task load to prevent safety violations (source: Human Robot Interactions.md).
 
 ### 3. Human-Exoskeleton Neuroergonomic Fit
@@ -44,7 +46,7 @@ To ensure safety and efficiency during collaborative work, HRI systems must moni
 To cooperate effectively with humans, robots must possess reliable, real-world visual perception (source: iCubWorld.md):
 - **Benchmarking Visual Vision**: Humanoid vision systems must recognize objects under varying conditions. The iCubWorld project benchmarks vision algorithms using images captured from the iCub humanoid robot's cameras (source: iCubWorld.md).
 - **Natural HRI Data Collection**: Rather than relying on static internet datasets, iCubWorld utilizes an interactive HRI application (source: iCubWorld.md). A human teacher verbally labels objects and shows them to the robot in real time (source: iCubWorld.md).
-- **Dual Acquisition Modalities**: 
+- **Dual Acquisition Modalities**:
   - *Human Mode*: The teacher holds and moves the object; the robot tracks it using motion and depth cues (source: iCubWorld.md).
   - *Robot Mode*: The robot takes the object in its own hand, focusing on it using joint kinematics knowledge and self-supervision (source: iCubWorld.md).
 - **Transformation Invariance**: To operate in complex human environments, models are trained on datasets representing isolated visual transformations (variations in rotation, scale, and illumination) to build invariance to real-world nuisances (source: iCubWorld.md).
@@ -87,6 +89,21 @@ In social HRI, especially for vulnerable populations (e.g. child development and
 - **Usability Masking Ecological Downsides**: An 8-week home-based randomized controlled trial (N=40) using the Qrobot social robot showed that children with continued access suffered from lower social motivation (SMS) and weaker emotion recognition gains (RMET) compared to children from whom the robot was withdrawn, despite exceptionally high usability scores (SUS) (source: Beyond Usability - Withdrawal Design in Social Robotics.md).
 - **The Scaffold & Designed Separation**: Continued robot use kept social behavior siloed within the child-robot dyad. Actively implementing a "withdrawal design"—designed separation—is necessary to break this siloing and prompt users to seek out and bridge back to human-to-human relationships (source: Beyond Usability - Withdrawal Design in Social Robotics.md).
 
+### 12. Data Standards for Physical AI
+The scalable deployment of humanoid robots and the advancement of "Physical AI" depend on the establishment of robust data standards that can capture and share embodied physical interaction experiences (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+- **Embodied Data Requirements**: Data generated by humanoid robots must capture the holistic context of physical interaction, including the robot's body, actions, the task, environment, event sequences, and outcomes. Isolated data points are insufficient (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+- **Physical Coherence is Crucial**: For data to be reusable across different systems, it must possess physical coherence, with consistently defined and inspectable elements like timing, coordinate systems, calibration, kinematic models, units, and synchronization (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+- **Addressing Data Cumulativeness**: Current challenges in humanoid robot development stem from non-cumulative data due to high collection costs, data silos, and inconsistent evaluation methods. Data standards are proposed to overcome these bottlenecks, enabling collective learning and improvement (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+- **Scope of Standards**: Standards should cover general infrastructure (lifecycle management, metadata, provenance, quality, versioning, traceability) and domain-specific grammars for manipulation, locomotion, HRI, and cognition (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+
+### 13. Bidirectional Tutoring for Developmental Motor Learning
+The learning of motor skills in robots can be significantly enhanced through a reciprocal, developmental approach mirroring infant learning. This contrasts with traditional unidirectional demonstration methods.
+- **Reciprocal Interaction for Skill Acquisition**: Robots learning through bidirectional tutoring, where both the tutor (human or AI) and the robot dynamically adapt to each other, demonstrate more effective motor skill acquisition compared to passive reception of demonstrations (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+- **Stable Learning Dynamics Through Co-Development**: The co-developed interaction dynamic in bidirectional tutoring creates constraints that foster consistent behavioral patterns and stable learning (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+- **Enhanced Generalization**: Robots trained bidirectionally show improved stage-wise generalization of learned motor skills, indicating a more robust understanding of the task (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+- **Reduced Tutor Dependency**: Over time, robots employing bidirectional tutoring require progressively less guidance, suggesting increased learning autonomy (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+- **Tutor Agnosticism**: This framework is effective with both human and AI tutors, highlighting its broad applicability in embodied AI development (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -108,3 +125,5 @@ In social HRI, especially for vulnerable populations (e.g. child development and
 - [[source-trust-autonomous-hrc-responsive-policies]]
 - [[source-active-interaction-strategy]]
 - [[source-muvap-turn-taking-prediction]]
+- [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
+- [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]

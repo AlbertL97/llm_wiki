@@ -962,3 +962,28 @@
 **Open issues**:  
 - None.
 
+
+
+## 2026-06-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
+- raw/raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/source-bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI" and created summary page wiki/source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md.
+- Ingested "Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning" and created summary page wiki/source-bidirectional-tutoring-for-developmental-motor-learning-in-robots.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

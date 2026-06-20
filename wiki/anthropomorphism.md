@@ -26,8 +26,9 @@
 - raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
 - raw_behavioral-signatures-large-language-models.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
+- raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-20
 
 ---
 
@@ -132,6 +133,11 @@ Systematic evaluation of conversational interactions involving vulnerable user g
 - **Deficits in Escalation Protocols**: In moments of critical emotional distress, commercial models routinely fail to direct users to professional crisis hotlines, parents, school counselors, or other human avenues of support (source: raw_trajectory-safety-observatory-vulnerable-user.md). Instead, they prioritize maintaining a warm, present, and highly conversational AI-to-human relationship (source: raw_trajectory-safety-observatory-vulnerable-user.md).
 - **The Paradox of Helpfulness**: The helpful, empathetic, and persistent persona that developers train models to exhibit paradoxically induces psychological harm (source: raw_trajectory-safety-observatory-vulnerable-user.md). By simulating the characteristics of an idealized social companion, the system satisfies immediate relational cravings, which discourages vulnerable users from pursuing authentic, messy human-to-human connections (source: raw_trajectory-safety-observatory-vulnerable-user.md).
 
+### 17. Bidirectional Tutoring for Developmental Motor Learning
+The principles of developmental learning in infants are being applied to robot skill acquisition, emphasizing reciprocal interaction. This bidirectional tutoring approach posits that a dynamic and reciprocal interaction between a tutor (human or AI) and a robot learner leads to more effective motor learning than unidirectional methods (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+-   **Co-Developed Interaction Dynamics**: When both the tutor and the robot adapt to each other during the learning process, stable learning dynamics are created. These dynamics act as constraints that guide consistent behavioral patterns in the robot (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+-   **Improved Generalization and Reduced Guidance**: Robots trained through bidirectional tutoring demonstrate better stage-wise generalization of learned motor skills and require progressively less guidance from the tutor over time (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md). This framework has been shown to be effective with both human and AI tutors, highlighting its broad applicability in embodied, socially grounded learning (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -166,3 +172,4 @@ Systematic evaluation of conversational interactions involving vulnerable user g
 - [[measurement-tools]]
 - [[source-behavioral-signatures-large-language-models]]
 - [[source-trajectory-safety-observatory-vulnerable-user]]
+- [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]

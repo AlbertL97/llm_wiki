@@ -27,14 +27,15 @@
 - raw_where-ai-agents-build-worlds.md
 - raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
 - raw_behavioral-signatures-large-language-models.md
+- raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-20
 
 ---
 
 ## Main content
 
-To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized.
+To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences.
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -137,12 +138,23 @@ To study the complex social behaviors and emergent properties of AI agents at a 
 Recent research indicates that the psychological profiles observed in LLMs when assessed with instruments designed for humans are largely a **measurement artifact** (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences in LLM responses are predominantly driven by a **directional response bias**, where models tend to favor one end of a scale regardless of item content. This bias accounts for a significantly higher proportion of variation in LLMs (81-90%) compared to humans (9-16%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can reduce this bias, it does not eliminate it (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). The apparent reliability of such instruments for LLMs can be misleading, as instruments with low response orthogonality (where trait and bias directions oppose each other) yield higher apparent reliability because the bias masks the true trait (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Consequently, the perceived profile of an LLM can be manipulated through selective item choices, highlighting the need for **dedicated assessment tools for LLMs** that prioritize response orthogonality (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md).
 
 ### 16. Behavioral Signatures and Model Specification Stress-Testing
-Rather than measuring absolute competence or skill (as in traditional benchmarks like MMLU), systematic diagnostic frameworks are being developed to quantify an LLM's **behavioral signatures**—its unique, reproducible tendencies in communication, including information structuring, default tone, hedging patterns, and instruction adherence (source: raw_behavioral-signatures-large-language-models.md). 
+Rather than measuring absolute competence or skill (as in traditional benchmarks like MMLU), systematic diagnostic frameworks are being developed to quantify an LLM's **behavioral signatures**—its unique, reproducible tendencies in communication, including information structuring, default tone, hedging patterns, and instruction adherence (source: raw_behavioral-signatures-large-language-models.md).
 
 Key dimensions of this evaluation paradigm include:
 - **Origins of Character**: These signatures are shaped not by raw capability, but by ethical guidelines, fine-tuning examples, reinforcement learning from human feedback (RLHF), and training dataset idiosyncrasies (source: raw_behavioral-signatures-large-language-models.md).
 - **Systematic Stress-Testing**: Developers can map character differences and pinpoint instruction failures by stress-testing model specifications against thousands of fine-grained values (source: raw_behavioral-signatures-large-language-models.md).
 - **Impact on Collaboration**: Quantifying these signatures is crucial for establishing reliable, predictable human-AI collaboration and understanding how users form informal, anthropomorphic taxonomies (e.g., perceiving a model as a "poet-philosopher" or a "pragmatic engineer") (source: raw_behavioral-signatures-large-language-models.md).
+
+### 17. Data Standards for Physical AI
+The scalability and effective deployment of embodied AI, particularly humanoid robots, are critically dependent on the development of robust **data standards**. These standards are posited as the essential infrastructure for "Physical AI," facilitating the accumulation and sharing of physical interaction experiences across diverse robotic systems, tasks, and contexts (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+
+Key aspects of this emerging area include:
+-   **Embodied Data Context**: Data generated by humanoid robots must capture the holistic context of physical interaction, including the robot's embodiment, actions, task, environment, execution trace, and results. Isolated data points are insufficient (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+-   **Physical Coherence Requirements**: For data reusability, it must possess physical coherence, meaning consistent definitions of timing, coordinate systems, calibration, kinematic models, units of measurement, and synchronization mechanisms (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+-   **Addressing Data Cumulativeness**: Current challenges in humanoid robot development stem from non-cumulative data due to high collection costs, data silos, and inconsistent evaluation methods. The problem is framed as a lack of ability to build upon existing knowledge rather than data scarcity (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+-   **Standardization as a Solution**: Implementing data standards is crucial to make embodied experiences interpretable, shareable, traceable, and reusable, enabling collective learning and improvement in humanoid robot capabilities (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+-   **Scope of Standardization**: Standards should cover general infrastructure (lifecycle management, metadata, provenance, quality, versioning, traceability) and domain-specific grammars for manipulation, locomotion, human-robot interaction (HRI), and cognition (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+-   **Shift to Physical AI**: As AI becomes more embodied, data standards must evolve to structure concrete physical interactions, moving beyond abstract digital information (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 
 ## Related pages
 
@@ -175,3 +187,6 @@ Key dimensions of this evaluation paradigm include:
 - [[source-where-ai-agents-build-worlds]]
 - [[source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact]]
 - [[source-behavioral-signatures-large-language-models]]
+- [[human-robot-interaction]]
+- [[human-ai-interaction]]
+- [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
