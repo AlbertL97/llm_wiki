@@ -533,8 +533,22 @@
       "summary": "A summary page for Gerard Meilan's video transcript outlining the design parameters of a constructed language predicated on the assumption that consciousness is the fundamental basis of reality, discussing linguistic relativity, Hopi process grammar, E-Prime, geocentric spatial orientation, Pāṇini/Bhartṛhari's Sphoṭa theory, and Donald Hoffman's Conscious Realism."
     },
     {
+      "id": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
+      "name": "Source Summary: A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-llm-council-synthetic-cognitive-systems",
       "name": "Synthetic Cognitive Systems and the Evolution of LLM-Councils",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation",
+      "name": "LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1196,6 +1210,14 @@
       "target": "source-trajectory-safety-observatory-vulnerable-user"
     },
     {
+      "source": "chatbots",
+      "target": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1376,6 +1398,14 @@
       "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1446,6 +1476,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
     },
     {
       "source": "introspective-awareness",
@@ -1578,6 +1612,10 @@
     {
       "source": "measurement-tools",
       "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
     },
     {
       "source": "medical-ai",
@@ -2198,6 +2236,10 @@
     {
       "source": "source-language-assumes-consciousness",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
+      "target": "trust"
     },
     {
       "source": "source-llm-council-synthetic-cognitive-systems",

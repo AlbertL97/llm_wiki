@@ -49,8 +49,9 @@
 - raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
 - raw_llm-council-synthetic-cognitive-systems.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
+- raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-21
 
 ---
 
@@ -270,6 +271,9 @@ A significant challenge in assessing LLMs with instruments designed for humans i
 - **Manufactured Profiles**: The perceived psychological profile of an LLM can be easily manipulated by selectively choosing items within an assessment instrument, highlighting the potential for generating artificial persona characteristics (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md).
 - **Need for Dedicated Assessments**: These findings underscore the necessity for developing novel assessment tools specifically designed for LLMs. Such tools should prioritize response orthogonality to ensure valid and reliable measurement of AI capabilities and characteristics, rather than relying on borrowed human psychology instruments (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This has implications for how we understand and attribute "trustworthiness" and other human-like qualities to AI.
 
+### 30. Security Frameworks for RAG-Based Chatbots and Trust
+Prompt injection presents a critical threat to the trustworthiness of Retrieval-Augmented Generation (RAG) chatbots, as malicious content embedded in retrieved documents can lead to policy overrides and system compromise (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). To address this, a three-layer security framework has been proposed, which includes input screening, provenance-based instruction hierarchies, and output auditing (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). By drastically reducing the success rate of prompt injection attacks, this framework aims to enhance the reliability and perceived trustworthiness of RAG systems (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -347,3 +351,4 @@ A significant challenge in assessing LLMs with instruments designed for humans i
 - [[source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact]]
 - [[source-llm-council-synthetic-cognitive-systems]]
 - [[source-trajectory-safety-observatory-vulnerable-user]]
+- [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]]

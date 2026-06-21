@@ -987,3 +987,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
+- raw/raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
+- wiki/human-robot-interaction.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots" and created summary page wiki/source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md.
+- Ingested "LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation" and created summary page wiki/source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

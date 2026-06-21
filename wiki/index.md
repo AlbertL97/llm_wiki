@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-06-20
+**Last updated**: 2026-06-21
 
 ## Orientation
 
@@ -29,7 +29,6 @@
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
-- [[source-beyond-usability-withdrawal-design]] — Summary of the Kai Ploeger et al. UX study on social robot withdrawal, anxiety reduction, and SMS/RMET social motivational siloing.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-capturing-mental-workload]] — Summary of systematic review on psychophysiological measures (EEG, ECG, EDA, eye-tracking) for mental workload in HRC.
 - [[source-chinas-next-ai-breakthrough]] — Summary of Bloomberg's report on China's Physical AI market dominance, state venture funds, and consumer humanoid developments.
@@ -62,7 +61,9 @@
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.
+- [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]] — Summary of A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots.
 - [[source-llm-council-synthetic-cognitive-systems]] — Summary of article on Simple Multi-Model Consensus (LLM-councils) evolving into tailored synthetic cognitive systems.
+- [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]] — Summary of LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation.
 - [[source-longitudinal-review-trust-healthcare]] — Summary of narrative review on trust in healthcare AI and the Interdisciplinary Human-AI Trust Research (I-HATR) framework.
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.

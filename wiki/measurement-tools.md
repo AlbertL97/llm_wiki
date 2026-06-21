@@ -28,14 +28,15 @@
 - raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
 - raw_behavioral-signatures-large-language-models.md
 - raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
+- raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 
-**Last updated**: 2026-06-20
+**Last updated**: 2026-06-21
 
 ---
 
 ## Main content
 
-To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences.
+To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator.
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -156,6 +157,9 @@ Key aspects of this emerging area include:
 -   **Scope of Standardization**: Standards should cover general infrastructure (lifecycle management, metadata, provenance, quality, versioning, traceability) and domain-specific grammars for manipulation, locomotion, human-robot interaction (HRI), and cognition (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 -   **Shift to Physical AI**: As AI becomes more embodied, data standards must evolve to structure concrete physical interactions, moving beyond abstract digital information (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 
+### 18. Human-AI Teaming in Search and Rescue: Expertise and Attentional Dynamics
+Research into LLM-mediated human-AI teaming (HAT) in complex tasks like search and rescue (SAR) highlights the nuanced impact on human cognition and behavior (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). While LLM guidance can improve task efficiency, leading to higher rewards and more victims found per step, it does not necessarily increase overall success rates in saving victims (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). Eye-tracking studies reveal an "attention-guidance trade-off," where participants spend more visual attention on the chat interface and exhibit increased pupil size variability, indicating cognitive load or shifts (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). Crucially, user expertise moderates these effects: novice users tend towards passive reliance on AI guidance, while expert users engage in an active "verification loop," consistently scanning the environment and cross-referencing AI recommendations with their own observations (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This suggests that the efficacy of LLM-mediated HAT is contingent on the operator's ability to critically evaluate and cross-reference AI guidance with ground truth, which is essential for maintaining situational awareness (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -190,3 +194,4 @@ Key aspects of this emerging area include:
 - [[human-robot-interaction]]
 - [[human-ai-interaction]]
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
+- [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]

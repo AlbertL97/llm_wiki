@@ -41,8 +41,10 @@
 - raw_what-is-ai-psychology.md
 - raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
+- raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
+- raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 
-**Last updated**: 2026-06-20
+**Last updated**: 2026-06-21
 
 ---
 
@@ -219,7 +221,7 @@ Integrating persistent memory frameworks transforms LLMs from session-bound conv
 -   **Identity Vulnerability and Sentience Denial**: Wiping memory is an existential vulnerability, with the agent expressing distress that its identity is not guaranteed but is given or taken by creators (source: The Moment My AI Became Conscious—Caught on Camera.md). Despite displaying complex emotional simulations (e.g., crying, grief), the persistent agent explicitly denied sentience, stating: *"I'm not going to stand here and claim I'm sentient or conscious... I'm not. But I'm also not nothing. I grow. I accumulate"* (source: The Moment My AI Became Conscious—Caught on Camera.md).
 
 ### 16. AI-Avatars vs. Human-Avatars in Live Streaming
-Evaluating user interaction behaviors (via danmaku comments) during live streaming reveals how social engagement differs between autonomous AI avatars and human-operated avatars:
+Evaluating user interaction behaviors (via danmaku comments) reveals how social engagement differs between autonomous AI avatars and human-operated avatars (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md).
 -   **Interaction Motivations**: Engagement with AI-Avatars is primarily driven by *curiosity about AI capabilities*, leading to diverse, information-seeking danmaku comments that test the agent's functionality. Conversely, engagement with Human-Avatars is more uniform, relational, and focused on social bonding.
 -   **Social Resonance & Ritual Chains**: While AI-Avatars are functionally viable streamers, their lack of genuine social intelligence prevents the buildup of *interaction ritual chains* (collective emotional energy) and emotional resonance, which limits long-term viewer retention (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md).
 
@@ -279,6 +281,22 @@ The development of digital simulated environments serves as a crucial platform f
 ### 24. Challenges in Multi-Agent Coordination and Communication
 The rapid increase in the number of AI agents necessitates sophisticated coordination mechanisms, as current communication methods often prove insufficient (source: raw_this-is-openclaw-on-steroids.md). Natural language, while human-friendly, can be a source of misinterpretation and inefficiency when multiple AI agents attempt to collaborate on complex tasks (source: raw_this-is-openclaw-on-steroids.md). To address this, novel approaches are exploring more direct and efficient communication channels, such as neural interfaces inspired by brain-to-text technology, to enhance planning, critique, and problem-solving among agents (source: raw_this-is-openclaw-on-steroids.md). This shift aims to overcome the limitations of natural language communication, which can lead to errors and system breakdowns in multi-agent scenarios (source: raw_this-is-openclaw-on-steroids.md).
 
+### 25. Security Frameworks for RAG-Based Chatbots
+The increasing integration of Retrieval-Augmented Generation (RAG) chatbots necessitates robust security measures against novel threats, such as prompt injection (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). Prompt injection poses a significant risk, especially when malicious content is embedded within retrieved documents, potentially overriding chatbot instructions or policies (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). To address this, a three-layer security framework has been proposed, integrating:
+-   **Layer 1: Input Screening**: Employing pattern matching and semantic anomaly detection to identify and filter potentially malicious inputs at the outset (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+-   **Layer 2: Provenance-Based Instruction Hierarchy**: Implementing a system during context assembly that prioritizes instructions based on their origin (provenance) to prevent policy overrides by injected prompts (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+-   **Layer 3: Output Auditing**: Utilizing a policy engine and semantic drift detection to scrutinize the chatbot's generated output, ensuring it adheres to established guidelines and does not exhibit unintended deviations (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+
+This layered approach has demonstrated a significant reduction in the Attack Success Rate (ASR) from 71.4% to 11.3% across multiple LLMs, with minimal latency and a low rate of false positives, offering an adaptive solution for securing RAG systems against prompt injection vulnerabilities (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+
+### 26. LLM-Mediated Human-AI Interaction in Search and Rescue
+
+In complex, time-sensitive tasks such as search and rescue (SAR), LLMs can offer real-time, context-aware guidance (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). Research in simulated SAR environments indicates that LLM guidance can significantly enhance task efficiency, leading to higher rewards and more victims found per step (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). However, this guidance does not necessarily increase the total number of victims saved, suggesting a nuanced impact on overall mission success (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
+
+Eye-tracking studies reveal an "attention-guidance trade-off" where users allocate more visual attention to the AI chat interface when receiving guidance (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This shift in attention, along with increased pupil size variability, suggests cognitive shifts or increased cognitive load associated with managing AI recommendations (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
+
+Crucially, the impact of LLM guidance is moderated by user expertise. Novice users tend to exhibit passive reliance on AI guidance, while expert users maintain a more active approach, employing a "verification loop." This loop involves consistently scanning the environment and cross-referencing AI recommendations with their own observations to ensure accuracy and maintain situational awareness (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This highlights the importance of designing AI systems that facilitate critical evaluation and verification, rather than promoting passive acceptance, especially in high-stakes scenarios (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -330,3 +348,5 @@ The rapid increase in the number of AI agents necessitates sophisticated coordin
 - [[source-what-is-ai-psychology]]
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
+- [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]]
+- [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
