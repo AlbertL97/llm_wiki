@@ -1013,3 +1013,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-22 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
+- raw/raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
+- wiki/human-robot-interaction.md
+
+**Summary of changes**:  
+- Ingested "Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix" and created summary page wiki/source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md.
+- Ingested "Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation" and created summary page wiki/source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

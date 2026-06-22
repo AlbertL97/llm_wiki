@@ -50,8 +50,9 @@
 - raw_llm-council-synthetic-cognitive-systems.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
+- raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
 
-**Last updated**: 2026-06-21
+**Last updated**: 2026-06-22
 
 ---
 
@@ -274,6 +275,9 @@ A significant challenge in assessing LLMs with instruments designed for humans i
 ### 30. Security Frameworks for RAG-Based Chatbots and Trust
 Prompt injection presents a critical threat to the trustworthiness of Retrieval-Augmented Generation (RAG) chatbots, as malicious content embedded in retrieved documents can lead to policy overrides and system compromise (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). To address this, a three-layer security framework has been proposed, which includes input screening, provenance-based instruction hierarchies, and output auditing (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). By drastically reducing the success rate of prompt injection attacks, this framework aims to enhance the reliability and perceived trustworthiness of RAG systems (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
 
+### 31. Secure Coding Drift and Gamified LLM Assistance
+The increasing reliance on LLMs in complex software development, such as Post-Quantum Cryptography (PQC), introduces a new socio-technical vulnerability: "Secure Coding Drift." This model captures the progressive degradation of secure coding practices that occurs when developers depend on LLM-generated code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This risk is particularly acute in security-sensitive domains due to the LLM's potential to generate insecure or suboptimal code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). To counteract this drift, a gamified, LLM-augmented secure coding framework has been proposed. This framework embeds adversarial evaluation, provides behavioral feedback, and implements security scoring within development workflows, reframing LLMs from passive coding assistants into active security co-pilots (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -352,3 +356,4 @@ Prompt injection presents a critical threat to the trustworthiness of Retrieval-
 - [[source-llm-council-synthetic-cognitive-systems]]
 - [[source-trajectory-safety-observatory-vulnerable-user]]
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]]
+- [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]

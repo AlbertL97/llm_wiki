@@ -1,6 +1,6 @@
 # Explainability
 
-**Summary**: The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the "Persuasion Paradox" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their "thought processes."
+**Summary**: The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the "Persuasion Paradox" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their "thought processes," and introduces the concept of "Secure Coding Drift" in LLM-assisted development, proposing gamified solutions to maintain security rigor.
 
 **Sources**:
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
@@ -12,14 +12,15 @@
 - raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md
 - raw_ai-experts-warning-dangerous-llm-problem.md
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
+- raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-06-22
 
 ---
 
 ## Main content
 
-Explainability is a cornerstone of human-AI collaboration, particularly in high-stakes fields such as healthcare, where users must calibrate their trust and decide when to rely on automated recommendations.
+Explainability is a cornerstone of human-AI collaboration, particularly in high-stakes fields such as healthcare, where users must calibrate their trust and decide when to rely on automated recommendations. This extends to critical software development, where the reliance on LLMs for tasks like Post-Quantum Cryptography (PQC) implementation introduces new challenges related to maintaining secure coding practices (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
 
 ### 1. Post-Hoc Interpretability vs. Natural Language Explanations
 Explainable AI (XAI) is traditionally divided into two main methodologies:
@@ -44,7 +45,10 @@ The effectiveness of narrative explanations is highly dependent on the cognitive
 -   **Logical Reasoning (e.g., LSAT Questions)**: Narrative explanations significantly improve team performance and error recovery. When the task itself is native to language and logic, textual explanations successfully help users correct mistakes and calibrate their trust, outperforming simple probability-based confidence indicators (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md).
 
 ### 4. Integration into Clinical and Expert Workflows
-In professional contexts, explainability features must be tightly integrated into existing user-experience (UX) and Human Factors Engineering (HFE) pathways (source: From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md):
+In professional contexts, explainability features must be tightly integrated into existing user-experience (UX) and Human Factors Engineering (HFE) pathways (source: From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md). This includes addressing new socio-technical vulnerabilities that emerge with LLM adoption in specialized domains.
+
+A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed to describe the progressive degradation of secure coding practices due to sustained reliance on LLM-generated code, particularly in the complex field of Post-Quantum Cryptography (PQC) (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This model emphasizes the longitudinal, behavioral aspects of human-AI interaction in secure coding. To mitigate this drift, a **gamified, LLM-augmented secure coding framework** has been developed. This framework aims to embed adversarial evaluation, provide behavioral feedback, and implement security scoring within development workflows, reframing LLMs from passive assistants into active security co-pilots (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
+
 -   **Clinical Alignment**: Surveys like **SHAPE-AI** (Survey for Human-AI Performance Evaluation in Healthcare) are utilized to validate how explainability interfaces affect clinician cognitive workload, alert burden, and decision-support accuracy before clinical deployment (source: SHAPE-AI_ Development and Expert Validation of a Survey for Human-AI Performance Evaluation in Healthcare.md).
 -   **Subjective Usability**: The complexity of explainable dialogues is subject to usability trade-offs. While explanatory dialogues can be longer, users are often willing to engage in more interactive turns if they feel the instruction quality and explanation clarity are high, although excessive repetition requests degrade user satisfaction (source: (1) (PDF) Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System.md).
 -   **Error Correction and Credibility in Social Chatbots**: For social chatbots, how errors are corrected significantly impacts user credibility and trust. While all tested correction strategies can rectify factual errors, only **self-correction** by the original chatbot effectively preserves its trustworthiness and perceived expertise (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). External corrections (e.g., by a webpage or an "expert" chatbot) significantly damage the original chatbot's credibility, despite correcting the factual error (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). Furthermore, a strong **social connection** with the chatbot amplifies the positive impact of self-correction on belief change, a benefit entirely nullified by external correction methods (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md). This implies that designing chatbots to identify and correct their own errors directly, and fostering social connection, are critical for maintaining long-term credibility, especially given their propensity for generating convincing but inaccurate information (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
@@ -63,3 +67,4 @@ In professional contexts, explainability features must be tightly integrated int
 - [raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md)
 - [[source-ai-experts-warning-dangerous-llm-problem]]
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]
+- [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]

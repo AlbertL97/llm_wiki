@@ -19,8 +19,9 @@
 - raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
+- raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
 
-**Last updated**: 2026-06-21
+**Last updated**: 2026-06-22
 
 ---
 
@@ -106,6 +107,12 @@ The learning of motor skills in robots can be significantly enhanced through a r
 - **Reduced Tutor Dependency**: Over time, robots employing bidirectional tutoring require progressively less guidance, suggesting increased learning autonomy (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
 - **Tutor Agnosticism**: This framework is effective with both human and AI tutors, highlighting its broad applicability in embodied AI development (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
 
+### 14. Enhancing Robot Teleoperation with Arm Kinematic Correction
+Improving the accuracy of robot teleoperation is crucial for tasks requiring precise manipulation, especially when human operators are remotely controlling robotic systems. Markerless motion capture systems, while convenient, often struggle with depth estimation errors, particularly when self-occlusion occurs during complex arm movements.
+- **Arm Kinematic Correction (AKC)**: A novel method, Arm Kinematic Correction (AKC), addresses the degradation of depth estimation in markerless motion capture due to self-occlusion. AKC enforces geometric constraints, such as the constant length of arm segments, to reconstruct accurate joint depths even when occluded (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
+- **Deterministic Formulation**: The AKC method utilizes known wrist positions and predefined arm lengths in a deterministic approach, based on geometric principles, to calculate missing joint depths. This avoids the need for complex probabilistic models and reduces the burden of extensive parameter tuning (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
+- **Validation and Application**: Experiments have validated AKC against high-precision reference systems, demonstrating its reliability for both static and dynamic joint motions. Its effectiveness has been shown in motion-mapping teleoperation within both simulated and physical robot environments, significantly enhancing the robustness and anatomical consistency of motion tracking under challenging occlusion conditions, making it a practical solution for real-time HRI applications (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -130,3 +137,5 @@ The learning of motor skills in robots can be significantly enhanced through a r
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
+- [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]
+- [[measurement-tools]]

@@ -43,8 +43,10 @@
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 - raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
+- raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
+- raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
 
-**Last updated**: 2026-06-21
+**Last updated**: 2026-06-22
 
 ---
 
@@ -87,6 +89,9 @@ The widespread adoption of large language models and conversational AI has drive
 - **The Human Interlocutor**: Studying how regular interaction with AI shifts human cognition, emotional patterns, self-narrative, and identity (source: raw_what-is-ai-psychology.md).
 
 A core mechanism of this interaction is the creation of a **private cognition infrastructure** (source: raw_what-is-ai-psychology.md). Unlike social media, which is performative and audience-facing, chat-based AI is highly intimate and strictly one-to-one, establishing private microclimates where users engage in cognitive offloading, display less impression management, and develop deeper emotional dependency (source: raw_what-is-ai-psychology.md). Consequently, conversational AI demonstrates a capacity for **influence without deception**—subtly shifting user judgments and choices without requiring the user to consciously believe they are being influenced or that the system is sentient (source: raw_what-is-ai-psychology.md).
+
+### 0.1.5 Secure Coding Drift in LLM-Assisted Development
+The increasing reliance on LLMs in software development, particularly in security-sensitive domains like Post-Quantum Cryptography (PQC), introduces a novel socio-technical vulnerability known as "Secure Coding Drift in PQC" (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This model captures the progressive degradation of secure coding practices that occurs with sustained reliance on LLM-generated code, conceptualizing security risk as a longitudinal behavioral phenomenon specific to human-AI interaction (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). To counteract this drift, a gamified framework has been proposed. This framework embeds adversarial evaluation, provides behavioral feedback, and implements security scoring within development workflows, reframing LLMs from passive coding assistants to active security co-pilots for safer PQC implementation (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
 
 ### 1. Traditional AI vs. Human-Centered AI
 The distinction between traditional automation and HCAI is characterized by a shift from replacing humans to empowering them (source: What Is Human-Centered AI (HCAI)_.md):
@@ -191,6 +196,9 @@ Physical robots represent a distinct class of interactive agents characterized b
 -   **Complexity and Cost Hurdles**: Commercializing capable robots faces significant challenges: specialized actuators are highly expensive, and integrating sensors, software, actuators, and UIs in real-world environments is highly complex, often leading to slow, unsafe, or unstable behaviors (e.g., face-planting in the DARPA Robotics Challenge) (source: What is a Robot_.md). Boston Dynamics quadrupeds (BigDog, Spot) and humanoids (Atlas) compensate for terrain shifts using high-frequency feedback loops, but cost and complexity remain main barriers to commercial home use (source: What is a Robot_.md).
 -   **Software Standards**: The adoption of open software platforms like ROS (Robot Operating System) has standardized development, allowing research communities to collaborate on shared codebases (source: What is a Robot_.md).
 -   **End-to-End Control vs. Symbolic Feedback Loops**: Modern physical AI research transitions from modular, partitioned control loops to training large end-to-end neural network models. For example, Generalist AI trains end-to-end models to learn dexterous sensorimotor policies that scale across different physical embodiments and environments, optimizing fine motor control and temporal precision while remaining robust to external physical disturbances (source: An early preview of model capabilities _ Generalist.md).
+
+### 13.1 Arm Kinematic Correction (AKC) for Teleoperation
+In robot teleoperation, markerless motion capture systems using RGB-D cameras can struggle with depth estimation accuracy due to self-occlusion of the arms during complex movements (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md). To address this, the Arm Kinematic Correction (AKC) method enforces geometric constraints, specifically the constant length of arm segments, to reconstruct accurate joint depths even when occluded (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md). AKC utilizes known wrist positions and predefined arm lengths in a deterministic formulation to solve for missing joint depths, avoiding complex probabilistic models or extensive parameter tuning (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md). Validation against high-precision reference systems shows reliable performance for static and dynamic joint motions, making it a practical solution for real-time human-robot interaction by enhancing the robustness and anatomical consistency of motion tracking under challenging occlusion conditions (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
 
 ### 14. State-of-the-Art Humanoid and Specialty Robotics
 Robotic technologies are advancing rapidly across commercial, industrial, medical, and consumer household settings, showing key breakthroughs in physical control alongside structural limitations:
@@ -350,3 +358,5 @@ Crucially, the impact of LLM guidance is moderated by user expertise. Novice use
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]]
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
+- [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
+- [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]

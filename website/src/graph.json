@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes.\""
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor."
     },
     {
       "id": "human-ai-interaction",
@@ -673,6 +673,20 @@
       "summary": "A summary page for the video transcript detailing Anthropic's research on functional emotions, UC Berkeley/UCSC's study on peer preservation, Figure 03 warehouse trials, Roadrunner bipedal robot, Agibot X2 hot pot restaurant incident, Tokyo Institute of Science's radiation-proof Wi-Fi chip, Peking Union's cerebral angiography trial with vascular surgery robot YDHBNSRO-1, Bristol's actomyosin-inspired artificial muscle system, and KAIST's humanoid V0.7."
     },
     {
+      "id": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
+      "name": "Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
+      "name": "Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-sejnowski-consciousness",
       "name": "Source: Is ChatGPT Conscious? A Pioneer of AI Explains | Dr. Terry Sejnowski",
       "val": 1.5,
@@ -1226,6 +1240,10 @@
       "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
     },
     {
+      "source": "explainability",
+      "target": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "source-what-is-human-centered-ai"
     },
@@ -1406,6 +1424,14 @@
       "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1480,6 +1506,14 @@
     {
       "source": "human-robot-interaction",
       "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "measurement-tools"
     },
     {
       "source": "introspective-awareness",
@@ -1604,10 +1638,6 @@
     {
       "source": "measurement-tools",
       "target": "source-behavioral-signatures-large-language-models"
-    },
-    {
-      "source": "measurement-tools",
-      "target": "human-robot-interaction"
     },
     {
       "source": "measurement-tools",
@@ -2344,6 +2374,14 @@
     {
       "source": "source-scientists-proved-emotions",
       "target": "trust"
+    },
+    {
+      "source": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
+      "target": "trust"
+    },
+    {
+      "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
+      "target": "measurement-tools"
     },
     {
       "source": "source-sejnowski-consciousness",
