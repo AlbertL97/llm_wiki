@@ -45,8 +45,9 @@
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 - raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
 - raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
+- raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-23
 
 ---
 
@@ -305,6 +306,10 @@ Eye-tracking studies reveal an "attention-guidance trade-off" where users alloca
 
 Crucially, the impact of LLM guidance is moderated by user expertise. Novice users tend to exhibit passive reliance on AI guidance, while expert users maintain a more active approach, employing a "verification loop." This loop involves consistently scanning the environment and cross-referencing AI recommendations with their own observations to ensure accuracy and maintain situational awareness (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This highlights the importance of designing AI systems that facilitate critical evaluation and verification, rather than promoting passive acceptance, especially in high-stakes scenarios (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
 
+### 27. Hallucinations in Organization-Backed AI Advisors
+
+Research into organization-backed AI advisors, particularly those providing information in goal-directed use, reveals critical dynamics regarding user skepticism, verification behaviors, and reliance on AI outputs, especially in the presence of hallucinations (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The study differentiates these user constructs, highlighting that while reliance is frequently measured, user skepticism and the act of verification itself are often overlooked in empirical studies (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Interventions designed to prompt user scrutiny, such as source citations or explicit warnings about inaccuracies, have shown weak or inconsistent effects on user behavior (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Notably, the primary cues that encourage users to scrutinize AI responses are typically embedded within the AI's output itself, rather than external factors (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The impact of content category on user verification behavior remains an area requiring further investigation (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). This underscores the importance of developing AI systems that not only provide information but also encourage critical engagement and verification from users to ensure the safe and reliable deployment of AI advisors (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -360,3 +365,4 @@ Crucially, the impact of LLM guidance is moderated by user expertise. Novice use
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
 - [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
 - [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]
+- [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]

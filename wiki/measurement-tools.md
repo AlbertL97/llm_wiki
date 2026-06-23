@@ -29,14 +29,15 @@
 - raw_behavioral-signatures-large-language-models.md
 - raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
+- raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md
 
-**Last updated**: 2026-06-21
+**Last updated**: 2026-06-23
 
 ---
 
 ## Main content
 
-To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator.
+To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires.
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -160,6 +161,9 @@ Key aspects of this emerging area include:
 ### 18. Human-AI Teaming in Search and Rescue: Expertise and Attentional Dynamics
 Research into LLM-mediated human-AI teaming (HAT) in complex tasks like search and rescue (SAR) highlights the nuanced impact on human cognition and behavior (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). While LLM guidance can improve task efficiency, leading to higher rewards and more victims found per step, it does not necessarily increase overall success rates in saving victims (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). Eye-tracking studies reveal an "attention-guidance trade-off," where participants spend more visual attention on the chat interface and exhibit increased pupil size variability, indicating cognitive load or shifts (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). Crucially, user expertise moderates these effects: novice users tend towards passive reliance on AI guidance, while expert users engage in an active "verification loop," consistently scanning the environment and cross-referencing AI recommendations with their own observations (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This suggests that the efficacy of LLM-mediated HAT is contingent on the operator's ability to critically evaluate and cross-reference AI guidance with ground truth, which is essential for maintaining situational awareness (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
 
+### 19. Inverted Evaluation of Robot Interactions by LLMs
+A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs to complete standardized interaction questionnaires from the robot's own perspective (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). LLMs have shown moderate to strong agreement with human ratings on engagement dimensions like satisfaction and enjoyment (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). However, a significant limitation emerges in the assessment of the "comfort/strangeness" dimension, where LLMs consistently invert human ratings, suggesting a failure to accurately gauge affective states or internal experiences (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). This highlights that current LLMs may lack the necessary introspective or affective capabilities for comprehensive self-assessment in HRI and that supplementary data modalities (e.g., physiological signals, gaze, proxemics) are crucial for a complete understanding of robot interaction quality (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -195,3 +199,4 @@ Research into LLM-mediated human-AI teaming (HAT) in complex tasks like search a
 - [[human-ai-interaction]]
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]]
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
+- [[source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure]]

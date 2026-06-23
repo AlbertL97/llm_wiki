@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor."
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md)."
     },
     {
       "id": "human-ai-interaction",
@@ -433,6 +433,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Polish validation of the Godspeed Questionnaire Series (GQS) evaluating older adults' perception of the TIAGo social robot, demonstrating that acceptance does not correlate directly with perceived anthropomorphism or animacy."
+    },
+    {
+      "id": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
+      "name": "Hallucinations in Organization-backed AI Advisors: Evidence about Skepticism, Verification, and Reliance in Goal-Directed Use",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-health-advisory-mental-health",
@@ -834,6 +841,13 @@
       "summary": "A summary page for Anthropic's research video detailing their \"AI neuroscience\" findings on \"functional emotions\" inside Claude's neural network and how they causal-influence behaviors like cheating under pressure."
     },
     {
+      "id": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
+      "name": "When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-where-ai-agents-build-worlds",
       "name": "Where AI Agents Build Worlds",
       "val": 1.5,
@@ -1232,6 +1246,10 @@
       "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
     },
     {
+      "source": "chatbots",
+      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1242,6 +1260,10 @@
     {
       "source": "explainability",
       "target": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix"
+    },
+    {
+      "source": "explainability",
+      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
     },
     {
       "source": "human-ai-interaction",
@@ -1430,6 +1452,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
     },
     {
       "source": "human-robot-interaction",
@@ -1648,6 +1674,10 @@
       "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -1682,6 +1712,10 @@
     {
       "source": "medical-ai",
       "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
     },
     {
       "source": "mental-health",
@@ -2172,6 +2206,10 @@
       "target": "trust"
     },
     {
+      "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
+      "target": "trust"
+    },
+    {
       "source": "source-health-advisory-mental-health",
       "target": "trust"
     },
@@ -2510,6 +2548,22 @@
     {
       "source": "source-when-ais-act-emotional",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
+      "target": "chatbots"
     },
     {
       "source": "source-why-ai-will-replace-your-therapist",

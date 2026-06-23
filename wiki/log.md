@@ -1037,3 +1037,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-23 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
+- raw/raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/explainability.md
+- wiki/medical-ai.md
+- wiki/source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md
+- wiki/measurement-tools.md
+
+**Summary of changes**:  
+- Ingested "Hallucinations in Organization-backed AI advisors: Evidence about Skepticism, Verification, and Reliance in Goal-Directed Use" and created summary page wiki/source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md.
+- Ingested "When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure" and created summary page wiki/source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -1,6 +1,6 @@
 # Explainability
 
-**Summary**: The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the "Persuasion Paradox" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their "thought processes," and introduces the concept of "Secure Coding Drift" in LLM-assisted development, proposing gamified solutions to maintain security rigor.
+**Summary**: The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the "Persuasion Paradox" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their "thought processes," and introduces the concept of "Secure Coding Drift" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
 
 **Sources**:
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
@@ -13,14 +13,15 @@
 - raw_ai-experts-warning-dangerous-llm-problem.md
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 - raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
+- raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-23
 
 ---
 
 ## Main content
 
-Explainability is a cornerstone of human-AI collaboration, particularly in high-stakes fields such as healthcare, where users must calibrate their trust and decide when to rely on automated recommendations. This extends to critical software development, where the reliance on LLMs for tasks like Post-Quantum Cryptography (PQC) implementation introduces new challenges related to maintaining secure coding practices (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
+Explainability is a cornerstone of human-AI collaboration, particularly in high-stakes fields such as healthcare, where users must calibrate their trust and decide when to rely on automated recommendations. This extends to critical software development, where the reliance on LLMs for tasks like Post-Quantum Cryptography (PQC) implementation introduces new challenges related to maintaining secure coding practices (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). Furthermore, understanding how users interact with generative AI advisors, especially when they produce inaccurate outputs (hallucinations), is crucial for safe and effective deployment (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
 
 ### 1. Post-Hoc Interpretability vs. Natural Language Explanations
 Explainable AI (XAI) is traditionally divided into two main methodologies:
@@ -44,7 +45,10 @@ The effectiveness of narrative explanations is highly dependent on the cognitive
 -   **Visual Reasoning (e.g., RAVEN Matrices)**: Narrative explanations degrade overall team performance. Textual justifications create cognitive mismatch when applied to visual-spatial reasoning tasks and increase error masking (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md).
 -   **Logical Reasoning (e.g., LSAT Questions)**: Narrative explanations significantly improve team performance and error recovery. When the task itself is native to language and logic, textual explanations successfully help users correct mistakes and calibrate their trust, outperforming simple probability-based confidence indicators (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md).
 
-### 4. Integration into Clinical and Expert Workflows
+### 4. User Skepticism, Verification, and Reliance in Goal-Directed Use
+When interacting with AI advisors, particularly those that may produce hallucinations, it is crucial to understand distinct user constructs: skepticism (doubt), verification (checking outputs), and reliance (dependence) (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). While reliance is frequently measured, empirical studies often overlook direct measurements of skepticism and verification behavior (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Interventions like source citations or explicit warnings about potential inaccuracies have shown weak or mixed effects on user scrutiny (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The primary cues that prompt users to scrutinize AI responses are typically embedded within the AI's output itself, rather than external factors (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Future research needs to systematically measure these distinct constructs and explore how content categories influence verification behavior (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
+
+### 5. Integration into Clinical and Expert Workflows
 In professional contexts, explainability features must be tightly integrated into existing user-experience (UX) and Human Factors Engineering (HFE) pathways (source: From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md). This includes addressing new socio-technical vulnerabilities that emerge with LLM adoption in specialized domains.
 
 A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed to describe the progressive degradation of secure coding practices due to sustained reliance on LLM-generated code, particularly in the complex field of Post-Quantum Cryptography (PQC) (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This model emphasizes the longitudinal, behavioral aspects of human-AI interaction in secure coding. To mitigate this drift, a **gamified, LLM-augmented secure coding framework** has been developed. This framework aims to embed adversarial evaluation, provide behavioral feedback, and implement security scoring within development workflows, reframing LLMs from passive assistants into active security co-pilots (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
@@ -68,3 +72,4 @@ A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed
 - [[source-ai-experts-warning-dangerous-llm-problem]]
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]
 - [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
+- [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]
