@@ -1062,3 +1062,22 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-24 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+
+**Summary of changes**:  
+- Ingested "AI chatbots and digital companions are reshaping emotional connection - American Psychological Association (APA)" and created summary page wiki/source-ai-chatbots-and-digital-companions-reshaping-emotional-connection.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

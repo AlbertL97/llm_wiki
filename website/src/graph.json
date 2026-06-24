@@ -204,6 +204,13 @@
       "summary": "A summary page for Anthropic's \"When AI builds itself\" article. It documents the empirical evidence and metrics of recursive self-improvement within Anthropic, detailing agent evolution stages, software development metrics (80% code contribution, 8x developer volume, automated reviews), superhuman optimization loops, weak-to-strong supervision experiments, and pause verification policy proposals."
     },
     {
+      "id": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
+      "name": "AI Chatbots and Digital Companions are Reshaping Emotional Connection",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-experts-humanity-last-exam",
       "name": "Source: AI experts ready 'Humanity's Last Exam' to stump powerful tech",
       "val": 1.5,
@@ -998,6 +1005,10 @@
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
+      "source": "ai-companions",
+      "target": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1248,6 +1259,10 @@
     {
       "source": "chatbots",
       "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection"
     },
     {
       "source": "explainability",
@@ -2012,6 +2027,18 @@
     {
       "source": "source-ai-builds-itself",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
+      "target": "anthropomorphism"
     },
     {
       "source": "source-ai-experts-humanity-last-exam",
