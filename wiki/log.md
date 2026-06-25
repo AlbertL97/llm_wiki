@@ -1081,3 +1081,22 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-25 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+
+**Summary of changes**:  
+- Ingested "Retrieval-Grounded Multilingual LLM Assistance for Island Smallholder Farmers" and created summary page wiki/source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

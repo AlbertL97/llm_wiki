@@ -659,6 +659,13 @@
       "summary": "Clipping of the Max Planck Institute's Real Virtual Humans research group portal, pointing to projects focused on modeling virtual humans."
     },
     {
+      "id": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "name": "Source Summary: Retrieval-Grounded Multilingual LLM Assistance for Island Smallholder Farmers",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-rise-of-para-therapy-companions",
       "name": "Source Summary: The Rise of Para-Therapy: Mental Health Guardrails and Emotional Manipulation in AI Companions",
       "val": 1.5,
@@ -1471,6 +1478,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers"
     },
     {
       "source": "human-robot-interaction",
@@ -2411,6 +2422,26 @@
     {
       "source": "source-qualitati",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "trust"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "explainability"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "mind-perception"
     },
     {
       "source": "source-rise-of-para-therapy-companions",

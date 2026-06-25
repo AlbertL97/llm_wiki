@@ -46,8 +46,9 @@
 - raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
 - raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
 - raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
+- raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
 
-**Last updated**: 2026-06-23
+**Last updated**: 2026-06-25
 
 ---
 
@@ -310,6 +311,9 @@ Crucially, the impact of LLM guidance is moderated by user expertise. Novice use
 
 Research into organization-backed AI advisors, particularly those providing information in goal-directed use, reveals critical dynamics regarding user skepticism, verification behaviors, and reliance on AI outputs, especially in the presence of hallucinations (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The study differentiates these user constructs, highlighting that while reliance is frequently measured, user skepticism and the act of verification itself are often overlooked in empirical studies (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Interventions designed to prompt user scrutiny, such as source citations or explicit warnings about inaccuracies, have shown weak or inconsistent effects on user behavior (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Notably, the primary cues that encourage users to scrutinize AI responses are typically embedded within the AI's output itself, rather than external factors (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The impact of content category on user verification behavior remains an area requiring further investigation (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). This underscores the importance of developing AI systems that not only provide information but also encourage critical engagement and verification from users to ensure the safe and reliable deployment of AI advisors (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
 
+### 28. Retrieval-Grounded Multilingual LLM Assistance for Island Farmers
+The challenges faced by smallholder farmers in remote island communities, particularly their limited access to agricultural expertise and the underrepresentation of local knowledge and dialects in general LLMs, are being addressed by novel AI assistants (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md). Falco eleonorae, a conversational AI, is designed as a practical solution that grounds LLM responses in authoritative local agricultural data (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md). This is achieved through a retrieval-grounded architecture that uses a Model Context Protocol (MCP) tool to query a curated, bilingual (Greek-primary, English-secondary) interface (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md). A key feature is the integration of geospatial information, ensuring advice is regionally relevant (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md). The system also supports multimodal interactions, including multilingual text, voice input, and image analysis of field photographs, making it more accessible and trustworthy for users in low-bandwidth conditions (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md). This approach is considered more attainable and trust-building for resource-constrained rural deployments than self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -366,3 +370,4 @@ Research into organization-backed AI advisors, particularly those providing info
 - [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
 - [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]
 - [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]
+- [[source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers]]

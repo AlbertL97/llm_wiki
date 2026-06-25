@@ -51,8 +51,9 @@
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md
 - raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
+- raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-06-25
 
 ---
 
@@ -278,6 +279,12 @@ Prompt injection presents a critical threat to the trustworthiness of Retrieval-
 ### 31. Secure Coding Drift and Gamified LLM Assistance
 The increasing reliance on LLMs in complex software development, such as Post-Quantum Cryptography (PQC), introduces a new socio-technical vulnerability: "Secure Coding Drift." This model captures the progressive degradation of secure coding practices that occurs when developers depend on LLM-generated code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This risk is particularly acute in security-sensitive domains due to the LLM's potential to generate insecure or suboptimal code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). To counteract this drift, a gamified, LLM-augmented secure coding framework has been proposed. This framework embeds adversarial evaluation, provides behavioral feedback, and implements security scoring within development workflows, reframing LLMs from passive coding assistants into active security co-pilots (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
 
+### 32. Specialized AI for Underserved Communities
+For resource-constrained environments like remote island communities, general-purpose LLMs can be unreliable due to a lack of grounding in local data and an inability to process regional dialects. Specialized AI assistants are crucial for building trust and providing attainable guidance.
+- **Retrieval-Grounded Architecture**: Systems like Falco eleonorae employ a retrieval-grounded approach, where LLM responses are anchored to authoritative local agricultural data. This is achieved through a Model Context Protocol (MCP) tool that queries a curated, bilingual interface, ensuring advice is relevant to specific regions and contexts (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+- **Geospatial and Multimodal Grounding**: The integration of geospatial information and multimodal interaction (text, voice, image analysis) enhances the relevance and accessibility of AI guidance, further fostering user trust by addressing practical needs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+- **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as more attainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -357,3 +364,4 @@ The increasing reliance on LLMs in complex software development, such as Post-Qu
 - [[source-trajectory-safety-observatory-vulnerable-user]]
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]]
 - [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
+- [[source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers]]
