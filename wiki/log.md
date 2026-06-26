@@ -1100,3 +1100,22 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-26 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+
+**Summary of changes**:  
+- Ingested "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions" and created summary page wiki/source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

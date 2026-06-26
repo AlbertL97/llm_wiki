@@ -281,6 +281,13 @@
       "summary": "Developing the 8-item ASRS scale with two distinct subscales: 'Robot as a helper and assistant' (RoHeA) and 'Robot as an equal partner' (RoEqP) for healthcare and domestic contexts."
     },
     {
+      "id": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
+      "name": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-automated-metrics-human-evaluation",
       "name": "Source: Automated Metrics vs Human Evaluation in AI",
       "val": 1.5,
@@ -1272,6 +1279,10 @@
       "target": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection"
     },
     {
+      "source": "chatbots",
+      "target": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1744,6 +1755,10 @@
       "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
     },
     {
+      "source": "medical-ai",
+      "target": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -2102,6 +2117,22 @@
     {
       "source": "source-attitudes-social-robots-scale",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
+      "target": "trust"
+    },
+    {
+      "source": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
+      "target": "explainability"
     },
     {
       "source": "source-automated-metrics-human-evaluation",

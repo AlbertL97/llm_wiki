@@ -30,8 +30,9 @@
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 - raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
 - raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
+- raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-06-26
 
 ---
 
@@ -46,6 +47,8 @@ AI chatbots and digital companions are actively reshaping how humans experience 
 Prompt injection remains a critical security threat for chatbots, especially those leveraging Retrieval-Augmented Generation (RAG) systems (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). These attacks can occur directly or indirectly, with malicious content embedded within retrieved documents posing a significant risk (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). A novel three-layer security framework has been proposed to combat prompt injection in RAG-based chatbots, employing input screening via pattern matching and semantic anomaly detection, provenance-based instruction hierarchies during context assembly to prevent policy overrides, and output auditing with a policy engine and semantic drift detection (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md). This layered approach has demonstrated a substantial reduction in the Attack Success Rate (ASR) from 71.4% to 11.3% across multiple LLMs, with minimal latency and false positives (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
 
 Furthermore, research into how users interact with generative AI advisors that produce hallucinations highlights the importance of distinguishing between user skepticism, verification behaviors, and reliance (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). While reliance is commonly measured, skepticism and the act of verification itself are often under-researched (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Interventions to encourage user scrutiny, such as source citations, frequently have weak or mixed effects, with output-centric cues being more influential (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). The impact of content category on verification behavior also remains an open question requiring further investigation (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
+
+Research into Large Language Models (LLMs) has revealed significant **framing-sensitive behavioral instability**, particularly concerning their application in mental health interactions (source: raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md). This instability means that semantically similar inputs, when presented with different contextual framings, can lead to disparate LLM responses (source: raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md). Internal probing and activation steering have demonstrated that framing-associated information is encoded throughout an LLM's architecture, influencing its output even when lexical cues are controlled for (source: raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md). The strength of this framing information decoding varies across different LLM architectures, and experimental manipulation of internal representations can directly modulate the LLM's behavior (source: raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md). These findings are critical for ensuring the consistency and trustworthiness of conversational AI in sensitive domains like mental health, where predictable and stable behavior is paramount (source: raw_auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions.md).
 
 ### 1. Chatbot Design Cues and Humanness
 A chatbot's perceived humanness is driven by three main categories of design cues that shape how users interpret and interact with the system (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
@@ -172,3 +175,4 @@ LLM mediation in high-stakes tasks like search and rescue (SAR) can significantl
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
 - [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]
 - [[source-ai-chatbots-and-digital-companions-reshaping-emotional-connection]]
+- [[source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions]]
