@@ -1119,3 +1119,24 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-27 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+
+**Summary of changes**:  
+- Ingested "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns" and created summary page wiki/source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -47,8 +47,9 @@
 - raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
 - raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md
 - raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
+- raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-06-27
 
 ---
 
@@ -161,6 +162,10 @@ Traditional human-AI interaction evaluation is often restricted to controlled la
 -   **Real-World settings**: Focus on objective task performance (workflow efficiency, task completion time, actual error rates) and holistic user experience (balancing pragmatic usability with hedonic pleasure, stimulation, and identity formation) (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). Evaluations must account for environmental stressors:
     -   *Workload & Pressures*: Time constraints, cognitive distractions, and ergonomic limitations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
     -   *Contextual Variations*: Local work procedures, professional guidelines, and economic constraints.
+
+### 7.1 AI Healthcare Chatbots as Information Infrastructure
+
+A large-scale study of user-reported breakdowns in AI healthcare chatbots highlights their critical role as information infrastructures (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Analysis of over 15,000 reviews across 59 applications identified three primary categories of issues: access barriers and service unreliability, poor user experience and interaction quality, and problems with billing and customer support (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Privacy and security concerns were particularly strongly linked to the most negative user experiences, underscoring their importance in building trust for digital health systems (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Failures in these areas negatively affect users' overall experience and their trust in the AI system (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md).
 
 ### 8. ICE Environments as a Stress-Test Lens
 Isolated, confined, and extreme (ICE) environments (such as long-duration spaceflight, polar research stations, and submarines) function as unique boundary conditions that stress-test human-AI interaction models (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
@@ -371,3 +376,4 @@ The challenges faced by smallholder farmers in remote island communities, partic
 - [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]
 - [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]
 - [[source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers]]
+- [[source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns]]

@@ -225,6 +225,13 @@
       "summary": ""
     },
     {
+      "id": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
+      "name": "Source Summary: AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-overly-affirms",
       "name": "Source: AI overly affirms users asking for personal advice",
       "val": 1.5,
@@ -1283,6 +1290,14 @@
       "target": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions"
     },
     {
+      "source": "chatbots",
+      "target": "medical-ai"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1493,6 +1508,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
     },
     {
       "source": "human-robot-interaction",
@@ -1759,6 +1778,10 @@
       "target": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions"
     },
     {
+      "source": "medical-ai",
+      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -1821,6 +1844,14 @@
     {
       "source": "mental-health",
       "target": "source-trajectory-safety-observatory-vulnerable-user"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
+    },
+    {
+      "source": "mental-health",
+      "target": "medical-ai"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2076,6 +2107,10 @@
     },
     {
       "source": "source-ai-experts-warning-dangerous-llm-problem",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
       "target": "trust"
     },
     {
