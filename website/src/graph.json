@@ -554,6 +554,13 @@
       "summary": "A summary page for the iCubWorld project benchmark dataset, detailing interactive HRI data collection, human tracking and robot kinematics acquisition modes, visual transformations, and publications."
     },
     {
+      "id": "source-invisible-impact-of-empathy-on-behavioral-change",
+      "name": "Invisible Impact of Empathy on Behavioral Change",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-language-assumes-consciousness",
       "name": "Source: A Language that Assumes Consciousness is the Basis of Reality",
       "val": 1.5,
@@ -1144,6 +1151,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-invisible-impact-of-empathy-on-behavioral-change"
     },
     {
       "source": "chatbots",
@@ -1982,6 +1993,18 @@
       "target": "trust"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-invisible-impact-of-empathy-on-behavioral-change"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "mental-health"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "anthropomorphism"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2404,6 +2427,22 @@
     {
       "source": "source-icubworld",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-invisible-impact-of-empathy-on-behavioral-change",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-invisible-impact-of-empathy-on-behavioral-change",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-invisible-impact-of-empathy-on-behavioral-change",
+      "target": "trust"
+    },
+    {
+      "source": "source-invisible-impact-of-empathy-on-behavioral-change",
+      "target": "mental-health"
     },
     {
       "source": "source-language-assumes-consciousness",

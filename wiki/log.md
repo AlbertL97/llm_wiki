@@ -1140,3 +1140,23 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-28 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_invisible-impact-of-empathy-on-behavioral-change.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-invisible-impact-of-empathy-on-behavioral-change.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions" and created summary page wiki/source-invisible-impact-of-empathy-on-behavioral-change.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
