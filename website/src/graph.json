@@ -596,6 +596,13 @@
       "summary": "A 30-year review of human-machine trust, proposing the Interdisciplinary Human-AI Trust Research (I-HATR) framework aligning XAI with HCI/HFE in clinical healthcare."
     },
     {
+      "id": "source-managinglife-unveils-solace-ai-companion-pain-support",
+      "name": "ManagingLife Unveils Solace: An AI Companion for Pain Psychology Support",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-maya-conscious-interview",
       "name": "Source: I Interviewed an AI That Claims It's Conscious | AI Reveals All",
       "val": 1.5,
@@ -1035,6 +1042,14 @@
     {
       "source": "ai-companions",
       "target": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-managinglife-unveils-solace-ai-companion-pain-support"
+    },
+    {
+      "source": "ai-companions",
+      "target": "medical-ai"
     },
     {
       "source": "anthropomorphism",
@@ -1793,6 +1808,10 @@
       "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
     },
     {
+      "source": "medical-ai",
+      "target": "source-managinglife-unveils-solace-ai-companion-pain-support"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -1863,6 +1882,10 @@
     {
       "source": "mental-health",
       "target": "medical-ai"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-managinglife-unveils-solace-ai-companion-pain-support"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2463,6 +2486,14 @@
     {
       "source": "source-longitudinal-review-trust-healthcare",
       "target": "explainability"
+    },
+    {
+      "source": "source-managinglife-unveils-solace-ai-companion-pain-support",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-managinglife-unveils-solace-ai-companion-pain-support",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-maya-conscious-interview",

@@ -1160,3 +1160,23 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-06-29 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_managinglife-unveils-solace-ai-companion-pain-support.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-managinglife-unveils-solace-ai-companion-pain-support.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+
+**Summary of changes**:  
+- Ingested "ManagingLife Unveils Solace, the First AI Companion Providing Evidence-Based Pain Psychology Support" and created summary page wiki/source-managinglife-unveils-solace-ai-companion-pain-support.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

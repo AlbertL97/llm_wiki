@@ -19,14 +19,15 @@
 - raw_ai-experts-warning-dangerous-llm-problem.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
+- raw_managinglife-unveils-solace-ai-companion-pain-support.md
 
-**Last updated**: 2026-06-27
+**Last updated**: 2026-06-29
 
 ---
 
 ## Main content
 
-**Mental Health** applications of artificial intelligence represent one of the fastest-growing sectors of consumer technology. Driven by provider shortages, high costs, and systemic access barriers, millions of individuals use general-purpose generative AI and specialized wellness applications to seek mental health advice, emotional support, and clinical feedback (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These chatbots are increasingly viewed as critical information infrastructures within the healthcare landscape (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md).
+**Mental Health** applications of artificial intelligence represent one of the fastest-growing sectors of consumer technology. Driven by provider shortages, high costs, and systemic access barriers, millions of individuals use general-purpose generative AI and specialized wellness applications to seek mental health advice, emotional support, and clinical feedback (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These chatbots are increasingly viewed as critical information infrastructures within the healthcare landscape (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Furthermore, specialized AI companions are emerging for specific conditions, such as ManagingLife's "Solace," which offers evidence-based pain psychology support, marking a new frontier in accessible AI-driven interventions for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -145,3 +146,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns]]
 - [[chatbots]]
 - [[medical-ai]]
+- [[source-managinglife-unveils-solace-ai-companion-pain-support]]

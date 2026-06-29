@@ -22,14 +22,15 @@
 - raw_ai-experts-warning-dangerous-llm-problem.md
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
+- raw_managinglife-unveils-solace-ai-companion-pain-support.md
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-06-29
 
 ---
 
 ## Main content
 
-**AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md).
+**AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). Furthermore, the field is expanding to address specific health needs, with AI companions now being developed to offer specialized therapeutic support, such as for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -147,3 +148,5 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
 - [[source-ai-experts-warning-dangerous-llm-problem]]
 - [[source-ai-chatbots-and-digital-companions-reshaping-emotional-connection]]
+- [[source-managinglife-unveils-solace-ai-companion-pain-support]]
+- [[medical-ai]]
