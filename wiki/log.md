@@ -1180,3 +1180,20 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-01 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_conversational-agentic-interface-physics-based-household-digital-twins.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-conversational-agentic-interface-physics-based-household-digital-twins.md
+
+**Summary of changes**:  
+- Ingested "A Conversational Agentic Interface to Physics-Based Household Digital Twins for Residential Energy Decision Support" and created summary page wiki/source-conversational-agentic-interface-physics-based-household-digital-twins.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -400,6 +400,13 @@
       "summary": "A summary page for Sumi's wildscience article explaining the theory of consciousness as a \"controlled hallucination,\" detailing the biological necessity of bodily homeostatic regulation, the difference between human embodied language and AI statistical autocomplete, and the societal dangers of treating chatbots as conscious agents."
     },
     {
+      "id": "source-conversational-agentic-interface-physics-based-household-digital-twins",
+      "name": "Source Summary: A Conversational Agentic Interface to Physics-Based Household Digital Twins for Residential Energy Decision Support",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "name": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
       "val": 1.5,
@@ -2322,6 +2329,18 @@
     {
       "source": "source-consciousness-controlled-hallucination",
       "target": "trust"
+    },
+    {
+      "source": "source-conversational-agentic-interface-physics-based-household-digital-twins",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-conversational-agentic-interface-physics-based-household-digital-twins",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-conversational-agentic-interface-physics-based-household-digital-twins",
+      "target": "explainability"
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
