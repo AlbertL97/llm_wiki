@@ -799,6 +799,13 @@
       "summary": ""
     },
     {
+      "id": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
+      "name": "Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-trajectory-observatory",
       "name": "Source: Trajectory Observatory",
       "val": 1.5,
@@ -1545,6 +1552,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach"
     },
     {
       "source": "human-robot-interaction",
@@ -2677,6 +2688,14 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
+      "target": "explainability"
     },
     {
       "source": "source-trajectory-observatory",

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-06-21
+**Last updated**: 2026-07-02
 
 ## Orientation
 
@@ -93,6 +93,7 @@
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
+- [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.
 - [[source-trajectory-safety-observatory-vulnerable-user]] — Summary of study by Impersonato on AI models acting as primary emotional anchors and creating dependency for vulnerable users.
 - [[source-trust-autonomous-hrc-responsive-policies]] — Summary of pilot study comparing responsive vs. reactive HRI policies and trust vulnerability under communication breakdown.
