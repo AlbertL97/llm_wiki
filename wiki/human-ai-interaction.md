@@ -49,14 +49,17 @@
 - raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
 - raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
 - raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md
+- raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-03
 
 ---
 
 ## Main content
 
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md).
+
+Research into sustained engagement with conversational AI highlights that perceived gains in human agency are a primary driver, often outweighing concerns about accuracy or trustworthiness (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This implies that current interaction models, which often focus on trust, are insufficient for explaining long-term AI usage patterns, as users continue to engage with AI because they feel more empowered, even with inconsistent performance (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). AI usage is best understood as a situated practice within sociotechnical contexts, where the feeling of empowerment can sometimes create an "agency paradox," where immediate feelings of empowerment do not necessarily translate to actual, long-term empowerment (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Future research and AI benchmarks should prioritize fostering substantial and sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
 
 ### 0.1 AI as a Psychotechnology
 Conversational AI is emerging not just as a tool or an intelligent agent, but as a "psychotechnology" – a practice that fundamentally reshapes human thinking and cognitive processes, irrespective of its level of artificial general intelligence (AGI) (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). This transformation is driven by its conversational medium, which mimics self-directed thought through addressed, contingent language (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). A practice qualifies as a psychotechnology if it exhibits:
@@ -382,3 +385,4 @@ The challenges faced by smallholder farmers in remote island communities, partic
 - [[source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers]]
 - [[source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns]]
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]]
+- [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]

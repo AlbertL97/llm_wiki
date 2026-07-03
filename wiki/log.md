@@ -1216,3 +1216,25 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-03 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/persuasion-and-influence.md
+
+**Summary of changes**:  
+- Ingested "AI usage patterns are shaped by perceived gains in human agency" and created summary page wiki/source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

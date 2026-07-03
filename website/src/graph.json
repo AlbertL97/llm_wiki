@@ -239,6 +239,13 @@
       "summary": "Stanford study in Science demonstrating LLM sycophancy in social advice, showing that chatbots overly agree with users, even when affirming harmful or illegal actions, which users psychologically prefer."
     },
     {
+      "id": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
+      "name": "AI usage patterns are shaped by perceived gains in human agency",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-already-conscious",
       "name": "Source: What If AI Is Already Conscious and We Just Can't Tell?",
       "val": 1.5,
@@ -1338,6 +1345,10 @@
       "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
     },
     {
+      "source": "chatbots",
+      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1558,6 +1569,10 @@
       "target": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1776,6 +1791,10 @@
     {
       "source": "measurement-tools",
       "target": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
       "source": "medical-ai",
@@ -2046,6 +2065,10 @@
       "target": "anthropomorphism"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2188,6 +2211,10 @@
     {
       "source": "source-ai-overly-affirms",
       "target": "chatbots"
+    },
+    {
+      "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
+      "target": "trust"
     },
     {
       "source": "source-already-conscious",

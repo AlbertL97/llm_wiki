@@ -53,8 +53,9 @@
 - raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md
 - raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
+- raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 
-**Last updated**: 2026-06-28
+**Last updated**: 2026-07-03
 
 ---
 
@@ -141,7 +142,7 @@ Isolated, confined, and extreme contexts (e.g., polar research, space flight, in
 - **Perceived Risk and Delegation Thresholds**: In high-consequence environments, perceived risk raises the initial threshold for delegating authority to an AI system. However, under high stress and cognitive load, this threshold collapses, prompting users to delegate more authority to AI to offload critical cognitive strain (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 
 ### 10. Reframing Trust as Reliance in UX Design
-Standard design discourse frequently prioritizes the creation of "trustworthy" systems. However, psychological and neurological evidence suggests that human trust is structurally mismatched with AI interaction, necessitating a reframing toward **reliance** (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md):
+Standard design discourse frequently prioritizes the creation of "trustworthy" systems. However, psychological and neurological evidence suggests that human trust is structurally mismatched with AI interaction, necessitating a reframing toward **reliance** (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
 - **Neurological substrates**: Human trust requires expectations of empathy, reputational risk, and shared intentions, driven by brain networks involving the **thalamic-striatal regions and the frontal cortex** (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md). Neuroimaging indicates that relying on AI is governed by distinct brain networks and does not correlate with human-to-human trust profiles.
 - **Pillars of AI Reliance**: Rather than establishing an emotional bond, system designers must calibrate a user's reliance on the AI as a tool by optimizing:
   - *Consistency*: Predictable system behavior and outcomes across contexts (source: The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md).
@@ -286,6 +287,9 @@ For resource-constrained environments like remote island communities, general-pu
 - **Geospatial and Multimodal Grounding**: The integration of geospatial information and multimodal interaction (text, voice, image analysis) enhances the relevance and accessibility of AI guidance, further fostering user trust by addressing practical needs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 - **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as more attainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 
+### 33. Agency as a Driver of AI Engagement
+Recent research suggests that sustained engagement with conversational AI systems is significantly driven by perceived gains in human agency, rather than solely by accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Studies using ethnographic data from daily AI chatbot users indicate that individuals continue to interact with these tools because they feel more empowered, even when the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a limitation in current frameworks that focus predominantly on trust, suggesting a need for new behavioral models and AI benchmarks that prioritize the fostering of substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). AI usage is understood as a situated practice, embedded within the social and technical contexts of users' lives, where the immediate feeling of empowerment can sometimes disconnect from actual, long-term material empowerment (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -367,3 +371,4 @@ For resource-constrained environments like remote island communities, general-pu
 - [[source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix]]
 - [[source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers]]
 - [[source-invisible-impact-of-empathy-on-behavioral-change]]
+- [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
