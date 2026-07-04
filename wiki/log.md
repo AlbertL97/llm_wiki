@@ -1238,3 +1238,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-04 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
+- raw/raw_algebraic-model-counting-for-global-analysis-of-optimal-decision-trees.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
+- wiki/persuasion-and-influence.md
+- wiki/social-media-and-online-communities.md
+- wiki/mind-perception.md
+- wiki/source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees.md
+
+**Summary of changes**:  
+- Ingested "Synthetic Contact with AI Reduces Cross-Partisan Animosity" and created summary page wiki/source-synthetic-contact-with-ai-reduces-cross-partisan-animosity.md.
+- Ingested "Algebraic Model Counting for Global Analysis of Optimal Decision Trees" and created summary page wiki/source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -246,6 +246,13 @@
       "summary": ""
     },
     {
+      "id": "source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees",
+      "name": "Algebraic Model Counting for Global Analysis of Optimal Decision Trees",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-already-conscious",
       "name": "Source: What If AI Is Already Conscious and We Just Can't Tell?",
       "val": 1.5,
@@ -776,6 +783,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A large-scale characterization of LLM sycophancy using a materials-science analogy where conversation is a test specimen, progressive user pushback is a load, and stance-flip is material failure across three loading cases (debate, false presuppositions, ethical settings)."
+    },
+    {
+      "id": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
+      "name": "Synthetic Contact with AI Reduces Cross-Partisan Animosity",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-the-front-page-of-the-agent-internet",
@@ -1962,6 +1976,18 @@
     },
     {
       "source": "mind-perception",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "mind-perception",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "mind-perception",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "mind-perception",
       "target": "source-hinton-consciousness"
     },
     {
@@ -2021,6 +2047,10 @@
       "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
     },
     {
+      "source": "mind-perception",
+      "target": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity"
+    },
+    {
       "source": "persuasion-and-influence",
       "target": "source-a-better-future-with-technology"
     },
@@ -2069,6 +2099,10 @@
       "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2103,6 +2137,18 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-artificial-intelligence-and-psychology"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "chatbots"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
@@ -2215,6 +2261,22 @@
     {
       "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
       "target": "trust"
+    },
+    {
+      "source": "source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees",
+      "target": "explainability"
+    },
+    {
+      "source": "source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees",
+      "target": "trust"
+    },
+    {
+      "source": "source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees",
+      "target": "medical-ai"
+    },
+    {
+      "source": "source-algebraic-model-counting-for-global-analysis-of-optimal-decision-trees",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-already-conscious",
@@ -2707,6 +2769,14 @@
     {
       "source": "source-sycophancy-pushback-loading",
       "target": "chatbots"
+    },
+    {
+      "source": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-rise-of-parasitic-ai",

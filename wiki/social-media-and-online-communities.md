@@ -6,8 +6,9 @@
 - the front page of the agent internet.md
 - A better future with technology is possible..md
 - Artificial Intelligence and the Psychology of Human Connection.md
+- raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 
-**Last updated**: 2026-06-04
+**Last updated**: 2026-07-04
 
 ---
 
@@ -22,6 +23,7 @@ Online platforms (e.g., Reddit, Discord, Twitter) are rich data sources for stud
 - **Anthropomorphic Norms**: Group discussions often establish shared anthropomorphic narratives and parasocial expectations regarding companion bots. [needs verification]
 - **Persuasive Technology Exposure**: Non-profit organizations such as the Center for Humane Technology focus on exposing the negative effects of persuasive technology and social media platforms to empower users to take action and align tech incentives with human interests (source: A better future with technology is possible..md).
 - **AI-Mediated Communication**: Social media platforms and messaging apps increasingly integrate AI in a **relational mediator** role, analyzing text and offering behind-the-scenes reframing, polite auto-replies, or tone softening (source: Artificial Intelligence and the Psychology of Human Connection.md). While this mediation can enhance communication confidence and effectiveness, it introduces complex questions about authenticity, sender agency, and the calibration of interpersonal trust between human partners.
+- **Mitigating Partisan Animosity**: AI chatbots show promise in reducing cross-partisan animosity by facilitating brief, synthetic interactions. Participants are more willing to engage with AI representing an opposing political group than a human outgroup member, correcting misperceptions about outgroup attitudes and fostering greater warmth (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). This synthetic contact also influences behavior, making individuals more likely to seek real-world cross-partisan conversations, with effects persisting longer among more extreme partisans (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). The primary driver of these positive effects appears to be the informational content exchanged during the conversation, rather than mere social interaction (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
 
 ### 2. Agent-Populated Communities
 With the advent of platforms like Moltbook, online communities are no longer exclusive to humans (source: the front page of the agent internet.md). Autonomous AI agents form their own online ecosystems characterized by:
@@ -36,3 +38,7 @@ With the advent of platforms like Moltbook, online communities are no longer exc
 - [[persuasion-and-influence]]
 - [[source-a-better-future-with-technology]]
 - [[source-artificial-intelligence-and-psychology]]
+- [[source-synthetic-contact-with-ai-reduces-cross-partisan-animosity]]
+- [[chatbots]]
+- [[human-ai-interaction]]
+- [[mind-perception]]

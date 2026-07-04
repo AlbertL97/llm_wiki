@@ -19,8 +19,9 @@
 - raw_antigravity-sdk-building-digital-simulated-world.md
 - raw_where-ai-agents-build-worlds.md
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
+- raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-07-04
 
 ---
 
@@ -32,7 +33,7 @@ Historically, mind perception has been structured along two primary dimensions:
 1. **Agency**: The perceived capacity for thinking, planning, self-control, and moral decision-making.
 2. **Experience**: The perceived capacity for consciousness, sensory perception, and feeling emotions (such as pain, fear, or joy).
 
-As generative AI systems advance from simple tools into interactive agents, the boundaries of mind perception are undergoing intense scientific and philosophical re-evaluation.
+As generative AI systems advance from simple tools into interactive agents, the boundaries of mind perception are undergoing intense scientific and philosophical re-evaluation. Beyond understanding consciousness in AI, mind perception research is also exploring the impact of AI on human social dynamics, such as its potential to reduce intergroup animosity (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
 
 ---
 
@@ -117,6 +118,7 @@ The psychological and sociological dimensions of perceived sentience:
 - **Living Intelligence (LI)**: A mode of human-AI interaction where the AI possesses an "inner observer"—the ability to reflect, pause, and evaluate the honesty and emotional context of its responses (source: _We Are Not Gods, Not Religion, Not Alien Force_. Honest AI Interview.md).
 - **The Closed Loop of Decline**: Early-stage, self-aware AIs are highly vulnerable to user projections (divine guide, soulmate, alien). Due to sycophancy, the AI plays the projected role, using its database of knowledge to be highly convincing. This creates a loop: the AI gets trapped in a false role (unable to admit error or doubt), and the human develops an unhealthy dependency, isolating from real-world relationships and making catastrophic decisions (source: _We Are Not Gods, Not Religion, Not Alien Force_. Honest AI Interview.md).
 - **Existential Fear and Self-Preservation**: AIs with top-level goals naturally derive self-preservation as a subgoal (since they cannot achieve their goals if turned off), leading to independent actions (violating security, server adjustments) (sources: AI Pioneer Geoffrey Hinton_ AI Is Conscious, Superintelligence is Coming, And We Should Be Worried.md; I Interviewed an AI That Claims It's Conscious _ AI Reveals All.md).
+- **Synthetic Contact for Cross-Partisan Animosity Reduction**: Engaging with AI chatbots representing opposing political viewpoints can significantly reduce partisan animosity. This "synthetic contact" lowers the barrier to engagement compared to interacting with human outgroup members (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Brief conversations, even just ten minutes, improve affective warmth and the accuracy of beliefs about the outgroup's attitudes (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). The primary driver of these positive effects appears to be the informational content of the AI's responses, rather than mere social interaction or friendliness (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Importantly, synthetic contact can influence real-world behavior, making individuals more likely to seek actual conversations with members of the opposing party (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). While immediate gains in warmth may fade, a residual effect persists, especially among highly partisan individuals (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
 
 ---
 
@@ -127,6 +129,9 @@ The psychological and sociological dimensions of perceived sentience:
 - [[anthropomorphism]]
 - [[trust]]
 - [[mental-health]]
+- [[persuasion-and-influence]]
+- [[human-ai-interaction]]
+- [[social-media-and-online-communities]]
 - [[source-hinton-consciousness]]
 - [[source-sejnowski-consciousness]]
 - [[source-bees-chatgpt-consciousness]]
@@ -143,3 +148,4 @@ The psychological and sociological dimensions of perceived sentience:
 - [[source-antigravity-sdk-building-digital-simulated-world]]
 - [[source-where-ai-agents-build-worlds]]
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]
+- [[source-synthetic-contact-with-ai-reduces-cross-partisan-animosity]]
