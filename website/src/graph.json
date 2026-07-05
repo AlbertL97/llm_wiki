@@ -883,6 +883,13 @@
       "summary": "A summary page for United Robotics Group's landing page, outlining target industries for service robotics to address labor shortages and automate tasks in life sciences, healthcare, inspection, intralogistics, retail, and hospitality."
     },
     {
+      "id": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
+      "name": "VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-happens-trust-breaks",
       "name": "Source: What happens when trust in an AI system breaks? Do human-AI relationships follow recognizable trajectories?",
       "val": 1.5,
@@ -2833,6 +2840,22 @@
     {
       "source": "source-united-robotics-group",
       "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
+      "target": "trust"
+    },
+    {
+      "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
+      "target": "explainability"
     },
     {
       "source": "source-what-happens-trust-breaks",
