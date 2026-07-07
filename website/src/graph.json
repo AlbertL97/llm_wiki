@@ -820,6 +820,20 @@
       "summary": ""
     },
     {
+      "id": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
+      "name": "Source Summary: Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-toward-trustworthy-large-language-model-agents-in-healthcare",
+      "name": "Toward Trustworthy Large Language Model Agents in Healthcare",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
       "name": "Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach",
       "val": 1.5,
@@ -1092,6 +1106,10 @@
     {
       "source": "ai-companions",
       "target": "medical-ai"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective"
     },
     {
       "source": "anthropomorphism",
@@ -1675,7 +1693,19 @@
     },
     {
       "source": "human-robot-interaction",
+      "target": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective"
+    },
+    {
+      "source": "human-robot-interaction",
       "target": "measurement-tools"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "mental-health"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "medical-ai"
     },
     {
       "source": "introspective-awareness",
@@ -1870,6 +1900,10 @@
       "target": "source-managinglife-unveils-solace-ai-companion-pain-support"
     },
     {
+      "source": "medical-ai",
+      "target": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -1904,10 +1938,6 @@
     {
       "source": "mental-health",
       "target": "source-why-ai-will-replace-your-therapist"
-    },
-    {
-      "source": "mental-health",
-      "target": "human-robot-interaction"
     },
     {
       "source": "mental-health",
@@ -2792,6 +2822,26 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-toward-trustworthy-large-language-model-agents-in-healthcare",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-toward-trustworthy-large-language-model-agents-in-healthcare",
+      "target": "trust"
+    },
+    {
+      "source": "source-toward-trustworthy-large-language-model-agents-in-healthcare",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-toward-trustworthy-large-language-model-agents-in-healthcare",
+      "target": "medical-ai"
     },
     {
       "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",

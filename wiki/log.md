@@ -1278,3 +1278,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-07 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
+- raw/raw_toward-trustworthy-large-language-model-agents-in-healthcare.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
+- wiki/human-robot-interaction.md
+- wiki/ai-companions.md
+- wiki/medical-ai.md
+- wiki/source-toward-trustworthy-large-language-model-agents-in-healthcare.md
+- wiki/trust.md
+
+**Summary of changes**:  
+- Ingested "Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective" and created summary page wiki/source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md.
+- Ingested "Toward Trustworthy Large Language Model Agents in Healthcare" and created summary page wiki/source-toward-trustworthy-large-language-model-agents-in-healthcare.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

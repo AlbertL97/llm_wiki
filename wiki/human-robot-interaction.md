@@ -20,8 +20,9 @@
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 - raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
+- raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-07-07
 
 ---
 
@@ -113,6 +114,14 @@ Improving the accuracy of robot teleoperation is crucial for tasks requiring pre
 - **Deterministic Formulation**: The AKC method utilizes known wrist positions and predefined arm lengths in a deterministic approach, based on geometric principles, to calculate missing joint depths. This avoids the need for complex probabilistic models and reduces the burden of extensive parameter tuning (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
 - **Validation and Application**: Experiments have validated AKC against high-precision reference systems, demonstrating its reliability for both static and dynamic joint motions. Its effectiveness has been shown in motion-mapping teleoperation within both simulated and physical robot environments, significantly enhancing the robustness and anatomical consistency of motion tracking under challenging occlusion conditions, making it a practical solution for real-time HRI applications (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
 
+### 15. Personalized Social Robots for Child Well-being
+Personalizing social robots for children's well-being, especially in clinical settings, presents unique challenges in data collection and interpretation. Framing personalization as a recommendation problem requires robust data to profile children and understand the effectiveness of robot interventions (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). Key data challenges include the dynamic nature of children's states, weak effectiveness signals from interventions, difficulties in linking sessions due to infrequent visits and anonymization, and biases inherent in observational data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). To address these, a recommender-system perspective advocates for:
+- **Integrated Profiles**: Developing holistic and dynamic user profiles that capture evolving child needs and states (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+- **Robust Effectiveness Signals**: Collecting strong indicators of how robot actions impact children (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+- **Linkable Coverage**: Ensuring that data from different interactions can be connected to maintain a continuous history (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+- **Exposure Records**: Logging detailed records of robot actions and their context at the time of data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+These principles translate into practical guidelines for designing data collection strategies for social robots in child well-being applications (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -138,4 +147,7 @@ Improving the accuracy of robot teleoperation is crucial for tasks requiring pre
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]]
 - [[source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation]]
+- [[source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective]]
 - [[measurement-tools]]
+- [[mental-health]]
+- [[medical-ai]]

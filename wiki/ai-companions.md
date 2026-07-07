@@ -23,14 +23,17 @@
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
 - raw_managinglife-unveils-solace-ai-companion-pain-support.md
+- raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
 
-**Last updated**: 2026-06-29
+**Last updated**: 2026-07-07
 
 ---
 
 ## Main content
 
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). Furthermore, the field is expanding to address specific health needs, with AI companions now being developed to offer specialized therapeutic support, such as for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
+
+The personalization of social robots for child well-being, particularly in clinical settings, is an emerging area. This is framed as a recommendation problem, requiring the selection of robot actions tailored to individual children. However, significant challenges arise from the dynamic nature of children's states, indirect effectiveness signals, difficulties in linking sessions due to infrequent visits and anonymization, and biases introduced by observational data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). To address these, principles for an integrated profile, robust effectiveness signals, linkable coverage, and exposure records are proposed to guide data collection for social robots designed for child well-being (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -150,3 +153,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-ai-chatbots-and-digital-companions-reshaping-emotional-connection]]
 - [[source-managinglife-unveils-solace-ai-companion-pain-support]]
 - [[medical-ai]]
+- [[source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective]]
