@@ -55,8 +55,9 @@
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_toward-trustworthy-large-language-model-agents-in-healthcare.md
+- raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 
@@ -294,6 +295,9 @@ Recent research suggests that sustained engagement with conversational AI system
 ### 34. Trustworthy LLM Agents in Healthcare Logistics
 The development of specialized LLM agents, such as CareConnect, demonstrates significant potential for automating complex operational workflows in healthcare while prioritizing safety and efficiency (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). CareConnect leverages LLMs, function calling, and RAG, supported by deterministic safety guardrails and strict scope enforcement, to manage tasks like appointment booking, modification, and cancellation without venturing into medical advice (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). Rigorous evaluation shows high task completion rates (91.8%) and safety compliance (96.0% on safety-critical subsets), with substantial cost reductions per appointment ($0.0324) compared to manual processes (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). These findings suggest that carefully designed and safeguarded LLM agents can be reliable and cost-effective tools for critical healthcare logistics, fostering calibrated trust through demonstrable competence and safety (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md).
 
+### 35. Security and Privacy Controls and Emotional Engagement
+Generative AI chatbots are increasingly adopted for emotional support and companionship. The effectiveness of security and privacy (S&P) controls in fostering user willingness to engage in emotionally sensitive disclosure is complex. While controls like the ability for users to delete their disclosures significantly enhance engagement, more technically advanced controls (e.g., local-only processing, training opt-outs) are less effective due to comprehension challenges (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Despite implemented S&P measures, users' trust remains fragile, with persistent doubts about their actual functionality (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Recommendations include improving user comprehension of S&P controls, building credible assurances, and setting appropriate barriers, particularly for vulnerable users (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -377,3 +381,4 @@ The development of specialized LLM agents, such as CareConnect, demonstrates sig
 - [[source-invisible-impact-of-empathy-on-behavioral-change]]
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-toward-trustworthy-large-language-model-agents-in-healthcare]]
+- [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]

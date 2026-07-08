@@ -1302,3 +1302,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-08 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md
+- raw/raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/explainability.md
+
+**Summary of changes**:  
+- Ingested "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization" and created summary page wiki/source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md.
+- Ingested "The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots" and created summary page wiki/source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

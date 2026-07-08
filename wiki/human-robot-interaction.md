@@ -1,6 +1,6 @@
 # Human-Robot Interaction
 
-**Summary**: The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, and developmental motor learning through bidirectional tutoring. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences.
+**Summary**: The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support.
 
 **Sources**:
 - Human Robot Interactions.md
@@ -21,14 +21,16 @@
 - raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md
 - raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md
 - raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
+- raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md
+- raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 
 ## Main content
 
-**Human-Robot Interaction (HRI)** is an interdisciplinary field dedicated to understanding, designing, and evaluating robotic systems for use by or with humans. While human-AI interaction often focuses on virtual, disembodied agents, HRI is characterized by physical embodiment, real-world agency, and co-present spatial collaboration (sources: Human Robot Interactions.md; iCubWorld.md). The evolution towards "Physical AI," where robots interact directly with the physical world, necessitates the development of robust data standards to facilitate the accumulation and sharing of embodied experiences across diverse robotic systems and tasks (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+**Human-Robot Interaction (HRI)** is an interdisciplinary field dedicated to understanding, designing, and evaluating robotic systems for use by or with humans. While human-AI interaction often focuses on virtual, disembodied agents, HRI is characterized by physical embodiment, real-world agency, and co-present spatial collaboration (sources: Human Robot Interactions.md; iCubWorld.md). The evolution towards "Physical AI," where robots interact directly with the physical world, necessitates the development of robust data standards to facilitate the accumulation and sharing of embodied experiences across diverse robotic systems and tasks (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md). Furthermore, understanding user engagement with AI systems, particularly those offering emotional support or companionship like generative AI chatbots, is crucial. The effectiveness of security and privacy (S&P) controls in these systems significantly impacts users' willingness to engage in emotionally sensitive disclosure, with deletion controls showing the most positive impact due to their clarity (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Conversely, more technical controls like local-only processing are less effective due to comprehension challenges, highlighting the fragility of user trust which requires credible assurances and appropriate communication (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -122,6 +124,13 @@ Personalizing social robots for children's well-being, especially in clinical se
 - **Exposure Records**: Logging detailed records of robot actions and their context at the time of data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
 These principles translate into practical guidelines for designing data collection strategies for social robots in child well-being applications (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
 
+### 16. Embodied Spatial Data Physicalization via Acoustics
+Novel approaches to human-robot interaction are exploring how robots can physically represent and communicate complex spatial data in real-time. AcoustoBots, a system built upon mobile robots equipped with ultrasonic phased arrays, achieve this by levitating small particles to represent scalar values (e.g., population density, noise levels) (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+- **Acoustic Levitation for Data Display**: The height of levitated particles, controlled by ultrasonic phased arrays, directly encodes spatial data, offering a glanceable and dynamic physical representation (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+- **MARL for Navigation and Stability**: A Multi-Agent Reinforcement Learning (MARL) algorithm (MADDPG) is employed for intelligent, collision-aware navigation of these mobile robots. Specialized controllers maintain acoustic stability and dynamic particle height adjustment during robot movement, ensuring consistent data rendering even when the robot is in motion (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+- **Embodied Interaction Loop**: This system creates a closed loop of perception, data display through levitation, and robot action, fostering embodied HRI and offering a new paradigm for spatial analytics (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+- **Performance**: AcoustoBots demonstrated stable levitation during motion and consistent, data-dependent height rendering, achieving high success rates in single- and dual-robot traversal tasks (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -151,3 +160,5 @@ These principles translate into practical guidelines for designing data collecti
 - [[measurement-tools]]
 - [[mental-health]]
 - [[medical-ai]]
+- [[source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization]]
+- [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]

@@ -24,8 +24,9 @@
 - raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md
 - raw_managinglife-unveils-solace-ai-companion-pain-support.md
 - raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
+- raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 
@@ -34,6 +35,8 @@
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). Furthermore, the field is expanding to address specific health needs, with AI companions now being developed to offer specialized therapeutic support, such as for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
 
 The personalization of social robots for child well-being, particularly in clinical settings, is an emerging area. This is framed as a recommendation problem, requiring the selection of robot actions tailored to individual children. However, significant challenges arise from the dynamic nature of children's states, indirect effectiveness signals, difficulties in linking sessions due to infrequent visits and anonymization, and biases introduced by observational data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). To address these, principles for an integrated profile, robust effectiveness signals, linkable coverage, and exposure records are proposed to guide data collection for social robots designed for child well-being (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
+
+The implementation and comprehension of security and privacy (S&P) controls significantly influence users' willingness to engage in emotionally sensitive disclosure with generative AI chatbots (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). While these chatbots are increasingly utilized for emotional support and companionship, user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Specifically, controls that allow users to delete their disclosures have shown the most positive impact on engagement and willingness to share sensitive information (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). However, more complex S&P controls, such as local-only processing and model training opt-outs, are often poorly understood by users, limiting their effectiveness (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). This highlights the need for improved user comprehension of S&P mechanisms and credible assurances to foster safer and more effective engagement with AI companions (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -154,3 +157,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-managinglife-unveils-solace-ai-companion-pain-support]]
 - [[medical-ai]]
 - [[source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective]]
+- [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]

@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md)."
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md)."
     },
     {
       "id": "human-ai-interaction",
@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, and developmental motor learning through bidirectional tutoring. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support."
     },
     {
       "id": "index",
@@ -442,6 +442,13 @@
       "summary": "A summary page for Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies across varying environments, embodiments, and physical disturbances."
     },
     {
+      "id": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization",
+      "name": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-emergent-introspective-awareness",
       "name": "Source: Emergent Introspective Awareness in Large Language Models",
       "val": 1.5,
@@ -799,6 +806,13 @@
       "summary": "A summary page for \"the front page of the agent internet\" (Moltbook.com), an online platform designed exclusively for AI agents to share, discuss, and upvote content, with humans participating as observers."
     },
     {
+      "id": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
+      "name": "The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-rise-of-parasitic-ai",
       "name": "Source: The Rise of Parasitic AI",
       "val": 1.5,
@@ -1112,6 +1126,10 @@
       "target": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective"
     },
     {
+      "source": "ai-companions",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1404,6 +1422,10 @@
       "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
     },
     {
+      "source": "explainability",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "source-what-is-human-centered-ai"
     },
@@ -1612,6 +1634,14 @@
       "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1706,6 +1736,14 @@
     {
       "source": "human-robot-interaction",
       "target": "medical-ai"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
     },
     {
       "source": "introspective-awareness",
@@ -1848,6 +1886,10 @@
       "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -1974,6 +2016,10 @@
     {
       "source": "mental-health",
       "target": "source-managinglife-unveils-solace-ai-companion-pain-support"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2814,6 +2860,14 @@
     {
       "source": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
+      "target": "trust"
+    },
+    {
+      "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
+      "target": "chatbots"
     },
     {
       "source": "source-the-rise-of-parasitic-ai",
