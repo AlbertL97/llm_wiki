@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md)."
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md)."
     },
     {
       "id": "human-ai-interaction",
@@ -911,6 +911,13 @@
       "summary": "A summary page for United Robotics Group's landing page, outlining target industries for service robotics to address labor shortages and automate tasks in life sciences, healthcare, inspection, intralogistics, retail, and hospitality."
     },
     {
+      "id": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
+      "name": "Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
       "name": "VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification",
       "val": 1.5,
@@ -1424,6 +1431,10 @@
     {
       "source": "explainability",
       "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
+      "source": "explainability",
+      "target": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security"
     },
     {
       "source": "human-ai-interaction",
@@ -2944,6 +2955,14 @@
     {
       "source": "source-united-robotics-group",
       "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
+      "target": "trust"
     },
     {
       "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",

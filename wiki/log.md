@@ -1329,3 +1329,21 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-09 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md
+- wiki/explainability.md
+
+**Summary of changes**:  
+- Ingested "Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security" and created summary page wiki/source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
