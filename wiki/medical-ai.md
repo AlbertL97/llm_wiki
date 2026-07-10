@@ -14,8 +14,9 @@
 - raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
 - raw_managinglife-unveils-solace-ai-companion-pain-support.md
 - raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md
+- raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-10
 
 ---
 
@@ -50,6 +51,8 @@ A critical challenge for deploying LLMs in sensitive domains like mental health 
 
 ### 7. AI Healthcare Chatbots as Information Infrastructure
 AI healthcare chatbots are increasingly serving as critical information infrastructures, enabling patient interaction with health services. However, a large-scale study of user-reported breakdowns in these applications, analyzing over 15,000 reviews, highlights significant challenges. These issues fall into three primary categories: access barriers and service unreliability; poor user experience and interaction quality; and problems with billing and customer support (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Crucially, privacy and security concerns were strongly linked to the most negative user experiences, underscoring the paramount importance of trust in the deployment of these digital health systems (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md).
+
+A field experiment evaluating generative AI advice in a healthcare setting revealed that patients using an AI chatbot before their doctor's visit exhibited lower prescription rates and higher rates of diagnostic testing (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). This AI provided directional advice, cautioning against certain medications (like Traditional Chinese Medicine and antibiotics) and promoting diagnostic tests, likely due to "liability-driven guardrails" in its training (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). The impact on healthcare utilization was more pronounced for physicians who were more receptive to patient input and those with a more intensive prescribing style (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). Furthermore, AI access correlated with reduced patient compliance and lower overall satisfaction, altering patient-physician authority dynamics as patients entered consultations with AI-generated advice (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md).
 
 ### 8. Personalization of Social Robots for Child Well-being
 Personalizing social robots for children's well-being, particularly in clinical settings, presents unique data challenges. This personalization is viewed as a recommendation problem, requiring robot actions tailored to individual children (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). Key difficulties include the dynamic nature of children's states, indirect effectiveness signals of robot interventions, issues linking data across infrequent and anonymized sessions, and biases inherent in observational data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). To address these, four data principles are proposed: integrated, dynamic user profiles; robust collection of effectiveness signals; linkable data coverage across interactions; and a detailed exposure record logging robot actions and context (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). These principles guide the design of data collection strategies for social robots in child well-being applications (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
@@ -109,3 +112,4 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - [[source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns]]
 - [[source-managinglife-unveils-solace-ai-companion-pain-support]]
 - [[source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective]]
+- [[source-directional-ai-advice-experimental-evidence-from-healthcare]]

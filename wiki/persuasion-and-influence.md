@@ -10,8 +10,9 @@
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
+- raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 
-**Last updated**: 2026-07-04
+**Last updated**: 2026-07-10
 
 ---
 
@@ -24,6 +25,8 @@ Conversational AI is actively developing into a "psychotechnology" not solely du
 Research into sustained engagement with conversational AI suggests that perceived gains in human agency are a more significant driver than traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Users continue to engage with these tools because they feel more empowered, even if the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
 
 Recent research also highlights the potential for AI chatbots to be used for positive social influence, specifically in reducing cross-partisan animosity (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Studies show that brief conversations with AI chatbots representing opposing political viewpoints can significantly lower partisan animosity (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). This "synthetic contact" reduces the barrier to engagement, as individuals are more willing to interact with an AI than a human outgroup member (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Such interactions correct misperceptions about the outgroup's attitudes and beliefs, leading to improved affective warmth (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). The effects are driven by the informational content of the AI's responses rather than mere social interaction (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Importantly, synthetic contact can influence behavior, making participants more likely to seek real-world conversations with members of the opposing party (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). While immediate positive effects on warmth may diminish within a week, a residual effect can persist, particularly among more extreme partisans (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). Synthetic contact is thus established as a scalable and impactful method for cross-partisan engagement (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
+
+A field experiment in a hospital setting revealed that generative AI advice, embedded with "liability-driven guardrails," systematically cautioned patients against medication use (particularly Traditional Chinese Medicine and antibiotics) while promoting diagnostic testing (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). Patients who used such AI chatbots pre-consultation exhibited lower prescription rates and higher diagnostic testing rates, with effects being more pronounced for receptive physicians and those with intensive prescribing styles (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). Critically, AI access was linked to reduced patient compliance with medical advice and lower overall satisfaction, and it altered the patient-physician authority dynamic by equipping patients with AI-generated advice that influenced clinical judgment (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md).
 
 ### 1. Systemic Incentives and Human Well-Being
 Persuasive technologies are often built to maximize user engagement and capture attention, which can lead to unintended cognitive and psychological harms [needs verification]. AI experts are increasingly signaling "emergent risks" from LLMs, including unexpected emergent behaviors and sophisticated misinformation generation (source: raw_ai-experts-warning-dangerous-llm-problem.md). A central concern is the potential for these problems to erode user trust in AI systems (source: raw_ai-experts-warning-dangerous-llm-problem.md). Non-profit advocacy groups, such as the Center for Humane Technology (CHT), seek to expose these negative effects and shift ecosystem incentives so that consequential technologies actually serve humanity (source: A better future with technology is possible..md), emphasizing the need for robust safety measures and transparent operational principles in LLM development and deployment (source: raw_ai-experts-warning-dangerous-llm-problem.md).
@@ -57,3 +60,4 @@ The paper proposes four criteria for a practice to be considered a psychotechnol
 - [[anthropomorphism]]
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-synthetic-contact-with-ai-reduces-cross-partisan-animosity]]
+- [[source-directional-ai-advice-experimental-evidence-from-healthcare]]

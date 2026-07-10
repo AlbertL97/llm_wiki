@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-10
 
 ## Orientation
 
@@ -42,6 +42,7 @@
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
+- [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
@@ -102,6 +103,7 @@
 - [[source-trust-psychology-reliance]] — Summary of the Verena Seibert-Giller article discussing why reframing trust as reliance is critical for AI UX.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
+- [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.
 - [[source-virtual-human-embodiment]] — Summary of Virtual Human Embodiment.
 - [[source-virtual-human-interaction]] — Summary of Virtual Human Interaction.
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.

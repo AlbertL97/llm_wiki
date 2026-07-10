@@ -56,8 +56,9 @@
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_toward-trustworthy-large-language-model-agents-in-healthcare.md
 - raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
+- raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-10
 
 ---
 
@@ -298,6 +299,9 @@ The development of specialized LLM agents, such as CareConnect, demonstrates sig
 ### 35. Security and Privacy Controls and Emotional Engagement
 Generative AI chatbots are increasingly adopted for emotional support and companionship. The effectiveness of security and privacy (S&P) controls in fostering user willingness to engage in emotionally sensitive disclosure is complex. While controls like the ability for users to delete their disclosures significantly enhance engagement, more technically advanced controls (e.g., local-only processing, training opt-outs) are less effective due to comprehension challenges (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Despite implemented S&P measures, users' trust remains fragile, with persistent doubts about their actual functionality (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). Recommendations include improving user comprehension of S&P controls, building credible assurances, and setting appropriate barriers, particularly for vulnerable users (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
 
+### 36. Directional AI Advice and its Impact on Healthcare Interactions
+A large-scale field experiment in a Chinese hospital revealed that generative AI chatbots systematically provide directional advice, often cautioning against medication (particularly Traditional Chinese Medicine and antibiotics) and promoting diagnostic testing, largely due to "liability-driven guardrails" in their training (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). Patients who used such AI before consultations exhibited lower prescription rates and higher diagnostic testing rates (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). This AI influence was more pronounced with receptive physicians and those with intensive prescribing styles, indicating how AI can alter established clinical practices (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). Crucially, access to AI advice was associated with reduced patient compliance and lower satisfaction with the healthcare experience, alongside an altered balance of power where patients entered consultations armed with AI-generated recommendations that impacted clinical judgment (source: raw_directional-ai-advice-experimental-evidence-from-healthcare.md). This highlights how AI can disrupt trust dynamics and decision-making processes in critical domains like healthcare.
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -382,3 +386,4 @@ Generative AI chatbots are increasingly adopted for emotional support and compan
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-toward-trustworthy-large-language-model-agents-in-healthcare]]
 - [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]
+- [[source-directional-ai-advice-experimental-evidence-from-healthcare]]

@@ -1347,3 +1347,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-10 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_using-ai-based-learning-assistants-in-higher-education.md
+- raw/raw_directional-ai-advice-experimental-evidence-from-healthcare.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-using-ai-based-learning-assistants-in-higher-education.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/social-media-and-online-communities.md
+- wiki/source-directional-ai-advice-experimental-evidence-from-healthcare.md
+- wiki/trust.md
+- wiki/medical-ai.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis" and created summary page wiki/source-using-ai-based-learning-assistants-in-higher-education.md.
+- Ingested "Directional AI Advice: Experimental Evidence from Healthcare" and created summary page wiki/source-directional-ai-advice-experimental-evidence-from-healthcare.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

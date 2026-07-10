@@ -435,6 +435,13 @@
       "summary": ""
     },
     {
+      "id": "source-directional-ai-advice-experimental-evidence-from-healthcare",
+      "name": "Directional AI Advice: Experimental Evidence from Healthcare",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-early-preview-generalist",
       "name": "Source: An early preview of model capabilities | Generalist",
       "val": 1.5,
@@ -913,6 +920,13 @@
     {
       "id": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
       "name": "Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-using-ai-based-learning-assistants-in-higher-education",
+      "name": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1413,6 +1427,14 @@
       "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
+      "source": "chatbots",
+      "target": "source-using-ai-based-learning-assistants-in-higher-education"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1651,6 +1673,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-using-ai-based-learning-assistants-in-higher-education"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
     },
     {
       "source": "human-robot-interaction",
@@ -1957,6 +1987,10 @@
       "target": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective"
     },
     {
+      "source": "medical-ai",
+      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -2197,6 +2231,10 @@
       "target": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2243,6 +2281,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-using-ai-based-learning-assistants-in-higher-education"
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
@@ -2543,6 +2585,10 @@
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "explainability"
+    },
+    {
+      "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
+      "target": "trust"
     },
     {
       "source": "source-emotional-attachment-robots-future",
