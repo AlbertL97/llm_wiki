@@ -32,8 +32,9 @@
 - raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md
+- raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-11
 
 ---
 
@@ -42,6 +43,8 @@
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
 
 Emerging research is also exploring novel embodied interaction modalities for human-robot collaboration, such as using acoustic levitation to physicalize spatial data (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md). Systems like AcoustoBots utilize mobile robots with ultrasonic phased arrays to levitate particles, where particle height represents scalar data like population density or noise levels (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md). This approach creates a closed loop of perception, data display, and robot action, facilitating embodied interaction and offering a glanceable, effective method for communicating spatial information in human-robot teams (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+
+In the realm of physical HRI, robot acceptance is increasingly understood to be driven by perceived comfort and ergonomics, which are directly tied to the quality of the robot's movements rather than solely its visual human-likeness (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A new metric, the "human-likeness index," has been developed to quantify the similarity of robot movements to human motion, specifically by analyzing time laws and leveraging the lognormality principle observed in human motion (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). This index can serve as an a priori tool for evaluating trajectory generation algorithms, enabling the assessment of their potential to produce comfortable and human-like movements before physical implementation (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). Experimental validation with human subjects has confirmed a strong alignment between preference for comfort and the distribution of this human-likeness index (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -152,7 +155,7 @@ Key dimensions of this evaluation paradigm include:
 - **Impact on Collaboration**: Quantifying these signatures is crucial for establishing reliable, predictable human-AI collaboration and understanding how users form informal, anthropomorphic taxonomies (e.g., perceiving a model as a "poet-philosopher" or a "pragmatic engineer") (source: raw_behavioral-signatures-large-language-models.md).
 
 ### 17. Data Standards for Physical AI
-The scalability and effective deployment of embodied AI, particularly humanoid robots, are critically dependent on the development of robust **data standards**. These standards are posited as the essential infrastructure for "Physical AI," facilitating the accumulation and sharing of physical interaction experiences across diverse robotic systems, tasks, and contexts (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
+The scalability and effective deployment of embodied AI, particularly humanoid robots, are critically dependent on the development of robust **data standards**. These standards are posited as the essential infrastructure for "Physical AI," enabling the accumulation and sharing of physical interaction experiences across diverse robotic systems, tasks, and contexts (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
 
 Key aspects of this emerging area include:
 -   **Embodied Data Context**: Data generated by humanoid robots must capture the holistic context of physical interaction, including the robot's embodiment, actions, task, environment, execution trace, and results. Isolated data points are insufficient (source: raw_data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai.md).
@@ -206,3 +209,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure]]
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization]]
+- [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]

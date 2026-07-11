@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-11
 
 ## Orientation
 
@@ -10,6 +10,7 @@
 
 ## Source summaries
 
+- [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of Humans and AI track accepted papers at AAAI 2026, covering adaptive ensembles and teaming cooperation.
 - [[source-active-interaction-strategy]] — Summary of study proposing a dynamic trust-based active strategy generation framework for HRC using VLMs.
@@ -90,6 +91,7 @@
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
+- [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.

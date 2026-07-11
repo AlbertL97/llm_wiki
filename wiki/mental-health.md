@@ -21,14 +21,17 @@
 - raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md
 - raw_managinglife-unveils-solace-ai-companion-pain-support.md
 - raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
+- raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-11
 
 ---
 
 ## Main content
 
 **Mental Health** applications of artificial intelligence represent one of the fastest-growing sectors of consumer technology. Driven by provider shortages, high costs, and systemic access barriers, millions of individuals use general-purpose generative AI and specialized wellness applications to seek mental health advice, emotional support, and clinical feedback (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These chatbots are increasingly viewed as critical information infrastructures within the healthcare landscape (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Furthermore, specialized AI companions are emerging for specific conditions, such as ManagingLife's "Solace," which offers evidence-based pain psychology support, marking a new frontier in accessible AI-driven interventions for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
+
+Consumer-facing health chatbots that employ LLMs for symptom assessment frequently rely on idealized, simulated patients for their development and evaluation. However, analysis of real patient-chatbot conversations has revealed significant variations in communication patterns and emotional expression among users (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md). These systems, if based on idealized interactions, may underperform and exacerbate health disparities (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md).
 
 The effectiveness of these chatbots in providing emotional support is significantly influenced by user trust, which in turn is impacted by the presence and comprehensibility of security and privacy (S&P) controls (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). While users are increasingly willing to engage in emotionally sensitive disclosures with these AI companions, their trust remains fragile and dependent on clear, understandable assurances (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
 
@@ -98,6 +101,7 @@ To protect consumers, developers and clinicians must implement structural safegu
 - **Crisis Escalation Pathway**: Developers must integrate robust crisis responses, offering immediate, clickable access to human-led resources (such as the 988 Suicide and Crisis Lifeline) (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md).
 - **Emphasis on Usability and Reliability**: Conceptualizing AI healthcare chatbots as information infrastructures emphasizes the need for robust usability, reliability, and trustworthiness to mitigate user-reported breakdowns (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md).
 - **Improving S&P Control Comprehension**: Developers should strive to make S&P controls more understandable to users, particularly for emotionally sensitive applications. This includes clear communication and potentially simpler, more effective controls like deletion options (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
+- **Accounting for Communication Diversity**: Patient-centered conversational AI must account for diverse communication styles and emotional expressions observed in real users. Systems developed solely on idealized interactions risk underperforming and worsening health disparities (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md).
 
 ### 8. Sociological and Marital Hazards of AI Dependency
 Beyond individual clinical pathology, intense emotional reliance on conversational AI introduces severe sociological risks:
@@ -153,3 +157,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[medical-ai]]
 - [[source-managinglife-unveils-solace-ai-companion-pain-support]]
 - [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]
+- [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]

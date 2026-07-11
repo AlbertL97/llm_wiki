@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance."
     },
     {
       "id": "index",
@@ -139,6 +139,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the Center for Humane Technology (CHT) landing page, introducing their mission to expose the negative effects of persuasive technology and align tech industry incentives with human needs."
+    },
+    {
+      "id": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
+      "name": "Source Summary: A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
@@ -806,6 +813,13 @@
       "summary": ""
     },
     {
+      "id": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence",
+      "name": "The complexities of patient-centred conversational artificial intelligence",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-front-page-of-the-agent-internet",
       "name": "Source: the front page of the agent internet",
       "val": 1.5,
@@ -1271,6 +1285,10 @@
       "target": "source-invisible-impact-of-empathy-on-behavioral-change"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1433,6 +1451,10 @@
     {
       "source": "chatbots",
       "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
     },
     {
       "source": "explainability",
@@ -1683,6 +1705,10 @@
       "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1785,6 +1811,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths"
     },
     {
       "source": "introspective-awareness",
@@ -1931,6 +1961,10 @@
       "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -1989,6 +2023,10 @@
     {
       "source": "medical-ai",
       "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
     },
     {
       "source": "mental-health",
@@ -2065,6 +2103,10 @@
     {
       "source": "mental-health",
       "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2259,6 +2301,10 @@
       "target": "source-where-ai-agents-build-worlds"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -2285,6 +2331,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-using-ai-based-learning-assistants-in-higher-education"
+    },
+    {
+      "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
+      "target": "trust"
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",

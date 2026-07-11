@@ -1374,3 +1374,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-11 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
+- raw/raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-complexities-of-patient-centred-conversational-artificial-intelligence.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/qualitative-methods.md
+- wiki/source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The complexities of patient-centred conversational artificial intelligence" and created summary page wiki/source-the-complexities-of-patient-centred-conversational-artificial-intelligence.md.
+- Ingested "A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths" and created summary page wiki/source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

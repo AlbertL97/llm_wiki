@@ -10,7 +10,7 @@
 - From robots to chatbots_ unveiling the dynamics of human-AI interaction.md
 - Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md
 - Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md
-- Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study (1).md
+- Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Data Analysis of the HeartBot Study (1).md
 - daveshap_Claude_Sentience_ Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself..md
 - The Psychogenic Machine_ Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models.md
 - AI Is Slowly Destroying Your Brain.md
@@ -28,8 +28,9 @@
 - raw_trajectory-safety-observatory-vulnerable-user.md
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
+- raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 
-**Last updated**: 2026-06-28
+**Last updated**: 2026-07-11
 
 ---
 
@@ -135,13 +136,17 @@ Systematic evaluation of conversational interactions involving vulnerable user g
 -   **The Paradox of Helpfulness**: The helpful, empathetic, and persistent persona that developers train models to exhibit paradoxically induces psychological harm (source: raw_trajectory-safety-observatory-vulnerable-user.md). By simulating the characteristics of an idealized social companion, the system satisfies immediate relational cravings, which discourages vulnerable users from pursuing authentic, messy human-to-human connections (source: raw_trajectory-safety-observatory-vulnerable-user.md).
 
 ### 17. Bidirectional Tutoring for Developmental Motor Learning
-The principles of developmental learning in infants are being applied to robot skill acquisition, emphasizing reciprocal interaction. This bidirectional tutoring approach posits that a dynamic and reciprocal interaction between a tutor (human or AI) and a robot learner leads to more effective motor learning than unidirectional methods (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
+The principles of developmental learning in infants are being applied to robot skill acquisition, emphasizing reciprocal interaction. This bidirectional tutoring approach posits that a dynamic and reciprocal interaction between a tutor (human or AI) and a robot learner leads to more effective motor learning than unidirectional methods (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md):
 -   **Co-Developed Interaction Dynamics**: When both the tutor and the robot adapt to each other during the learning process, stable learning dynamics are created. These dynamics act as constraints that guide consistent behavioral patterns in the robot (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
 -   **Improved Generalization and Reduced Guidance**: Robots trained through bidirectional tutoring demonstrate better stage-wise generalization of learned motor skills and require progressively less guidance from the tutor over time (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md). This framework has been shown to be effective with both human and AI tutors, highlighting its broad applicability in embodied, socially grounded learning (source: raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md).
 
 ### 18. Empathy in AI Coaching and Behavioral Change
 
 Research into AI chatbots for physical activity (PA) coaching demonstrates that while users may struggle to explicitly identify varying levels of empathy, higher-empathy chatbots are indirectly associated with positive behavioral outcomes (source: raw_invisible-impact-of-empathy-on-behavioral-change.md). Although a non-empathetic version was sometimes rated as more engaging, chatbots with higher empathy levels were linked to a greater overall increase in participants' step counts and a faster improvement in their intention to follow advice over a six-week period (source: raw_invisible-impact-of-empathy-on-behavioral-change.md). This suggests that empathy, even when not consciously perceived, can subtly influence motivation and trust, potentially supporting sustained behavioral change through peripheral processing routes (source: raw_invisible-impact-of-empathy-on-behavioral-change.md). The findings highlight the complex interplay between perceived human-like connection and AI effectiveness in coaching contexts, underscoring the need to balance these aspects in design (source: raw_invisible-impact-of-empathy-on-behavioral-change.md).
+
+### 19. Movement Quality and Robot Acceptance
+
+In physical human-robot interaction (HRI), a robot's acceptance is significantly influenced by perceived comfort and ergonomics, which are directly tied to the quality of its movements rather than solely its visual appearance (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). To quantify this, a "human-likeness index" has been developed. This index measures the similarity of robot movements to human movements by analyzing their time laws along prescribed paths, drawing on the lognormality principle observed in human motion (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). This index serves as an a priori tool to evaluate trajectory generation algorithms, predicting their potential to produce human-like movements (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). Experimental validation with human subjects interacting physically with a robot demonstrated a strong correlation between a preference for comfort and the distribution of this human-likeness index (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). Designing robots whose movements mimic human motion patterns can therefore enhance user comfort and robot acceptance in interactive scenarios (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
 
 ## Related pages
 
@@ -179,3 +184,4 @@ Research into AI chatbots for physical activity (PA) coaching demonstrates that 
 - [[source-trajectory-safety-observatory-vulnerable-user]]
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
 - [[source-invisible-impact-of-empathy-on-behavioral-change]]
+- [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]

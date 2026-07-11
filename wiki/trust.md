@@ -57,8 +57,9 @@
 - raw_toward-trustworthy-large-language-model-agents-in-healthcare.md
 - raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
+- raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-11
 
 ---
 
@@ -162,6 +163,7 @@ In human-robot interaction (HRI), trust calibration is analyzed along two separa
 - **Workload, Fatigue, and System Failures (AMELIA)**: Operator physiological and cognitive states (fatigue, stress, workload, affect, and trust) form the "mind motor machine nexus" (source: Human Robot Interactions.md). Designing systems based on this nexus allows collaborative robots to adapt to observable system failures. By using a task/scenario classification scheme and neurophysiological models, HRI architectures (such as the AMELIA Work 4.0 architecture) determine when and how operator states require technological adjustment, communicating system and human states via an AR layer to optimize trust and safety (source: Human Robot Interactions.md).
 - **Active Strategy Generation**: Dynamic trust can be utilized to generate optimal HRC strategies. Using decision trees and a Visual Language Model (VLM) workspace observer, robots can estimate human trust in real-time based on subscene evaluations. This allows the robot to dynamically update its actions: when user trust is low, the robot prioritizes transparent, cooperative actions to rebuild trust; when trust is high, it prioritizes independent efficiency to reduce overall execution time (source: Active interaction strategy generation for human-robot collaboration based on trust.md).
 - **Responsive vs. Reactive HRI Policies**: Dialogue policies directly affect trust dynamics. A responsive policy (where the robot proactively adapts its dialogue and assistance based on real-time affect and workspace state) leads to significantly higher post-interaction trust than a reactive policy. However, this trust advantage is highly vulnerable to communication breakdowns (such as speech recognition errors), where the trust advantage collapses completely and users' trust ratings become erratic (source: Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md).
+- **Movement Quality and Comfort**: For physical HRI, robot acceptance is significantly influenced by perceived comfort and ergonomics, which are directly linked to the quality of the robot's movement (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A novel "human-likeness index" quantifies the similarity of robot movements to human motion, based on the lognormality principle, serving as a predictive tool for trajectory generation algorithms to produce movements that enhance user comfort and acceptance (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
 
 ### 12. Corporate Frameworks: Trustworthy AI and Safety Infrastructure
 In industrial applications, creating user trust relies on establishing **Trustworthy AI** systems built upon three technical pillars: Security, Safety, and Privacy (source: Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md).
@@ -387,3 +389,4 @@ A large-scale field experiment in a Chinese hospital revealed that generative AI
 - [[source-toward-trustworthy-large-language-model-agents-in-healthcare]]
 - [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
+- [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
