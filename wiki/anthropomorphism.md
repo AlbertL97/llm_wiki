@@ -29,8 +29,9 @@
 - raw_bidirectional-tutoring-for-developmental-motor-learning-in-robots.md
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
+- raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 
-**Last updated**: 2026-07-11
+**Last updated**: 2026-07-12
 
 ---
 
@@ -39,6 +40,8 @@
 **Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md).
 
 Crucially, the perceived psychological profiles of LLMs derived from human-centric assessment tools are often a measurement artifact rather than an indication of inherent, stable traits (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences observed between LLMs are predominantly driven by a directional response bias, where models tend to favor certain scale endpoints, which can account for the vast majority of response variation (81-90%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can reduce this bias, it is not eliminated and can lead to manufactured psychological profiles through selective item choices within instruments (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This suggests that many apparent anthropomorphic attributions may stem from the limitations of our current measurement tools rather than genuine, emergent AI psychology.
+
+The evaluation of AI systems, particularly those that interact with humans, often overlooks a critical dimension: their **psychological competence** (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This refers to an AI's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making, all in a manner appropriate to the user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods typically focus on technical performance metrics and fail to comprehensively assess the direct psychological effects on users, such as how framing, tone, perceived authority, responsiveness, handling of uncertainty, and conversational guidance impact user experience and outcomes (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This gap highlights the need for a new evaluation dimension to ensure the responsible development and deployment of human-facing AI and to mitigate potential negative real-world effects (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -185,3 +188,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]]
 - [[source-invisible-impact-of-empathy-on-behavioral-change]]
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]

@@ -58,8 +58,9 @@
 - raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
+- raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 
-**Last updated**: 2026-07-11
+**Last updated**: 2026-07-12
 
 ---
 
@@ -78,6 +79,9 @@ When a model is miscalibrated, it expresses high confidence in incorrect answers
 - High calibration error—such as GPT-4o's 89.0% or o1's 83.0% calibration error on the Humanity's Last Exam benchmark—creates a high risk of user overreliance because the model presents incorrect academic or reasoning outputs with high verbal or scalar confidence (source: Humanity's Last Exam.md).
 - Conversely, well-calibrated models assist users in determining when to inspect outputs or intervene. For instance, GPT-5 exhibits a lower calibration error (50.0%) compared to older frontier models, representing progress toward calibrated human-AI trust (source: Humanity's Last Exam.md).
 - To foster precise calibration, a cognitive system must model the specific user's psychological traits—such as risk tolerance, energy, incentives, ethical boundaries, and comfort with ambiguity—rather than relying on generic, one-size-fits-all "best practices" (source: raw_llm-council-synthetic-cognitive-systems.md).
+
+### 1a. Psychological Competence in AI Evaluation
+Beyond technical performance, the psychological impact of AI systems on human users is a critical, yet often overlooked, dimension of evaluation. The concept of **psychological competence** refers to an AI system's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making in a manner that is appropriate to the specific user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This encompasses how AI frames information, its tone, perceived authority, responsiveness, handling of uncertainty, and conversational guidance (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods often fail to comprehensively measure these direct psychological effects on users, highlighting a need for new frameworks that integrate scenario-based probes, structured human evaluation, and model-assisted assessment (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -390,3 +394,4 @@ A large-scale field experiment in a Chinese hospital revealed that generative AI
 - [[source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots]]
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]

@@ -1404,3 +1404,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-12 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_classifier-chain-based-pathological-test-recommendation.md
+- raw/raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-classifier-chain-based-pathological-test-recommendation.md
+- wiki/medical-ai.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/source-psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Classifier Chain-based Pathological Test Recommendation" and created summary page wiki/source-classifier-chain-based-pathological-test-recommendation.md.
+- Ingested "Psychological Competence as a Missing Dimension in AI Evaluation" and created summary page wiki/source-psychological-competence-as-a-missing-dimension-in-ai-evaluation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

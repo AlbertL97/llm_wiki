@@ -36,8 +36,9 @@
 - raw_using-ai-based-learning-assistants-in-higher-education.md
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
+- raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 
-**Last updated**: 2026-07-11
+**Last updated**: 2026-07-12
 
 ---
 
@@ -151,6 +152,11 @@ LLM mediation in high-stakes tasks like search and rescue (SAR) can significantl
 - **Attention Allocation and Cognitive Load**: Eye-tracking studies reveal an "attention-guidance trade-off," where users direct more visual attention to the chat interface and exhibit increased pupil size variability, suggesting cognitive shifts or increased load when interacting with LLM guidance (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
 - **Expertise as a Moderator**: The impact of LLM guidance is moderated by user expertise. Novice users tend towards passive reliance on the AI, whereas expert users engage in a "verification loop," actively cross-referencing AI recommendations with their own environmental observations and decision-making (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md). This highlights the critical need for operators to maintain situational awareness and critically evaluate AI-provided guidance by comparing it against ground truth information (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
 
+### 17. Psychological Competence in AI Evaluation
+A significant gap exists in current AI evaluation frameworks, with a notable absence of focus on the **psychological impact** of AI systems on human users (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). While technical metrics like accuracy and robustness are standard, they fail to capture the nuanced ways conversational AI influences user cognition, emotions, trust, and decision-making (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). As AI systems increasingly take on roles as advisors, coaches, and companions, their interactions profoundly shape user experience and outcomes (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
+
+To address this, the concept of **psychological competence** is introduced as a crucial dimension for evaluating human-facing AI (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This refers to an AI system's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making, with this support being appropriate to the specific user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Key interaction properties influencing psychological competence include the framing of information, tone of communication, perceived AI authority, responsiveness to user needs, handling of uncertainty, and the guidance provided during conversation (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods often assess aspects of these properties but rarely measure the direct psychological effects on users comprehensively (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). The paper proposes a conceptual framework for psychological competence and suggests assessment methods like scenario-based probes, structured human evaluation, and model-assisted evaluation (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). It is argued that psychological competence must become a fundamental consideration for AI model providers, deploying organizations, researchers, and regulators to ensure responsible AI development and deployment and to mitigate negative real-world effects (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -197,3 +203,4 @@ LLM mediation in high-stakes tasks like search and rescue (SAR) can significantl
 - [[source-using-ai-based-learning-assistants-in-higher-education]]
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]

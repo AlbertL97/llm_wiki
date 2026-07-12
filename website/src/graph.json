@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md)."
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md)."
     },
     {
       "id": "human-ai-interaction",
@@ -386,6 +386,13 @@
       "summary": "A summary page for Bloomberg's report on China's rapid advancements and market dominance in physical and embodied AI, detailing state venture funds, consumer humanoids (Unitree), and industrial inspection quadrupeds."
     },
     {
+      "id": "source-classifier-chain-based-pathological-test-recommendation",
+      "name": "Classifier Chain-based Pathological Test Recommendation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-claude-sentience",
       "name": "Source: daveshap/Claude_Sentience: Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself.",
       "val": 1.5,
@@ -699,6 +706,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A consolidated source summary page for \"The Psychogenic Machine\" paper and its corresponding `psychosis-bench` repository, documenting the 4-phase trajectory of AI psychosis (technological *folie à deux*), evaluation metrics (DCS, HES, SIS), and empirical model safety performance."
+    },
+    {
+      "id": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
+      "name": "Psychological Competence as a Missing Dimension in AI Evaluation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-psychology-ai-cognitive-emotional",
@@ -1165,6 +1179,10 @@
       "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
     },
     {
+      "source": "ai-companions",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1287,6 +1305,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
       "source": "chatbots",
@@ -1457,6 +1479,10 @@
       "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
     },
     {
+      "source": "chatbots",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1479,6 +1505,10 @@
     {
       "source": "explainability",
       "target": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security"
+    },
+    {
+      "source": "explainability",
+      "target": "source-classifier-chain-based-pathological-test-recommendation"
     },
     {
       "source": "human-ai-interaction",
@@ -1707,6 +1737,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-classifier-chain-based-pathological-test-recommendation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
       "source": "human-robot-interaction",
@@ -1965,6 +2003,10 @@
       "target": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2027,6 +2069,10 @@
     {
       "source": "medical-ai",
       "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-classifier-chain-based-pathological-test-recommendation"
     },
     {
       "source": "mental-health",
@@ -2275,6 +2321,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
       "source": "qualitative-methods",
@@ -2842,6 +2892,10 @@
     },
     {
       "source": "source-psychogenic-machine",
+      "target": "trust"
+    },
+    {
+      "source": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
       "target": "trust"
     },
     {

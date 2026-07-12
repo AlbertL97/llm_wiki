@@ -11,8 +11,9 @@
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
+- raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-12
 
 ---
 
@@ -34,6 +35,8 @@ Persuasive technologies are often built to maximize user engagement and capture 
 To counter persuasion and bias in single-model outputs, deploying "LLM-councils" (multi-model consensus systems) can run model variance as a signal, highlighting where answers converge into consensus versus where they are steered by model-specific training artifacts, styles, or ideologies (source: raw_llm-council-synthetic-cognitive-systems.md).
 
 Web search already functions as a psychotechnology for retrieval and transactive memory, and conversational AI's unique contribution lies in its *medium* (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). Evidence suggests immediate influence, redistributed work during use, and some bounded persistence of these effects from conversational AI (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
+
+Furthermore, a critical gap exists in current AI evaluation frameworks concerning the psychological impact on users. A new dimension, **psychological competence**, is proposed to assess an AI's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making in an appropriate manner for the user, context, and purpose (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This competence is influenced by factors such as information framing, tone, perceived authority, responsiveness, handling of uncertainty, and guidance (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Comprehensive evaluation of psychological competence is essential for the responsible development and deployment of human-facing AI systems to mitigate negative real-world effects (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
 
 ### 2. Behavioral Triggers and User Agency
 Many design implementations in AI companions and search algorithms leverage persuasive design to guide user interactions, often reducing human autonomy or creating dependency [needs verification]. These design patterns, especially in LLMs, pose risks of subtle manipulation and can exploit human cognitive biases or psychological vulnerabilities (source: raw_ai-experts-warning-dangerous-llm-problem.md). Because LLMs produce highly convincing, clean narratives, they inherently function as powerful persuasion engines (source: raw_llm-council-synthetic-cognitive-systems.md). Mitigating this risk and preventing subtle manipulation requires structured debiasing protocols—such as forced uncertainty, checklists, and premortems—akin to healthcare safety protocols (source: raw_llm-council-synthetic-cognitive-systems.md).
@@ -61,3 +64,4 @@ The paper proposes four criteria for a practice to be considered a psychotechnol
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-synthetic-contact-with-ai-reduces-cross-partisan-animosity]]
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
