@@ -59,8 +59,9 @@
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
+- raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
 
-**Last updated**: 2026-07-12
+**Last updated**: 2026-07-13
 
 ---
 
@@ -82,6 +83,9 @@ When a model is miscalibrated, it expresses high confidence in incorrect answers
 
 ### 1a. Psychological Competence in AI Evaluation
 Beyond technical performance, the psychological impact of AI systems on human users is a critical, yet often overlooked, dimension of evaluation. The concept of **psychological competence** refers to an AI system's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making in a manner that is appropriate to the specific user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This encompasses how AI frames information, its tone, perceived authority, responsiveness, handling of uncertainty, and conversational guidance (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods often fail to comprehensively measure these direct psychological effects on users, highlighting a need for new frameworks that integrate scenario-based probes, structured human evaluation, and model-assisted assessment (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
+
+### 1b. Auditing Concept-Based Explainable AI (XAI) Trustworthiness
+The trustworthiness of AI explanations, particularly those based on human-understandable concepts, requires careful auditing. ConceptSMILE is a novel, model-agnostic framework introduced to address this need by evaluating the reliability of concept-based explanations (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). It employs perturbation-based methods to assess how shifts in input regions affect concept responses. By using local weighting and surrogate models (like XGBoost), ConceptSMILE approximates local concept behavior and measures reliability through metrics such as attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). When applied to medical imaging, this framework revealed that the reliability of concepts can vary significantly between different AI models and their explanatory pathways (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). For instance, MedSAM showed higher spatial attribution and surrogate fidelity, while a Visual-Language Model (VLM) pathway demonstrated better faithfulness and stability under specific artifact conditions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE provides a crucial independent audit layer to enhance the dependability of concept-based XAI, thereby bolstering trust in human-AI interactions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -395,3 +399,4 @@ A large-scale field experiment in a Chinese hospital revealed that generative AI
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
+- [[source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai]]

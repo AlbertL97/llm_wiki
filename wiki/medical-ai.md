@@ -17,8 +17,9 @@
 - raw_directional-ai-advice-experimental-evidence-from-healthcare.md
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
 - raw_classifier-chain-based-pathological-test-recommendation.md
+- raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
 
-**Last updated**: 2026-07-12
+**Last updated**: 2026-07-13
 
 ---
 
@@ -62,7 +63,10 @@ Consumer-facing health chatbots that utilize LLMs for symptom assessment frequen
 ### 8. Personalization of Social Robots for Child Well-being
 Personalizing social robots for children's well-being, particularly in clinical settings, presents unique data challenges. This personalization is viewed as a recommendation problem, requiring robot actions tailored to individual children (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). Key difficulties include the dynamic nature of children's states, indirect effectiveness signals of robot interventions, issues linking data across infrequent and anonymized sessions, and biases inherent in observational data collection (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). To address these, four data principles are proposed: integrated, dynamic user profiles; robust collection of effectiveness signals; linkable data coverage across interactions; and a detailed exposure record logging robot actions and context (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md). These principles guide the design of data collection strategies for social robots in child well-being applications (source: raw_toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective.md).
 
-### 9. Human Factors and Regulatory Landscapes
+### 9. Auditing the Trustworthiness of Concept-Based XAI
+Ensuring the trustworthiness of concept-based Explainable AI (XAI) is a critical challenge for its reliable deployment in sensitive domains like healthcare. ConceptSMILE is a novel, model-agnostic auditing framework designed to evaluate the dependability of these concept-level explanations (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). The framework employs perturbation-based methods to assess reliability by perturbing input regions, measuring concept-response shifts, and utilizing surrogate models (such as XGBoost) to approximate local concept behavior (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE evaluates reliability using metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). In tests using retinal fundus images, ConceptSMILE revealed that the reliability of concepts can vary significantly across different explanation pathways and between different AI models (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). For instance, MedSAM showed superior spatial attribution and surrogate fidelity, while a VLM pathway demonstrated better faithfulness and stability under specific artifact conditions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE thus provides an essential independent audit layer to enhance the trustworthiness of concept-based XAI, which is vital for enabling reliable human-AI interactions in medical contexts (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).
+
+### 10. Human Factors and Regulatory Landscapes
 Integrating AI into clinical workflows introduces complex safety considerations regulated under medical device laws (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md):
 - **Usability Engineering (ISO/IEC 62366-1:2015)**: The systematic application of human characteristics, limitations, and behaviors to the design of software interfaces and user documentation. Its goal is to minimize user error, which is frequently caused by poor design and inadequate user experience.
 - **The Adaptability Challenge**: Traditional regulatory frameworks are generic and designed for physical or static physical-software medical devices. They are poorly suited for LLM-based clinical assistants, which feature highly adaptive, open-ended user interactions that evolve dynamically over time (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -71,30 +75,30 @@ Integrating AI into clinical workflows introduces complex safety considerations 
   - *Complacency Bias*: Overreliance on the system that leads to diminished clinician vigilance.
   - *Deskilling*: The gradual erosion of human clinical skills due to cognitive outsourcing to automated systems.
 
-### 10. Telemedicine and Continuance Dynamics
+### 11. Telemedicine and Continuance Dynamics
 The clinical adoption and long-term viability of digital health tools depend on mobile health acceptance and telemedicine continuance usage models (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 - **Continuance usage**: Rather than initial adoption, healthcare systems require long-term continuance, which is determined by structural usability, trust in the data security protocols, and clear reductions in subjective clinician cognitive workload.
 
-### 11. High-Stress Collaboration: ICU Cooperative Decision-Making
+### 12. High-Stress Collaboration: ICU Cooperative Decision-Making
 Intensive care units (ICUs) represent high-stakes, time-pressured environments where human-AI collaboration is safety-critical (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 - **Cooperative Decision-Making**: Physical simulation studies in the ICU demonstrate that while human-AI collaboration can reduce workload during medical image interpretation, it can also lead to cognitive overload if the AI's explanation frameworks are poorly designed or present information during high-stress encounters (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md). AI interfaces must prioritize usability and present calibrated explanations to prevent clinical workarounds and ensure patient safety (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 
-### 12. Earth-Independent Medical AI in Space Exploration
+### 13. Earth-Independent Medical AI in Space Exploration
 Long-duration space missions beyond low Earth orbit constitute extreme boundary conditions requiring advanced Earth-independent medical capabilities (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 - **Communication Latency constraints**: Because communication delays prevent real-time Earth support, astronauts must rely on autonomous, clinical medical AI agents to guide medical procedures, perform diagnosis, and monitor health markers independently (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 - **Autonomous Teammate requirement**: These safety-critical systems must function with a high degree of mutual predictability, structured shared mental models, and dynamic manual takeovers, ensuring the crew can manage medical emergencies under stress (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 
-### 13. Clinician Performance Evaluation and SHAPE-AI
+### 14. Clinician Performance Evaluation and SHAPE-AI
 Evaluating human-AI performance in healthcare requires validation instruments designed for clinical workflows:
 - **The SHAPE-AI Instrument**: The Survey for Human-AI Performance Evaluation in Healthcare is an expert-validated psychometric tool that measures clinician trust, cognitive workload, and decision-support usability.
 - **Alert Burden Mitigation**: SHAPE-AI specifically targets the assessment of clinician alert fatigue, helping designers structure notifications to prevent cognitive overload and clinician burnout during high-stress diagnostic scenarios (source: SHAPE-AI_ Development and Expert Validation of a Survey for Human-AI Performance Evaluation in Healthcare.md).
 
-### 14. Trust Dynamics in Hospital AI Follow-Up Systems
+### 15. Trust Dynamics in Hospital AI Follow-Up Systems
 Patient engagement with AI-based post-discharge care and hospital information systems is regulated by specific trust dimensions:
 - **Three-Factor Trust Structure**: A validated clinical scale measures patient trust in AI follow-up systems across three distinct factors: *Patient dispositional trust* (general trust in automated technologies), *System interaction trust* (direct usability, accuracy, and predictability of the software), and *Environmental trust* (the patient's trust in the hospital organization and the recommending physician).
 - **Clinical Endorsement**: The clinical success of AI follow-up programs is highly dependent on environmental trust, as patients rely heavily on explicit endorsement from their treating doctors to validate the system's legitimacy (source: Trust in hospital follow-up system based on artificial intelligence.md).
 
-### 15. Longitudinal Evolution and the I-HATR Framework
+### 16. Longitudinal Evolution and the I-HATR Framework
 A 30-year review of human-machine trust in medicine documents a shift from *trust in automation* (focused on mechanical reliability) to *trust in AI* (focused on complex decision-making and opacity):
 - **The I-HATR Framework**: The Interdisciplinary Human-AI Trust Research framework bridges the gap between Explainable AI (XAI) and Human-Computer Interaction/Human Factors Engineering (HCI/HFE).
 - **Dual Pathways**: I-HATR maps a model-centric *XAI pathway* (transparency, post-hoc methods) and a user-centric *HCI/HFE pathway* (usability, cognitive load, and situational awareness), providing a holistic methodology for clinical trust calibration (source: From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md).
@@ -120,3 +124,4 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]]
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]
 - [[source-classifier-chain-based-pathological-test-recommendation]]
+- [[source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai]]

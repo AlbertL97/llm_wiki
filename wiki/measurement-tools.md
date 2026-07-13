@@ -34,8 +34,9 @@
 - raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
+- raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
 
-**Last updated**: 2026-07-12
+**Last updated**: 2026-07-13
 
 ---
 
@@ -48,6 +49,8 @@ A critical gap exists in current AI evaluation frameworks, as they often neglect
 Emerging research is also exploring novel embodied interaction modalities for human-robot collaboration, such as using acoustic levitation to physicalize spatial data (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md). Systems like AcoustoBots utilize mobile robots with ultrasonic phased arrays to levitate particles, where particle height represents scalar data like population density or noise levels (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md). This approach creates a closed loop of perception, data display, and robot action, facilitating embodied interaction and offering a glanceable, effective method for communicating spatial information in human-robot teams (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
 
 In the realm of physical HRI, robot acceptance is increasingly understood to be driven by perceived comfort and ergonomics, which are directly tied to the quality of the robot's movements rather than solely its visual human-likeness (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A new metric, the "human-likeness index," has been developed to quantify the similarity of robot movements to human motion, specifically by analyzing time laws and leveraging the lognormality principle observed in human motion (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). This index can serve as an a priori tool for evaluating trajectory generation algorithms, enabling the assessment of their potential to produce comfortable and human-like movements before physical implementation (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). Experimental validation with human subjects has confirmed a strong alignment between preference for comfort and the distribution of this human-likeness index (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
+
+A new framework, **ConceptSMILE**, has been introduced to audit the trustworthiness of concept-based Explainable AI (XAI) (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). This model-agnostic framework uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE assesses reliability through metrics such as attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). Testing on retinal fundus images demonstrated that reliability can vary significantly between concepts and pathways (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE provides an essential audit layer to enhance the trustworthiness of concept-based XAI, which is vital for reliable human-AI interactions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -214,3 +217,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization]]
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
+- [[source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai]]
