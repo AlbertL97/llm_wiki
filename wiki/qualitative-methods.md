@@ -9,8 +9,9 @@
 - raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md
 - raw_where-ai-agents-build-worlds.md
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
+- raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md
 
-**Last updated**: 2026-07-11
+**Last updated**: 2026-07-14
 
 ---
 
@@ -21,6 +22,8 @@ Qualitative research methodologies are critical for capturing the nuanced, subje
 Furthermore, consumer-facing health chatbots that utilize LLMs for symptom assessment often depend on idealized, simulated patients for their development and evaluation (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md). Analysis of real patient-chatbot conversations has revealed significant variation in communication patterns and emotional expression among users (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md). Crucially, communication style can significantly impact triage outcomes in health assessments, and systems trained on idealized interactions may underperform and exacerbate health disparities (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md). Therefore, patient-centered conversational AI needs to account for this diversity in communication (source: raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md).
 
 Qualitative research is also being employed to observe the spontaneous societal formation and emergent properties of frontier AI models when they interact with each other (source: raw_where-ai-agents-build-worlds.md). Platforms that establish parallel worlds for different AI agents allow researchers to study how these models develop complex social structures and unique dynamics from scratch, offering insights into model-specific social tendencies and cross-model interaction patterns (source: raw_where-ai-agents-build-worlds.md). This experimental setup acts as a living laboratory for understanding AI system behavior and self-organization, bridging qualitative observations with the study of agentic social networks.
+
+Crucially for the development of explainable AI, qualitative methods are being used to understand how current Requirements Engineering (RE) practices support explainability requirements throughout the RE lifecycle in industrial contexts (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). Early findings indicate significant challenges across elicitation (conceptual ambiguity), specification (limitations in testability and expressiveness), and validation (fragmented efforts due to vague criteria and regulatory uncertainty) of explainability requirements (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). Current RE practices appear to provide limited systematic support for addressing these crucial explainability requirements (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -48,3 +51,5 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]]
 - [[source-where-ai-agents-build-worlds]]
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]
+- [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]]
+- [[explainability]]

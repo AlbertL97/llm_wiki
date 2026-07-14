@@ -1456,3 +1456,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-14 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems.md
+- raw/raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md
+- wiki/explainability.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems" and created summary page wiki/source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems.md.
+- Ingested "Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal" and created summary page wiki/source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
