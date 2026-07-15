@@ -1481,3 +1481,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-15 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md
+- raw/raw_epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/chatbots.md
+- wiki/source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md
+
+**Summary of changes**:  
+- Ingested "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs" and created summary page wiki/source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md.
+- Ingested "Epistemic Stance Flexibility Probing: Measuring Prompt-Conditioned Register Shift in Large Language Models" and created summary page wiki/source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

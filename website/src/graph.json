@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).**"
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).** **A new method trains LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences such as external pressure or demands for exaggerated certainty, and are responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach utilizes 'counterfactual report mediators' and a 'counterfactual report-coordinate (CRC) clamp' to achieve this activation-level incentive-invariance, balancing the need to resist undue influence with the need to update beliefs based on valid evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).**"
     },
     {
       "id": "human-ai-interaction",
@@ -505,6 +505,13 @@
       "summary": "Development and psychometric validation of the 4-factor CEIA scale (Perceived Authenticity, Emotional Validation, Affective Recognition, and Symbolic Bonding) to measure affective trust in AI among university students."
     },
     {
+      "id": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "name": "Epistemic Stance Flexibility Probing: Measuring Prompt-Conditioned Register Shift in Large Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal",
       "name": "Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal",
       "val": 1.5,
@@ -762,6 +769,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Clipping of the Max Planck Institute's Real Virtual Humans research group portal, pointing to projects focused on modeling virtual humans."
+    },
+    {
+      "id": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
+      "name": "Source Summary: Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
@@ -1504,6 +1518,10 @@
       "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
+      "source": "chatbots",
+      "target": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1538,6 +1556,10 @@
     {
       "source": "explainability",
       "target": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal"
+    },
+    {
+      "source": "explainability",
+      "target": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms"
     },
     {
       "source": "human-ai-interaction",
@@ -1786,6 +1808,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms"
     },
     {
       "source": "human-robot-interaction",
@@ -2768,6 +2794,30 @@
       "target": "ai-companions"
     },
     {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "trust"
+    },
+    {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "explainability"
+    },
+    {
+      "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
+      "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
       "source": "source-furhat-robotics",
       "target": "human-ai-interaction"
     },
@@ -2986,6 +3036,14 @@
     {
       "source": "source-qualitati",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
+      "target": "trust"
+    },
+    {
+      "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
+      "target": "persuasion-and-influence"
     },
     {
       "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
