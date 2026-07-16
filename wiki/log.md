@@ -1505,3 +1505,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-16 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
+- raw/raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
+- wiki/persuasion-and-influence.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+
+**Summary of changes**:  
+- Ingested "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models" and created summary page wiki/source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md.
+- Ingested "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation" and created summary page wiki/source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
