@@ -1531,3 +1531,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-17 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md
+- raw/raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md
+- wiki/human-robot-interaction.md
+- wiki/medical-ai.md
+- wiki/measurement-tools.md
+- wiki/ai-companions.md
+- wiki/source-catch-throw-repeat-planning-for-human-robot-partner-juggling.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults" and created summary page wiki/source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md.
+- Ingested "Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling" and created summary page wiki/source-catch-throw-repeat-planning-for-human-robot-partner-juggling.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

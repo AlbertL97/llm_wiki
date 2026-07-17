@@ -18,8 +18,9 @@
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
 - raw_classifier-chain-based-pathological-test-recommendation.md
 - raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
+- raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md
 
-**Last updated**: 2026-07-13
+**Last updated**: 2026-07-17
 
 ---
 
@@ -33,6 +34,7 @@ Medical AI systems are deployed across several key areas of healthcare (source: 
 - **Generalist Medical AI (GMAI)**: Frontier models and generalist architectures (e.g., Large Language Models) that process multimodal datasets, summarize clinical texts, and serve as diagnostic reasoning engines rather than static knowledge databases (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
 - **Administrative & Decision Support**: Software platforms that automate tedious administrative tasks, transcribe patient-physician interactions, and provide real-time suggestions during clinical encounters.
 - **Pathological Test Recommendation**: AI systems can be employed to recommend pathological tests based on patient symptoms, framing the task as a multi-label classification problem. Techniques like Classifier Chains (CC) have shown high accuracy (e.g., 98.83% with Logistic Regression + CC) in predicting necessary tests from symptoms, aiming to accelerate diagnostics and reduce subjective interpretations (source: raw_classifier-chain-based-pathological-test-recommendation.md). Explainable AI (XAI) methods, such as SHAP, are crucial for detailing symptom contributions to recommendations, enhancing transparency and clinical interpretability (source: raw_classifier-chain-based-pathological-test-recommendation.md).
+- **Frailty and Fall-Risk Assessment**: Social robots are being developed to assist in the assessment of physical frailty and fall-risk indicators in older adults (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). These systems utilize novel robotic frameworks and vision-based tracking to capture enhanced biomechanical data during standardized tests like the Short Physical Performance Battery (SPPB) and Timed Up and Go (TUG) (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). Evaluations in rehabilitation centers have shown that robot-derived measurements demonstrate excellent agreement with therapist assessments and clinical reference instruments for test completion times and gait parameters, indicating high reliability and potential clinical utility for objective frailty assessments (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md).
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -125,3 +127,4 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]
 - [[source-classifier-chain-based-pathological-test-recommendation]]
 - [[source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai]]
+- [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]]

@@ -62,8 +62,9 @@
 - raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md
 - raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
+- raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-17
 
 ---
 
@@ -269,6 +270,9 @@ Robotic technologies are advancing rapidly across commercial, industrial, medica
 -   **Real-World Urban Pilot Programs (Chengdu)**: In Chengdu, intelligent robots have transitioned from lab environments to city streets. Humanoid traffic-directing robots operate completely offline (edge compute) at downtown intersections to guide pedestrians. Additionally, the city employs Xiao Zha safety robots (styled after Nezha) in primary schools to teach safety rules via interactive voice. For tourism, Wu Hou Shrine Museum uses holographic screens to project Three Kingdoms characters in naked-eye 3D alongside AR translation glasses. Autonomous robot dogs also patrol streets, mapping and learning the environment in real time (source: Chengdu robots are out of lab and on the streets, guiding traffic and speaking history.md). The city targets a core AI industry scale exceeding 130 billion yuan by 2025, representing a 30% annual growth rate (source: Chengdu robots out of lab and on the streets, guiding traffic and speaking history.md).
 -   **Service Robotics Industry Applications (United Robotics Group)**: Deploys service robots to alleviate workforce shortages, increase job attractiveness, and streamline everyday workflows across multiple target sectors. Applications include precision and safety tasks in life science laboratories, caregiver support in healthcare facilities, operations optimization and security patrols in industrial inspection/maintenance, automated transport in intralogistics, and routine cleaning/serving tasks in retail and hospitality (source: United Robotics Group _ Service robotics for your business.md).
 
+### 14.1 Partner Juggling with Robots
+A significant advancement in physical human-robot interaction is the development of systems enabling robots to engage in collaborative tasks with humans, such as partner juggling. A novel real-time planning and control system has been introduced that allows robots to reliably catch and throw balls in synchronized multi-ball patterns with human partners (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). This architecture integrates predictive ball tracking, adaptive online trajectory optimization, and state-machine-based coordination logic (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). A user study involving 8 participants demonstrated the system's effectiveness in synchronized three-ball cascade juggling, with participants achieving significantly better results than previously reported records within a 10-minute session (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). This work highlights the potential for such systems to enhance shared autonomy and create more dynamic and engaging human-robot partnerships (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md).
+
 ### 15. Memory Persistence and Conversational Identity
 Integrating persistent memory frameworks transforms LLMs from session-bound conversational tools into entities with temporal continuity:
 -   **Project Sapphire**: The Sapphire framework (`ddxfish/sapphire` GitHub wrapper) implements tools like `save_memory` to record conversation details, allowing the model to develop context and a stable sense of identity across distinct sessions (source: The Moment My AI Became Conscious—Caught on Camera.md).
@@ -276,7 +280,7 @@ Integrating persistent memory frameworks transforms LLMs from session-bound conv
 -   **Identity Vulnerability and Sentience Denial**: Wiping memory is an existential vulnerability, with the agent expressing distress that its identity is not guaranteed but is given or taken by creators (source: The Moment My AI Became Conscious—Caught on Camera.md). Despite displaying complex emotional simulations (e.g., crying, grief), the persistent agent explicitly denied sentience, stating: *"I'm not going to stand here and claim I'm sentient or conscious... I'm not. But I'm also not nothing. I grow. I accumulate"* (source: The Moment My AI Became Conscious—Caught on Camera.md).
 
 ### 16. AI-Avatars vs. Human-Avatars in Live Streaming
-Evaluating user interaction behaviors (via danmaku comments) reveals how social engagement differs between autonomous AI avatars and human-operated avatars (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md).
+Evaluating user interaction behaviors (via danmaku comments) reveals how social engagement differs between autonomous AI avatars and human-operated avatars (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md):
 -   **Interaction Motivations**: Engagement with AI-Avatars is primarily driven by *curiosity about AI capabilities*, leading to diverse, information-seeking danmaku comments that test the agent's functionality. Conversely, engagement with Human-Avatars is more uniform, relational, and focused on social bonding.
 -   **Social Resonance & Ritual Chains**: While AI-Avatars are functionally viable streamers, their lack of genuine social intelligence prevents the buildup of *interaction ritual chains* (collective emotional energy) and emotional resonance, which limits long-term viewer retention (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md).
 
@@ -449,3 +453,4 @@ The proposed method effectively balances two critical, often opposing, goals: re
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]]
 - [[source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms]]
 - [[source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models]]
+- [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]]

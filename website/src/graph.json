@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy."
     },
     {
       "id": "index",
@@ -295,6 +295,13 @@
       "summary": "A summary page for the article introducing the Machine-Integrated Relational Adaptation (MIRA) model, outlining the relational partner vs. mediator distinction, psychosocial foundations, and the four core principles of human-AI relational psychology."
     },
     {
+      "id": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots",
+      "name": "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-attachment-to-robots",
       "name": "Source: Humans are starting to grow emotionally attached to robots",
       "val": 1.5,
@@ -367,6 +374,13 @@
     {
       "id": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems",
       "name": "Survey of Integrating Localized Speech Recognition Models in Robotic Systems",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
+      "name": "Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1232,6 +1246,14 @@
       "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
+      "source": "ai-companions",
+      "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1840,6 +1862,10 @@
       "target": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -1950,6 +1976,14 @@
     {
       "source": "human-robot-interaction",
       "target": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
     },
     {
       "source": "introspective-awareness",
@@ -2112,6 +2146,10 @@
       "target": "source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2182,6 +2220,10 @@
     {
       "source": "medical-ai",
       "target": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
     },
     {
       "source": "mental-health",
@@ -2730,6 +2772,10 @@
     {
       "source": "source-beyond-usability-withdrawal-design",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
+      "target": "trust"
     },
     {
       "source": "source-chatbot-counseling-representation",

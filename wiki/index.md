@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-14
+**Last updated**: 2026-07-17
 
 ## Orientation
 
@@ -22,6 +22,7 @@
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
+- [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]] — Summary of Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults.
 - [[source-attachment-to-robots]] — Summary of AP article on emotional attachment to social machines, Jibo lobotomy, Opportunity Rover, and Milo child limits.
 - [[source-attitudes-social-robots-scale]] — Summary of the development of the Attitudes towards Social Robots Scale (ASRS) with RoHeA and RoEqP subscales.
 - [[source-augmented-reality]] — Summary of Augmented Reality.
@@ -33,6 +34,7 @@
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-capturing-mental-workload]] — Summary of systematic review on psychophysiological measures (EEG, ECG, EDA, eye-tracking) for mental workload in HRC.
 - [[source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems]] — Summary of Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems.
+- [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]] — Summary of Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling.
 - [[source-chinas-next-ai-breakthrough]] — Summary of Bloomberg's report on China's Physical AI market dominance, state venture funds, and consumer humanoid developments.
 - [[source-chengdu-robots]] — Summary of Chengdu's pilot program integrating offline edge traffic humanoids, holographic museum guides, Xiao Zha safety bots, and patrolling robot dogs.
 - [[source-claude-sentience]] — Summary of the daveshap repository clippings on prompt-engineered styling guidelines and phenomenal consciousness system prompts.
@@ -44,7 +46,7 @@
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
-- [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
+- [[source-<bos>-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.

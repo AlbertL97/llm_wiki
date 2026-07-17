@@ -64,8 +64,9 @@
 - raw_epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
+- raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
 
-**Last updated**: 2026-07-16
+**Last updated**: 2026-07-17
 
 ---
 
@@ -178,6 +179,7 @@ In human-robot interaction (HRI), trust calibration is analyzed along two separa
 - **Active Strategy Generation**: Dynamic trust can be utilized to generate optimal HRC strategies. Using decision trees and a Visual Language Model (VLM) workspace observer, robots can estimate human trust in real-time based on subscene evaluations. This allows the robot to dynamically update its actions: when user trust is low, the robot prioritizes transparent, cooperative actions to rebuild trust; when trust is high, it prioritizes independent efficiency to reduce overall execution time (source: Active interaction strategy generation for human-robot collaboration based on trust.md).
 - **Responsive vs. Reactive HRI Policies**: Dialogue policies directly affect trust dynamics. A responsive policy (where the robot proactively adapts its dialogue and assistance based on real-time affect and workspace state) leads to significantly higher post-interaction trust than a reactive policy. However, this trust advantage is highly vulnerable to communication breakdowns (such as speech recognition errors), where the trust advantage collapses completely and users' trust ratings become erratic (source: Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md).
 - **Movement Quality and Comfort**: For physical HRI, robot acceptance is significantly influenced by perceived comfort and ergonomics, which are directly linked to the quality of the robot's movement (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A novel "human-likeness index" quantifies the similarity of robot movements to human motion, based on the lognormality principle, serving as a predictive tool for trajectory generation algorithms to produce movements that enhance user comfort and acceptance (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
+- **Human-Robot Partner Juggling**: A novel real-time planning and control system enables robots to engage in partner juggling with humans, reliably catching and throwing balls in synchronized patterns (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). This system integrates predictive ball tracking, adaptive online trajectory optimization, and state-machine-based coordination logic. User studies demonstrated successful three-ball cascade juggling with the robot, with participants achieving significantly better results than previously reported records, highlighting advancements in physical human-robot interaction and shared autonomy (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md).
 
 ### 12. Corporate Frameworks: Trustworthy AI and Safety Infrastructure
 In industrial applications, creating user trust relies on establishing **Trustworthy AI** systems built upon three technical pillars: Security, Safety, and Privacy (source: Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md).
@@ -417,3 +419,4 @@ Traditional penetration testing, focused on resource compromise, is insufficient
 - [[source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models]]
 - [[source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation]]
 - [[persuasion-and-influence]]
+- [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]]
