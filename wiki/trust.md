@@ -65,8 +65,9 @@
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
 - raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
+- raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-18
 
 ---
 
@@ -93,6 +94,9 @@ Beyond technical performance, the psychological impact of AI systems on human us
 
 ### 1b. Auditing Concept-Based Explainable AI (XAI) Trustworthiness
 The trustworthiness of AI explanations, particularly those based on human-understandable concepts, requires careful auditing. ConceptSMILE is a novel, model-agnostic framework introduced to address this need by evaluating the reliability of concept-based explanations (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). It employs perturbation-based methods to assess how shifts in input regions affect concept responses. By using local weighting and surrogate models (like XGBoost), ConceptSMILE approximates local concept behavior and measures reliability through metrics such as attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). When applied to medical imaging, this framework revealed that the reliability of concepts can vary significantly between different AI models and their explanatory pathways (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). For instance, MedSAM showed higher spatial attribution and surrogate fidelity, while a Visual-Language Model (VLM) pathway demonstrated better faithfulness and stability under specific artifact conditions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md). ConceptSMILE provides a crucial independent audit layer to enhance the dependability of concept-based XAI, thereby bolstering trust in human-AI interactions (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).
+
+### 1c. Explainable AI for Process Control Optimisation
+In industrial settings, bridging the trust gap between engineers and operators regarding AI-driven optimisation recommendations is critical. A novel approach integrates the Implicit Function Theorem (IFT) with SHAP attribution and LLM-generated narratives to produce operator-tailored explanations (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). IFT is used to efficiently compute exact parameter sensitivities, enabling a faster calculation of GradientSHAP values, which in turn are used by an LLM to generate understandable natural language explanations for industrial operators (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). Evaluated on an industrial High Pressure Grinding Roll (HPGR) control optimisation problem, this method achieved SHAP attributions highly correlated with traditional KernelSHAP and a significant speedup (over 40$\times$), making real-time explanation generation feasible and potentially increasing trust in AI optimisation systems (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -420,3 +424,4 @@ Traditional penetration testing, focused on resource compromise, is insufficient
 - [[source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation]]
 - [[persuasion-and-influence]]
 - [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]]
+- [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]]

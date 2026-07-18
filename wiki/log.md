@@ -1558,3 +1558,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-18 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
+- raw/raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
+- wiki/human-robot-interaction.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation" and created summary page wiki/source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md.
+- Ingested "Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol" and created summary page wiki/source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

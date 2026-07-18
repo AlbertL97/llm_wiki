@@ -63,8 +63,9 @@
 - raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
+- raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-18
 
 ---
 
@@ -202,6 +203,9 @@ A large-scale study of user-reported breakdowns in AI healthcare chatbots highli
 
 ### 7.2 Multimodal Chat Assistant for University Stakeholders
 A multimodal chat assistant, developed using a retrieval-augmented generation (RAG) approach, aims to improve information access for university stakeholders by integrating LLMs with institutional resources (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md). This system enhances information access by effectively retrieving and synthesizing data from university handbooks and other institution-specific documents (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md). Its multimodal capabilities, supporting both text and image queries via a vision-language model, offer a more versatile user experience (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md). The RAG architecture significantly reduces hallucinations, decreasing inaccurate or fabricated responses from 31.7% to 6.6% (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md). User satisfaction evaluations are high for both text and image interactions, confirming its practical utility, despite slightly increased response times for visual inputs (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md). The system's technical implementation leverages a scalable backend and responsive frontend, with quantized inference for efficient deployment (source: raw_towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach.md).
+
+### 7.3 Optimisation Explanation for Industrial Operators
+For industrial processes that increasingly rely on automated optimisation systems, a trust gap often exists between engineers and operators. To bridge this gap, a novel approach combines the Implicit Function Theorem (IFT) with GradientSHAP and Large Language Models (LLMs) (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). This method efficiently computes exact parameter sensitivities from optimisation problems, enabling a more performant calculation of GradientSHAP values. These attributions are then processed by an LLM to generate natural language explanations understandable to industrial operators (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). Tested on an industrial High Pressure Grinding Roll (HPGR) control optimisation problem, the approach achieved high correlation with KernelSHAP results and demonstrated a speedup of over 40x, making real-time explanation generation feasible and providing valuable insights for operators (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).
 
 ### 8. ICE Environments as a Stress-Test Lens
 Isolated, confined, and extreme (ICE) environments (such as long-duration spaceflight, polar research stations, and submarines) function as unique boundary conditions that stress-test human-AI interaction models (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
@@ -454,3 +458,4 @@ The proposed method effectively balances two critical, often opposing, goals: re
 - [[source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms]]
 - [[source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models]]
 - [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]]
+- [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]]

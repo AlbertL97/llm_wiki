@@ -10,8 +10,9 @@
 - Scientists Just Proved AI Has EMOTIONS… It Can LIE, CHEAT & BLACKMAIL.md
 - When AIs act emotional.md
 - raw_llm-council-synthetic-cognitive-systems.md
+- raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
 
-**Last updated**: 2026-06-19
+**Last updated**: 2026-07-18
 
 ---
 
@@ -78,6 +79,9 @@ Rather than relying on single-agent reasoning pathways, advanced metacognitive a
 - **Debiasing Persuasion Engines**: Because LLMs produce highly convincing, clean narratives, they naturally function as persuasion engines. Metacognitive systems mitigate this risk by embedding structured debiasing protocols—such as forced uncertainty, premortems, and checklists—similar to those used in healthcare safety (source: raw_llm-council-synthetic-cognitive-systems.md).
 - **Integrating Intuitive Loops**: High-quality decision-making often begins as weak, intuitive human signals (e.g., somatic feelings or vague discomfort). A functional metacognitive loop translates these subjective inputs into formal hypotheses and constraints for the LLM council to test and validate (source: raw_llm-council-synthetic-cognitive-systems.md).
 
+### 10. Standardized Human-Robot Collaboration Protocols
+The integration of Generative AI (GenAI) into robotic systems has highlighted fragmentation in the human-robot interaction (HRI) layer, impeding effective human-in-the-loop collaboration (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). To address this, the adoption of a unified communication standard, such as the Agent-Client Protocol (ACP) for HRI and the Model Context Protocol (MCP) for agent execution, is proposed (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). This approach supports a fully decoupled three-layer architecture, separating human interaction, deliberative orchestration (using GenAI agents), and physical execution (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). Such standardization enables interoperability across heterogeneous user interfaces, facilitates robot platform upgrades without client-specific changes, and provides native support for critical collaborative HRI features like real-time observability, human authorization, and task interruption (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). Experimental validation on physical mobile robots has demonstrated effective real-time human-in-the-loop workflows with negligible latency (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -89,3 +93,4 @@ Rather than relying on single-agent reasoning pathways, advanced metacognitive a
 - [[source-scientists-proved-emotions]]
 - [[source-when-ais-act-emotional]]
 - [[source-llm-council-synthetic-cognitive-systems]]
+- [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]]

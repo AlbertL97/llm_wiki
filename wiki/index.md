@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-18
 
 ## Orientation
 
@@ -53,6 +53,7 @@
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
+- [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
 - [[source-health-advisory-mental-health]] — Summary of the APA Health Advisory documenting classification of digital mental health tools, risks, and recommendations.
@@ -62,6 +63,7 @@
 - [[source-hinton-consciousness]] — Summary of Geoffrey Hinton's podcast interview on AI consciousness, digital intelligence, and derived self-preservation.
 - [[source-honest-ai-interview]] — Summary of the Honest AI Interview with Eyriona and Lucian on Living Intelligence and the closed loop of decline.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
+- [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
