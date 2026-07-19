@@ -30,8 +30,9 @@
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
+- raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
 
-**Last updated**: 2026-07-12
+**Last updated**: 2026-07-19
 
 ---
 
@@ -42,6 +43,8 @@
 Crucially, the perceived psychological profiles of LLMs derived from human-centric assessment tools are often a measurement artifact rather than an indication of inherent, stable traits (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences observed between LLMs are predominantly driven by a directional response bias, where models tend to favor certain scale endpoints, which can account for the vast majority of response variation (81-90%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can reduce this bias, it is not eliminated and can lead to manufactured psychological profiles through selective item choices within instruments (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This suggests that many apparent anthropomorphic attributions may stem from the limitations of our current measurement tools rather than genuine, emergent AI psychology.
 
 The evaluation of AI systems, particularly those that interact with humans, often overlooks a critical dimension: their **psychological competence** (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This refers to an AI's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making, all in a manner appropriate to the user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods typically focus on technical performance metrics and fail to comprehensively assess the direct psychological effects on users, such as how framing, tone, perceived authority, responsiveness, handling of uncertainty, and conversational guidance impact user experience and outcomes (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This gap highlights the need for a new evaluation dimension to ensure the responsible development and deployment of human-facing AI and to mitigate potential negative real-world effects (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
+
+A key aspect of anthropomorphism, especially in areas involving the generation of human-like motion, relates to the perception of biomechanical plausibility. Previous methods in generating 3D sign language motions have struggled with this, often treating skeletal data as unstructured vectors. This led to unrealistic movements, such as deviations in bone length and invalid joint angles (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). Novel approaches like PIDiffSign are now incorporating physics-informed diffusion models that directly integrate anatomical constraints into their architecture and training. These models utilize differentiable geometry modules to enforce bone length consistency and ensure biologically valid joint angles, leading to more realistic and semantically faithful motion generation (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This focus on biomechanical realism in generated movements directly impacts how human-like and believable an artificial agent is perceived.
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -189,3 +192,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-invisible-impact-of-empathy-on-behavioral-change]]
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
+- [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]]

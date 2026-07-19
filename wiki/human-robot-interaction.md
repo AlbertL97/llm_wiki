@@ -28,8 +28,9 @@
 - raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md
 - raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
 - raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
+- raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-07-19
 
 ---
 
@@ -46,6 +47,8 @@ The integration of Automatic Speech Recognition (ASR) is a critical technology f
 Furthermore, social robots are being developed to assist in healthcare settings, particularly for the assessment of physical frailty and fall-risk indicators in older adults (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). These systems guide older adults through standardized tests, capturing enhanced biomechanical data with high reliability and agreement compared to traditional clinical assessments and wearable sensors (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). Such robotic frameworks demonstrate significant clinical utility for objective frailty assessments and collecting valuable mobility indicators in healthcare environments (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md).
 
 A significant advancement in physical HRI involves enabling robots to participate actively in physical tasks with humans, such as synchronized juggling. A new real-time planning and control system has been developed to allow robots to reliably catch and throw balls in synchronized multi-ball patterns with human partners (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). This system integrates predictive ball tracking, adaptive online trajectory optimization, and state-machine-based coordination logic. User studies have demonstrated its effectiveness, with participants achieving record-breaking performance in three-ball cascade juggling, highlighting the potential for advancing physical human-robot interaction and shared autonomy (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md).
+
+Recent research in AI-driven motion generation for embodied agents is also contributing to more realistic and human-like interactions. A novel physics-informed diffusion model, PIDiffSign, has been introduced to generate biomechanically plausible 3D sign language motions from spoken language input (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This model addresses the limitations of previous methods that often produced anatomically incorrect movements by directly incorporating anatomical constraints into its architecture and training objectives. Through a differentiable geometry module, PIDiffSign enforces bone length consistency and biologically valid joint angles, leading to enhanced motion realism and improved semantic fidelity in generated sign language (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This advancement suggests a growing trend towards incorporating physical realism in AI-generated human-like motion, which has direct implications for HRI systems that rely on accurate and naturalistic human-like movements for effective communication and interaction.
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -184,3 +187,4 @@ Novel approaches to human-robot interaction are exploring how robots can physica
 - [[metacognitive-agent-architectures]]
 - [[chatbots]]
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]]
+- [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]]

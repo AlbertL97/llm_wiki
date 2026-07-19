@@ -64,8 +64,10 @@
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
 - raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
+- raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
+- raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-07-19
 
 ---
 
@@ -385,6 +387,14 @@ To address this, researchers have developed methods to train and certify LLMs to
 
 The proposed method effectively balances two critical, often opposing, goals: resisting undue external influence and updating beliefs based on valid, licensed evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). Using a Bayesian-witness benchmark, this approach demonstrated near-perfect scores, achieving a 1.00 'resist and update' performance (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). The technique has also shown transferability to other problems, such as reducing sycophantic behavior in LLMs (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). The core contribution lies in establishing activation-level counterfactual incentive-invariance as a fundamental property for LLM internal incentive compatibility, offering a path towards more trustworthy and reliable AI interactions (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).
 
+### 31. Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation
+
+A novel approach, PIDiffSign, employs a physics-informed diffusion model to generate biomechanically plausible 3D sign language motions from spoken language input (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This addresses a key challenge where previous methods often produced unrealistic movements due to a lack of adherence to human anatomical constraints, such as inconsistent bone lengths and invalid joint angles (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). PIDiffSign integrates a differentiable geometry module to enforce these anatomical constraints, including bone length consistency and valid joint angles, directly within its Transformer encoder-decoder architecture (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). The model is trained using a combination of anthropomorphic, kinematic, angular, and finger-joint constraints, alongside gloss-pose alignment and classifier-free guidance (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). Experiments demonstrate that PIDiffSign significantly outperforms baseline models in pose accuracy, joint-angle correctness, and distributional realism, leading to both enhanced motion realism and improved semantic fidelity in sign language generation (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This work showcases how incorporating physical constraints can lead to more robust and naturalistic AI-generated human-like movements.
+
+### 32. Harness Engineering for Reliable AI Supervision
+
+The increasing reliance on LLMs for complex, high-stakes tasks like academic supervision necessitates methods to enhance their reliability beyond simple prompt-based interactions. "Harness engineering" is proposed as a deterministic scaffolding approach, building filters, retrieval mechanisms, schema I/O, LLM-as-judge loops, human-in-the-loop gates, state management, and audit trails around an LLM (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md). A comparative study evaluated a baseline chatbot (ASA, using GPT-5) against a harnessed system (ASuS, using a smaller GPT-4o-mini model with a LangGraph harness). ASuS demonstrated significantly superior performance across critical dimensions including grounding, explainability, consistency, process integrity, cognitive load, and constraint adherence, as rated by human evaluators (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md). Ablation studies confirmed that the harness structure, not just the base LLM size, was responsible for these gains. This research suggests that for applications demanding reliability and traceability, harness engineering is a more effective strategy than simply deploying larger, unharnessed LLMs (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -459,3 +469,5 @@ The proposed method effectively balances two critical, often opposing, goals: re
 - [[source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models]]
 - [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]]
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]]
+- [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]]
+- [[source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study]]

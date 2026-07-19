@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-07-19
 
 ## Orientation
 
@@ -45,8 +45,8 @@
 - [[source-consciousness-controlled-hallucination]] — Summary of the controlled hallucination article outlining perception as active prediction and the homeostatic biological barrier.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
-- [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
-- [[source-<bos>-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
+- [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
+- [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
@@ -78,9 +78,11 @@
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.
+- [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]] — Summary of Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation.
 - [[source-physiological-sensing-situational-awareness]] — Summary of review examining physiological sensing (EEG, ECG, eye-tracking) for situational awareness estimation in human-autonomy teaming.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychology-ai-cognitive-emotional]] — Summary of paper reviewing cognitive science and psychological characteristics of AI and human-AI relationship ethics.
 - [[source-psychology-trust-smashing]] — Summary of Smashing Magazine UX guide outlining the four pillars of trust, qualitative/quantitative metrics, and trust repair in AI.
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
@@ -101,7 +103,7 @@
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
-- [[source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
+- [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.
 - [[source-trajectory-safety-observatory-vulnerable-user]] — Summary of study by Impersonato on AI models acting as primary emotional anchors and creating dependency for vulnerable users.

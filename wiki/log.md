@@ -1585,3 +1585,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-19 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
+- raw/raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
+- wiki/human-ai-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation" and created summary page wiki/source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md.
+- Ingested "Harnessing LLMs for Reliable Academic Supervision: A Comparative Study" and created summary page wiki/source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

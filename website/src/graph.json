@@ -568,6 +568,13 @@
       "summary": ""
     },
     {
+      "id": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
+      "name": "Harnessing LLMs for Reliable Academic Supervision: A Comparative Study",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-health-advisory-mental-health",
       "name": "Source: Health advisory: Use of generative AI chatbots and wellness applications for mental health",
       "val": 1.5,
@@ -748,6 +755,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Identifying the 'Persuasion Paradox' where fluent LLM explanations increase user confidence and reliance without improving task accuracy, showing that explanation benefits are highly task-dependent."
+    },
+    {
+      "id": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation",
+      "name": "Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-physiological-sensing-situational-awareness",
@@ -1396,6 +1410,10 @@
       "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1586,6 +1604,10 @@
     {
       "source": "chatbots",
       "target": "source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
     },
     {
       "source": "explainability",
@@ -1900,6 +1922,14 @@
       "target": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2026,6 +2056,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
     },
     {
       "source": "introspective-awareness",
@@ -2970,6 +3004,14 @@
     {
       "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
       "target": "trust"
+    },
+    {
+      "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
+      "target": "trust"
+    },
+    {
+      "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
+      "target": "explainability"
     },
     {
       "source": "source-health-advisory-mental-health",
