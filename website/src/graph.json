@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks."
     },
     {
       "id": "index",
@@ -568,6 +568,13 @@
       "summary": ""
     },
     {
+      "id": "source-handroid-bridging-dexterous-hand-and-humanoid",
+      "name": "Handroid: Bridging Dexterous Hand and Humanoid",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
       "name": "Harnessing LLMs for Reliable Academic Supervision: A Comparative Study",
       "val": 1.5,
@@ -675,6 +682,13 @@
     {
       "id": "source-invisible-impact-of-empathy-on-behavioral-change",
       "name": "Invisible Impact of Empathy on Behavioral Change",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction",
+      "name": "Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2062,6 +2076,10 @@
       "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
     },
     {
+      "source": "human-robot-interaction",
+      "target": "source-handroid-bridging-dexterous-hand-and-humanoid"
+    },
+    {
       "source": "introspective-awareness",
       "target": "source-emergent-introspective-awareness"
     },
@@ -2300,6 +2318,10 @@
     {
       "source": "medical-ai",
       "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction"
     },
     {
       "source": "mental-health",

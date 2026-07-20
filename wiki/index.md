@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-19
+**Last updated**: 2026-07-20
 
 ## Orientation
 
@@ -56,6 +56,7 @@
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
+- [[source-handroid-bridging-dexterous-hand-and-humanoid]] — Summary of Handroid: Bridging Dexterous Hand and Humanoid.
 - [[source-health-advisory-mental-health]] — Summary of the APA Health Advisory documenting classification of digital mental health tools, risks, and recommendations.
 - [[source-healthy-gamer-ai-brain]] — Summary of the HealthyGamerGG video on AI-induced psychological destabilisation, bidirectional belief amplification, and the 10-point psychogenic risk questionnaire.
 - [[source-healthy-gamer-replace-therapist]] — Summary of the HealthyGamerGG panel video comparing human psychotherapeutic diagnostics and CBT/DBT friction against ChatGPT's automated validation.
@@ -68,6 +69,7 @@
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
+- [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]] — Summary of A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots.
 - [[source-llm-council-synthetic-cognitive-systems]] — Summary of article on Simple Multi-Model Consensus (LLM-councils) evolving into tailored synthetic cognitive systems.

@@ -1611,3 +1611,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_handroid-bridging-dexterous-hand-and-humanoid.md
+- raw/raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-handroid-bridging-dexterous-hand-and-humanoid.md
+- wiki/human-robot-interaction.md
+- wiki/source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Handroid: Bridging Dexterous Hand and Humanoid" and created summary page wiki/source-handroid-bridging-dexterous-hand-and-humanoid.md.
+- Ingested "Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction" and created summary page wiki/source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

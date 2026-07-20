@@ -19,8 +19,9 @@
 - raw_classifier-chain-based-pathological-test-recommendation.md
 - raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
 - raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md
+- raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md
 
-**Last updated**: 2026-07-17
+**Last updated**: 2026-07-20
 
 ---
 
@@ -35,6 +36,7 @@ Medical AI systems are deployed across several key areas of healthcare (source: 
 - **Administrative & Decision Support**: Software platforms that automate tedious administrative tasks, transcribe patient-physician interactions, and provide real-time suggestions during clinical encounters.
 - **Pathological Test Recommendation**: AI systems can be employed to recommend pathological tests based on patient symptoms, framing the task as a multi-label classification problem. Techniques like Classifier Chains (CC) have shown high accuracy (e.g., 98.83% with Logistic Regression + CC) in predicting necessary tests from symptoms, aiming to accelerate diagnostics and reduce subjective interpretations (source: raw_classifier-chain-based-pathological-test-recommendation.md). Explainable AI (XAI) methods, such as SHAP, are crucial for detailing symptom contributions to recommendations, enhancing transparency and clinical interpretability (source: raw_classifier-chain-based-pathological-test-recommendation.md).
 - **Frailty and Fall-Risk Assessment**: Social robots are being developed to assist in the assessment of physical frailty and fall-risk indicators in older adults (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). These systems utilize novel robotic frameworks and vision-based tracking to capture enhanced biomechanical data during standardized tests like the Short Physical Performance Battery (SPPB) and Timed Up and Go (TUG) (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md). Evaluations in rehabilitation centers have shown that robot-derived measurements demonstrate excellent agreement with therapist assessments and clinical reference instruments for test completion times and gait parameters, indicating high reliability and potential clinical utility for objective frailty assessments (source: raw_assessing-physical-frailty-and-fall-risk-indicators-with-social-robots.md).
+- **Image Reconstruction and Artifact Correction**: Advanced AI frameworks are being developed for medical imaging modalities like Cone-Beam Computed Tomography (CBCT) to address complex artifacts. A joint-decoupled iterative reconstruction framework has been introduced to tackle X-ray scatter and beam hardening, decoupling these issues for more precise correction (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md). This method utilizes a hybrid approach for scatter estimation and a voxel-adaptive mechanism for beam hardening correction, directly refining image data iteratively (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md). Validation on biomedical phantoms has demonstrated substantial accuracy improvements, significantly outperforming existing state-of-the-art techniques by reducing mean relative error (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md).
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -128,3 +130,4 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - [[source-classifier-chain-based-pathological-test-recommendation]]
 - [[source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai]]
 - [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]]
+- [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]]
