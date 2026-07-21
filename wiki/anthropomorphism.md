@@ -31,8 +31,9 @@
 - raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 - raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
+- raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
 
-**Last updated**: 2026-07-19
+**Last updated**: 2026-07-21
 
 ---
 
@@ -45,6 +46,8 @@ Crucially, the perceived psychological profiles of LLMs derived from human-centr
 The evaluation of AI systems, particularly those that interact with humans, often overlooks a critical dimension: their **psychological competence** (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This refers to an AI's ability to support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making, all in a manner appropriate to the user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Existing evaluation methods typically focus on technical performance metrics and fail to comprehensively assess the direct psychological effects on users, such as how framing, tone, perceived authority, responsiveness, handling of uncertainty, and conversational guidance impact user experience and outcomes (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This gap highlights the need for a new evaluation dimension to ensure the responsible development and deployment of human-facing AI and to mitigate potential negative real-world effects (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
 
 A key aspect of anthropomorphism, especially in areas involving the generation of human-like motion, relates to the perception of biomechanical plausibility. Previous methods in generating 3D sign language motions have struggled with this, often treating skeletal data as unstructured vectors. This led to unrealistic movements, such as deviations in bone length and invalid joint angles (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). Novel approaches like PIDiffSign are now incorporating physics-informed diffusion models that directly integrate anatomical constraints into their architecture and training. These models utilize differentiable geometry modules to enforce bone length consistency and ensure biologically valid joint angles, leading to more realistic and semantically faithful motion generation (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This focus on biomechanical realism in generated movements directly impacts how human-like and believable an artificial agent is perceived.
+
+The development of systems that enable robots to imitate human gestures also directly contributes to anthropomorphic perception in human-robot interaction (HRI). A novel system developed for the semi-humanoid robot NICO allows it to imitate human arm gestures by extracting 3D body landmark coordinates, computing joint angles, and mapping them to NICO's motor configuration (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). Preliminary experiments showed this system can produce meaningful imitative motions for representative arm gestures, enhancing the perceived human-likeness of the robot, although it has limitations with more complex poses (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md).
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -193,3 +196,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]]
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]]
+- [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]]

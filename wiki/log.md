@@ -1634,3 +1634,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
+- raw/raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Imitation of Arm Gestures by the Semi-Humanoid Robot NICO" and created summary page wiki/source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md.
+- Ingested "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?" and created summary page wiki/source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

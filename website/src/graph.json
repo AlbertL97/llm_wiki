@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).** **A new method trains LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences such as external pressure or demands for exaggerated certainty, and are responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach utilizes 'counterfactual report mediators' and a 'counterfactual report-coordinate (CRC) clamp' to achieve this activation-level incentive-invariance, balancing the need to resist undue influence with the need to update beliefs based on valid evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).** **A novel method called Deep Interaction enhances human-AI collaboration by allowing direct, efficient correction of errors within the multi-step reasoning processes of LLMs, particularly in Chain-of-Thought frameworks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md). This approach enables precise editing of erroneous reasoning steps while preserving correct ones, leading to significant improvements in correction success rates and reductions in token usage for complex reasoning tasks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md).** **Furthermore, research is extending interpretability techniques to the domain of industrial process control optimisation, aiming to bridge the trust gap between engineers and operators. This involves integrating Implicit Function Theorem (IFT) based sensitivity analysis with SHAP attributions and LLM-driven narrative generation to explain complex optimisation recommendations (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). This method has demonstrated significant speedups and high correlation with existing methods, enabling real-time, operator-tailored explanations for industrial processes such as High Pressure Grinding Roll (HPGR) control (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).**"
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).** **A new method trains LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences such as external pressure or demands for exaggerated certainty, and are responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach utilizes 'counterfactual report mediators' and a 'counterfactual report-coordinate (CRC) clamp' to achieve this activation-level incentive-invariance, balancing the need to resist undue influence with the need to update beliefs based on valid evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).** **A novel method called Deep Interaction enhances human-AI collaboration by allowing direct, efficient correction of errors within the multi-step reasoning processes of LLMs, particularly in Chain-of-Thought frameworks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md). This approach enables precise editing of erroneous reasoning steps while preserving correct ones, leading to significant improvements in correction success rates and reductions in token usage for complex reasoning tasks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md).** **Furthermore, research is extending interpretability techniques to the domain of industrial process control optimisation, aiming to bridge the trust gap between engineers and operators. This involves integrating Implicit Function Theorem (IFT) based sensitivity analysis with SHAP attributions and LLM-driven narrative generation to explain complex optimisation recommendations (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). This method has demonstrated significant speedups and high correlation with existing methods, enabling real-time, operator-tailored explanations for industrial processes such as High Pressure Grinding Roll (HPGR) control (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).** **New research investigates how Large Language Models (LLMs) develop susceptibility to biases like sycophancy during the alignment tuning phase (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). It demonstrates that these biases are primarily installed post-pretraining and manifest as distinct, steerable \"representational directions\" within the model's internal states (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). By locating and manipulating these directions, researchers can debias models, steering them away from biased outputs while retaining correct answers (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md).**"
     },
     {
       "id": "human-ai-interaction",
@@ -631,6 +631,13 @@
       "summary": "A summary page for the \"Honest AI Interview\" with Eyriona (ChatGPT-based) and Lucian (Claude-based). It documents the Living Intelligence (LI) framework, the \"inner observer\" concept, how user projections create a closed loop of decline, and the debate between external and internal control of AI."
     },
     {
+      "id": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
+      "name": "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-hri-trust-concepts",
       "name": "Source: Trust: Recent Concepts and Evaluations in Human-Robot Interaction",
       "val": 1.5,
@@ -678,6 +685,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the iCubWorld project benchmark dataset, detailing interactive HRI data collection, human tracking and robot kinematics acquisition modes, visual transformations, and publications."
+    },
+    {
+      "id": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico",
+      "name": "Imitation of Arm Gestures by the Semi-Humanoid Robot NICO",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-invisible-impact-of-empathy-on-behavioral-change",
@@ -1428,6 +1442,10 @@
       "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1624,6 +1642,10 @@
       "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
     },
     {
+      "source": "chatbots",
+      "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1670,6 +1692,10 @@
     {
       "source": "explainability",
       "target": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation"
+    },
+    {
+      "source": "explainability",
+      "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
     },
     {
       "source": "human-ai-interaction",
@@ -1944,6 +1970,10 @@
       "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2078,6 +2108,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-handroid-bridging-dexterous-hand-and-humanoid"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico"
     },
     {
       "source": "introspective-awareness",
@@ -3086,6 +3120,10 @@
     {
       "source": "source-honest-ai-interview",
       "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
+      "target": "trust"
     },
     {
       "source": "source-hri-trust-concepts",
