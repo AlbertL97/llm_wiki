@@ -806,6 +806,13 @@
       "summary": "A summary page for Marques Brownlee's video critique of the 1X Technologies NEO humanoid robot, focusing on the gap between advertised autonomy and teleoperated reality, the \"Expert Mode\" privacy concerns, and the data collection model."
     },
     {
+      "id": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
+      "name": "Source Summary: Prompt Design at Scale",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-psychogenic-machine",
       "name": "Source: The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models",
       "val": 1.5,
@@ -832,6 +839,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A UX guide detailing the psychological pillars of trust in AI, methods for measuring trust, and design patterns for building and repairing trust in agentic applications."
+    },
+    {
+      "id": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
+      "name": "Public Perceptions of AI-Driven Decision-Making in Healthcare",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-qualitati",
@@ -1646,6 +1660,10 @@
       "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
     },
     {
+      "source": "chatbots",
+      "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -1974,6 +1992,14 @@
       "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2278,6 +2304,10 @@
       "target": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2356,6 +2386,10 @@
     {
       "source": "medical-ai",
       "target": "source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
     },
     {
       "source": "mental-health",
@@ -3246,6 +3280,14 @@
       "target": "trust"
     },
     {
+      "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
+      "target": "trust"
+    },
+    {
+      "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
+      "target": "chatbots"
+    },
+    {
       "source": "source-psychogenic-machine",
       "target": "chatbots"
     },
@@ -3276,6 +3318,10 @@
     {
       "source": "source-psychology-trust-smashing",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
+      "target": "trust"
     },
     {
       "source": "source-qualitati",

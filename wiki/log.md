@@ -1661,3 +1661,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-22 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md
+- raw/raw_public-perceptions-of-ai-driven-decision-making-in-healthcare.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-public-perceptions-of-ai-driven-decision-making-in-healthcare.md
+- wiki/medical-ai.md
+- wiki/chatbots.md
+
+**Summary of changes**:  
+- Ingested "Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models" and created summary page wiki/source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md.
+- Ingested "Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach" and created summary page wiki/source-public-perceptions-of-ai-driven-decision-making-in-healthcare.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
