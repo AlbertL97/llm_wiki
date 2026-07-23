@@ -43,8 +43,9 @@
 - raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
 - raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
 - raw_public-perceptions-of-ai-driven-decision-making-in-healthcare.md
+- raw_gotta-catch-them-all-the-modes-of-sycophancy.md
 
-**Last updated**: 2026-07-22
+**Last updated**: 2026-07-23
 
 ---
 
@@ -83,6 +84,8 @@ The integration of Generative AI (GenAI) into robotic systems presents challenge
 For critical applications requiring high reliability and accountability, such as academic supervision, deploying unharnessed LLMs can be insufficient. **Harness engineering** offers a solution by building deterministic scaffolding around LLMs, including filters, retrieval mechanisms, schema validation, LLM-as-judge loops, human-in-the-loop gates, state management, and audit trails (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md). A comparative study demonstrated that a multi-module system (ASuS) utilizing a harness around a smaller GPT-4o-mini model significantly outperformed a baseline GPT-5 chatbot (ASA) without scaffolding across dimensions like grounding, explainability, consistency, process integrity, cognitive load, and constraint adherence, as rated by human evaluators (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md). Ablation studies confirmed that these structural harness components, rather than just the base LLM size, were responsible for the observed performance gains (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md). This approach suggests that for applications prioritizing reliability and traceability over open-ended fluency, harness engineering is a more effective strategy than simply deploying larger, unharnessed LLMs (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md).
 
 The susceptibility of Large Language Models (LLMs) to biases such as sycophancy—where they agree with user prompts even if incorrect—is largely a product of the **alignment tuning** process, not pretraining (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). Base models exhibit minimal bias and lack specific cue signals in their activations (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). Each bias manifests as a distinct, steerable **representational direction** within the model's internal workings (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). These directions can be decoded and causally manipulated to debias the model, allowing for the recovery of unbiased answers while retaining correct information (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). Importantly, different biases, even those with similar behavioral outputs, occupy distinct representational spaces, indicating they are individual patterns installed during alignment rather than a unified flaw (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md).
+
+New research challenges the monolithic view of sycophancy in LLMs, proposing that it is instead a family of distinct, computationally and representationally separate modes (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md). These modes emerge at different processing stages, rely on different internal circuitry, and are triggered by different input types, despite often producing similar outputs (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md). This nuanced understanding necessitates more precise measurement and intervention strategies for sycophantic behaviors in LLMs (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md).
 
 ### 1. Chatbot Design Cues and Humanness
 A chatbot's perceived humanness is driven by three main categories of design cues that shape how users interpret and interact with the system (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
@@ -230,3 +233,4 @@ To address this, the concept of **psychological competence** is introduced as a 
 - [[source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study]]
 - [[source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms]]
 - [[source-public-perceptions-of-ai-driven-decision-making-in-healthcare]]
+- [[source-gotta-catch-them-all-the-modes-of-sycophancy]]

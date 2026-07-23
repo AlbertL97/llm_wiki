@@ -1686,3 +1686,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-23 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_gotta-catch-them-all-the-modes-of-sycophancy.md
+- raw/raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-gotta-catch-them-all-the-modes-of-sycophancy.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+- wiki/explainability.md
+- wiki/source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
+
+**Summary of changes**:  
+- Ingested "Gotta Catch them all: the modes of Sycophancy" and created summary page wiki/source-gotta-catch-them-all-the-modes-of-sycophancy.md.
+- Ingested "Proceedings of The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4)" and created summary page wiki/source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

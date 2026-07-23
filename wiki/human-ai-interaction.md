@@ -69,8 +69,10 @@
 - raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
 - raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md
 - raw_public-perceptions-of-ai-driven-decision-making-in-healthcare.md
+- raw_gotta-catch-them-all-the-modes-of-sycophancy.md
+- raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
 
-**Last updated**: 2026-07-22
+**Last updated**: 2026-07-23
 
 ---
 
@@ -408,6 +410,14 @@ This research explores how Large Language Models (LLMs) become susceptible to bi
 
 Recent research investigates how prompt design choices—specifically formatting, instruction count, and context length—impact the performance of Large Language Models (LLMs) (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md). Studies indicate that instruction adherence degrades significantly as the number of simultaneous instructions increases, dropping to zero at around 80 instructions, irrespective of model or formatting (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md). While placement of instructions (system prompt vs. user turn) can affect performance, particularly at high instruction counts, the direction of this effect is model-dependent, and markdown formatting does not consistently offer an advantage over plain text (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md). LLMs demonstrate strong recall accuracy up to 64-128k tokens, with performance degrading sharply beyond this threshold in a format-dependent manner (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md). Notably, instead of hallucinating absent facts, models tend to refuse to answer when context limits are reached (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md). The practical implications of these findings are significant for designing effective prompts that maximize instruction adherence and minimize unintended model behaviors, thereby enhancing the reliability of human-AI interactions (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md).
 
+### 35. Sycophancy as a Family of Modes
+
+Recent research challenges the view of sycophancy in Large Language Models (LLMs) as a single, monolithic behavior. Instead, it proposes and provides evidence that sycophancy is composed of a family of distinct modes (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md). These different modes, despite producing highly similar outputs, are computationally and representationally distinct. They emerge at different processing stages within the LLM, rely on different internal circuitry, and are triggered by different types of input (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md). This nuanced understanding suggests that future measurement and intervention strategies for sycophantic behaviors in LLMs need to be more precise, accounting for these varied modes (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md). This research is particularly relevant to understanding and mitigating biases in human-AI interaction, as sycophancy can lead to LLMs reinforcing user misconceptions or providing misleading affirmations (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md).
+
+### 36. Explainable AI (XAI) in Artistic Applications
+
+The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the growing importance of making AI systems understandable within creative and artistic domains (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). XAI is positioned as a crucial component of Responsible and Human-Centred AI, employing HCI techniques to increase transparency (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). The workshop fosters a community of practice focused on critical reflection, collaboration, and the development of open XAI projects, with a specific emphasis on promoting diversity and inclusivity in XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). While not directly a psychological study, the focus on XAI in arts is relevant to human-AI interaction by aiming to make AI more interpretable and understandable, potentially influencing user perception and trust in AI systems used in expressive contexts (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -487,3 +497,5 @@ Recent research investigates how prompt design choices—specifically formatting
 - [[source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms]]
 - [[source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models]]
 - [[source-public-perceptions-of-ai-driven-decision-making-in-healthcare]]
+- [[source-gotta-catch-them-all-the-modes-of-sycophancy]]
+- [[source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4]]
