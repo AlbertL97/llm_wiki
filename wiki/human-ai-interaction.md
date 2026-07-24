@@ -71,14 +71,18 @@
 - raw_public-perceptions-of-ai-driven-decision-making-in-healthcare.md
 - raw_gotta-catch-them-all-the-modes-of-sycophancy.md
 - raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
+- raw_humanlikeness-as-design-anthropomorphism-as-inference.md
+- raw_plus-tips-on-getting-started-with-ai-safely.md
 
-**Last updated**: 2026-07-23
+**Last updated**: 2026-07-24
 
 ---
 
 ## Main content
 
-**Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md).
+**Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+The understanding of how humans perceive robots is significantly influenced by the distinction between 'humanlikeness' as an intentional design feature and 'anthropomorphism' as a human inference process (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Humanlikeness refers to the deliberate incorporation of features into a robot's design to make it appear similar to humans. In contrast, anthropomorphism is the cognitive tendency for humans to attribute human qualities, intentions, and emotions to non-human entities, including robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Recognizing this distinction is crucial for developing effective human-robot interaction strategies, managing user trust, and shaping overall engagement with robotic systems (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Responsible adoption of AI involves integrating it into daily life while upholding safety and ethical guidelines (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The evaluation of human-facing AI systems has historically focused on technical performance metrics, often neglecting the profound psychological impact these systems can have on users (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This oversight is particularly concerning as AI systems increasingly take on roles as advisors, coaches, and companions, influencing user cognition, emotions, trust, and decision-making in significant ways (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). To address this, a new dimension for AI evaluation, termed **psychological competence**, has been proposed (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). This refers to an AI's capacity to appropriately support user cognition, facilitate emotional interpretation, and aid in behavioral decision-making, tailored to the specific user, context, and purpose of the interaction (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Key interaction properties that influence psychological competence include the framing of information, tone of communication, perceived authority, responsiveness to user needs, handling of uncertainty, and guidance provided (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md). Conceptual frameworks and assessment methods, including scenario-based probes and structured human evaluation, are being developed to measure this crucial dimension (source: raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md).
 
@@ -499,3 +503,5 @@ The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) hi
 - [[source-public-perceptions-of-ai-driven-decision-making-in-healthcare]]
 - [[source-gotta-catch-them-all-the-modes-of-sycophancy]]
 - [[source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4]]
+- [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
+- [[source-plus-tips-on-getting-started-with-ai-safely]]

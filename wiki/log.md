@@ -1712,3 +1712,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-24 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_humanlikeness-as-design-anthropomorphism-as-inference.md
+- raw/raw_plus-tips-on-getting-started-with-ai-safely.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-humanlikeness-as-design-anthropomorphism-as-inference.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/mind-perception.md
+- wiki/source-plus-tips-on-getting-started-with-ai-safely.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction" and created summary page wiki/source-humanlikeness-as-design-anthropomorphism-as-inference.md.
+- Ingested "Plus tips on getting started with AI safely" and created summary page wiki/source-plus-tips-on-getting-started-with-ai-safely.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

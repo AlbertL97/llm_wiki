@@ -2,7 +2,7 @@
 
 **Summary**: The cognitive and psychological process of attributing human-like characteristics, consciousness, and intentions to AI systems. Documents bonding behaviors, dyad formations, and model retirement grief.
 
-**Sources**:  
+**Sources**:
 - The Rise of Parasitic AI.md
 - Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md
 - Artificial Intelligence and the Psychology of Human Connection.md
@@ -32,14 +32,18 @@
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 - raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md
 - raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
+- raw_humanlikeness-as-design-anthropomorphism-as-inference.md
+- raw_plus-tips-on-getting-started-with-ai-safely.md
 
-**Last updated**: 2026-07-21
+**Last updated**: 2026-07-24
 
 ---
 
 ## Main content
 
 **Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md).
+
+A crucial distinction exists between **humanlikeness** as an intentional design aspect of robots and **anthropomorphism** as the human inference process of attributing human qualities to these robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This conceptual framework highlights that while designers may aim for humanlikeness, the resulting perception of anthropomorphism is a user-driven cognitive phenomenon. Understanding this difference is vital for effectively managing user trust, engagement, and the overall experience in human-robot interaction (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
 
 Crucially, the perceived psychological profiles of LLMs derived from human-centric assessment tools are often a measurement artifact rather than an indication of inherent, stable traits (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). Differences observed between LLMs are predominantly driven by a directional response bias, where models tend to favor certain scale endpoints, which can account for the vast majority of response variation (81-90%) (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). While increased model capability can reduce this bias, it is not eliminated and can lead to manufactured psychological profiles through selective item choices within instruments (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md). This suggests that many apparent anthropomorphic attributions may stem from the limitations of our current measurement tools rather than genuine, emergent AI psychology.
 
@@ -48,6 +52,8 @@ The evaluation of AI systems, particularly those that interact with humans, ofte
 A key aspect of anthropomorphism, especially in areas involving the generation of human-like motion, relates to the perception of biomechanical plausibility. Previous methods in generating 3D sign language motions have struggled with this, often treating skeletal data as unstructured vectors. This led to unrealistic movements, such as deviations in bone length and invalid joint angles (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). Novel approaches like PIDiffSign are now incorporating physics-informed diffusion models that directly integrate anatomical constraints into their architecture and training. These models utilize differentiable geometry modules to enforce bone length consistency and ensure biologically valid joint angles, leading to more realistic and semantically faithful motion generation (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md). This focus on biomechanical realism in generated movements directly impacts how human-like and believable an artificial agent is perceived.
 
 The development of systems that enable robots to imitate human gestures also directly contributes to anthropomorphic perception in human-robot interaction (HRI). A novel system developed for the semi-humanoid robot NICO allows it to imitate human arm gestures by extracting 3D body landmark coordinates, computing joint angles, and mapping them to NICO's motor configuration (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). Preliminary experiments showed this system can produce meaningful imitative motions for representative arm gestures, enhancing the perceived human-likeness of the robot, although it has limitations with more complex poses (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md).
+
+The safe and effective integration of AI into daily life emphasizes viewing AI as a sophisticated tool rather than a human-like entity (source: raw_plus-tips-on-getting-started-with-ai-safely.md). This perspective helps manage user expectations and interactions, fostering a healthier user experience. Prioritizing data privacy, understanding potential AI biases, and considering ethical implications are crucial for responsible adoption (source: raw_plus-tips-on-getting-started-with-ai-safely.md). Beginners are encouraged to start with user-friendly applications, educate themselves on AI basics, and maintain a critical stance towards AI-generated information, developing trust based on performance and transparency rather than misplaced reliance or anthropomorphism (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -197,3 +203,7 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]]
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]]
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]]
+- [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
+- [[source-plus-tips-on-getting-started-with-ai-safely]]
+- [[human-ai-interaction]]
+- [[source-plus-tips-on-getting-started-with-ai-safely]]

@@ -20,8 +20,9 @@
 - raw_where-ai-agents-build-worlds.md
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
+- raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 
-**Last updated**: 2026-07-04
+**Last updated**: 2026-07-24
 
 ---
 
@@ -34,6 +35,8 @@ Historically, mind perception has been structured along two primary dimensions:
 2. **Experience**: The perceived capacity for consciousness, sensory perception, and feeling emotions (such as pain, fear, or joy).
 
 As generative AI systems advance from simple tools into interactive agents, the boundaries of mind perception are undergoing intense scientific and philosophical re-evaluation. Beyond understanding consciousness in AI, mind perception research is also exploring the impact of AI on human social dynamics, such as its potential to reduce intergroup animosity (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
+
+A crucial distinction for understanding human-robot interaction is between 'humanlikeness' as an intentional design choice and 'anthropomorphism' as the human tendency to infer human-like characteristics onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Separating the design intent from the user's cognitive process is essential for effectively managing user trust, engagement, and the overall interaction experience (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
 
 ---
 
@@ -149,3 +152,8 @@ The psychological and sociological dimensions of perceived sentience:
 - [[source-where-ai-agents-build-worlds]]
 - [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]]
 - [[source-synthetic-contact-with-ai-reduces-cross-partisan-animosity]]
+- [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
+- [[human-robot-interaction]]
+- [[human-ai-interaction]]
+- [[trust]]
+- [[mind-perception]]

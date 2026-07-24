@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-21
+**Last updated**: 2026-07-24
 
 ## Orientation
 
@@ -64,6 +64,7 @@
 - [[source-hinton-consciousness]] — Summary of Geoffrey Hinton's podcast interview on AI consciousness, digital intelligence, and derived self-preservation.
 - [[source-honest-ai-interview]] — Summary of the Honest AI Interview with Eyriona and Lucian on Living Intelligence and the closed loop of decline.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
+- [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
@@ -83,6 +84,7 @@
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]] — Summary of Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation.
 - [[source-physiological-sensing-situational-awareness]] — Summary of review examining physiological sensing (EEG, ECG, eye-tracking) for situational awareness estimation in human-autonomy teaming.
+- [[source-plus-tips-on-getting-started-with-ai-safely]] — Summary of Plus tips on getting started with AI safely.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.

@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI."
     },
     {
       "id": "index",
@@ -680,6 +680,13 @@
       "summary": "A summary page for \"Humanity's Last Exam\" (HLE), an advanced multimodal academic benchmark published in *Nature* (2026) that evaluates frontier large language models on expert-level academic questions and calibration error."
     },
     {
+      "id": "source-humanlikeness-as-design-anthropomorphism-as-inference",
+      "name": "Source Summary: Humanlikeness as Design, Anthropomorphism as Inference: A Conceptual Framework for Human–Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ice-environments-interaction",
       "name": "Source: Human–AI Interaction in isolated, confined, and extreme environments: psychological, ethical, and design perspectives",
       "val": 1.5,
@@ -804,6 +811,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Integrative review of physiological sensing (EEG, ECG, eye-tracking) for estimating situational awareness in visual search and human-autonomy teaming, highlighting deep unsupervised representation learning."
+    },
+    {
+      "id": "source-plus-tips-on-getting-started-with-ai-safely",
+      "name": "Plus tips on getting started with AI safely",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-problem-humanoid-robot",
@@ -1474,6 +1488,18 @@
       "target": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-plus-tips-on-getting-started-with-ai-safely"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1763,10 +1789,6 @@
     },
     {
       "source": "human-ai-interaction",
-      "target": "anthropomorphism"
-    },
-    {
-      "source": "human-ai-interaction",
       "target": "source-avatar-video-robot-trust"
     },
     {
@@ -2034,6 +2056,14 @@
       "target": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-plus-tips-on-getting-started-with-ai-safely"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2172,6 +2202,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
     },
     {
       "source": "introspective-awareness",
@@ -2624,6 +2658,18 @@
     {
       "source": "mind-perception",
       "target": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
+    },
+    {
+      "source": "mind-perception",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "mind-perception",
+      "target": "mind-perception"
     },
     {
       "source": "persuasion-and-influence",
@@ -3242,6 +3288,10 @@
       "target": "trust"
     },
     {
+      "source": "source-humanlikeness-as-design-anthropomorphism-as-inference",
+      "target": "trust"
+    },
+    {
       "source": "source-ice-environments-interaction",
       "target": "trust"
     },
@@ -3319,6 +3369,10 @@
     },
     {
       "source": "source-persuasion-paradox-explanations",
+      "target": "trust"
+    },
+    {
+      "source": "source-plus-tips-on-getting-started-with-ai-safely",
       "target": "trust"
     },
     {
