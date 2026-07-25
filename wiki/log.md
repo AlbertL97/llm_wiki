@@ -1738,3 +1738,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-25 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
+- raw/raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+- wiki/human-ai-interaction.md
+- wiki/source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Why AI companions and young people can make for a dangerous mix" and created summary page wiki/source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md.
+- Ingested "Embarrassed that you can't remember? Many older folks are. AI is glad to help." and created summary page wiki/source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

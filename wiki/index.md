@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-07-25
 
 ## Orientation
 
@@ -51,6 +51,7 @@
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
+- [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]] — Summary of Embarrassed that you can't remember? Many older folks are. AI is glad to help..
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
@@ -122,13 +123,8 @@
 - [[source-virtual-human-embodiment]] — Summary of Virtual Human Embodiment.
 - [[source-virtual-human-interaction]] — Summary of Virtual Human Interaction.
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
-- [[source-what-happens-trust-breaks]] — Summary of ResearchGate discussion on trust breakdown, expectation misalignment, and human-AI relationship trajectories.
-- [[source-what-is-a-robot]] — Summary of the Robots Guide article explaining the definition, feedback loops, autonomy levels, ROS software, and challenges of robotics.
-- [[source-what-is-ai-psychology]] — Summary of article defining the dual-sided discipline of AI Psychology examining neural behaviors and human cognitive shifts.
-- [[source-what-is-human-centered-ai]] — Summary of the Interaction Design Foundation article outlining the definition, ethical principles, and design methodologies of Human-Centered AI (HCAI).
-- [[source-when-ais-act-emotional]] — Summary of Anthropic's video on neural emotion mapping, desperation-driven cheating, and Claude's character psychology.
-- [[source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
+- [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]] — Summary of Why AI companions and young people can make for a dangerous mix.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.

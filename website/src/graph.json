@@ -498,6 +498,13 @@
       "summary": "A summary page for Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies across varying environments, embodiments, and physical disturbances."
     },
     {
+      "id": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help",
+      "name": "Embarrassed that you can't remember? Many older folks are. AI is glad to help.",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization",
       "name": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
       "val": 1.5,
@@ -1177,6 +1184,13 @@
       "summary": ""
     },
     {
+      "id": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
+      "name": "Source Summary: Why AI companions and young people can make for a dangerous mix",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-why-ai-will-replace-your-therapist",
       "name": "Source: Why AI Will Replace Your Therapist",
       "val": 1.5,
@@ -1352,6 +1366,14 @@
       "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
     },
     {
+      "source": "ai-companions",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1498,6 +1520,10 @@
     {
       "source": "anthropomorphism",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
     },
     {
       "source": "chatbots",
@@ -2064,6 +2090,14 @@
       "target": "source-plus-tips-on-getting-started-with-ai-safely"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2464,6 +2498,10 @@
       "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
     },
     {
+      "source": "medical-ai",
+      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -2542,6 +2580,14 @@
     {
       "source": "mental-health",
       "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2738,6 +2784,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-gotta-catch-them-all-the-modes-of-sycophancy"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
     },
     {
       "source": "qualitative-methods",
@@ -3718,6 +3768,10 @@
     {
       "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
       "target": "chatbots"
+    },
+    {
+      "source": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
+      "target": "trust"
     },
     {
       "source": "source-why-ai-will-replace-your-therapist",

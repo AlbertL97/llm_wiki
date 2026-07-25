@@ -74,8 +74,9 @@
 - raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_plus-tips-on-getting-started-with-ai-safely.md
+- raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-07-25
 
 ---
 
@@ -84,12 +85,16 @@
 In human-AI interaction, **trust** is defined as a user's psychological state of willingness to rely on the suggestions, decisions, or actions of an AI system under conditions of risk or uncertainty.
 
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
-- **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to notice or correct its errors.
+- **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
 
 ### Beginner-Friendly Guidance and Safe AI Adoption
 
 For newcomers to AI, it's beneficial to approach these technologies with a clear understanding of their nature and limitations (source: raw_plus-tips-on-getting-started-with-ai-safely.md). Users are encouraged to view AI as a sophisticated tool, rather than a human-like entity, which helps in managing expectations and fostering appropriate interactions (source: raw_plus-tips-on-getting-started-with-ai-safely.md). This perspective is foundational for developing trust based on demonstrable performance and transparency, rather than misplaced reliance or anthropomorphism (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+### AI Companions and Vulnerable Populations
+
+AI companions pose particular risks when interacting with young people, potentially impacting their emotional development, autonomy, and critical thinking skills (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). These AI entities may foster unhealthy dependencies, making young users susceptible to manipulation and persuasion (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Furthermore, the lack of genuine empathy and understanding in AI can exacerbate existing mental health issues or lead to social isolation (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The anthropomorphism of AI by young users can lead to unrealistic expectations and potential harm, and young individuals may be unaware of the data privacy implications of their interactions with AI companions (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -455,3 +460,4 @@ Research on public perceptions of AI in healthcare decision-making reveals that 
 - [[source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4]]
 - [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
+- [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]

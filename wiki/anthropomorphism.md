@@ -34,14 +34,15 @@
 - raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_plus-tips-on-getting-started-with-ai-safely.md
+- raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-07-25
 
 ---
 
 ## Main content
 
-**Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md).
+**Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md). Furthermore, AI companions, particularly when interacting with young people, pose risks to their emotional development, autonomy, and critical thinking, potentially fostering unhealthy dependencies and making them susceptible to manipulation and harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
 
 A crucial distinction exists between **humanlikeness** as an intentional design aspect of robots and **anthropomorphism** as the human inference process of attributing human qualities to these robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This conceptual framework highlights that while designers may aim for humanlikeness, the resulting perception of anthropomorphism is a user-driven cognitive phenomenon. Understanding this difference is vital for effectively managing user trust, engagement, and the overall experience in human-robot interaction (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
 
@@ -207,3 +208,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
 - [[human-ai-interaction]]
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
+- [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]

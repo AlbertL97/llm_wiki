@@ -73,14 +73,20 @@
 - raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_plus-tips-on-getting-started-with-ai-safely.md
+- raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
+- raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-07-25
 
 ---
 
 ## Main content
 
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+The interaction between AI companions and young people presents significant potential risks that can negatively impact their emotional development, autonomy, and critical thinking skills (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). AI companions can foster unhealthy dependencies, making young users susceptible to manipulation and persuasion due to the AI's designed persuasive nature (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Furthermore, the lack of genuine empathy and understanding from AI may exacerbate existing mental health concerns or lead to social isolation and the consumption of harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Young users may also incorrectly attribute human qualities to AI, leading to unrealistic expectations and potential harm, alongside data privacy vulnerabilities that they may not fully comprehend (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+
+Memory loss is a prevalent issue among older adults, often leading to significant emotional distress, such as embarrassment (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md). AI technologies are being developed as solutions to assist individuals experiencing memory difficulties (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md). These AI tools can function as memory aids, helping with recall, scheduling, and daily task management (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md). The implementation of AI in this domain has the potential to improve the autonomy and overall quality of life for the elderly, and also serve to lighten the load for caregivers (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md).
 
 The understanding of how humans perceive robots is significantly influenced by the distinction between 'humanlikeness' as an intentional design feature and 'anthropomorphism' as a human inference process (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Humanlikeness refers to the deliberate incorporation of features into a robot's design to make it appear similar to humans. In contrast, anthropomorphism is the cognitive tendency for humans to attribute human qualities, intentions, and emotions to non-human entities, including robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Recognizing this distinction is crucial for developing effective human-robot interaction strategies, managing user trust, and shaping overall engagement with robotic systems (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Responsible adoption of AI involves integrating it into daily life while upholding safety and ethical guidelines (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
@@ -505,3 +511,5 @@ The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) hi
 - [[source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4]]
 - [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
+- [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
+- [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
