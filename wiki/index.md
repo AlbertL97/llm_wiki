@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-25
+**Last updated**: 2026-07-26
 
 ## Orientation
 
@@ -30,6 +30,7 @@
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
+- [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-capturing-mental-workload]] — Summary of systematic review on psychophysiological measures (EEG, ECG, EDA, eye-tracking) for mental workload in HRC.
@@ -97,6 +98,7 @@
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 - [[source-sanctuary-ai-phoenix]] — Summary of Sanctuary AI's 7th-gen Phoenix humanoid touch sensors, hand focus, and blind picking capabilities.
 - [[source-scientists-proved-emotions]] — Summary of the AI Nexus video covering functional emotions, Berkeley/UCSC peer preservation, Figure 03, Roadrunner, Agibot, Peking surgery robot, and Bristol artificial muscle.
+- [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]] — Summary of Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims.
 - [[source-sejnowski-consciousness]] — Summary of Terry Sejnowski's Eye on AI interview on Boltzmann machines, cortex-only LLMs, and lack of self-generating activity.
 - [[source-shape-ai-healthcare]] — Summary of medRxiv preprint on the development and validation of the SHAPE-AI clinical survey.
 - [[source-softbank-robotics-home]] — Summary of SoftBank Robotics Home landing page discussing cobotics service integration and employee—customer experience.

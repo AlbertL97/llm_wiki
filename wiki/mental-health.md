@@ -24,14 +24,17 @@
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
 - raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
+- raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
 
-**Last updated**: 2026-07-25
+**Last updated**: 2026-07-26
 
 ---
 
 ## Main content
 
 **Mental Health** applications of artificial intelligence represent one of the fastest-growing sectors of consumer technology. Driven by provider shortages, high costs, and systemic access barriers, millions of individuals use general-purpose generative AI and specialized wellness applications to seek mental health advice, emotional support, and clinical feedback (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These chatbots are increasingly viewed as critical information infrastructures within the healthcare landscape (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Furthermore, specialized AI companions are emerging for specific conditions, such as ManagingLife's "Solace," which offers evidence-based pain psychology support, marking a new frontier in accessible AI-driven interventions for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
+
+A cross-platform analysis of online support systems for victims of technology-facilitated abuse (TFA) revealed significant deficiencies in the current digital ecosystem. General-purpose LLMs and Google Search provided more relevant and actionable guidance compared to peer-support forums, but no platform consistently offered safe and trauma-informed support. Notably, over 65% of search results contained potentially malicious links, more than 20% of Reddit discussions exhibited toxic responses, and conversational AI systems often lacked risk-aware guidance and concrete resources. Domain-specific survivor-support chatbots generally underperformed against general-purpose LLMs, highlighting a pressing need for safety-centered design and rigorous evaluation in this domain (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
 
 Beyond general mental health support, AI is also being developed to address specific age-related challenges, such as memory loss in older adults (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md). These AI systems aim to act as sophisticated memory aids, assisting with information recall, daily scheduling, and cognitive function support. The goal is to enhance the independence, quality of life, and emotional well-being of the elderly, while also reducing the burden on their caregivers (source: raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md).
 
@@ -166,3 +169,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]]
 - [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
+- [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]

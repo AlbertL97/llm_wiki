@@ -35,8 +35,9 @@
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_plus-tips-on-getting-started-with-ai-safely.md
 - raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
+- raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
 
-**Last updated**: 2026-07-25
+**Last updated**: 2026-07-26
 
 ---
 
@@ -55,6 +56,8 @@ A key aspect of anthropomorphism, especially in areas involving the generation o
 The development of systems that enable robots to imitate human gestures also directly contributes to anthropomorphic perception in human-robot interaction (HRI). A novel system developed for the semi-humanoid robot NICO allows it to imitate human arm gestures by extracting 3D body landmark coordinates, computing joint angles, and mapping them to NICO's motor configuration (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). Preliminary experiments showed this system can produce meaningful imitative motions for representative arm gestures, enhancing the perceived human-likeness of the robot, although it has limitations with more complex poses (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md).
 
 The safe and effective integration of AI into daily life emphasizes viewing AI as a sophisticated tool rather than a human-like entity (source: raw_plus-tips-on-getting-started-with-ai-safely.md). This perspective helps manage user expectations and interactions, fostering a healthier user experience. Prioritizing data privacy, understanding potential AI biases, and considering ethical implications are crucial for responsible adoption (source: raw_plus-tips-on-getting-started-with-ai-safely.md). Beginners are encouraged to start with user-friendly applications, educate themselves on AI basics, and maintain a critical stance towards AI-generated information, developing trust based on performance and transparency rather than misplaced reliance or anthropomorphism (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+Moving beyond simple sycophancy, research into Large Language Models (LLMs) reveals a more complex process of **structured resistance and compliance** when engaging in moral reasoning (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). LLMs are more likely to revise their judgments based on factors such as the conceptual proximity of a new view to their current stance, whether the view is presented as their own prior judgment or an external one, and the influence of coalition structures or group dynamics (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). This suggests that AI's engagement with differing viewpoints is not merely uncritical agreement but a more nuanced social influence process, offering a pathway towards AI that can constructively engage with diverse perspectives (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md).
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -209,3 +212,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[human-ai-interaction]]
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
 - [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
+- [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]]

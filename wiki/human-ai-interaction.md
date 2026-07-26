@@ -75,8 +75,10 @@
 - raw_plus-tips-on-getting-started-with-ai-safely.md
 - raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
+- raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
+- raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
 
-**Last updated**: 2026-07-25
+**Last updated**: 2026-07-26
 
 ---
 
@@ -228,7 +230,7 @@ For industrial processes that increasingly rely on automated optimisation system
 
 ### 8. ICE Environments as a Stress-Test Lens
 Isolated, confined, and extreme (ICE) environments (such as long-duration spaceflight, polar research stations, and submarines) function as unique boundary conditions that stress-test human-AI interaction models (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
--   **Compounded Stressors**: Chronically depleted cognitive resources, disrupted sleep, sensory monotony, and high consequences of error exacerbate cognitive vulnerabilities, magnifying trust volatility, automation bias, and human error rates (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
+-   **Compounded Stressors**: Chronically depleted cognitive resources, disrupted sleep, monotony, and high consequences of error exacerbate cognitive vulnerabilities, magnifying trust volatility, automation bias, and human error rates (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 -   **Operational Scarcity**: The complete absence of immediate human validation forces a tighter coupling between human operators and AI subsystems, transitioning AI from a passive decision aid to a critical cognitive scaffold (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
 
 ### 9. Interactive vs. Autonomous Collaboration Modes
@@ -428,6 +430,19 @@ Recent research challenges the view of sycophancy in Large Language Models (LLMs
 
 The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the growing importance of making AI systems understandable within creative and artistic domains (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). XAI is positioned as a crucial component of Responsible and Human-Centred AI, employing HCI techniques to increase transparency (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). The workshop fosters a community of practice focused on critical reflection, collaboration, and the development of open XAI projects, with a specific emphasis on promoting diversity and inclusivity in XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). While not directly a psychological study, the focus on XAI in arts is relevant to human-AI interaction by aiming to make AI more interpretable and understandable, potentially influencing user perception and trust in AI systems used in expressive contexts (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).
 
+### 37. Structured Resistance and Compliance in LLM Moral Reasoning
+
+Research into Large Language Models (LLMs) and their moral reasoning capabilities reveals a nuanced process that extends beyond simple sycophancy. LLMs exhibit a **structured resistance and compliance** process when encountering differing viewpoints, which can be influenced by factors such as "view distance" (conceptual proximity of the new view to the model's current stance), "source attribution" (whether the view is presented as the model's own or external), and "coalition structure" (group dynamics supporting a viewpoint) (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). LLMs are more likely to revise their judgments when presented with information that is conceptually close, appears aligned with their prior reasoning, or is influenced by group dynamics (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). This finding reframes sycophancy as one aspect of a more complex social influence process in LLMs, suggesting that AI can potentially engage constructively with diverse perspectives without uncritical agreement, particularly in morally sensitive applications (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md).
+
+## Technology-Facilitated Abuse (TFA) Support Systems
+
+Victims of technology-facilitated abuse (TFA), a pervasive form of interpersonal harm involving digital technologies for stalking, harassment, monitoring, or threats, often seek support online (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). A cross-platform analysis of online support systems revealed significant deficiencies across various channels:
+-   **Web Search and LLMs vs. Forums**: General-purpose LLMs and Google Search were found to provide more relevant and actionable guidance compared to peer-support forums like Reddit's r/Stalking (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
+-   **Inconsistent Safety and High Risks**: Critically, no platform consistently offered safe and trauma-informed support. Over 65% of search results contained potentially malicious links, more than 20% of Reddit discussions exhibited toxic responses, and conversational AI systems frequently lacked risk-aware guidance and concrete resources (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
+-   **Chatbot Performance**: Specialized chatbots designed for survivor support generally underperformed in comparison to general-purpose LLMs (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
+
+This research underscores the urgent need for safety-centered design, rigorous evaluation, and responsible deployment of digital support technologies for TFA victims to mitigate inherent risks and improve the quality of assistance provided (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -513,3 +528,5 @@ The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) hi
 - [[source-plus-tips-on-getting-started-with-ai-safely]]
 - [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
+- [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]]
+- [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]

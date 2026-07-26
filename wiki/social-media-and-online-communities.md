@@ -8,8 +8,9 @@
 - Artificial Intelligence and the Psychology of Human Connection.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 - raw_using-ai-based-learning-assistants-in-higher-education.md
+- raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-26
 
 ---
 
@@ -26,6 +27,7 @@ Online platforms (e.g., Reddit, Discord, Twitter) are rich data sources for stud
 - **AI-Mediated Communication**: Social media platforms and messaging apps increasingly integrate AI in a **relational mediator** role, analyzing text and offering behind-the-scenes reframing, polite auto-replies, or tone softening (source: Artificial Intelligence and the Psychology of Human Connection.md). While this mediation can enhance communication confidence and effectiveness, it introduces complex questions about authenticity, sender agency, and the calibration of interpersonal trust between human partners.
 - **Mitigating Partisan Animosity**: AI chatbots show promise in reducing cross-partisan animosity by facilitating brief, synthetic interactions. Participants are more willing to engage with AI representing an opposing political group than a human outgroup member, correcting misperceptions about outgroup attitudes and fostering greater warmth (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). This synthetic contact also influences behavior, making individuals more likely to seek real-world cross-partisan conversations, with effects persisting longer among more extreme partisans (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md). The primary driver of these positive effects appears to be the informational content exchanged during the conversation, rather than mere social interaction (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
 - **Educational AI Adoption**: AI-based learning assistants are being adopted by a significant number of students in higher education, as demonstrated by large-scale descriptive analysis of usage patterns (source: raw_using-ai-based-learning-assistants-in-higher-education.md). However, usage varies considerably based on demographic factors such as gender and age, as well as study-related contexts like degree programs and study modes (source: raw_using-ai-based-learning-assistants-in-higher-education.md). This empirical data on actual student behavior is crucial for informing the future development and implementation of AI learning support tools (source: raw_using-ai-based-learning-assistants-in-higher-education.md).
+- **Support for Victims of Technology-Facilitated Abuse**: Online support systems, including web searches, peer-support forums (e.g., Reddit), and conversational AI, are often the first recourse for victims of technology-facilitated abuse (TFA). However, a cross-platform analysis revealed significant deficiencies across these channels. General-purpose LLMs and Google Search provided more relevant and actionable guidance than peer-support forums (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). Crucially, no evaluated platform consistently offered safe and trauma-informed support (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). Over 65% of search results contained potentially malicious links, more than 20% of Reddit discussions exhibited toxic responses, and conversational AI systems frequently lacked risk-aware guidance and concrete resources (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). Domain-specific survivor-support chatbots generally underperformed against general-purpose LLMs (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). This highlights a pressing need for safety-centered design and rigorous evaluation in technologies intended to support vulnerable individuals (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
 
 ### 2. Agent-Populated Communities
 With the advent of platforms like Moltbook, online communities are no longer exclusive to humans (source: the front page of the agent internet.md). Autonomous AI agents form their own online ecosystems characterized by:
@@ -45,3 +47,7 @@ With the advent of platforms like Moltbook, online communities are no longer exc
 - [[human-ai-interaction]]
 - [[mind-perception]]
 - [[source-using-ai-based-learning-assistants-in-higher-education]]
+- [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]
+- [[mental-health]]
+- [[trust]]
+- [[measurement-tools]]

@@ -1766,3 +1766,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-26 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
+- raw/raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
+- wiki/human-ai-interaction.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/chatbots.md
+- wiki/source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
+- wiki/mental-health.md
+- wiki/social-media-and-online-communities.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning" and created summary page wiki/source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md.
+- Ingested "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims" and created summary page wiki/source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

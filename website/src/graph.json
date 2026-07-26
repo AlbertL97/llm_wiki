@@ -351,6 +351,13 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
+      "name": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-usability-withdrawal-design",
       "name": "Source Summary: Beyond Usability: Withdrawal Design in Social Robotics",
       "val": 1.5,
@@ -960,6 +967,13 @@
       "summary": ""
     },
     {
+      "id": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
+      "name": "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-sejnowski-consciousness",
       "name": "Source: Is ChatGPT Conscious? A Pioneer of AI Explains | Dr. Terry Sejnowski",
       "val": 1.5,
@@ -1526,6 +1540,10 @@
       "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1732,6 +1750,14 @@
     {
       "source": "chatbots",
       "target": "source-gotta-catch-them-all-the-modes-of-sycophancy"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
     },
     {
       "source": "explainability",
@@ -2098,6 +2124,14 @@
       "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2414,6 +2448,26 @@
       "target": "source-gotta-catch-them-all-the-modes-of-sycophancy"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "mental-health"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "measurement-tools"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2588,6 +2642,10 @@
     {
       "source": "mental-health",
       "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -2790,6 +2848,14 @@
       "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2852,6 +2918,18 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-using-ai-based-learning-assistants-in-higher-education"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "mental-health"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "trust"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -3064,6 +3142,10 @@
     {
       "source": "source-bees-chatgpt-consciousness",
       "target": "source-unfinishable-map"
+    },
+    {
+      "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
+      "target": "trust"
     },
     {
       "source": "source-beyond-usability-withdrawal-design",
@@ -3556,6 +3638,10 @@
     {
       "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
+      "target": "trust"
     },
     {
       "source": "source-sejnowski-consciousness",
