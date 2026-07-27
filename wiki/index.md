@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-26
+**Last updated**: 2026-07-27
 
 ## Orientation
 
@@ -55,6 +55,7 @@
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]] — Summary of Embarrassed that you can't remember? Many older folks are. AI is glad to help..
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
+- [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
@@ -119,6 +120,7 @@
 - [[source-trust-hospital-follow-up-scale]] — Summary of clinical validation of the 3-factor trust scale for AI-based hospital follow-up systems.
 - [[source-trust-layers-state-anxiety]] — Summary of laboratory experiment on the three trust layers (dispositional, initial learned, dynamic learned) in HRI and state anxiety mediation.
 - [[source-trust-psychology-reliance]] — Summary of the Verena Seibert-Giller article discussing why reframing trust as reliance is critical for AI UX.
+- [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
 - [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.

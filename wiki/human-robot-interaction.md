@@ -32,8 +32,9 @@
 - raw_handroid-bridging-dexterous-hand-and-humanoid.md
 - raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
+- raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-07-27
 
 ---
 
@@ -56,6 +57,8 @@ Recent research in AI-driven motion generation for embodied agents is also contr
 A novel system has been developed to enable the semi-humanoid robot NICO to imitate human arm gestures, aiming to enhance human-robot interaction (HRI) (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). This system uses analytical geometry and a pre-trained MediaPipe pose-estimation model to process monocular RGB input, extracting 3D body landmark coordinates and computing joint angles. These angles are then mapped to NICO's motor configuration for motion execution (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). Preliminary experiments have shown that the system can produce meaningful imitative motions for representative arm gestures, although limitations were identified in imitating more complex poses and specific wrist-related movements (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md).
 
 A conceptual framework has been proposed that distinguishes 'humanlikeness' as an intentional aspect of robot design from 'anthropomorphism' as the human tendency to attribute human qualities to non-human entities (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This separation between the designer's intent for human-like features and the user's inferential process is considered crucial for effectively understanding and improving human-robot interaction, guiding strategies for robot design and user studies (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
+
+In high-stakes domains like Air Traffic Control (ATC), building user trust in AI systems is paramount, and this trust is intrinsically linked to the explainability of AI. Research in this area demonstrates the potential of Reinforcement Learning (RL) for assisting air traffic controllers with critical decision-making, such as planning alternative flight routes to avoid restricted airspace (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). Employing saliency maps as an initial step in explainability provides visibility into the input features that most significantly influence an RL agent's decisions, thereby offering initial insights into its reasoning (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). This approach contributes to developing more transparent and trustworthy AI systems for critical infrastructure, aiming to foster greater acceptance and effective collaboration between humans and AI (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -198,3 +201,4 @@ Novel approaches to human-robot interaction are exploring how robots can physica
 - [[source-handroid-bridging-dexterous-hand-and-humanoid]]
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]]
 - [[source-humanlikeness-as-design-anthropomorphism-as-inference]]
+- [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]]

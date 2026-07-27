@@ -77,8 +77,10 @@
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
 - raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
 - raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
+- raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md
+- raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md
 
-**Last updated**: 2026-07-26
+**Last updated**: 2026-07-27
 
 ---
 
@@ -443,6 +445,13 @@ Victims of technology-facilitated abuse (TFA), a pervasive form of interpersonal
 
 This research underscores the urgent need for safety-centered design, rigorous evaluation, and responsible deployment of digital support technologies for TFA victims to mitigate inherent risks and improve the quality of assistance provided (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
 
+## Reinforcement Learning and Explainability in Critical Systems
+The integration of AI into high-stakes domains such as air traffic control (ATC) is crucial for advancing automation and fostering seamless human-AI collaboration. A fundamental prerequisite for this integration is the establishment of trust in AI-driven solutions, which is intrinsically linked to the explainability of AI systems (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). Research in this area explores the application of explainability techniques to Reinforcement Learning (RL) algorithms within safety-critical contexts. For instance, a simplified ATC environment has been used as a testbed to train an RL agent for making decisions about alternative flight routes to avoid restricted airspace (no-fly zones) (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). As an initial step towards explainability, saliency maps are employed to provide visibility into which input features most significantly influence the RL agent's decision-making process, offering insights into its reasoning (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). Key findings emphasize that trust and explainability are intertwined, and that RL holds potential for assisting air traffic controllers by informing route planning decisions (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). The use of saliency maps enhances understanding of the factors driving an RL agent's choices in complex environments, contributing to the development of more transparent and trustworthy AI systems for critical infrastructure (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).
+
+## Interactive Model Bending and Practice-Based Explainability
+
+Traditional approaches to explainable AI (XAI) often treat large AI models, such as text-to-image diffusion systems, as opaque black boxes. However, research suggests that even these complex models can be understood and utilized more effectively by artists when their internal structures are made visible and manipulable (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). The concept of **model bending** allows users to intervene in specific components of a diffusion model. This is facilitated by interactive interfaces, such as those integrated into ComfyUI's node-based workflow, which enable direct manipulation of model layers and intervention controls (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). Through these methods, artists can gain practical, layer-level intuition about how different parts of the model contribute to image generation. Manipulating specific components has been shown to produce consistent families of visual effects, fostering a deeper, more intuitive understanding of AI systems and empowering users with greater control over AI outputs (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). This practice-based approach to explainability can lead to more collaborative and empowering human-AI interactions, potentially increasing trust and adoption (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -530,3 +539,5 @@ This research underscores the urgent need for safety-centered design, rigorous e
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]]
 - [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]
+- [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]]
+- [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]]

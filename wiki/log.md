@@ -1795,3 +1795,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-27 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md
+- raw/raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/human-robot-interaction.md
+- wiki/source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Explainable Reinforcement Learning for assisting Air Traffic Controllers" and created summary page wiki/source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md.
+- Ingested "Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability" and created summary page wiki/source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
