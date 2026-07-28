@@ -554,6 +554,13 @@
       "summary": ""
     },
     {
+      "id": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
+      "name": "Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
       "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
       "val": 1.5,
@@ -1016,6 +1023,13 @@
       "summary": ""
     },
     {
+      "id": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
+      "name": "Teacher Knows It Best: Spontaneous Symmetry Breaking and Tipping Points in Networked Langevin Dynamics AI Sycophancy",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence",
       "name": "The complexities of patient-centred conversational artificial intelligence",
       "val": 1.5,
@@ -1271,7 +1285,31 @@
     },
     {
       "source": "agentic-social-networks",
+      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
+      "source": "agentic-social-networks",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "trust"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "chatbots"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "mental-health"
     },
     {
       "source": "ai-companions",
@@ -2162,6 +2200,14 @@
       "target": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2890,6 +2936,10 @@
       "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -2964,6 +3014,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "trust"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -3328,6 +3382,14 @@
     {
       "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
       "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
+      "target": "explainability"
+    },
+    {
+      "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
+      "target": "trust"
     },
     {
       "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
@@ -3724,6 +3786,18 @@
     {
       "source": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
+      "target": "trust"
+    },
+    {
+      "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
+      "target": "mental-health"
     },
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",

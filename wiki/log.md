@@ -1820,3 +1820,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-28 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md
+- raw/raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
+- wiki/agentic-social-networks.md
+- wiki/persuasion-and-influence.md
+- wiki/social-media-and-online-communities.md
+
+**Summary of changes**:  
+- Ingested "Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review" and created summary page wiki/source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md.
+- Ingested "Teacher Knows It Best: Spontaneous Symmetry Breaking and Tipping Points in Networked Langevin Dynamics AI Sycophancy" and created summary page wiki/source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
