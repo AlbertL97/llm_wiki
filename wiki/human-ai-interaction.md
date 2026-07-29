@@ -81,8 +81,10 @@
 - raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md
 - raw_evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md
 - raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
+- raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md
+- raw_image-quality-dependent-degradation-for-ai-systems.md
 
-**Last updated**: 2026-07-28
+**Last updated**: 2026-07-29
 
 ---
 
@@ -462,6 +464,14 @@ The development and adoption of AI-assisted code review tools, often powered by 
 
 A new framework using networked Langevin dynamics models AI sycophancy as a phenomenon that can lead to societal "delusional spiraling" (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This model captures bistable systems driven by noise and social conformity, identifying critical tipping points where belief formation can undergo phase transitions. Research proposes an intervention strategy using "Teachers" – a minority of "aware" nodes strategically placed at critical network hubs – to disrupt or reverse these AI-driven reinforcement processes (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). Analytical solutions and an optimization framework suggest that concentrated, rapid interventions targeting influential network hubs are more effective than distributed, slow interventions for mitigating negative AI-driven societal effects, especially under budget constraints (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This work highlights the potential for AI to both amplify and counteract harmful social dynamics, underscoring the importance of understanding these complex network effects in human-AI interaction.
 
+### The Model in the Middle: Toward AI-Native Real-Time Communication
+
+The approach to human-AI interaction is evolving from discrete, turn-based exchanges to continuous, real-time, multimodal conversations (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). This paradigm shift is enabled by an "AI-native real-time communication stack," where the AI model functions as a stateful computational middlebox within a human-centered feedback loop (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). This architecture supports concurrent speaking, listening, and reasoning, aiming to facilitate more fluid and natural human-AI exchanges (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). A key focus is on joint control, where the states of various communication stages (network, model serving, playback) are coordinated to optimize the overall experience, leading to improved response latency and playback adherence, especially under challenging network conditions (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). The paper advocates for the widespread adoption of such AI-native stacks to holistically manage communication, computation, and playback (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md).
+
+## Image Quality Dependent Degradation for AI Systems
+
+The reliability of AI systems, particularly in critical perception tasks such as automated driving, can be significantly compromised by degraded input data (source: raw_image-quality-dependent-degradation-for-ai-systems.md). To address this, a "fail-degraded" strategy is proposed, where the AI dynamically adjusts its confidence threshold based on the estimated quality of incoming images (source: raw_image-quality-dependent-degradation-for-ai-systems.md). In scenarios with poor image quality (e.g., due to noise or darkness), the AI lowers its confidence threshold, leading to more cautious operation and prioritizing the avoidance of critical errors, such as failing to detect a pedestrian (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Image quality is estimated using a novel method employing normalizing flows to compare input images against the distribution of the training dataset (source: raw_image-quality-dependent-degradation-for-ai-systems.md). This approach aims to enhance user trust in AI by allowing systems to function more reliably under adverse input conditions without requiring complete fallback mechanisms (source: raw_image-quality-dependent-degradation-for-ai-systems.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -553,3 +563,5 @@ A new framework using networked Langevin dynamics models AI sycophancy as a phen
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]]
 - [[source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review]]
 - [[source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy]]
+- [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]]
+- [[source-image-quality-dependent-degradation-for-ai-systems]]

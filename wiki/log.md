@@ -1845,3 +1845,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-29 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md
+- raw/raw_image-quality-dependent-degradation-for-ai-systems.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-model-in-the-middle-toward-ai-native-real-time-communication.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/human-robot-interaction.md
+- wiki/source-image-quality-dependent-degradation-for-ai-systems.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The Model in the Middle: Toward AI-Native Real-Time Communication" and created summary page wiki/source-the-model-in-the-middle-toward-ai-native-real-time-communication.md.
+- Ingested "Image Quality Dependent Degradation for AI Systems" and created summary page wiki/source-image-quality-dependent-degradation-for-ai-systems.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
