@@ -83,8 +83,10 @@
 - raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
 - raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md
 - raw_image-quality-dependent-degradation-for-ai-systems.md
+- raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
+- raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ---
 
@@ -472,6 +474,21 @@ The approach to human-AI interaction is evolving from discrete, turn-based excha
 
 The reliability of AI systems, particularly in critical perception tasks such as automated driving, can be significantly compromised by degraded input data (source: raw_image-quality-dependent-degradation-for-ai-systems.md). To address this, a "fail-degraded" strategy is proposed, where the AI dynamically adjusts its confidence threshold based on the estimated quality of incoming images (source: raw_image-quality-dependent-degradation-for-ai-systems.md). In scenarios with poor image quality (e.g., due to noise or darkness), the AI lowers its confidence threshold, leading to more cautious operation and prioritizing the avoidance of critical errors, such as failing to detect a pedestrian (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Image quality is estimated using a novel method employing normalizing flows to compare input images against the distribution of the training dataset (source: raw_image-quality-dependent-degradation-for-ai-systems.md). This approach aims to enhance user trust in AI by allowing systems to function more reliably under adverse input conditions without requiring complete fallback mechanisms (source: raw_image-quality-dependent-degradation-for-ai-systems.md).
 
+## Debugging Unfamiliar Codebases with LLM-Generated Code Tours
+
+When developers encounter unfamiliar codebases, debugging can be a significant challenge. Large Language Models (LLMs) are being used to generate code tours—step-by-step explanations of code—to aid this process (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Developers have preferences for these AI-generated tours, favoring those that dynamically adjust detail based on code length, avoid redundancy, are easily scannable, and adopt a guiding tone (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). However, their trust calibration is complex; they tend to trust descriptions perceived as human-written more than those identified as AI-generated (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Furthermore, traditional debugging tools like stack traces are not always sufficient for developers to identify all relevant steps in complex code navigation (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Critically, LLMs used to evaluate the quality of these generated tours have shown unreliability, exhibiting issues like sycophancy, confabulation, and incoherence (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). These findings highlight the need for improved LLM fine-tuning for code tour generation, personalized AI outputs, better step selection beyond basic diagnostics, and robust methods for calibrating human trust in AI systems (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md).
+
+### Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking
+
+Current AI tools often overlook the fundamental role of affect in shaping cognitive processes. Affect is not merely a factor influencing the speed of thought but actively reshapes its entire trajectory (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Two significant barriers hinder the development of AI that can truly support human thinking: the absence of **Shared Attention**, where AI demonstrates a directed care for the user's engagement, and **Affective Reorienting**, AI's ability to leverage emotional moments to pivot or deepen thought processes (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+
+To address these limitations, several design strategies are proposed:
+*   **Chain of Emotion X Chain of Thought**: This approach aims to integrate emotional states directly into the AI's reasoning processes, allowing affect to inform and shape cognitive pathways (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+*   **Affective Mirror**: An AI system employing this strategy would reflect and acknowledge the user's affective states, thereby building rapport and fostering a deeper sense of understanding and connection (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+*   **Prompted Reorienting**: This strategy enables the AI to utilize affective cues from the user to guide them towards novel cognitive paths or alternative perspectives (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+
+These ideas are grounded in empirical findings from a study involving a touch-aware conversational agent used in embodied craft learning, offering practical insights into how AI can move beyond purely cognitive support to embrace the affective dimension of human thinking (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -565,3 +582,5 @@ The reliability of AI systems, particularly in critical perception tasks such as
 - [[source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy]]
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]]
 - [[source-image-quality-dependent-degradation-for-ai-systems]]
+- [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]]
+- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]

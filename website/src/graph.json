@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md)."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md)."
     },
     {
       "id": "index",
@@ -174,6 +174,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Proposing a trust-based framework for human-robot collaboration that evaluates robot performance via a visual language model and generates optimal strategies using decision trees to maximize HRC efficiency."
+    },
+    {
+      "id": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
+      "name": "Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-agency-continuum",
@@ -668,6 +675,13 @@
     {
       "id": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
       "name": "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
+      "name": "Source Summary: How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1454,6 +1468,10 @@
       "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
     },
     {
+      "source": "ai-companions",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1608,6 +1626,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
     },
     {
       "source": "chatbots",
@@ -1828,6 +1850,10 @@
     {
       "source": "chatbots",
       "target": "source-the-model-in-the-middle-toward-ai-native-real-time-communication"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
     },
     {
       "source": "explainability",
@@ -2234,6 +2260,14 @@
       "target": "source-image-quality-dependent-degradation-for-ai-systems"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2388,6 +2422,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-image-quality-dependent-degradation-for-ai-systems"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
     },
     {
       "source": "introspective-awareness",
@@ -2762,6 +2800,10 @@
       "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
     },
     {
+      "source": "mental-health",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -3010,6 +3052,14 @@
       "target": "explainability"
     },
     {
+      "source": "qualitative-methods",
+      "target": "trust"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -3084,6 +3134,10 @@
     {
       "source": "source-active-interaction-strategy",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
+      "target": "trust"
     },
     {
       "source": "source-agency-continuum",
@@ -3516,6 +3570,14 @@
     {
       "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
       "target": "trust"
+    },
+    {
+      "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
+      "target": "trust"
+    },
+    {
+      "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
+      "target": "explainability"
     },
     {
       "source": "source-hri-trust-concepts",

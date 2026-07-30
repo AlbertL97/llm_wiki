@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ## Orientation
 
@@ -13,6 +13,7 @@
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of Humans and AI track accepted papers at AAAI 2026, covering adaptive ensembles and teaming cooperation.
+- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
 - [[source-active-interaction-strategy]] — Summary of study proposing a dynamic trust-based active strategy generation framework for HRC using VLMs.
 - [[source-already-conscious]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
@@ -71,6 +72,7 @@
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
+- [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.

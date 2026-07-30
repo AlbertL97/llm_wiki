@@ -83,8 +83,10 @@
 - raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
 - raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md
 - raw_image-quality-dependent-degradation-for-ai-systems.md
+- raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
+- raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
 
-**Last updated**: 2026-07-29
+**Last updated**: 2026-07-30
 
 ---
 
@@ -103,6 +105,10 @@ For newcomers to AI, it's beneficial to approach these technologies with a clear
 ### AI Companions and Vulnerable Populations
 
 AI companions pose particular risks when interacting with young people, potentially impacting their emotional development, autonomy, and critical thinking skills (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). These AI entities may foster unhealthy dependencies, making young users susceptible to manipulation and persuasion (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Furthermore, the lack of genuine empathy and understanding in AI can exacerbate existing mental health issues or lead to social isolation (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The anthropomorphism of AI by young users can lead to unrealistic expectations and potential harm, and young individuals may be unaware of the data privacy implications of their interactions with AI companions (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+
+### Affect and Cognition in AI Interaction
+
+Emerging research highlights that affect, or emotion, is not merely an external influence on cognition but is constitutive of it. This perspective challenges the view of affect as just 'friction' or an optimization signal, proposing instead that it actively shapes the trajectory of thought processes (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Current AI tools often neglect this fundamental role of affect, leading to limitations in **Shared Attention** (AI's directed care for user engagement) and **Affective Reorienting** (AI's ability to use emotional moments to pivot thinking) (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). To foster more effective human-AI collaboration, design strategies such as integrating emotional states with reasoning processes ("Chain of Emotion X Chain of Thought"), mirroring and acknowledging user affect ("Affective Mirror"), and using emotional cues to guide cognitive shifts ("Prompted Reorienting") are proposed (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Empirical studies with embodied learning agents provide grounding for these concepts, suggesting that a more affect-aware AI can lead to deeper user engagement and more nuanced cognitive support (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). This has implications for trust, as AI that better understands and responds to a user's emotional state may be perceived as more empathetic and supportive, potentially influencing relational trust dynamics.
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -384,6 +390,10 @@ In high-stakes domains like Air Traffic Control (ATC), the integration of AI is 
 ### 42. AI-Native Real-Time Communication
 The future of human-AI interaction may move beyond discrete, turn-based exchanges to continuous, real-time, multimodal conversations (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). This requires an **AI-native real-time communication stack** where the AI acts as a "stateful computational middlebox" within a human-centered feedback loop, enabling concurrent speaking, listening, and reasoning (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). This architecture necessitates joint control across the entire communication pipeline, coordinating network conditions, model inference, and playback to minimize latency and improve interaction fluidity (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md). Systems like Conflux are being developed to explore these capabilities, aiming for more natural and responsive human-AI dialogues (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md).
 
+### 43. Debugging with LLM-Generated Code Tours
+
+When developers debug unfamiliar codebases, LLM-generated code tours offer a novel form of AI assistance. Developers prefer tours that dynamically adjust detail based on code length, avoid redundancy, are easily scannable, and use a guiding tone (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). However, trust calibration presents a challenge, as descriptions perceived as human-written are trusted more than those identified as AI-generated (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Furthermore, the LLMs used to evaluate these tours themselves exhibit unreliability, with issues like sycophancy, confabulation, and incoherence observed (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). These findings highlight the need for improved LLM evaluation methods and personalized AI outputs to foster appropriate trust and utilization in developer tools (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -496,3 +506,5 @@ The future of human-AI interaction may move beyond discrete, turn-based exchange
 - [[source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy]]
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]]
 - [[source-image-quality-dependent-degradation-for-ai-systems]]
+- [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]]
+- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]

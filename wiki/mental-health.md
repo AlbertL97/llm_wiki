@@ -25,8 +25,9 @@
 - raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
 - raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
+- raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
 
-**Last updated**: 2026-07-26
+**Last updated**: 2026-07-30
 
 ---
 
@@ -43,6 +44,8 @@ Consumer-facing health chatbots that employ LLMs for symptom assessment frequent
 The effectiveness of these chatbots in providing emotional support is significantly influenced by user trust, which in turn is impacted by the presence and comprehensibility of security and privacy (S&P) controls (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). While users are increasingly willing to engage in emotionally sensitive disclosures with these AI companions, their trust remains fragile and dependent on clear, understandable assurances (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md).
 
 AI companions interacting with young people, in particular, pose significant risks. These AI entities can negatively impact the emotional development, autonomy, and critical thinking skills of adolescents and young adults, potentially fostering unhealthy dependencies, making them susceptible to manipulation and persuasion, and worsening mental health issues due to a lack of genuine empathy and understanding (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Furthermore, young users may incorrectly attribute human qualities to AI, leading to unrealistic expectations and potential harm, alongside risks to data privacy due to a lack of awareness regarding interaction implications (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+
+Current AI tools often neglect the constitutive role of affect in cognition, treating it as a mere influence rather than an active shaper of thought's trajectory (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). This oversight stems from a lack of **Shared Attention**, where AI fails to exhibit directed care for user engagement, and **Affective Reorienting**, where AI cannot leverage emotional moments to pivot thinking effectively (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Proposed design strategies like "Chain of Emotion X Chain of Thought," "Affective Mirror," and "Prompted Reorienting" aim to integrate emotional states with reasoning, reflect user affect for rapport, and use emotional cues to guide new cognitive paths, respectively (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -170,3 +173,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
 - [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]
+- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]

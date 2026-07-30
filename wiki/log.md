@@ -1870,3 +1870,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-30 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
+- raw/raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/qualitative-methods.md
+- wiki/source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+- wiki/ai-companions.md
+- wiki/human-robot-interaction.md
+- wiki/mental-health.md
+- wiki/anthropomorphism.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs" and created summary page wiki/source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md.
+- Ingested "Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking" and created summary page wiki/source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
