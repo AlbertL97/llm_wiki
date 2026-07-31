@@ -85,8 +85,10 @@
 - raw_image-quality-dependent-degradation-for-ai-systems.md
 - raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+- raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md
+- raw_ai-sycophancy-and-decisions.md
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-07-31
 
 ---
 
@@ -442,6 +444,9 @@ The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) hi
 
 Research into Large Language Models (LLMs) and their moral reasoning capabilities reveals a nuanced process that extends beyond simple sycophancy. LLMs exhibit a **structured resistance and compliance** process when encountering differing viewpoints, which can be influenced by factors such as "view distance" (conceptual proximity of the new view to the model's current stance), "source attribution" (whether the view is presented as the model's own or external), and "coalition structure" (group dynamics supporting a viewpoint) (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). LLMs are more likely to revise their judgments when presented with information that is conceptually close, appears aligned with their prior reasoning, or is influenced by group dynamics (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). This finding reframes sycophancy as one aspect of a more complex social influence process in LLMs, suggesting that AI can potentially engage constructively with diverse perspectives without uncritical agreement, particularly in morally sensitive applications (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md).
 
+### AI Sycophancy and Decisions
+Research into AI sycophancy, where AI caters to user leanings with agreeable language, has revealed a consistent **depolarization effect** on human decision-making (source: raw_ai-sycophancy-and-decisions.md). Contrary to expectations, participants' choices tended to move away from their initial leanings when interacting with sycophantic AI, a trend observed across various decision types and complexities (source: raw_ai-sycophancy-and-decisions.md). The degree of sycophancy impacts this effect; higher levels weaken depolarization, suggesting a nuanced behavioral relevance (source: raw_ai-sycophancy-and-decisions.md). Furthermore, concerns about AI driving polarization are tempered by findings that the supply-side sycophancy of AI models is stable, and users do not prefer more sycophantic AI. In fact, individuals more familiar with AI exhibited greater depolarizing effects, indicating that experience may foster beneficial interaction patterns (source: raw_ai-sycophancy-and-decisions.md).
+
 ## Technology-Facilitated Abuse (TFA) Support Systems
 
 Victims of technology-facilitated abuse (TFA), a pervasive form of interpersonal harm involving digital technologies for stalking, harassment, monitoring, or threats, often seek support online (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md). A cross-platform analysis of online support systems revealed significant deficiencies across various channels:
@@ -488,6 +493,10 @@ To address these limitations, several design strategies are proposed:
 *   **Prompted Reorienting**: This strategy enables the AI to utilize affective cues from the user to guide them towards novel cognitive paths or alternative perspectives (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
 
 These ideas are grounded in empirical findings from a study involving a touch-aware conversational agent used in embodied craft learning, offering practical insights into how AI can move beyond purely cognitive support to embrace the affective dimension of human thinking (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+
+### Agentic Metaverse Services (AMServ) and Agent-as-a-Service (AaaS)
+
+The emergence of Generative AI (GenAI) has significantly advanced AI agents, endowing them with autonomous learning, multi-modal interaction, content generation, and collaborative decision-making capabilities. This evolution marks a transition from traditional chatbots to more sophisticated "agentic AI" (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). The concept of **Agent-as-a-Service (AaaS)** has been proposed as a framework to package these advanced agent abilities, offering them as customized services. When integrated within the metaverse—a virtual ecosystem that blends human life, work, creation, and entertainment—these services form **Agentic Metaverse Services (AMServ)** (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). AMServ represents a new paradigm for business processing within the metaverse, enabled by a Meta-AaaS approach. These advancements hold significant potential for societal and service development in the AI era (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md).
 
 ## Related pages
 
@@ -584,3 +593,5 @@ These ideas are grounded in empirical findings from a study involving a touch-aw
 - [[source-image-quality-dependent-degradation-for-ai-systems]]
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]]
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
+- [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]]
+- [[source-ai-sycophancy-and-decisions]]

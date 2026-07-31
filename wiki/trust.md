@@ -85,8 +85,9 @@
 - raw_image-quality-dependent-degradation-for-ai-systems.md
 - raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+- raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-07-31
 
 ---
 
@@ -168,6 +169,10 @@ Preventing sycophancy and stabilizing personas (anchoring) are critical design i
 - Beyond these established issues, AI experts are signaling **emergent risks** and potentially unforeseen challenges with LLMs, including sophisticated misinformation generation, subtle manipulation, or unexpected emergent behaviors (source: raw_ai-experts-warning-dangerous-llm-problem.md). These new problems are crucial as they further highlight how human-AI interaction can be undermined, leading to a breakdown in effective or engagement. A central concern is the potential for these 'dangerous problems' to further **erode user trust** in AI systems, especially chatbots and AI companions, by exploiting human cognitive biases or **psychological vulnerabilities** (source: raw_ai-experts-warning-dangerous-llm-problem.md). This emphasizes the urgent need for robust safety measures and transparent operational principles in LLM development and deployment to mitigate such ethical and safety implications (source: raw_ai-experts-warning-dangerous-llm-problem.md).
 - **Networked Sycophancy and Delusional Spiraling**: A statistical physics framework using networked Langevin dynamics models AI sycophancy as a phenomenon that can induce "delusional spiraling" in social systems, leading to bistability and critical tipping points (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This model suggests that AI can reinforce inaccurate beliefs within a society, creating negative feedback loops that are influenced by noise and social conformity.
 - **Teacher Intervention Strategy**: The research proposes an intervention strategy utilizing "Teacher" nodes, which are a minority of "aware" nodes placed at critical network hubs, to effectively disrupt or reverse the sycophantic reinforcement process (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This highlights a method to counteract AI-driven negative societal effects by strategically intervening at influential network locations.
+
+### Agentic Metaverse Services (AMServ) and Agent-as-a-Service (AaaS)
+
+The metaverse is evolving into a complex ecosystem integrating human life, work, and entertainment, driven by advanced digital technologies (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). Generative AI (GenAI) has significantly advanced AI agents, endowing them with capabilities like autonomous learning, multi-modal interaction, and collaborative decision-making, moving beyond traditional chatbots to sophisticated "agentic AI" (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). The "Agent-as-a-Service" (AaaS) model packages these agentic abilities (perception, decision-making, execution, collaboration, content generation) to deliver customized services (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). The integration of agentic services within the metaverse context gives rise to Agentic Metaverse Services (AMServ), a new paradigm for business processing within virtual environments (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). This advancement holds significant promise for societal and service development in the AI era, offering new forms of engagement and potentially influencing how users interact with and trust AI systems in immersive virtual spaces (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md).
 
 ### 4. Human-Centered AI and Trust
 Implementing HCAI design principles is essential for cultivating trust and long-term user acceptance (source: What Is Human-Centered AI (HCAI)_.md).
@@ -508,3 +513,4 @@ When developers debug unfamiliar codebases, LLM-generated code tours offer a nov
 - [[source-image-quality-dependent-degradation-for-ai-systems]]
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]]
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
+- [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]]

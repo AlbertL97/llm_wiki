@@ -1899,3 +1899,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-07-31 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md
+- raw/raw_ai-sycophancy-and-decisions.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-agentic-metaverse-services-a-new-as-a-service-paradigm.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/source-ai-sycophancy-and-decisions.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Agentic Metaverse Services: A New As-a-Service Paradigm" and created summary page wiki/source-agentic-metaverse-services-a-new-as-a-service-paradigm.md.
+- Ingested "AI Sycophancy and Decisions" and created summary page wiki/source-ai-sycophancy-and-decisions.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

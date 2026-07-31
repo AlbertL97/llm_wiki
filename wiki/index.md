@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-07-31
 
 ## Orientation
 
@@ -12,7 +12,9 @@
 
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
-- [[source-aaai-2026-cool-papers]] — Summary of Humans and AI track accepted papers at AAAI 2026, covering adaptive ensembles and teaming cooperation.
+- [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
+- [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]] — Summary of Agentic Metaverse Services: A New As-a-Service Paradigm.
+- [[source-ai-sycophancy-and-decisions]] — Summary of AI Sycophancy and Decisions.
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
 - [[source-active-interaction-strategy]] — Summary of study proposing a dynamic trust-based active strategy generation framework for HRC using VLMs.
 - [[source-already-conscious]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.
