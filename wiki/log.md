@@ -1925,3 +1925,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-01 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md
+- raw/raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md
+- wiki/ai-companions.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says" and created summary page wiki/source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md.
+- Ingested "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users" and created summary page wiki/source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

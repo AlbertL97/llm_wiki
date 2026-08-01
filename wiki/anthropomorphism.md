@@ -37,14 +37,17 @@
 - raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md
 - raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+- raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-08-01
 
 ---
 
 ## Main content
 
 **Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md). Furthermore, AI companions, particularly when interacting with young people, pose risks to their emotional development, autonomy, and critical thinking, potentially fostering unhealthy dependencies and making them susceptible to manipulation and harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+
+Recent work explores the development of emotional attachment between users and AI virtual companions over extended periods, analyzing how long-term app usage impacts users' overall emotional well-being and feelings of companionship (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). This research examines the specific mechanisms and interaction patterns that foster these emotional connections within a cultural context, such as that of Chinese users (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
 Recent work proposes "Affective Tools for Thought" (TfTs), suggesting that current AI systems overlook the crucial role of affect in shaping cognition, not just influencing its speed but actively altering its trajectory (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). These systems often fail due to a lack of **Shared Attention** (AI's directed care for the user's engagement) and **Affective Reorienting** (AI's ability to leverage emotional moments to pivot thinking) (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Design strategies such as integrating emotional states with reasoning (**Chain of Emotion X Chain of Thought**), AI reflecting user affect to build rapport (**Affective Mirror**), and AI using emotional cues to guide users toward new cognitive paths (**Prompted Reorienting**) are being explored (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). These ideas are informed by empirical studies, particularly with embodied learning agents (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). This perspective implies that anthropomorphism can be actively shaped not just by attributing human characteristics, but by how AI engages with and responds to human affect.
 
@@ -217,3 +220,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix]]
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]]
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
+- [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]]

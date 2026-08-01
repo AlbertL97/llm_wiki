@@ -512,6 +512,13 @@
       "summary": ""
     },
     {
+      "id": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says",
+      "name": "Deepak Chopra's New AI Companion: DeAI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-directional-ai-advice-experimental-evidence-from-healthcare",
       "name": "Directional AI Advice: Experimental Evidence from Healthcare",
       "val": 1.5,
@@ -850,6 +857,13 @@
     {
       "id": "source-muvap-turn-taking-prediction",
       "name": "MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
+      "name": "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1490,6 +1504,14 @@
       "target": "source-agentic-metaverse-services-a-new-as-a-service-paradigm"
     },
     {
+      "source": "ai-companions",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1648,6 +1670,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
     },
     {
       "source": "chatbots",
@@ -1880,6 +1906,10 @@
     {
       "source": "chatbots",
       "target": "source-ai-sycophancy-and-decisions"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
     },
     {
       "source": "explainability",
@@ -2300,6 +2330,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-ai-sycophancy-and-decisions"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
     },
     {
       "source": "human-robot-interaction",
@@ -2838,6 +2876,14 @@
       "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
     },
     {
+      "source": "mental-health",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -3052,6 +3098,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-ai-sycophancy-and-decisions"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
     },
     {
       "source": "qualitative-methods",

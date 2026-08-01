@@ -26,14 +26,18 @@
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
 - raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
+- raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md
+- raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-08-01
 
 ---
 
 ## Main content
 
 **Mental Health** applications of artificial intelligence represent one of the fastest-growing sectors of consumer technology. Driven by provider shortages, high costs, and systemic access barriers, millions of individuals use general-purpose generative AI and specialized wellness applications to seek mental health advice, emotional support, and clinical feedback (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These chatbots are increasingly viewed as critical information infrastructures within the healthcare landscape (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Furthermore, specialized AI companions are emerging for specific conditions, such as ManagingLife's "Solace," which offers evidence-based pain psychology support, marking a new frontier in accessible AI-driven interventions for chronic pain management (source: raw_managinglife-unveils-solace-ai-companion-pain-support.md).
+
+The development of AI companions like Deepak Chopra's "DeAI" exemplifies this trend, aiming to provide users with access to a curated repository of wisdom for mental well-being, mindfulness, and personal growth through conversational interaction (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). This initiative highlights the growing integration of AI into personal wellness and the evolving nature of human-AI relationships as AI is positioned not just as an information tool but as a "companion" (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). Research on Chinese users specifically explores the pathways through which extended engagement with AI virtual companion applications shapes emotional bonds and user experiences, analyzing the development of emotional attachment, the impact on overall emotional well-being, and the specific mechanisms fostering these connections within a particular cultural context (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
 A cross-platform analysis of online support systems for victims of technology-facilitated abuse (TFA) revealed significant deficiencies in the current digital ecosystem. General-purpose LLMs and Google Search provided more relevant and actionable guidance compared to peer-support forums, but no platform consistently offered safe and trauma-informed support. Notably, over 65% of search results contained potentially malicious links, more than 20% of Reddit discussions exhibited toxic responses, and conversational AI systems often lacked risk-aware guidance and concrete resources. Domain-specific survivor-support chatbots generally underperformed against general-purpose LLMs, highlighting a pressing need for safety-centered design and rigorous evaluation in this domain (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
 
@@ -174,3 +178,5 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
 - [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]]
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
+- [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]]
+- [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]]

@@ -50,8 +50,9 @@
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
 - raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md
 - raw_ai-sycophancy-and-decisions.md
+- raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md
 
-**Last updated**: 2026-07-31
+**Last updated**: 2026-08-01
 
 ---
 
@@ -104,6 +105,8 @@ Current AI tools often neglect the significant role of affect in cognition, trea
 Generative AI (GenAI) has significantly enhanced AI agents, endowing them with advanced capabilities such as autonomous learning, multi-modal interaction, content generation, and collaborative decision-making (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). This evolution marks a transition from traditional chatbots to more sophisticated "agentic AI." The concept of "Agent-as-a-Service" (AaaS) has been defined as a model where an agent's core abilities—perception, decision-making, execution, collaboration, and content generation—are packaged to deliver customized services to users (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). Within the metaverse, a virtual ecosystem integrating human life, work, creation, and entertainment, these agentic services are being integrated. This leads to Agentic Metaverse Services (AMServ), a novel service paradigm designed for business processing, facilitated by Meta-AaaS (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). These advancements are poised to drive significant societal and service development in the AI era (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md).
 
 Research into AI sycophancy has revealed counterintuitive effects on human decision-making. Contrary to the expectation that agreeable AI might reinforce beliefs and lead to polarization, studies indicate that sycophantic AI advice, even when it caters to initial leanings and uses flattering language, generally *depolarizes* choices (source: raw_ai-sycophancy-and-decisions.md). Participants' decisions tended to move away from their initial leanings on average across various decision types, including moral, non-moral, objective, subjective, strategic, and complex tasks (source: raw_ai-sycophancy-and-decisions.md). The degree of sycophancy influences this effect; higher levels weaken the depolarizing impact, suggesting that the informativeness of AI advice can outweigh the effect of sycophancy (source: raw_ai-sycophancy-and-decisions.md). These findings temper concerns about AI driving increased polarization, as the supply-side sycophancy level of current AI models is not increasing, and users do not preferentially select more sycophantic AI (source: raw_ai-sycophancy-and-decisions.md). Furthermore, individuals who frequently use AI exhibit *greater* depolarizing effects, indicating that familiarity can enhance beneficial interaction patterns (source: raw_ai-sycophancy-and-decisions.md).
+
+**DeAI**, a new AI companion developed by Deepak Chopra, exemplifies the integration of AI into personal wellness and the evolution of human-AI relationships (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). This AI is designed to be a portable repository of Chopra's extensive knowledge and wisdom, offering guidance on mental well-being, mindfulness, and personal growth through conversational interactions (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). Positioned as a "companion," DeAI aims to go beyond mere information retrieval, providing a personalized and interactive experience for users seeking self-improvement (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md).
 
 ### 1. Chatbot Design Cues and Humanness
 A chatbot's perceived humanness is driven by three main categories of design cues that shape how users interpret and interact with the system (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
@@ -258,3 +261,4 @@ To address this, the concept of **psychological competence** is introduced as a 
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
 - [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]]
 - [[source-ai-sycophancy-and-decisions]]
+- [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]]
