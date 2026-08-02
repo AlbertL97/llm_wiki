@@ -1952,3 +1952,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-02 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md
+- raw/raw_learning-social-robot-navigation-by-sensing-human-legs.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/source-learning-social-robot-navigation-by-sensing-human-legs.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development" and created summary page wiki/source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md.
+- Ingested "Learning Social Robot Navigation By Sensing Human Legs" and created summary page wiki/source-learning-social-robot-navigation-by-sensing-human-legs.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

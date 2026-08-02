@@ -89,8 +89,10 @@
 - raw_ai-sycophancy-and-decisions.md
 - raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md
 - raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
+- raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md
+- raw_learning-social-robot-navigation-by-sensing-human-legs.md
 
-**Last updated**: 2026-08-01
+**Last updated**: 2026-08-02
 
 ---
 
@@ -504,6 +506,14 @@ These ideas are grounded in empirical findings from a study involving a touch-aw
 
 The emergence of Generative AI (GenAI) has significantly advanced AI agents, endowing them with autonomous learning, multi-modal interaction, content generation, and collaborative decision-making capabilities. This evolution marks a transition from traditional chatbots to more sophisticated "agentic AI" (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). The concept of **Agent-as-a-Service (AaaS)** has been proposed as a framework to package these advanced agent abilities, offering them as customized services. When integrated within the metaverse—a virtual ecosystem that blends human life, work, creation, and entertainment—these services form **Agentic Metaverse Services (AMServ)** (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md). AMServ represents a new paradigm for business processing within the metaverse, enabled by a Meta-AaaS approach. These advancements hold significant potential for societal and service development in the AI era (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md).
 
+## The Case for Vibe Modeling in AI-Based Software Development
+
+Current AI-based software development practices, particularly those leveraging Large Language Models (LLMs), tend to prioritize direct code generation while insufficiently addressing intermediate representations that capture human intent and facilitate reasoning (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). To address this gap, **vibe modeling** is proposed as a lightweight intermediate abstraction between natural language input and code output (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). The core objective of vibe modeling is to enhance understanding, validation, traceability, and ultimately, trust in AI-generated software artifacts (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). A student survey study explored perceptions of understanding, validation effort, trust, and the perceived usefulness of vibe modeling across various AI-assisted development scenarios (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). The findings from this study are intended to inform future research aimed at developing trustworthy and explainable AI-based software engineering practices through vibe modeling (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md).
+
+## Social Robot Navigation Using Leg Perception
+
+A novel approach to robot navigation in crowded environments focuses on sensing human leg motion from LiDAR scans. Traditional methods often simplify pedestrian representations, but this work introduces CALF (Convolutional Attention for Leg Features), an end-to-end neural architecture designed to directly interpret leg movements from LiDAR data to generate safe navigation commands (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). This system is trained using deep reinforcement learning within a custom simulator, LegNav, which combines LiDAR ray tracing with a pedestrian gait model (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Experiments on a TurtleBot 4 have shown that CALF produces smooth and socially compliant trajectories, demonstrating effectiveness even in zero-shot deployments (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). The training process is also efficient, requiring less than an hour on a consumer GPU (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). This research contributes to more nuanced and human-aware robot navigation by focusing on a key visual cue—human legs—to infer intent and ensure safer interactions (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -603,3 +613,5 @@ The emergence of Generative AI (GenAI) has significantly advanced AI agents, end
 - [[source-ai-sycophancy-and-decisions]]
 - [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]]
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]]
+- [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]]
+- [[source-learning-social-robot-navigation-by-sensing-human-legs]]

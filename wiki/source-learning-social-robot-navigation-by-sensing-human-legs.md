@@ -1,0 +1,5 @@
+# Learning Social Robot Navigation By Sensing Human Legs
+
+## Abstract
+
+Robots navigating among crowds usually rely on sensors like 2D LiDAR, which at their typical low mounting height primarily detect moving legs rather than entire people. Current navigation methods often oversimplify pedestrian representations. This paper introduces CALF (Convolutional Attention for Leg Features), an end-to-end neural architecture that directly interprets leg motion from LiDAR scans to generate safe navigation commands. CALF utilizes convolutional layers, attention mechanisms, and MLPs. The system is trained via deep reinforcement learning in a custom simulator, LegNav, which combines LiDAR ray tracing with a pedestrian gait model. Real-world experiments on a TurtleBot 4 demonstrated that CALF produces smooth and socially compliant trajectories, performing effectively even in zero-shot deployments. The training process is efficient, taking under an hour on a consumer GPU.

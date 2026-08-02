@@ -1,0 +1,45 @@
+# The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development
+
+## Authors
+
+* Jonathan F. Hudson
+* Kevin S. Yu
+* Robert M. J. L. M. Stroud
+* Adam D. J. R. Jones
+* Ryan D. L. Scott
+* Daniel G. L. M. L. Smith
+* Thomas P. N. L. D. L. B. L. L. S. L. L. P.
+
+## Date
+
+2026-07-27
+
+## Abstract
+
+Large Language Models (LLMs) are increasingly used to generate software artifacts from natural language prompts. While this enables rapid prototyping and lowers the barrier to software creation, it also introduces challenges related to understanding, validation, traceability, and trust. In this paper, we argue that current AI-based development practices focus too heavily on the direct generation of code and insufficiently on intermediate representations that preserve human intent and support reasoning about system behavior. We argue for vibe modeling as a lightweight intermediate abstraction between natural language interaction and code generation. To explore its potential, we present a student survey study that examines perceptions of LLM output understanding, validation effort, trust and the perceived usefulness of vibe modeling across several AI-assisted development scenarios. Our results are intended to inform future studies for trustworthy and explainable AI-based software engineering via vibe modeling.
+
+## Key Findings
+
+*   Current AI-based software development, particularly with LLMs, overemphasizes direct code generation and neglects intermediate representations that capture human intent and aid reasoning.
+*   Vibe modeling is proposed as a lightweight intermediate abstraction between natural language input and code output.
+*   The goal of vibe modeling is to enhance understanding, validation, traceability, and ultimately, trust in AI-generated software.
+*   A student survey study was conducted to evaluate the perceived understanding, validation effort, trust, and usefulness of vibe modeling in various AI-assisted development scenarios.
+*   The study's results aim to guide future research in developing trustworthy and explainable AI-based software engineering practices through vibe modeling.
+
+## Relevance to AI/Robot Interaction Psychology
+
+While the primary focus is on software development, the paper directly addresses issues of trust and understanding in human-AI interaction. The concept of 'vibe modeling' implicitly relates to how humans perceive and interact with AI systems, particularly concerning the AI's ability to capture and reflect human intent, which can influence user trust and acceptance. This is relevant to the psychology of human-AI interaction as it explores a mechanism to improve the human experience of using AI tools, making them more predictable and reliable, which are foundational elements of trust.
+
+## Sources
+
+*   [The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development](http://arxiv.org/abs/2607.27923v1)
+
+## Last updated
+
+2026-08-02
+
+## Related pages
+
+*   [[human-ai-interaction]]
+*   [[trust]]
+*   [[explainability]]

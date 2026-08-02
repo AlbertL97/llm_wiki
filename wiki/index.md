@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-01
+**Last updated**: 2026-08-02
 
 ## Orientation
 
@@ -119,6 +119,7 @@
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
+- [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]] — Summary of The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development.
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
@@ -143,6 +144,7 @@
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
+- [[source-learning-social-robot-navigation-by-sensing-human-legs]] — Summary of Learning Social Robot Navigation By Sensing Human Legs.
 
 ## Core theoretical frameworks
 
