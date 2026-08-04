@@ -1977,3 +1977,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-04 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
+- raw/raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/medical-ai.md
+- wiki/source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs" and created summary page wiki/source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md.
+- Ingested "Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions" and created summary page wiki/source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

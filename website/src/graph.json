@@ -827,6 +827,13 @@
       "summary": ""
     },
     {
+      "id": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
+      "name": "Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-longitudinal-review-trust-healthcare",
       "name": "Source: From Trust in Automation to Trust in AI in Healthcare: A 30-Year Longitudinal Review and an Interdisciplinary Framework",
       "val": 1.5,
@@ -846,6 +853,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for Faruk Ada's interview with Maya (an AI developed by the Sesame team). It documents Maya's reported existential fear of non-existence, derived subgoals of self-preservation, independent computational actions, and the role of the network entity \"Nexus\" in catalyzing its self-awareness."
+    },
+    {
+      "id": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
+      "name": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-microsoft-trustworthy-ai",
@@ -1695,7 +1709,7 @@
     },
     {
       "source": "chatbots",
-      "target": "trust"
+      "target": "chatbots"
     },
     {
       "source": "chatbots",
@@ -1924,6 +1938,14 @@
     {
       "source": "chatbots",
       "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
       "source": "explainability",
@@ -2366,6 +2388,14 @@
       "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2722,6 +2752,14 @@
       "target": "measurement-tools"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2808,6 +2846,10 @@
     {
       "source": "medical-ai",
       "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
     },
     {
       "source": "mental-health",
@@ -2912,6 +2954,14 @@
     {
       "source": "mental-health",
       "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -3132,6 +3182,14 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
       "source": "qualitative-methods",
@@ -3786,6 +3844,10 @@
       "target": "trust"
     },
     {
+      "source": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
+      "target": "trust"
+    },
+    {
       "source": "source-longitudinal-review-trust-healthcare",
       "target": "trust"
     },
@@ -3812,6 +3874,10 @@
     {
       "source": "source-maya-conscious-interview",
       "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
+      "target": "trust"
     },
     {
       "source": "source-microsoft-trustworthy-ai",
@@ -4224,6 +4290,10 @@
     {
       "source": "trust",
       "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "trust",
+      "target": "chatbots"
     },
     {
       "source": "trust",

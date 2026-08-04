@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-02
+**Last updated**: 2026-08-04
 
 ## Orientation
 
@@ -89,8 +89,10 @@
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]] — Summary of A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots.
 - [[source-llm-council-synthetic-cognitive-systems]] — Summary of article on Simple Multi-Model Consensus (LLM-councils) evolving into tailored synthetic cognitive systems.
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]] — Summary of LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation.
+- [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]] — Summary of Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions.
 - [[source-longitudinal-review-trust-healthcare]] — Summary of narrative review on trust in healthcare AI and the Interdisciplinary Human-AI Trust Research (I-HATR) framework.
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
+- [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
