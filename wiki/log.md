@@ -2005,3 +2005,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-05 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
+- raw/raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-designing-social-robots-for-inclusive-child-wellbeing-assessment.md
+- wiki/human-robot-interaction.md
+- wiki/mental-health.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/source-human-centric-embodied-intelligence-for-soft-wearable-robotics.md
+- wiki/trust.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration" and created summary page wiki/source-designing-social-robots-for-inclusive-child-wellbeing-assessment.md.
+- Ingested "Human Centric Embodied Intelligence for Soft Wearable Robotics" and created summary page wiki/source-human-centric-embodied-intelligence-for-soft-wearable-robotics.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

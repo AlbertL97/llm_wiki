@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-05
 
 ## Orientation
 
@@ -56,6 +56,7 @@
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]] — Summary of Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
+- [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
@@ -78,6 +79,7 @@
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
+- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]] — Summary of Human Centric Embodied Intelligence for Soft Wearable Robotics.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
@@ -126,7 +128,7 @@
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
-- [[source-they-looked-inside-claudes-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
+- [[source-they-looked-inside-claude-s-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.

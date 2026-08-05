@@ -93,14 +93,18 @@
 - raw_learning-social-robot-navigation-by-sensing-human-legs.md
 - raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
 - raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
+- raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
+- raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-05
 
 ---
 
 ## Main content
 
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+The field of Human-AI Interaction is also being extended to physical embodiments, such as soft wearable robots. A new framework, Human-Centric Embodied Intelligence (HCEI), views the intelligence of these systems as an emergent property of the coupled human-robot system, focusing on the co-evolution of perception, cognition, actuation, and wearer adaptation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). This approach emphasizes a shift from traditional actuator-first design to a human-centered paradigm that prioritizes perception and cognition, aiming for robots that users can comfortably wear, trust, and benefit from over extended periods (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The goal is to accelerate the development and real-world deployment of personalized, predictive, and human-centric wearable intelligence (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md).
 
 The increasing integration of AI into personal wellness and the evolving nature of human-AI relationships is exemplified by the development of AI companions. Deepak Chopra's new AI companion, DeAI, is designed to offer users access to his extensive knowledge and wisdom (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). Through conversational interactions, DeAI aims to provide guidance on mental well-being, mindfulness, and personal growth (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). Positioned as a "companion," this AI is intended to serve as a portable repository of wisdom, acting as a guide for personal transformation and potentially offering a sense of connection to users seeking to improve their mental health (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md).
 
@@ -522,6 +526,10 @@ A novel approach to robot navigation in crowded environments focuses on sensing 
 ## Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions
 Traditional evaluations of Large Language Models (LLMs) and human-AI interactions often rely on short-term experiments and static text generation quality assessments (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This approach is insufficient for capturing the long-term risks and emergent phenomena that can arise from prolonged engagement, such as cognitive, developmental, and socio-affective changes in users (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). To address this, a shift towards **long-term measurements** and a **longitudinal understanding** of human-AI interactions is advocated (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This involves drawing upon methodologies from social science fields that specialize in analyzing longitudinal data to better understand emergent behavioral patterns and foster positive outcomes while promoting the online detection of problematic AI behaviors and enhancing AI alignment frameworks (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This diachronic perspective is crucial for ensuring the responsible development and deployment of advanced AI systems and safeguarding user well-being (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md).
 
+## Social Robots for Child Wellbeing Assessment
+
+Assessing the wellbeing and mental health of children can be particularly challenging for those facing communication barriers, such as children with Developmental Language Disorder (DLD) and children with forced migration backgrounds. Traditional self-report questionnaires, which rely heavily on language comprehension and verbal expression, are often inadequate for these populations. Social robots have emerged as a potential tool to facilitate wellbeing assessment by offering alternatives to purely verbal methods. To design these interactions inclusively and ethically, researchers developed candidate child-robot interaction activities and conducted focus groups with parents and professionals supporting these children. Key findings highlight the importance of understanding the robot's perceived role and capabilities, the nuances of interactional dynamics, accommodating individual differences in communication styles and sensitivities, empowering child agency, and tailoring designs to population-specific needs (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). This work contributes valuable ethical and inclusive design recommendations for robot-mediated wellbeing assessments, moving beyond the limitations of traditional methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -625,3 +633,5 @@ Traditional evaluations of Large Language Models (LLMs) and human-AI interaction
 - [[source-learning-social-robot-navigation-by-sensing-human-legs]]
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]]
 - [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]]
+- [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]]
+- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]

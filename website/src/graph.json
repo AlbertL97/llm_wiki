@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md)."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Crucially, for children facing communication barriers, such as those with Developmental Language Disorder (DLD) or from forced migration backgrounds, social robots can serve as tools for wellbeing assessment, offering alternatives to traditional verbal methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). The field of Human-Centric Embodied Intelligence (HCEI) is emerging for soft wearable robots, viewing intelligence as a co-emergence from the coupled system of human and robot, prioritizing human perception and cognition in design through the PCAA framework, aiming for long-term user benefit and deployment (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md)."
     },
     {
       "id": "index",
@@ -519,6 +519,13 @@
       "summary": ""
     },
     {
+      "id": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment",
+      "name": "Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-directional-ai-advice-experimental-evidence-from-healthcare",
       "name": "Directional AI Advice: Experimental Evidence from Healthcare",
       "val": 1.5,
@@ -720,6 +727,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Editorial overview introducing the interdisciplinary challenges of human-AI interaction, highlighting trust calibration, professional education, and user experience (UX) design."
+    },
+    {
+      "id": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
+      "name": "Source Summary: Human Centric Embodied Intelligence for Soft Wearable Robotics",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol",
@@ -1538,6 +1552,10 @@
     {
       "source": "ai-companions",
       "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
     },
     {
       "source": "anthropomorphism",
@@ -2396,6 +2414,14 @@
       "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2558,6 +2584,18 @@
     {
       "source": "human-robot-interaction",
       "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "qualitative-methods"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
     },
     {
       "source": "introspective-awareness",
@@ -2760,6 +2798,18 @@
       "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "qualitative-methods"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "ai-companions"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -2850,6 +2900,10 @@
     {
       "source": "medical-ai",
       "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
     },
     {
       "source": "mental-health",
@@ -2962,6 +3016,10 @@
     {
       "source": "mental-health",
       "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -3197,10 +3255,6 @@
     },
     {
       "source": "qualitative-methods",
-      "target": "measurement-tools"
-    },
-    {
-      "source": "qualitative-methods",
       "target": "human-ai-interaction"
     },
     {
@@ -3234,6 +3288,18 @@
     {
       "source": "qualitative-methods",
       "target": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "mental-health"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "ai-companions"
     },
     {
       "source": "social-media-and-online-communities",
@@ -3782,6 +3848,10 @@
     {
       "source": "source-human-artificial-intelligence-interaction",
       "target": "explainability"
+    },
+    {
+      "source": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
+      "target": "trust"
     },
     {
       "source": "source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol",

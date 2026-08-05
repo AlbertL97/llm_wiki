@@ -23,8 +23,9 @@
 - raw_public-perceptions-of-ai-driven-decision-making-in-healthcare.md
 - raw_embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help.md
 - raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
+- raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-05
 
 ---
 
@@ -118,6 +119,9 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - **The I-HATR Framework**: The Interdisciplinary Human-AI Trust Research framework bridges the gap between Explainable AI (XAI) and Human-Computer Interaction/Human Factors Engineering (HCI/HFE).
 - **Dual Pathways**: I-HATR maps a model-centric *XAI pathway* (transparency, post-hoc methods) and a user-centric *HCI/HFE pathway* (usability, cognitive load, and situational awareness), providing a holistic methodology for clinical trust calibration (source: From Trust in Automation to Trust in AI in Healthcare_ A 30-Year Longitudinal Review and an Interdisciplinary Framework.md).
 
+### 19. Human-Centric Embodied Intelligence for Soft Wearable Robotics
+A paradigm shift is proposed for the design of soft wearable robots, moving from actuator-first approaches to a human-centric model. This involves recognizing intelligence as an emergent property of the coupled human-robot system, driven by their interaction. This concept, termed Human-Centric Embodied Intelligence (HCEI), considers the interplay of morphology, sensing, cognition, actuation, and wearer adaptation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The proposed Perception-Cognition-Actuation-Augmentation (PCAA) framework prioritizes human perception and cognition as the primary drivers for robot design (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The ultimate goal is to develop soft wearable robots that users can comfortably wear, trust, and benefit from over extended periods, facilitating applications in rehabilitation, assistance, and augmentation. This approach aims to accelerate the development and real-world deployment of personalized, predictive, and human-centric wearable intelligence (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md).
+
 ## Related pages
 
 - [[source-healthcare-human-ai-interaction]]
@@ -145,3 +149,4 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 - [[source-public-perceptions-of-ai-driven-decision-making-in-healthcare]]
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]]
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]]
+- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]

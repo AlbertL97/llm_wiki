@@ -90,8 +90,9 @@
 - raw_learning-social-robot-navigation-by-sensing-human-legs.md
 - raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
 - raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
+- raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-05
 
 ---
 
@@ -118,6 +119,10 @@ Emerging research highlights that affect, or emotion, is not merely an external 
 ### Vibe Modeling for Trustworthy Software Development
 
 Current AI-based software development practices, especially those involving Large Language Models (LLMs), tend to prioritize direct code generation over intermediate representations that capture human intent and facilitate reasoning about system behavior (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). To address this gap, **vibe modeling** is proposed as a lightweight intermediate abstraction between natural language prompts and code output (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). The aim of vibe modeling is to enhance understanding, validation, traceability, and ultimately, trust in AI-generated software artifacts (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). A survey study with students exploring perceptions of understanding, validation effort, trust, and the usefulness of vibe modeling across various AI-assisted development scenarios suggests its potential for fostering more trustworthy and explainable AI-based software engineering (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md).
+
+### Human-Centric Embodied Intelligence (HCEI) for Wearable Robots
+
+A paradigm shift is occurring in the design of soft wearable robots, moving from actuator-centric approaches to **Human-Centric Embodied Intelligence (HCEI)** (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). HCEI views intelligence as a co-emergent property of the coupled system between a human wearer and the wearable robot, driven by their interaction. This involves a holistic consideration of morphology, sensing, cognition, actuation, and the wearer's adaptive capabilities (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The **Perception-Cognition-Actuation-Augmentation (PCAA)** framework is proposed to reorient design by prioritizing human perception and cognition as the primary drivers (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The ultimate goal is to create soft wearable robots that users can comfortably wear, trust, and benefit from over extended periods, enabling applications in rehabilitation, assistance, and augmentation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). This HCEI approach aims to accelerate the development and real-world deployment of personalized, predictive, and human-centric wearable intelligence.
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -532,3 +537,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-learning-social-robot-navigation-by-sensing-human-legs]]
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]]
 - [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]]
+- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]

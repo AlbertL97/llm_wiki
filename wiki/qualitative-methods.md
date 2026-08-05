@@ -11,8 +11,9 @@
 - raw_the-complexities-of-patient-centred-conversational-artificial-intelligence.md
 - raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md
 - raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
+- raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
 
-**Last updated**: 2026-07-30
+**Last updated**: 2026-08-05
 
 ---
 
@@ -28,10 +29,12 @@ Qualitative research is also being employed to observe the spontaneous societal 
 
 Crucially for the development of explainable AI, qualitative methods are being used to understand how current Requirements Engineering (RE) practices support explainability requirements throughout the RE lifecycle in industrial contexts (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). Early findings indicate significant challenges across elicitation (conceptual ambiguity), specification (limitations in testability and expressiveness), and validation (fragmented efforts due to vague criteria and regulatory uncertainty) of explainability requirements (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). Current RE practices appear to provide limited systematic support for addressing these crucial explainability requirements (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). Furthermore, the LLMs used to evaluate AI-generated code tours have demonstrated significant unreliability, exhibiting issues like sycophancy, confabulation, and incoherence, underscoring the need for fine-tuning LLMs for specific tasks and improving their evaluation capabilities (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md).
 
+The use of social robots for assessing the wellbeing and mental health of children, particularly those with communication barriers like Developmental Language Disorder (DLD) and forced migration backgrounds, is an emerging area for qualitative inquiry (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). Traditional methods often fail these populations, necessitating alternative approaches. Qualitative research, through methods like focus groups and thematic analysis, is vital for understanding how robot interactions can be designed to be inclusive, appropriate, and ethically sound (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). Key considerations emerging from this research include the perceived role and capabilities of the robot, the nuances of child-robot interactional dynamics, the importance of accommodating individual differences and sensitivities, empowering child agency, and tailoring designs to population-specific challenges (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). These insights contribute to ethical and inclusive design recommendations for robot-mediated wellbeing assessments.
+
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
-- **Focus Groups**: Interactive group discussions that reveal shared beliefs, cultural attitudes, and collaborative patterns concerning AI tools.
-- **Thematic Analysis**: A systematic approach to identifying, analyzing, and reporting patterns (themes) within qualitative textual data (transcripts), which are coded to organize findings (source: AI User Research Platform _ Outset.ai & Strella Alternative.md).
+- **Focus Groups**: Interactive group discussions that reveal shared beliefs, cultural attitudes, and collaborative patterns concerning AI tools. This method is also instrumental in gathering insights for designing inclusive AI applications, such as for child wellbeing assessments (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
+- **Thematic Analysis**: A systematic approach to identifying, analyzing, and reporting patterns (themes) within qualitative textual data (transcripts), which are coded to organize findings (source: AI User Research Platform _ Outset.ai & Strella Alternative.md). It has been used to analyze data from focus groups to inform the design of social robots for child wellbeing assessment (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
 
 ### 2. AI-Moderated qualitative Research
 The integration of generative conversational AI has enabled automated user research, creating scalable qualitative methodologies (source: AI User Research Platform _ Outset.ai & Strella Alternative.md):
@@ -58,3 +61,7 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[explainability]]
 - [[trust]]
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]]
+- [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]]
+- [[human-robot-interaction]]
+- [[mental-health]]
+- [[ai-companions]]
