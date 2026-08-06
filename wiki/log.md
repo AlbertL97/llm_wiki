@@ -2034,3 +2034,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-06 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
+- raw/raw_delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+
+**Summary of changes**:  
+- Ingested "Dimensions of Power: A Systematic Guide to Power Indices for Explainable AI" and created summary page wiki/source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md.
+- Ingested "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots" and created summary page wiki/source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

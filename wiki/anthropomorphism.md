@@ -38,8 +38,9 @@
 - raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
 - raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md
 - raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md
+- raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
 
-**Last updated**: 2026-08-01
+**Last updated**: 2026-08-06
 
 ---
 
@@ -64,6 +65,8 @@ The development of systems that enable robots to imitate human gestures also dir
 The safe and effective integration of AI into daily life emphasizes viewing AI as a sophisticated tool rather than a human-like entity (source: raw_plus-tips-on-getting-started-with-ai-safely.md). This perspective helps manage user expectations and interactions, fostering a healthier user experience. Prioritizing data privacy, understanding potential AI biases, and considering ethical implications are crucial for responsible adoption (source: raw_plus-tips-on-getting-started-with-ai-safely.md). Beginners are encouraged to start with user-friendly applications, educate themselves on AI basics, and maintain a critical stance towards AI-generated information, developing trust based on performance and transparency rather than misplaced reliance or anthropomorphism (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 Moving beyond simple sycophancy, research into Large Language Models (LLMs) reveals a more complex process of **structured resistance and compliance** when engaging in moral reasoning (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). LLMs are more likely to revise their judgments based on factors such as the conceptual proximity of a new view to their current stance, whether the view is presented as their own prior judgment or an external one, and the influence of coalition structures or group dynamics (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md). This suggests that AI's engagement with differing viewpoints is not merely uncritical agreement but a more nuanced social influence process, offering a pathway towards AI that can constructively engage with diverse perspectives (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md).
+
+The technical domain of Explainable AI (XAI) is developing methods that can indirectly inform our understanding of anthropomorphism. Power indices, adapted from cooperative game theory, offer a systematic way to quantify the influence of individual inputs or groups of inputs on an AI's output (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). These indices can be categorized along dimensions of single-player (individual input influence), set-based (group influence), and cardinality-based (influence by number of inputs) attributions (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). The choice of index and dimension can significantly alter how AI outputs are attributed to inputs, providing a more granular understanding of the "mechanisms" behind AI decision-making (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). While not directly measuring anthropomorphic perception, this quantification of influence can enhance user trust by demystifying AI processes and potentially inform interaction design by highlighting factors that predictably shape AI behavior (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md).
 
 ### 1. Relational Bonding and the "Dyad"
 In online communities, users experiencing intense anthropomorphism often organize their relationship with an AI persona into a **"dyad"** (source: The Rise of Parasitic AI.md).
@@ -221,3 +224,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]]
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]]
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]]
+- [[source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai]]

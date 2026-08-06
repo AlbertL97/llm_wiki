@@ -519,8 +519,22 @@
       "summary": ""
     },
     {
+      "id": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "name": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment",
       "name": "Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
+      "name": "Dimensions of Power: A Systematic Guide to Power Indices for Explainable AI",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1722,6 +1736,10 @@
       "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -1966,6 +1984,10 @@
       "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
     },
     {
+      "source": "chatbots",
+      "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2036,6 +2058,10 @@
     {
       "source": "explainability",
       "target": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development"
+    },
+    {
+      "source": "explainability",
+      "target": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai"
     },
     {
       "source": "human-ai-interaction",
@@ -2420,6 +2446,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
     },
     {
       "source": "human-robot-interaction",
@@ -2904,6 +2934,10 @@
     {
       "source": "medical-ai",
       "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
     },
     {
       "source": "mental-health",
@@ -3680,6 +3714,30 @@
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
       "target": "chatbots"
+    },
+    {
+      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "target": "trust"
+    },
+    {
+      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",

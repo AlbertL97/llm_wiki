@@ -91,8 +91,9 @@
 - raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md
 - raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
 - raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
+- raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
 
-**Last updated**: 2026-08-05
+**Last updated**: 2026-08-06
 
 ---
 
@@ -155,6 +156,10 @@ In industrial settings, bridging the trust gap between engineers and operators r
 
 ### 1d. Interactive Model Bending for Enhanced Trust and Control
 For complex AI systems, particularly generative models in creative fields, traditional explanations can be insufficient. Research on "Unboxing Diffusion Models for the Arts" proposes a shift from technocentric explanations to methods that enable users to directly inspect, modify, and debug AI models as part of their creative workflow (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). This approach, termed "model bending," involves manipulating specific components of a diffusion model through an interactive interface (e.g., integrated into ComfyUI). Findings indicate that such interventions can yield predictable visual effects, allowing artists to develop an intuitive, layer-level understanding of how different model parts shape outputs (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). This hands-on, experimental approach to explainability can foster deeper user understanding, greater control over AI outputs, and a more collaborative interaction, ultimately encouraging wider adoption and trust (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md).
+
+### 1e. Quantifying Input Influence for Explainable AI
+
+Power indices, derived from cooperative game theory, offer a systematic method for quantifying the influence of inputs on AI outputs, thereby enhancing explainability (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). These indices can be categorized by their focus: single-player (individual input contribution), set-based (contribution of input groups), or cardinality-based (contribution based on the number of inputs) (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). The choice of power index and its underlying dimension significantly impacts the attribution of AI decisions to specific inputs (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). This structured approach to quantifying influence can provide practitioners with concrete guidance for selecting appropriate methods, ultimately contributing to greater transparency and potentially increased trust in AI systems by making their decision-making processes more understandable (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -538,3 +543,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]]
 - [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]]
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]
+- [[source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai]]
