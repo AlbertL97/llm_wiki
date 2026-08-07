@@ -2060,3 +2060,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-07 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
+- raw/raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Challenges in Evaluating Explanation Methods for Static and Evolving Data" and created summary page wiki/source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md.
+- Ingested "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents" and created summary page wiki/source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

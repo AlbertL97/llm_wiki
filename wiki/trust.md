@@ -92,8 +92,10 @@
 - raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md
 - raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 - raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
+- raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
+- raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
 
-**Last updated**: 2026-08-06
+**Last updated**: 2026-08-07
 
 ---
 
@@ -104,6 +106,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Improving Benchmark Quality for Conversational Agents
+
+The reliability of conversational agent evaluations is directly dependent on the quality of the benchmarks used for assessment. A significant challenge is that these benchmarks are rarely evaluated for their own quality (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). To address this, a novel reference-free framework has been developed that leverages Large Language Models (LLMs) as judges to assess benchmark consistency, complexity, and policy coverage (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). This framework provides diagnostic feedback on benchmark weaknesses and has been validated through agreement with human annotations and analysis of both synthetic and manually curated benchmarks (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). Ensuring robust and reliable benchmarks is a crucial step towards developing more effective and trustworthy AI systems, as it directly impacts the accuracy of performance metrics and our understanding of agent capabilities (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md).
 
 ### Beginner-Friendly Guidance and Safe AI Adoption
 
@@ -160,6 +166,10 @@ For complex AI systems, particularly generative models in creative fields, tradi
 ### 1e. Quantifying Input Influence for Explainable AI
 
 Power indices, derived from cooperative game theory, offer a systematic method for quantifying the influence of inputs on AI outputs, thereby enhancing explainability (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). These indices can be categorized by their focus: single-player (individual input contribution), set-based (contribution of input groups), or cardinality-based (contribution based on the number of inputs) (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). The choice of power index and its underlying dimension significantly impacts the attribution of AI decisions to specific inputs (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). This structured approach to quantifying influence can provide practitioners with concrete guidance for selecting appropriate methods, ultimately contributing to greater transparency and potentially increased trust in AI systems by making their decision-making processes more understandable (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md).
+
+### 1f. Evaluating Explanation Methods in Dynamic Environments
+
+Current evaluation methods for Explainable AI (XAI) are insufficient, particularly when dealing with static datasets (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). For evolving data streams, there is a critical need to develop and adapt XAI methods, including counterfactual explanations, to account for concept drift and the co-evolution of data, models, and their explanations (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). Human-grounded evaluation is emphasized as essential for interpreting explanations, especially in image classification tasks, to ensure they are meaningful and trustworthy to users (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). The challenges in tracking intertwined evolutions necessitate new approaches to maintain trust in AI systems as their underlying data and behaviors change (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -544,3 +554,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]]
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]
 - [[source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai]]
+- [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]]
+- [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]]
