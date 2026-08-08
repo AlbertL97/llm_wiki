@@ -2086,3 +2086,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-08 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
+- raw/raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation" and created summary page wiki/source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md.
+- Ingested "Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts" and created summary page wiki/source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

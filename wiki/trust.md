@@ -94,8 +94,9 @@
 - raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md
 - raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
 - raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
+- raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
 
-**Last updated**: 2026-08-07
+**Last updated**: 2026-08-08
 
 ---
 
@@ -130,6 +131,10 @@ Current AI-based software development practices, especially those involving Larg
 ### Human-Centric Embodied Intelligence (HCEI) for Wearable Robots
 
 A paradigm shift is occurring in the design of soft wearable robots, moving from actuator-centric approaches to **Human-Centric Embodied Intelligence (HCEI)** (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). HCEI views intelligence as a co-emergent property of the coupled system between a human wearer and the wearable robot, driven by their interaction. This involves a holistic consideration of morphology, sensing, cognition, actuation, and the wearer's adaptive capabilities (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The **Perception-Cognition-Actuation-Augmentation (PCAA)** framework is proposed to reorient design by prioritizing human perception and cognition as the primary drivers (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The ultimate goal is to create soft wearable robots that users can comfortably wear, trust, and benefit from over extended periods, enabling applications in rehabilitation, assistance, and augmentation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). This HCEI approach aims to accelerate the development and real-world deployment of personalized, predictive, and human-centric wearable intelligence.
+
+### Learning Human-Like Motion for Enhanced Trust and Interaction
+
+Robots learning from human demonstrations (LfD) is crucial for achieving human-like motion, which directly impacts user trust and the naturalness of collaboration in Human-Robot Interaction (HRI) (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A framework extending Gaussian Mixture Models has been developed to learn trajectories from handwriting demonstrations, incorporating force and normalized time, and handling multi-segment movements (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). User evaluations revealed that generated trajectories were perceived as significantly more human-like, with an average score of 71.50 (SD=22.56) (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). Factors like geometric positioning and the sequence of movements were identified as key contributors to this perception (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). Participants also reported positive attitudes towards human-like robot behavior (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). These findings underscore that the visual quality and naturalness of robot movements can play a significant role in establishing user trust and acceptance.
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -556,3 +561,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai]]
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]]
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]]
+- [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]]

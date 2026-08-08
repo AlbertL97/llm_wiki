@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-07
+**Last updated**: 2026-08-08
 
 ## Orientation
 
@@ -103,6 +103,7 @@
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]] — Summary of Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation.
 - [[source-physiological-sensing-situational-awareness]] — Summary of review examining physiological sensing (EEG, ECG, eye-tracking) for situational awareness estimation in human-autonomy teaming.
 - [[source-plus-tips-on-getting-started-with-ai-safely]] — Summary of Plus tips on getting started with AI safely.
+- [[source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts]] — Summary of Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
@@ -110,6 +111,7 @@
 - [[source-psychology-trust-smashing]] — Summary of Smashing Magazine UX guide outlining the four pillars of trust, qualitative/quantitative metrics, and trust repair in AI.
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
 - [[source-real-virtual-humans]] — Summary of portal clipping for the Max Planck Institute's Real Virtual Humans research group.
+- [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]] — Summary of Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation.
 - [[source-robots-avatars-chatbots-dynamics]] — Summary of the Albert Łukasik & Arkadiusz Gut paper analyzing socio-cognitive stances and companionship development quality across robots, avatars, and chatbots.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 - [[source-sanctuary-ai-phoenix]] — Summary of Sanctuary AI's 7th-gen Phoenix humanoid touch sensors, hand focus, and blind picking capabilities.

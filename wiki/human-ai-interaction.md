@@ -98,8 +98,10 @@
 - raw_delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md
 - raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
 - raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
+- raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
+- raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md
 
-**Last updated**: 2026-08-07
+**Last updated**: 2026-08-08
 
 ---
 
@@ -539,10 +541,17 @@ The **DelusionEval** protocol has been introduced to quantify the propensity of 
 ## Challenges in Evaluating Explanation Methods for Static and Evolving Data
 Current approaches to evaluating Explainable AI (XAI) methods are insufficient, particularly when dealing with dynamic data scenarios (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). The study highlights the critical need for human-grounded evaluations to properly assess explanations, especially for image classification tasks (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). Research is exploring how to adapt explanations to evolving data streams, including those that experience concept drift (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). Adapting counterfactual explanations for these evolving data streams is also a key area of investigation (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). A significant challenge lies in tracking the co-evolution of data, models, and their explanations, underscoring the complexity of ensuring trustworthy and understandable AI, especially in dynamic environments (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). This directly impacts user trust and the effectiveness of human-AI collaboration (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).
 
+### Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation
+A framework for robots to learn human-like motor skills through Learning from Demonstration (LfD) has been presented, utilizing observed human dynamics. The ability of robots to exhibit human-like motion is identified as a critical factor for building trust and fostering natural collaboration in Human-Robot Interaction (HRI) (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A dataset of 3,142 handwriting demonstrations for all 52 Latin alphabet character-case combinations was collected from 22 participants via a touchscreen teleoperation interface, capturing planar position, contact force, and timing (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). The framework extends the Gaussian Mixture Model and Gaussian Mixture Regression approach by incorporating force and normalized time dimensions, and it is adapted to handle non-continuous, multi-segment trajectories, enhancing generalization across demonstrations (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A user study with 21 participants evaluated the human-likeness of the generated trajectories, achieving an average score of 71.50 (SD=22.56), indicating a perception of greater human-likeness. Participants identified geometric positioning and trajectory sequence as the most significant perceptual factors contributing to this perception, and reported positive attitudes towards human-like robot behavior (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). The collected datasets are released as open-source, providing a reproducible benchmark for future research in human-like robot motion (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md).
+
+## Poli-Bias: Understanding and Measuring LLM Biases in Political Conflicts
+
+Political bias in Large Language Models (LLMs) is a significant challenge, often manifesting in subtle ways that are difficult to measure with traditional methods. The **Poli-Bias** framework has been introduced to systematically identify and quantify such biases (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md). Poli-Bias employs a counterfactual approach, swapping country identities in prompts related to international political conflicts to detect differential treatment based on nationality (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md). The framework is designed to be granular, decomposing observed disparities into five distinct dimensions to understand *how* and *where* unequal treatment occurs (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md). Analysis of 13 LLMs revealed systematic biases, with models consistently treating equivalent actions differently based on the countries involved, affecting how they frame descriptions of actions, evaluate legality, and construct defenses under international law (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md). These findings highlight that LLMs can exhibit political impartiality issues and potential sycophancy, impacting their reliability in sensitive contexts (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
-- [[source-artificial-intelligence-and-psychology]]
+- [[source-artificial-intelligence-psychology]]
 - [[source-healthcare-human-ai-interaction]]
 - [[medical-ai]]
 - [[trust]]
@@ -647,3 +656,5 @@ Current approaches to evaluating Explainable AI (XAI) methods are insufficient, 
 - [[source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots]]
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]]
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]]
+- [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]]
+- [[source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts]]
