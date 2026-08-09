@@ -95,8 +95,9 @@
 - raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md
 - raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
 - raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
+- raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
 
-**Last updated**: 2026-08-08
+**Last updated**: 2026-08-09
 
 ---
 
@@ -111,6 +112,10 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 ### Improving Benchmark Quality for Conversational Agents
 
 The reliability of conversational agent evaluations is directly dependent on the quality of the benchmarks used for assessment. A significant challenge is that these benchmarks are rarely evaluated for their own quality (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). To address this, a novel reference-free framework has been developed that leverages Large Language Models (LLMs) as judges to assess benchmark consistency, complexity, and policy coverage (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). This framework provides diagnostic feedback on benchmark weaknesses and has been validated through agreement with human annotations and analysis of both synthetic and manually curated benchmarks (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). Ensuring robust and reliable benchmarks is a crucial step towards developing more effective and trustworthy AI systems, as it directly impacts the accuracy of performance metrics and our understanding of agent capabilities (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md).
+
+### ECHO: Locally-Deployable Agentic Health Assistant
+
+A new development, ECHO (Enhanced Care & Health Observer), is a locally-deployable conversational health assistant designed for long-term chronic care management. Its key feature is the ability to operate entirely on consumer hardware, prioritizing user privacy and regulatory compliance (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). ECHO uses an agentic chatbot with a ReAct loop, integrated with clinical tools and a temporal knowledge graph for persistent memory (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). It demonstrates advanced safety guardrails, including a hybrid layer for crisis signal detection and boundary case classification, achieving high accuracy on a Turkish health dataset (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). Furthermore, ECHO includes a multimodal speech assessment module capable of estimating user emotion, depression levels, and pain (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). The local deployment ensures no patient data is transmitted externally, building trust through enhanced privacy (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
 
 ### Beginner-Friendly Guidance and Safe AI Adoption
 
@@ -562,3 +567,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]]
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]]
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]]
+- [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]]

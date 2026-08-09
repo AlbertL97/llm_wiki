@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-08
+**Last updated**: 2026-08-09
 
 ## Orientation
 
@@ -58,6 +58,7 @@
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
+- [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]] — Summary of Embarrassed that you can't remember? Many older folks are. AI is glad to help..
@@ -142,6 +143,7 @@
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
+- [[source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels]] — Summary of "I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels.
 - [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.
 - [[source-virtual-human-embodiment]] — Summary of Virtual Human Embodiment.
 - [[source-virtual-human-interaction]] — Summary of Virtual Human Interaction.

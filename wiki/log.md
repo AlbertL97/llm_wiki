@@ -2113,3 +2113,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-09 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
+- raw/raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/medical-ai.md
+- wiki/source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment" and created summary page wiki/source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md.
+- Ingested ""I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels" and created summary page wiki/source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -568,6 +568,13 @@
       "summary": "A summary page for Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies across varying environments, embodiments, and physical disturbances."
     },
     {
+      "id": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
+      "name": "ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help",
       "name": "Embarrassed that you can't remember? Many older folks are. AI is glad to help.",
       "val": 1.5,
@@ -1303,6 +1310,13 @@
       "summary": ""
     },
     {
+      "id": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels",
+      "name": "User Perception of Digital Product Advisors Adapting to Their Knowledge Levels",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-using-ai-based-learning-assistants-in-higher-education",
       "name": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
       "val": 1.5,
@@ -1598,6 +1612,10 @@
     {
       "source": "ai-companions",
       "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
     },
     {
       "source": "anthropomorphism",
@@ -2024,6 +2042,14 @@
       "target": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents"
     },
     {
+      "source": "chatbots",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2102,6 +2128,10 @@
     {
       "source": "explainability",
       "target": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data"
+    },
+    {
+      "source": "explainability",
+      "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
     },
     {
       "source": "human-ai-interaction",
@@ -2502,6 +2532,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
     },
     {
       "source": "human-robot-interaction",
@@ -3012,6 +3050,10 @@
       "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
     },
     {
+      "source": "medical-ai",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -3126,6 +3168,10 @@
     {
       "source": "mental-health",
       "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -3829,6 +3875,10 @@
     },
     {
       "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
+      "target": "trust"
+    },
+    {
+      "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
       "target": "trust"
     },
     {
