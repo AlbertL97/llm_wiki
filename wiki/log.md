@@ -2141,3 +2141,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-10 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md
+- raw/raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-evaluating-explainable-ai-methods-for-geoscientific-regression.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/source-human-centered-explainable-ai-for-tinyml-edge-devices.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System" and created summary page wiki/source-evaluating-explainable-ai-methods-for-geoscientific-regression.md.
+- Ingested "Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design" and created summary page wiki/source-human-centered-explainable-ai-for-tinyml-edge-devices.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

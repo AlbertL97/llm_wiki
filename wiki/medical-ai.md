@@ -26,8 +26,9 @@
 - raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 - raw_delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md
 - raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
+- raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
 
-**Last updated**: 2026-08-09
+**Last updated**: 2026-08-10
 
 ---
 
@@ -45,6 +46,7 @@ Medical AI systems are deployed across several key areas of healthcare (source: 
 - **Image Reconstruction and Artifact Correction**: Advanced AI frameworks are being developed for medical imaging modalities like Cone-Beam Computed Tomography (CBCT) to address complex artifacts. A joint-decoupled iterative reconstruction framework has been introduced to tackle X-ray scatter and beam hardening, decoupling these issues for more precise correction (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md). This method utilizes a hybrid approach for scatter estimation and a voxel-adaptive mechanism for beam hardening correction, directly refining image data iteratively (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md). Validation on biomedical phantoms has demonstrated substantial accuracy improvements, significantly outperforming existing state-of-the-art techniques by reducing mean relative error (source: raw_joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction.md).
 - **Agentic Health Assistants for Chronic Care**: The ECHO system is a locally-deployable conversational health assistant designed for long-term chronic care management, operating entirely on consumer hardware to ensure user privacy and regulatory compliance (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). ECHO features an agentic chatbot utilizing a ReAct loop orchestrated by LangGraph, integrated with clinical tools and a temporal knowledge graph for persistent memory across sessions, demonstrating a 94.9% tool-execution pass rate (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
 - **Multimodal Speech Assessment for Health**: ECHO includes a dedicated module for multimodal speech assessment, combining acoustic and text encoding to estimate users' emotion, depression levels, and pain, achieving a mean macro F1 score of 0.652 (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
+- **Human-Centered XAI for TinyML Edge Devices**: A novel framework is introduced for selecting Explainable AI (XAI) methods suitable for resource-constrained TinyML edge devices, prioritizing human-centered design. This framework leverages Large Language Models (LLMs) to translate user preferences into viable XAI techniques, optimizing trade-offs between explanation quality (fidelity, stability) and deployment costs (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This approach is particularly relevant for clinical applications requiring local, understandable, and trustworthy AI inference (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -160,3 +162,4 @@ A paradigm shift is proposed for the design of soft wearable robots, moving from
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]
 - [[source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots]]
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]]
+- [[source-human-centered-explainable-ai-for-tinyml-edge-devices]]

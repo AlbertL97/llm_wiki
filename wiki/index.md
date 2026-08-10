@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-09
+**Last updated**: 2026-08-10
 
 ## Orientation
 
@@ -63,6 +63,7 @@
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]] — Summary of Embarrassed that you can't remember? Many older folks are. AI is glad to help..
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
+- [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
@@ -80,6 +81,7 @@
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
+- [[source-human-centered-explainable-ai-for-tinyml-edge-devices]] — Summary of Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design.
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]] — Summary of Human Centric Embodied Intelligence for Soft Wearable Robotics.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.

@@ -96,8 +96,10 @@
 - raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md
 - raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
 - raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
+- raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md
+- raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
 
-**Last updated**: 2026-08-09
+**Last updated**: 2026-08-10
 
 ---
 
@@ -180,6 +182,14 @@ Power indices, derived from cooperative game theory, offer a systematic method f
 ### 1f. Evaluating Explanation Methods in Dynamic Environments
 
 Current evaluation methods for Explainable AI (XAI) are insufficient, particularly when dealing with static datasets (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). For evolving data streams, there is a critical need to develop and adapt XAI methods, including counterfactual explanations, to account for concept drift and the co-evolution of data, models, and their explanations (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). Human-grounded evaluation is emphasized as essential for interpreting explanations, especially in image classification tasks, to ensure they are meaningful and trustworthy to users (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md). The challenges in tracking intertwined evolutions necessitate new approaches to maintain trust in AI systems as their underlying data and behaviors change (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).
+
+### 1g. XAI for Geoscientific Regression and Trust
+
+In operational geoscientific applications such as forecasting, establishing user trust in AI predictions is paramount. However, a significant challenge arises because most existing Explainable AI (XAI) methods were developed for classification tasks, not for the regression problems that dominate fields like Earth system science (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The applicability of current XAI techniques to regression requires careful evaluation, as demonstrated by their limitations when applied to the Lorenz 63 system (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The research provides a methodological framework for reviewing and understanding XAI approaches in regression, analyzing their theoretical underpinnings and practical behavior (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). Identifying specific failure modes and gaps in current XAI methodologies is crucial for developing a forward-looking research agenda that ensures responsible and effective XAI deployment in geoscientific modeling and forecasting, ultimately fostering necessary trust (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md).
+
+### 1h. Human-Centered Explainable AI for TinyML Edge Devices
+
+A novel framework has been developed for selecting Explainable AI (XAI) methods tailored for resource-constrained TinyML edge devices, with a strong emphasis on human-centered design (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This framework leverages Large Language Models (LLMs) to translate user needs and preferences into suitable XAI techniques that respect the limitations of edge hardware (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). It employs Pareto-based optimization to balance explanation quality (fidelity, stability) against the cost of deploying XAI on the device, thereby facilitating informed decisions and fostering trust, particularly in critical applications like healthcare (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This approach aims to make AI predictions on low-power devices more understandable and trustworthy for users such as healthcare professionals and patients (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -568,3 +578,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]]
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]]
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]]
+- [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]]
+- [[source-human-centered-explainable-ai-for-tinyml-edge-devices]]
