@@ -449,6 +449,13 @@
       "summary": "A summary page for Bloomberg's report on China's rapid advancements and market dominance in physical and embodied AI, detailing state venture funds, consumer humanoids (Unitree), and industrial inspection quadrupeds."
     },
     {
+      "id": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits",
+      "name": "CircuitReason-1k: Benchmarking Long-Horizon Visual-to-Symbolic Reasoning in Electrical Circuits",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-classifier-chain-based-pathological-test-recommendation",
       "name": "Classifier Chain-based Pathological Test Recommendation",
       "val": 1.5,
@@ -647,6 +654,13 @@
     {
       "id": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
       "name": "Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
+      "name": "Source Summary: From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2064,6 +2078,14 @@
       "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
     },
     {
+      "source": "chatbots",
+      "target": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2572,6 +2594,14 @@
       "target": "source-human-centered-explainable-ai-for-tinyml-edge-devices"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -2978,6 +3008,14 @@
     {
       "source": "measurement-tools",
       "target": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
     },
     {
       "source": "medical-ai",
@@ -3969,6 +4007,10 @@
     },
     {
       "source": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
+      "target": "trust"
+    },
+    {
+      "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
       "target": "trust"
     },
     {

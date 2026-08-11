@@ -2166,3 +2166,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-11 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md
+- raw/raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch" and created summary page wiki/source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md.
+- Ingested "CircuitReason-1k: Benchmarking Long-Horizon Visual-to-Symbolic Reasoning inElectrical Circuits" and created summary page wiki/source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

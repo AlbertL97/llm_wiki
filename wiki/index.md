@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-10
+**Last updated**: 2026-08-11
 
 ## Orientation
 
@@ -45,6 +45,7 @@
 - [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]] — Summary of Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling.
 - [[source-chinas-next-ai-breakthrough]] — Summary of Bloomberg's report on China's Physical AI market dominance, state venture funds, and consumer humanoid developments.
 - [[source-chengdu-robots]] — Summary of Chengdu's pilot program integrating offline edge traffic humanoids, holographic museum guides, Xiao Zha safety bots, and patrolling robot dogs.
+- [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]] — Summary of CircuitReason-1k: Benchmarking Long-Horizon Visual-to-Symbolic Reasoning in Electrical Circuits.
 - [[source-claude-sentience]] — Summary of the daveshap repository clippings on prompt-engineered styling guidelines and phenomenal consciousness system prompts.
 - [[source-co-creativity-table-adventure-ai]] — Summary of Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI".
 - [[source-comfortable-with-ai-doctors]] — Summary of Comfortable with AI Doctors.
@@ -68,6 +69,7 @@
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
+- [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
 - [[source-handroid-bridging-dexterous-hand-and-humanoid]] — Summary of Handroid: Bridging Dexterous Hand and Humanoid.
