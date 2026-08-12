@@ -99,8 +99,9 @@
 - raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md
 - raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
 - raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md
+- raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
 
-**Last updated**: 2026-08-11
+**Last updated**: 2026-08-12
 
 ---
 
@@ -191,6 +192,10 @@ In operational geoscientific applications such as forecasting, establishing user
 ### 1h. Human-Centered Explainable AI for TinyML Edge Devices
 
 A novel framework has been developed for selecting Explainable AI (XAI) methods tailored for resource-constrained TinyML edge devices, with a strong emphasis on human-centered design (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This framework leverages Large Language Models (LLMs) to translate user needs and preferences into suitable XAI techniques that respect the limitations of edge hardware (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). It employs Pareto-based optimization to balance explanation quality (fidelity, stability) against the cost of deploying XAI on the device, thereby facilitating informed decisions and fostering trust, particularly in critical applications like healthcare (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This approach aims to make AI predictions on low-power devices more understandable and trustworthy for users such as healthcare professionals and patients (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).
+
+### 1i. Entropy-Centric Explainable AI for Remote Sensing
+
+In critical domains such as remote sensing, deep neural networks have been widely adopted for tasks like semantic image segmentation. However, a lack of transparency in these models limits user trust and adoption (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). To address this, an entropy-centric Explainable AI (XAI) method is proposed to enhance transparency (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). A new XAI evaluation methodology is also introduced to measure the relevance of highlighted regions within the explanations (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). Experimental results indicate that this proposed XAI method is superior to existing approaches for semantic segmentation, suggesting it can improve trust in AI systems operating in sensitive domains (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -495,7 +500,7 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-when-ais-act-emotional]]
 - [[source-sanctuary-ai-phoenix]]
 - [[source-why-ai-will-replace-your-therapist]]
-- [[source-moment-my-ai-became-conscious]]
+- [[source-moment-ai-became-conscious]]
 - [[human-robot-interaction]]
 - [[source-human-robot-interactions]]
 - [[source-icubworld]]
@@ -586,3 +591,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]]
 - [[source-human-centered-explainable-ai-for-tinyml-edge-devices]]
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]]
+- [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]

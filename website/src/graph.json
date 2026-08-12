@@ -40,7 +40,7 @@
       "name": "Explainability",
       "val": 3,
       "group": 1,
-      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).** **A new method trains LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences such as external pressure or demands for exaggerated certainty, and are responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach utilizes 'counterfactual report mediators' and a 'counterfactual report-coordinate (CRC) clamp' to achieve this activation-level incentive-invariance, balancing the need to resist undue influence with the need to update beliefs based on valid evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).** **A novel method called Deep Interaction enhances human-AI collaboration by allowing direct, efficient correction of errors within the multi-step reasoning processes of LLMs, particularly in Chain-of-Thought frameworks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md). This approach enables precise editing of erroneous reasoning steps while preserving correct ones, leading to significant improvements in correction success rates and reductions in token usage for complex reasoning tasks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md).** **Furthermore, research is extending interpretability techniques to the domain of industrial process control optimisation, aiming to bridge the trust gap between engineers and operators. This involves integrating Implicit Function Theorem (IFT) based sensitivity analysis with SHAP attributions and LLM-driven narrative generation to explain complex optimisation recommendations (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). This method has demonstrated significant speedups and high correlation with existing methods, enabling real-time, operator-tailored explanations for industrial processes such as High Pressure Grinding Roll (HPGR) control (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).** **New research investigates how Large Language Models (LLMs) develop susceptibility to biases like sycophancy during the alignment tuning phase (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). It demonstrates that these biases are primarily installed post-pretraining and manifest as distinct, steerable \"representational directions\" within the model's internal states (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). By locating and manipulating these directions, researchers can debias models, steering them away from biased outputs while retaining correct answers (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md).** **Additionally, the Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the application and operationalization of XAI within creative and artistic domains, emphasizing its role in Human-Centred AI and fostering a community of practice for emerging XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).** **Recent research also explores explainable reinforcement learning for assisting Air Traffic Controllers (ATC), demonstrating that trust in AI is fundamentally linked to its explainability and that saliency maps can offer initial insights into RL agent decision-making in this critical domain (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).** **Furthermore, a new approach is challenging the limitations of traditional XAI in creative fields by advocating for methods that allow artists to directly inspect, modify, and debug AI models as part of their workflow, moving beyond opaque, end-to-end tools (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). This research proposes \"model bending\" and interactive interfaces, such as one integrated into ComfyUI, to enable artists to manipulate specific components of diffusion models and gain layer-level intuition about their operation, leading to more collaborative and empowering human-AI interaction in artistic creation (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md).** **New research in AI-based software development argues that current practices overemphasize direct code generation and neglect intermediate representations that capture human intent and aid reasoning (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). The concept of \"vibe modeling\" is introduced as a lightweight intermediate abstraction between natural language prompts and code generation, aiming to enhance understanding, validation, traceability, and ultimately, trust in AI-generated software (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). A student survey study is presented to explore the perceived usefulness of vibe modeling across various AI-assisted development scenarios (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md).** **A new paper highlights the critical need for robust evaluation of XAI methods, particularly in dynamic data scenarios, emphasizing the importance of human-grounded evaluations for explaining image classification and the challenges of adapting explanations to evolving data streams, including concept drift (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).** **Establishing trust in AI systems is paramount as they transition into operational roles within geoscientific applications, such as forecasting (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The effectiveness of Explainable AI (XAI) methods for regression tasks, which are prevalent in Earth system science, is a key area of investigation, as most current XAI techniques were primarily developed for classification (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). A study applying XAI methods to an emulator of the Lorenz 1963 system has revealed specific limitations and failure modes of these general XAI techniques when applied to regression problems (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The research also provides a structured framework for reviewing XAI approaches in regression contexts and discusses their integration into the model development lifecycle, emphasizing the need to align methodological choices with stakeholder requirements (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md).** **A new research framework addresses the specific challenges of implementing human-centered Explainable AI (XAI) on resource-constrained TinyML edge devices by employing a Pareto-based selection process guided by LLMs (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This framework optimizes the trade-offs between explanation quality, such as fidelity and stability, and the deployment costs inherent in edge computing, aiming to foster trust and informed decision-making in critical applications like healthcare (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).**"
+      "summary": "The capacity of an AI system to provide understandable explanations of its internal reasoning, outputs, or decision-making processes. This page covers post-hoc interpretability methods, natural language explanations in LLMs, and the \"Persuasion Paradox\" where explanations decouple user trust from task accuracy. New research explores using AI to interpret the internal activations of other LLMs to understand their \"thought processes,\" and introduces the concept of \"Secure Coding Drift\" in LLM-assisted development, proposing gamified solutions to maintain security rigor. Recent work also examines user skepticism, verification behaviors, and reliance on generative AI advisors, particularly in goal-directed use, highlighting the importance of output-centric cues and the need to differentiate these user constructs (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md). Furthermore, the impact of security and privacy (S&P) controls on user engagement with generative AI chatbots for emotional support is being studied, revealing that simple deletion controls are more effective than complex technical ones due to comprehension challenges, and that user trust remains fragile (source: raw_the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots.md). A novel framework, DiRLU, combines distilled reinforcement learning with privacy-preserving feature unlearning and XAI for efficient IoT security, achieving high accuracy with significantly reduced computational demands and offering mechanisms for sensitive information forgetting (source: raw_unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security.md). Additionally, AI is being applied to pathology test recommendation, framing the task as multi-label classification using Classifier Chains (CC) to leverage patient symptoms for predicting necessary tests, thereby accelerating diagnostics (source: raw_classifier-chain-based-pathological-test-recommendation.md). This system also incorporates XAI methods like SHAP for transparency and clinical interpretability, detailing symptom contributions to recommendations to enhance physician confidence (source: raw_classifier-chain-based-pathological-test-recommendation.md). New research introduces **ConceptSMILE, a model-agnostic framework for auditing the trustworthiness of concept-based Explainable AI (XAI), which uses perturbation-based methods to evaluate the dependability of concept explanations by perturbing input regions, measuring concept-response shifts, and employing surrogate models to approximate local concept behavior, assessing reliability through metrics like attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency (source: raw_conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md).** **Recent empirical research at Daimler Truck highlights challenges in applying established Requirements Engineering (RE) practices to explainability requirements, identifying conceptual ambiguity during elicitation, testability/expressiveness limitations during specification, and fragmented validation due to vague criteria and regulatory uncertainty (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md). This study suggests that current RE practices offer inadequate systematic support for explainable AI systems (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).** **A new method trains LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences such as external pressure or demands for exaggerated certainty, and are responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach utilizes 'counterfactual report mediators' and a 'counterfactual report-coordinate (CRC) clamp' to achieve this activation-level incentive-invariance, balancing the need to resist undue influence with the need to update beliefs based on valid evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).** **A novel method called Deep Interaction enhances human-AI collaboration by allowing direct, efficient correction of errors within the multi-step reasoning processes of LLMs, particularly in Chain-of-Thought frameworks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md). This approach enables precise editing of erroneous reasoning steps while preserving correct ones, leading to significant improvements in correction success rates and reductions in token usage for complex reasoning tasks (source: raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md).** **Furthermore, research is extending interpretability techniques to the domain of industrial process control optimisation, aiming to bridge the trust gap between engineers and operators. This involves integrating Implicit Function Theorem (IFT) based sensitivity analysis with SHAP attributions and LLM-driven narrative generation to explain complex optimisation recommendations (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md). This method has demonstrated significant speedups and high correlation with existing methods, enabling real-time, operator-tailored explanations for industrial processes such as High Pressure Grinding Roll (HPGR) control (source: raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md).** **New research investigates how Large Language Models (LLMs) develop susceptibility to biases like sycophancy during the alignment tuning phase (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). It demonstrates that these biases are primarily installed post-pretraining and manifest as distinct, steerable \"representational directions\" within the model's internal states (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md). By locating and manipulating these directions, researchers can debias models, steering them away from biased outputs while retaining correct answers (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md).** **Additionally, the Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the application and operationalization of XAI within creative and artistic domains, emphasizing its role in Human-Centred AI and fostering a community of practice for emerging XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).** **Recent research also explores explainable reinforcement learning for assisting Air Traffic Controllers (ATC), demonstrating that trust in AI is fundamentally linked to its explainability and that saliency maps can offer initial insights into RL agent decision-making in this critical domain (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).** **Furthermore, a new approach is challenging the limitations of traditional XAI in creative fields by advocating for methods that allow artists to directly inspect, modify, and debug AI models as part of their workflow, moving beyond opaque, end-to-end tools (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md). This research proposes \"model bending\" and interactive interfaces, such as one integrated into ComfyUI, to enable artists to manipulate specific components of diffusion models and gain layer-level intuition about their operation, leading to more collaborative and empowering human-AI interaction in artistic creation (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md).** **New research in AI-based software development argues that current practices overemphasize direct code generation and neglect intermediate representations that capture human intent and aid reasoning (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). The concept of \"vibe modeling\" is introduced as a lightweight intermediate abstraction between natural language prompts and code generation, aiming to enhance understanding, validation, traceability, and ultimately, trust in AI-generated software (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md). A student survey study is presented to explore the perceived usefulness of vibe modeling across various AI-assisted development scenarios (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md).** **A new paper highlights the critical need for robust evaluation of XAI methods, particularly in dynamic data scenarios, emphasizing the importance of human-grounded evaluations for explaining image classification and the challenges of adapting explanations to evolving data streams, including concept drift (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).** **Establishing trust in AI systems is paramount as they transition into operational roles within geoscientific applications, such as forecasting (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The effectiveness of Explainable AI (XAI) methods for regression tasks, which are prevalent in Earth system science, is a key area of investigation, as most current XAI techniques were primarily developed for classification (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). A study applying XAI methods to an emulator of the Lorenz 1963 system has revealed specific limitations and failure modes of these general XAI techniques when applied to regression problems (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md). The research also provides a structured framework for reviewing XAI approaches in regression contexts and discusses their integration into the model development lifecycle, emphasizing the need to align methodological choices with stakeholder requirements (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md).** **A new research framework addresses the specific challenges of implementing human-centered Explainable AI (XAI) on resource-constrained TinyML edge devices by employing a Pareto-based selection process guided by LLMs (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md). This framework optimizes the trade-offs between explanation quality, such as fidelity and stability, and the deployment costs inherent in edge computing, aiming to foster trust and informed decision-making in critical applications like healthcare (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).** **A new approach, \"Entropy-Centric Explainable AI,\" is proposed for semantic image segmentation in remote sensing applications (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). This method aims to enhance transparency in deep neural networks used in critical domains where trust and adoption are hindered by a lack of interpretability (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). A new XAI evaluation methodology is also introduced to measure the relevance of highlighted regions, with experimental results showing superiority over existing methods for semantic segmentation tasks (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).** **A systematic approach to enhance AI explainability is being developed by adapting power indices from cooperative game theory (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). These indices quantify the influence of individual inputs or sets of inputs on an AI's output, categorizing them along single-player, set-based, and cardinality-based dimensions (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md). This work provides theoretical contributions, new proofs for power index properties, and practical guidance for selecting appropriate indices to understand AI decision-making (source: raw_dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai.md).** **Research into digital product advisors, such as e-commerce chatbots, indicates that adapting communication to user knowledge levels is crucial for effective information presentation (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). For users with low domain knowledge, presenting technical information alongside explanations and categories (TCE) leads to higher perceived helpfulness and learning compared to presenting technical information alone or with categories only (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). Crucially, this approach does not negatively impact users with high domain knowledge (experts), suggesting a single, inclusive interface that defaults to the TCE model is beneficial for broad adoption (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). The study also highlights that categories should not be presented without explanations for novice users (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md).**"
     },
     {
       "id": "human-ai-interaction",
@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Crucially, for children facing communication barriers, such as those with Developmental Language Disorder (DLD) or from forced migration backgrounds, social robots can serve as tools for wellbeing assessment, offering alternatives to traditional verbal methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). The field of Human-Centric Embodied Intelligence (HCEI) is emerging for soft wearable robots, viewing intelligence as a co-emergence from the coupled system of human and robot, prioritizing human perception and cognition in design through the PCAA framework, aiming for long-term user benefit and deployment (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). Robots can learn human-like motor skills through Learning from Demonstration (LfD) by observing human dynamics, with generated trajectories achieving high perceived human-likeness scores that positively influence user attitudes towards robots (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md)."
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Crucially, for children facing communication barriers, such as those with Developmental Language Disorder (DLD) or from forced migration backgrounds, social robots can serve as tools for wellbeing assessment, offering alternatives to traditional verbal methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). The field of Human-Centric Embodied Intelligence (HCEI) is emerging for soft wearable robots, viewing intelligence as a co-emergence from the coupled system of human and robot, prioritizing human perception and cognition in design through the PCAA framework, aiming for long-term user benefit and deployment (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). Robots can learn human-like motor skills through Learning from Demonstration (LfD) by observing human dynamics, with generated trajectories achieving high perceived human-likeness scores that positively influence user attitudes towards robots (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A new dataset, HUI360, offers a large-scale, in-the-wild collection of egocentric 360° videos from a mobile robot's perspective, designed to advance research in human-robot interaction anticipation by capturing spontaneous human behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md)."
     },
     {
       "id": "index",
@@ -617,6 +617,13 @@
       "summary": "Development and psychometric validation of the 4-factor CEIA scale (Perceived Authenticity, Emotional Validation, Affective Recognition, and Symbolic Bonding) to measure affective trust in AI among university students."
     },
     {
+      "id": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation",
+      "name": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
       "name": "Epistemic Stance Flexibility Probing: Measuring Prompt-Conditioned Register Shift in Large Language Models",
       "val": 1.5,
@@ -776,6 +783,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the human-robot interaction (HRI) literature survey analyzing trust definitions and metrics, and distinguishing performance-based trust from relation-based trust."
+    },
+    {
+      "id": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation",
+      "name": "HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-human-artificial-intelligence-interaction",
@@ -2178,428 +2192,12 @@
       "target": "source-human-centered-explainable-ai-for-tinyml-edge-devices"
     },
     {
-      "source": "human-ai-interaction",
-      "target": "source-what-is-human-centered-ai"
+      "source": "explainability",
+      "target": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation"
     },
     {
-      "source": "human-ai-interaction",
-      "target": "source-healthcare-human-ai-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "medical-ai"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "trust"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-avatar-video-robot-trust"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-robots-avatars-chatbots-dynamics"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ice-environments-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-already-conscious"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-what-is-a-robot"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-scientists-proved-emotions"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-problem-humanoid-robot"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-softbank-robotics-home"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-early-preview-generalist"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-chengdu-robots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-chinas-next-ai-breakthrough"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-sanctuary-ai-phoenix"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-moment-my-ai-became-conscious"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "human-robot-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-united-robotics-group"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "explainability"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-avatars-human-avatars"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-aaai-2026-cool-papers"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-persuasion-paradox-explanations"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-muvap-turn-taking-prediction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-co-creativity-table-adventure-ai"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-experts-warning-dangerous-llm-problem"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-antigravity-sdk-building-digital-simulated-world"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-where-ai-agents-build-worlds"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-this-is-openclaw-on-steroids"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "measurement-tools"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-behavioral-signatures-large-language-models"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-llm-council-synthetic-cognitive-systems"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-trajectory-safety-observatory-vulnerable-user"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-what-is-ai-psychology"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-using-ai-based-learning-assistants-in-higher-education"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-classifier-chain-based-pathological-test-recommendation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-gotta-catch-them-all-the-modes-of-sycophancy"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-plus-tips-on-getting-started-with-ai-safely"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-model-in-the-middle-toward-ai-native-real-time-communication"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-image-quality-dependent-degradation-for-ai-systems"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-agentic-metaverse-services-a-new-as-a-service-paradigm"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-ai-sycophancy-and-decisions"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-evaluating-explainable-ai-methods-for-geoscientific-regression"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-human-centered-explainable-ai-for-tinyml-edge-devices"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
+      "source": "human-robot-interaction",
+      "target": "human-ai-interaction"
     },
     {
       "source": "human-robot-interaction",
@@ -2782,6 +2380,10 @@
       "target": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation"
     },
     {
+      "source": "human-robot-interaction",
+      "target": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation"
+    },
+    {
       "source": "introspective-awareness",
       "target": "source-emergent-introspective-awareness"
     },
@@ -2907,6 +2509,10 @@
     },
     {
       "source": "measurement-tools",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "measurement-tools",
       "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
     },
     {
@@ -3018,8 +2624,20 @@
       "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
+    },
+    {
+      "source": "medical-ai",
+      "target": "human-ai-interaction"
     },
     {
       "source": "medical-ai",
@@ -3579,7 +3197,19 @@
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
       "target": "trust"
+    },
+    {
+      "source": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-aaai-2026-cool-papers",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-aaai-2026-cool-papers",
@@ -3607,10 +3237,18 @@
     },
     {
       "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
       "target": "trust"
     },
     {
       "source": "source-agency-continuum",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-agentic-metaverse-services-a-new-as-a-service-paradigm",
       "target": "human-ai-interaction"
     },
     {
@@ -3632,6 +3270,10 @@
     {
       "source": "source-ai-avatar-design-features",
       "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-ai-avatars-human-avatars",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-avatars-human-avatars",
@@ -3675,7 +3317,15 @@
     },
     {
       "source": "source-ai-experts-warning-dangerous-llm-problem",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-experts-warning-dangerous-llm-problem",
       "target": "trust"
+    },
+    {
+      "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
@@ -3695,7 +3345,15 @@
     },
     {
       "source": "source-ai-sycophancy-and-decisions",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-sycophancy-and-decisions",
       "target": "trust"
+    },
+    {
+      "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
@@ -3722,8 +3380,20 @@
       "target": "trust"
     },
     {
+      "source": "source-already-conscious",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-ami-documentary",
       "target": "trust"
+    },
+    {
+      "source": "source-antigravity-sdk-building-digital-simulated-world",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
@@ -3782,6 +3452,10 @@
       "target": "trust"
     },
     {
+      "source": "source-avatar-video-robot-trust",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-bees-chatgpt-consciousness",
       "target": "chatbots"
     },
@@ -3802,8 +3476,20 @@
       "target": "source-unfinishable-map"
     },
     {
+      "source": "source-behavioral-signatures-large-language-models",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
       "target": "trust"
+    },
+    {
+      "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
@@ -3826,8 +3512,24 @@
       "target": "measurement-tools"
     },
     {
+      "source": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
       "target": "trust"
+    },
+    {
+      "source": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data",
@@ -3844,6 +3546,26 @@
     {
       "source": "source-chatbot-counseling-representation",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-chengdu-robots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-chinas-next-ai-breakthrough",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-classifier-chain-based-pathological-test-recommendation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-co-creativity-table-adventure-ai",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-co-creativity-table-adventure-ai",
@@ -3864,6 +3586,10 @@
     {
       "source": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
       "target": "trust"
+    },
+    {
+      "source": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-conscious-turing-machine",
@@ -3907,11 +3633,23 @@
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "trust"
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "explainability"
+    },
+    {
+      "source": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
@@ -3920,6 +3658,14 @@
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
       "target": "chatbots"
+    },
+    {
+      "source": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
@@ -3938,6 +3684,10 @@
       "target": "persuasion-and-influence"
     },
     {
+      "source": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
       "target": "trust"
     },
@@ -3947,11 +3697,31 @@
     },
     {
       "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
       "target": "trust"
+    },
+    {
+      "source": "source-early-preview-generalist",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
       "target": "trust"
+    },
+    {
+      "source": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-emotional-attachment-robots-future",
@@ -3964,6 +3734,14 @@
     {
       "source": "source-emotional-trust-scale-ceia",
       "target": "ai-companions"
+    },
+    {
+      "source": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation",
+      "target": "trust"
+    },
+    {
+      "source": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
@@ -3994,8 +3772,20 @@
       "target": "trust"
     },
     {
+      "source": "source-evaluating-explainable-ai-methods-for-geoscientific-regression",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
       "target": "explainability"
+    },
+    {
+      "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
@@ -4003,11 +3793,23 @@
     },
     {
       "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
       "target": "trust"
     },
     {
       "source": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
       "target": "trust"
+    },
+    {
+      "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
@@ -4027,11 +3829,23 @@
     },
     {
       "source": "source-gotta-catch-them-all-the-modes-of-sycophancy",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-gotta-catch-them-all-the-modes-of-sycophancy",
       "target": "trust"
     },
     {
       "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
       "target": "trust"
+    },
+    {
+      "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
@@ -4044,6 +3858,10 @@
     {
       "source": "source-health-advisory-mental-health",
       "target": "trust"
+    },
+    {
+      "source": "source-healthcare-human-ai-interaction",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-healthcare-human-ai-interaction",
@@ -4095,7 +3913,15 @@
     },
     {
       "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
       "target": "trust"
+    },
+    {
+      "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
@@ -4114,6 +3940,10 @@
       "target": "human-robot-interaction"
     },
     {
+      "source": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-human-artificial-intelligence-interaction",
       "target": "human-ai-interaction"
     },
@@ -4127,7 +3957,15 @@
     },
     {
       "source": "source-human-centered-explainable-ai-for-tinyml-edge-devices",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-human-centered-explainable-ai-for-tinyml-edge-devices",
       "target": "trust"
+    },
+    {
+      "source": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
@@ -4151,7 +3989,15 @@
     },
     {
       "source": "source-humanlikeness-as-design-anthropomorphism-as-inference",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-humanlikeness-as-design-anthropomorphism-as-inference",
       "target": "trust"
+    },
+    {
+      "source": "source-ice-environments-interaction",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ice-environments-interaction",
@@ -4159,6 +4005,10 @@
     },
     {
       "source": "source-icubworld",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-image-quality-dependent-degradation-for-ai-systems",
       "target": "human-ai-interaction"
     },
     {
@@ -4187,11 +4037,27 @@
     },
     {
       "source": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
       "target": "trust"
     },
     {
       "source": "source-llm-council-synthetic-cognitive-systems",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-llm-council-synthetic-cognitive-systems",
       "target": "trust"
+    },
+    {
+      "source": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
@@ -4227,6 +4093,10 @@
     },
     {
       "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
       "target": "trust"
     },
     {
@@ -4238,6 +4108,18 @@
       "target": "trust"
     },
     {
+      "source": "source-moment-my-ai-became-conscious",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-muvap-turn-taking-prediction",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-persuasion-paradox-explanations",
       "target": "explainability"
     },
@@ -4246,8 +4128,24 @@
       "target": "trust"
     },
     {
+      "source": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-plus-tips-on-getting-started-with-ai-safely",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-plus-tips-on-getting-started-with-ai-safely",
       "target": "trust"
+    },
+    {
+      "source": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-problem-humanoid-robot",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-problem-humanoid-robot",
@@ -4255,7 +4153,15 @@
     },
     {
       "source": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4",
       "target": "trust"
+    },
+    {
+      "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
@@ -4272,6 +4178,10 @@
     {
       "source": "source-psychogenic-machine",
       "target": "trust"
+    },
+    {
+      "source": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
@@ -4299,10 +4209,18 @@
     },
     {
       "source": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
       "target": "trust"
     },
     {
       "source": "source-qualitati",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
       "target": "human-ai-interaction"
     },
     {
@@ -4324,6 +4242,10 @@
     {
       "source": "source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation",
       "target": "explainability"
+    },
+    {
+      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
@@ -4366,8 +4288,20 @@
       "target": "trust"
     },
     {
+      "source": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-robots-avatars-chatbots-dynamics",
       "target": "trust"
+    },
+    {
+      "source": "source-robots-avatars-chatbots-dynamics",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-sanctuary-ai-phoenix",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-sanctuary-ai-phoenix",
@@ -4378,12 +4312,28 @@
       "target": "trust"
     },
     {
+      "source": "source-scientists-proved-emotions",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
       "target": "trust"
     },
     {
       "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
@@ -4410,6 +4360,10 @@
       "target": "explainability"
     },
     {
+      "source": "source-softbank-robotics-home",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-sycophancy-pushback-loading",
       "target": "trust"
     },
@@ -4439,6 +4393,10 @@
     },
     {
       "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
       "target": "chatbots"
     },
     {
@@ -4447,7 +4405,15 @@
     },
     {
       "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
       "target": "trust"
+    },
+    {
+      "source": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
@@ -4456,6 +4422,14 @@
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
       "target": "chatbots"
+    },
+    {
+      "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
@@ -4468,6 +4442,14 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-this-is-openclaw-on-steroids",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
@@ -4495,6 +4477,10 @@
     },
     {
       "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
       "target": "explainability"
     },
     {
@@ -4503,6 +4489,10 @@
     },
     {
       "source": "source-trajectory-observatory",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-trajectory-safety-observatory-vulnerable-user",
       "target": "human-ai-interaction"
     },
     {
@@ -4531,6 +4521,10 @@
     },
     {
       "source": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",
       "target": "trust"
     },
     {
@@ -4542,12 +4536,24 @@
       "target": "human-robot-interaction"
     },
     {
+      "source": "source-united-robotics-group",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
       "target": "human-ai-interaction"
     },
     {
       "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
       "target": "trust"
+    },
+    {
+      "source": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-using-ai-based-learning-assistants-in-higher-education",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
@@ -4579,7 +4585,15 @@
     },
     {
       "source": "source-what-is-a-robot",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-is-a-robot",
       "target": "trust"
+    },
+    {
+      "source": "source-what-is-ai-psychology",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-what-is-ai-psychology",
@@ -4596,6 +4610,10 @@
     {
       "source": "source-what-is-ai-psychology",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-what-is-human-centered-ai",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-what-is-human-centered-ai",
@@ -4626,8 +4644,16 @@
       "target": "chatbots"
     },
     {
+      "source": "source-where-ai-agents-build-worlds",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
       "target": "trust"
+    },
+    {
+      "source": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-why-ai-will-replace-your-therapist",
@@ -4644,6 +4670,10 @@
     {
       "source": "trust",
       "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "trust",
+      "target": "human-ai-interaction"
     },
     {
       "source": "trust",

@@ -106,8 +106,10 @@
 - raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
 - raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md
 - raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
+- raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
+- raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
 
-**Last updated**: 2026-08-11
+**Last updated**: 2026-08-12
 
 ---
 
@@ -569,7 +571,9 @@ The "Grip on LLMs" framework provides a systematic approach to evaluating Large 
 
 **CircuitReason-1k Benchmarking for Visual-to-Symbolic Reasoning**: A new benchmark, CircuitReason-1k, has been introduced to evaluate the advanced reasoning capabilities of multimodal AI models in electrical circuit analysis (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md). This benchmark consists of 1,000 electrical circuit problems from textbooks, testing a model's ability to perform long-horizon visual-to-symbolic reasoning, which includes grounding symbols, understanding topology, applying physical models, and propagating quantities and conventions accurately through multi-step processes (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md). Current state-of-the-art multimodal LLMs show performance limitations on these complex reasoning tasks, with accuracy declining on problems requiring longer reasoning horizons (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md). Common failure points identified include topology-to-target binding, adherence to physical conventions, and the propagation of results in later stages of problem-solving (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md). This benchmark provides a focused testbed for assessing how well multimodal models can translate visual evidence into sustained, physically valid symbolic reasoning, which is crucial for building trust and ensuring reliability in AI systems performing technical analysis (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md).
 
-## Related pages
+Deep neural networks, commonly employed in sensitive fields like remote sensing, face challenges related to transparency and trust due to their inherent lack of interpretability (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). To address this, an **entropy-centric Explainable AI (XAI)** methodology has been developed specifically for semantic image segmentation tasks, aiming to enhance system transparency (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). This approach introduces a novel evaluation framework for XAI, designed to rigorously assess the relevance of highlighted regions within segmentations (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). Experiments indicate that the proposed XAI method outperforms existing techniques, offering a more effective way to understand and trust AI-driven segmentation in remote sensing applications (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
+
+### 0.2 Related pages
 
 - [[source-what-is-human-centered-ai]]
 - [[source-artificial-intelligence-psychology]]
@@ -685,3 +689,5 @@ The "Grip on LLMs" framework provides a systematic approach to evaluating Large 
 - [[source-human-centered-explainable-ai-for-tinyml-edge-devices]]
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]]
 - [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]]
+- [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
+- [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]

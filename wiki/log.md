@@ -2191,3 +2191,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-12 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
+- raw/raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation" and created summary page wiki/source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md.
+- Ingested "HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation" and created summary page wiki/source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
