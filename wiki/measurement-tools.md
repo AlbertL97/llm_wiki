@@ -51,14 +51,17 @@
 - raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
 - raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
+- raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
 
 ---
 
 ## Main content
 
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
+A significant advancement in LLM tutor design aims to improve learning by teaching models to strategically withhold answers, rather than always providing direct solutions (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). This "supervisor architecture" and "evidence-driven tuning method" enforce a contract for answer withholding, preventing students from developing over-reliance on immediate answers and improving their performance on subsequent assessments (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). LLMs can struggle with reliably withholding answers, especially when prompted by frustrated students, which can negatively impact learning outcomes (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). The proposed system uses a policy core, code detector, and LLM judge to enforce withholding criteria, and iterative tuning identifies and fixes "over-help ladder" issues (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md).
 
 In the context of governmental use, the "Grip on LLMs" framework has been developed to systematically evaluate Large Language Models (LLMs) (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md). This framework extends beyond technical performance to include crucial dimensions for public administration: factuality, honesty, social bias, energy consumption, cost, and training data transparency (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md). Importantly, research using this framework has shown that factuality and honesty are distinct properties, meaning a factually correct model does not necessarily acknowledge its limitations or uncertainties (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md). This finding is critical for building trust in AI systems deployed in public service (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md). The study also revealed unavoidable trade-offs between LLM quality, environmental impact, and financial cost, and that bias appears independent of cost and environmental factors (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md).
 
@@ -288,3 +291,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]]
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
+- [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]

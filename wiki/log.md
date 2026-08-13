@@ -2217,3 +2217,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-13 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
+- raw/raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-teaching-llm-tutor-withhold-answer-supervisor-architecture.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/persuasion-and-influence.md
+- wiki/source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior" and created summary page wiki/source-teaching-llm-tutor-withhold-answer-supervisor-architecture.md.
+- Ingested "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL" and created summary page wiki/source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

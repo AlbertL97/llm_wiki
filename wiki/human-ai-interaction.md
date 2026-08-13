@@ -108,8 +108,10 @@
 - raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
 - raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
+- raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
+- raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
 
 ---
 
@@ -573,6 +575,9 @@ The "Grip on LLMs" framework provides a systematic approach to evaluating Large 
 
 Deep neural networks, commonly employed in sensitive fields like remote sensing, face challenges related to transparency and trust due to their inherent lack of interpretability (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). To address this, an **entropy-centric Explainable AI (XAI)** methodology has been developed specifically for semantic image segmentation tasks, aiming to enhance system transparency (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). This approach introduces a novel evaluation framework for XAI, designed to rigorously assess the relevance of highlighted regions within segmentations (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). Experiments indicate that the proposed XAI method outperforms existing techniques, offering a more effective way to understand and trust AI-driven segmentation in remote sensing applications (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
 
+### The Critical Problem of Simulator Collapse in Multi-Agent Reinforcement Learning
+In multi-agent reinforcement learning (MARL) applied to human-AI interaction, a significant challenge is the tendency for AI policies to overfit to simulators that exhibit "simulator collapse." This occurs when a simulator, often an LLM designed to mimic human behavior, becomes "mode-collapsed," meaning it predominantly exhibits a narrow range of dominant behavioral patterns (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). An AI policy trained against such a mode-collapsed simulator will over-optimize for these specific, limited strategies, leading to poor generalization when interacting with unseen simulators or, more importantly, actual human users (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). The paper formalizes this issue and proposes two solutions: **Verbalized Sampling** and **Co-Training** (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). Verbalized Sampling aims to reduce mode collapse by sampling from a diversified verbalized response distribution, thereby broadening the simulator's behavior (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). Co-Training, on the other hand, involves jointly optimizing the policy against a population of trainable simulators, preventing overfitting to any single simulator's dominant modes (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). Both methods have demonstrated significant improvements in policy diversity and transferability to real users across multiple benchmarks (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). This work underscores the necessity of environmental diversity for the successful generalization of multi-turn RL systems in human-AI interaction (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md).
+
 ### 0.2 Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -691,3 +696,5 @@ Deep neural networks, commonly employed in sensitive fields like remote sensing,
 - [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]]
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
+- [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
+- [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]

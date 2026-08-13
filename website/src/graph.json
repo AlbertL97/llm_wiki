@@ -974,6 +974,13 @@
       "summary": ""
     },
     {
+      "id": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
+      "name": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
       "name": "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users",
       "val": 1.5,
@@ -1200,6 +1207,13 @@
     {
       "id": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
       "name": "Teacher Knows It Best: Spontaneous Symmetry Breaking and Tipping Points in Networked Langevin Dynamics AI Sycophancy",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture",
+      "name": "Source Summary: Teaching a Large Language Model Tutor to Withhold the Answer",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1660,6 +1674,10 @@
       "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
     },
     {
+      "source": "ai-companions",
+      "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2098,6 +2116,14 @@
     {
       "source": "chatbots",
       "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
     },
     {
       "source": "explainability",
@@ -2632,6 +2658,10 @@
       "target": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -3045,10 +3075,6 @@
     },
     {
       "source": "persuasion-and-influence",
-      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
-    },
-    {
-      "source": "persuasion-and-influence",
       "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
     },
     {
@@ -3094,6 +3120,14 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
     },
     {
       "source": "qualitative-methods",
@@ -3704,6 +3738,10 @@
       "target": "trust"
     },
     {
+      "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
+      "target": "persuasion-and-influence"
+    },
+    {
       "source": "source-early-preview-generalist",
       "target": "human-ai-interaction"
     },
@@ -4114,6 +4152,14 @@
     {
       "source": "source-muvap-turn-taking-prediction",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
+      "target": "trust"
     },
     {
       "source": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
@@ -4718,6 +4764,10 @@
     {
       "source": "trust",
       "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
+    },
+    {
+      "source": "trust",
+      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
     }
   ]
 }

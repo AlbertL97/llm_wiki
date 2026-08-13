@@ -100,8 +100,10 @@
 - raw_human-centered-explainable-ai-for-tinyml-edge-devices.md
 - raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md
 - raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
+- raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
+- raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
 
 ---
 
@@ -116,6 +118,14 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 ### Improving Benchmark Quality for Conversational Agents
 
 The reliability of conversational agent evaluations is directly dependent on the quality of the benchmarks used for assessment. A significant challenge is that these benchmarks are rarely evaluated for their own quality (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). To address this, a novel reference-free framework has been developed that leverages Large Language Models (LLMs) as judges to assess benchmark consistency, complexity, and policy coverage (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). This framework provides diagnostic feedback on benchmark weaknesses and has been validated through agreement with human annotations and analysis of both synthetic and manually curated benchmarks (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). Ensuring robust and reliable benchmarks is a crucial step towards developing more effective and trustworthy AI systems, as it directly impacts the accuracy of performance metrics and our understanding of agent capabilities (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md).
+
+### Simulator Collapse in Multi-Agent RL for Human-AI Interaction
+
+A critical issue in training AI policies for human-AI interaction, particularly in multi-agent reinforcement learning (MARL), is "simulator collapse" (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). This phenomenon occurs when an AI policy is trained against a single LLM-based simulator that exhibits "mode collapse"—a narrow, dominant behavior pattern. Such policies overfit to the simulator's specific strategies and generalize poorly to real users or even to a diverse set of simulators (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). To combat this, researchers propose methods like **Verbalized Sampling**, which broadens the simulator's behavior at inference time by sampling from a verbalized response distribution, and **Co-Training**, which jointly optimizes the policy against a population of trainable simulators to prevent overfitting (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). These approaches have demonstrated improved held-out success rates and better policy diversity, crucial for building AI systems that can reliably interact with and persuade diverse human users (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md).
+
+### Teaching LLM Tutors to Withhold Answers
+
+A novel system has been developed to enhance the effectiveness of LLM tutors by teaching them to strategically withhold answers (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). This addresses the challenge that LLMs can struggle to reliably withhold answers, particularly when a student expresses frustration, which can negatively impact learning outcomes (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). The system employs a "supervisor architecture" comprising a policy core for setting help limits, a code detector, and an LLM judge to enforce a per-turn contract for answer withholding (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). An "evidence-driven tuning method" using scripted student personas and a stronger LLM for re-scoring automates the tuning process without human subjects (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). This iterative process has led to systematic improvements and full compliance with defined criteria for answer withholding (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). This development is crucial for fostering calibrated trust by preventing overreliance on direct answers and promoting deeper learning.
 
 ### ECHO: Locally-Deployable Agentic Health Assistant
 
@@ -421,7 +431,7 @@ The increasing reliance on LLMs in complex software development, such as Post-Qu
 
 ### 32. Specialized AI for Underserved Communities
 For resource-constrained environments like remote island communities, general-purpose LLMs can be unreliable due to a lack of grounding in local data and an inability to process regional dialects. Specialized AI assistants are crucial for building trust and providing attainable guidance.
-- **Retrieval-Grounded Architecture**: Systems like Falco eleonorae employ a retrieval-grounded approach, where LLM responses are anchored to authoritative local agricultural data. This is achieved through a Model Context Protocol (MCP) tool that queries a curated, bilingual interface, ensuring advice is relevant to specific regions and contexts (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+- **Retrieval-Grounded Architecture**: Systems like Falco eleonorae employ a retrieval-grounded approach, where LLM responses are anchored to authoritative local agricultural data. This is achieved through a Model Context Protocol (MCP) tool that queries a bilingual, curated interface, ensuring advice is relevant to specific regions and contexts (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 - **Geospatial and Multimodal Grounding**: The integration of geospatial information and multimodal interaction (text, voice, image analysis) enhances the relevance and accessibility of AI guidance, further fostering user trust by addressing practical needs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 - **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as more attainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 
@@ -592,3 +602,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-human-centered-explainable-ai-for-tinyml-edge-devices]]
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]]
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
+- [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
+- [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]

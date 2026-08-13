@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-13
 
 ## Orientation
 
@@ -105,6 +105,7 @@
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
+- [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]] — Summary of Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation.
@@ -132,6 +133,7 @@
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
+- [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
 - [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]] — Summary of The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development.
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
