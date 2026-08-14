@@ -37,14 +37,17 @@
 - raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
 - raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
 - raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+- raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-14
 
 ---
 
 ## Main content
 
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md).
+
+The social appropriateness of a robot's actions is a complex emergent property, heavily dependent on both the physical environment and the social cues present, such as the arrangement and presence of people (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). To effectively navigate diverse situations, robots require a framework for continual learning that allows them to adapt their actions to new contexts sequentially without catastrophically forgetting previously acquired knowledge or norms (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). Frameworks that explicitly disentangle environmental knowledge from social-agent related knowledge, employing mechanisms like replay-based rehearsal, have demonstrated effectiveness in learning and retaining socially appropriate behaviors across various indoor environments and can surpass existing state-of-the-art baselines (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md).
 
 A critical challenge in applying multi-agent reinforcement learning (MARL) to human-AI interaction, particularly for AI companions, is the phenomenon of "simulator collapse" (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). This occurs when a single large language model (LLM) is used to simulate user behavior and exhibits "mode collapse," meaning it has a narrow, dominant behavioral pattern (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). Training an AI policy against such a mode-collapsed simulator leads to policies that overfit to exploiting the simulator's dominant strategies and, consequently, generalize poorly to actual human users or unseen simulators (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). To address this, techniques like "Verbalized Sampling" and "Co-Training" have been proposed to broaden the simulator's behavior and prevent overfitting, demonstrating significant improvements in held-out success rates and policy diversity (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md). This highlights that environmental diversity is crucial for the successful generalization of multi-turn RL systems interacting with humans.
 
@@ -208,3 +211,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]]
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]]
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]
+- [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]

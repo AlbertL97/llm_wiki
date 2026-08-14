@@ -2244,3 +2244,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-14 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
+- raw/raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/anthropomorphism.md
+- wiki/source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement" and created summary page wiki/source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md.
+- Ingested "On the global feature importance for interpretable and trustworthy heat demand forecasting" and created summary page wiki/source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

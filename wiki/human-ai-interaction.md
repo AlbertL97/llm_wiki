@@ -110,8 +110,10 @@
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 - raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+- raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
+- raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-14
 
 ---
 
@@ -467,7 +469,7 @@ Recent research challenges the view of sycophancy in Large Language Models (LLMs
 
 ### 36. Explainable AI (XAI) in Artistic Applications
 
-The Fourth International Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the growing importance of making AI systems understandable within creative and artistic domains (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). XAI is positioned as a crucial component of Responsible and Human-Centred AI, employing HCI techniques to increase transparency (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). The workshop fosters a community of practice focused on critical reflection, collaboration, and the development of open XAI projects, with a specific emphasis on promoting diversity and inclusivity in XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). While not directly a psychological study, the focus on XAI in arts is relevant to human-AI interaction by aiming to make AI more interpretable and understandable, potentially influencing user perception and trust in AI systems used in expressive contexts (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).
+The Fourth International Workshop on eXplainable AI (XAI) for the Arts (XAIxArts 4) highlights the growing importance of making AI systems understandable within creative and artistic domains (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). XAI is positioned as a crucial component of Responsible and Human-Centred AI, employing HCI techniques to increase transparency (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). The workshop fosters a community of practice focused on critical reflection, collaboration, and the development of open XAI projects, with a specific emphasis on promoting diversity and inclusivity in XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). While not directly a psychological study, the focus on XAI in arts is relevant to human-AI interaction by aiming to make AI more interpretable and understandable, potentially influencing user perception and trust in AI systems used in expressive contexts (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).
 
 ### 37. Structured Resistance and Compliance in LLM Moral Reasoning
 
@@ -698,3 +700,5 @@ In multi-agent reinforcement learning (MARL) applied to human-AI interaction, a 
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]
+- [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
+- [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]]

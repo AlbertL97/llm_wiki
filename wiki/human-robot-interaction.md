@@ -41,8 +41,9 @@
 - raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md
 - raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
+- raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-14
 
 ---
 
@@ -81,6 +82,8 @@ A novel approach to social robot navigation in crowded environments focuses on d
 New research also highlights the potential of social robots in assessing the wellbeing of children, particularly those with communication barriers. For children with Developmental Language Disorder (DLD) and those from forced migration backgrounds, traditional verbal assessment methods can be inadequate. Social robots offer a promising avenue by facilitating wellbeing assessment through alternative interaction methods that consider the robot's role, interactional dynamics, individual differences, and child agency (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). This approach emphasizes the need for designs that are inclusive, appropriate, and ethically sound, moving beyond language-dependent assessments to better support diverse child populations (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
 
 The field of Human-Centric Embodied Intelligence (HCEI) for soft wearable robots proposes that intelligence emerges from the coupled system of a human wearer and the wearable robot. This approach moves beyond traditional actuator-centric designs by prioritizing human perception and cognition through the Perception-Cognition-Actuation-Augmentation (PCAA) framework (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). HCEI aims to accelerate the development of personalized, predictive, and human-centric wearable intelligence, fostering long-term user benefit, trust, and comfortable wear for applications in rehabilitation, assistance, and augmentation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). This paradigm synthesizes progress across soft materials, wearable sensing, AI, actuation, HRI, digital twins, clinical translation, and ethics (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md).
+
+Robots need to learn and adapt their actions to be socially appropriate across a variety of environments and contexts. This requires continual learning, especially in domain-incremental settings where new situations are encountered sequentially (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). The social appropriateness of a robot's actions is heavily dependent on both the physical environment and the social cues present, such as the presence and arrangement of people (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). To address this, the Explicit Disentanglement Dual-Branch (EDD) framework has been proposed. EDD explicitly disentangles environmental knowledge from social-agent related knowledge and uses replay-based rehearsal to prevent catastrophic forgetting while learning action appropriateness in new domains (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). Experimental results demonstrate that EDD surpasses several state-of-the-art baselines in its ability to learn and retain socially appropriate behaviors across diverse indoor environments (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -235,3 +238,4 @@ Novel approaches to human-robot interaction are exploring how robots can physica
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]]
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]]
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
+- [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]

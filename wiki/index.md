@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-14
 
 ## Orientation
 
@@ -102,9 +102,11 @@
 - [[source-longitudinal-review-trust-healthcare]] — Summary of narrative review on trust in healthcare AI and the Interdisciplinary Human-AI Trust Research (I-HATR) framework.
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
+- [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
+- [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.

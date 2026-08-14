@@ -102,8 +102,10 @@
 - raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 - raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+- raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
+- raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-14
 
 ---
 
@@ -154,6 +156,10 @@ A paradigm shift is occurring in the design of soft wearable robots, moving from
 ### Learning Human-Like Motion for Enhanced Trust and Interaction
 
 Robots learning from human demonstrations (LfD) is crucial for achieving human-like motion, which directly impacts user trust and the naturalness of collaboration in Human-Robot Interaction (HRI) (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A framework extending Gaussian Mixture Models has been developed to learn trajectories from handwriting demonstrations, incorporating force and normalized time, and handling multi-segment movements (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). User evaluations revealed that generated trajectories were perceived as significantly more human-like, with an average score of 71.50 (SD=22.56) (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). Factors like geometric positioning and the sequence of movements were identified as key contributors to this perception (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). Participants also reported positive attitudes towards human-like robot behavior (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). These findings underscore that the visual quality and naturalness of robot movements can play a significant role in establishing user trust and acceptance.
+
+### Mind the Context: Continual Learning for Socially Appropriate Robot Actions
+
+The social appropriateness of a robot's actions is highly context-dependent, influenced by both the physical environment and social cues like the presence and arrangement of people (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). To address the need for robots to learn and adapt these behaviors continuously without forgetting prior knowledge, a framework called Explicit Disentanglement Dual-Branch (EDD) has been proposed (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). EDD disentangles environmental and social knowledge and uses replay-based rehearsal to prevent catastrophic forgetting, enabling robots to learn contextually appropriate actions like cleaning or initiating conversation across diverse indoor settings (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). This work is crucial for developing robots that can interact more naturally and build trust through socially competent behavior.
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -206,6 +212,10 @@ A novel framework has been developed for selecting Explainable AI (XAI) methods 
 ### 1i. Entropy-Centric Explainable AI for Remote Sensing
 
 In critical domains such as remote sensing, deep neural networks have been widely adopted for tasks like semantic image segmentation. However, a lack of transparency in these models limits user trust and adoption (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). To address this, an entropy-centric Explainable AI (XAI) method is proposed to enhance transparency (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). A new XAI evaluation methodology is also introduced to measure the relevance of highlighted regions within the explanations (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). Experimental results indicate that this proposed XAI method is superior to existing approaches for semantic segmentation, suggesting it can improve trust in AI systems operating in sensitive domains (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
+
+### 1j. Interpretable and Trustworthy Heat Demand Forecasting
+
+In the context of intelligent control of District Heating Systems, interpretability and trustworthiness are paramount for adherence to standards, customer satisfaction, and managing liability risks. A novel ante-hoc Explainable AI (XAI) methodology has been developed to assess the global feature importance of Machine Learning (ML) models used for heat demand forecasting (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). This approach evaluates intrinsic interpretability of Gradient Boosting methods and post-hoc techniques like Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), and SHapley Additive exPlanations (SHAP), deliberately excluding feature permutation or perturbation to avoid bias from unrealistic data instances (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). By analyzing the relationships and complementarities between these methods within the operational context of district heating, the research aims to make AI behavior understandable to domain experts and stakeholders, thereby enhancing the reliability and auditability of AI systems in critical infrastructure (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -604,3 +614,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]
+- [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
+- [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]]
