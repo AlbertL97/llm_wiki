@@ -2271,3 +2271,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-16 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
+- wiki/human-ai-interaction.md
+- wiki/anthropomorphism.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "No One to Blame: A Framework of Constitutive AI Unaccountability" and created summary page wiki/source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

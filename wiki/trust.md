@@ -104,8 +104,9 @@
 - raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
 - raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 - raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
+- raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
 
-**Last updated**: 2026-08-14
+**Last updated**: 2026-08-16
 
 ---
 
@@ -116,6 +117,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Constitutive AI Unaccountability
+
+A significant challenge to accountability in AI systems is the concept of "constitutive AI unaccountability." This arises when the inherent design of an AI system, its actors, and the surrounding institutions make accountability conceptually impossible, regardless of efforts toward transparency or reform (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This phenomenon is driven by structural, technological, and normative factors that reinforce each other, creating voids where responsibility cannot be assigned (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). For instance, an "inverted anthropomorphism" configuration, where the AI agent is the sole identifiable actor, can further complicate traditional notions of accountability (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). A diagnostic tool has been developed to identify these accountability voids, revealing that many deployed systems exhibit a high degree of these unaccountable characteristics (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This challenges the premise that accountability is merely a gap to be filled, suggesting it can be a fundamental property of sociotechnical systems.
 
 ### Improving Benchmark Quality for Conversational Agents
 
@@ -616,3 +621,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]]
+- [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]

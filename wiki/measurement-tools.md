@@ -52,8 +52,9 @@
 - raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
+- raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-16
 
 ---
 
@@ -102,6 +103,8 @@ The **CircuitReason-1k** benchmark, comprising 1,000 electrical circuit problems
 In the field of remote sensing image segmentation, where transparency in deep neural networks is crucial for trust and adoption, an entropy-centric Explainable AI (XAI) method has been proposed (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). This approach aims to enhance transparency by focusing on entropy within the XAI process (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). A new methodology for evaluating XAI in this domain has also been introduced, specifically designed to measure the relevance of highlighted regions (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md). Experimental results indicate that this novel entropy-centric XAI method outperforms existing techniques for semantic segmentation tasks (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
 
 The **HUI360** dataset has been introduced to address the critical need for robots to anticipate human intentions in human-populated environments, enabling proactive and socially aware behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). As the largest publicly available dataset for in-the-wild human-robot interaction (HRI) anticipation, HUI360 was collected from a mobile robot's egocentric viewpoint across diverse environments and captures natural human behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). The research also provides a robust pipeline for automatic annotation of 360-degree videos and establishes benchmark baselines for interaction anticipation tasks, including cross-dataset evaluations (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). This dataset and its associated baselines are intended to facilitate the development and generalization of AI models for better prediction and response to human intentions, thus enhancing social awareness in HRI (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md).
+
+A significant challenge in AI deployment concerns accountability, with existing frameworks often failing to address inherent issues in system design. Research proposes that certain AI configurations lead to "constitutive AI unaccountability," where accountability is conceptually unattainable due to structural, technological, and normative factors that mutually reinforce each other (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). These factors create "accountability voids," and a diagnostic instrument has been developed to identify them (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). Notably, an "inverted anthropomorphism" configuration, where an AI agent is the sole identifiable actor, complicates traditional accountability frameworks (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This perspective reframes unaccountability not as a gap to be filled, but as a property of the sociotechnical system itself (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -292,3 +295,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]]
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
+- [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]

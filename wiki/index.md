@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-14
+**Last updated**: 2026-08-16
 
 ## Orientation
 
@@ -106,6 +106,7 @@
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
+- [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
