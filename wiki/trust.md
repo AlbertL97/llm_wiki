@@ -105,8 +105,9 @@
 - raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 - raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
 - raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
+- raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md
 
-**Last updated**: 2026-08-16
+**Last updated**: 2026-08-17
 
 ---
 
@@ -117,6 +118,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Ensuring Safe Physical AI in Urban Mobility
+
+To guarantee safe physical interactions and mobility for AI systems in complex urban environments, a new framework for ensuring physical safety has been developed (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). This approach utilizes "hazard-informed safety envelopes" that systematically integrate hazard analysis with runtime enforcement mechanisms (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). A key aspect is the "cross-layer safety transformation," which ensures safety by translating information across symbolic, spatial, and dynamic world models, rather than relying on isolated static constraints (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). This framework is designed to interface with physical AI runtime harnesses for continuous safety enforcement, directly contributing to trustworthy and reliable AI operations in dynamic settings (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md).
 
 ### Constitutive AI Unaccountability
 
@@ -622,3 +627,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]]
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]
+- [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]]

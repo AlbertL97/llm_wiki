@@ -2294,3 +2294,23 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-17 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes" and created summary page wiki/source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
