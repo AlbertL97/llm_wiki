@@ -1303,6 +1303,13 @@
       "summary": ""
     },
     {
+      "id": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification",
+      "name": "Source Summary: This Is So Claude! Towards a Theory of the Recognition of AI Character Without Reidentification",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
       "name": "Source Summary: Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective",
       "val": 1.5,
@@ -1710,6 +1717,10 @@
       "target": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement"
     },
     {
+      "source": "ai-companions",
+      "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1888,6 +1899,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
     },
     {
       "source": "chatbots",
@@ -2164,6 +2179,10 @@
     {
       "source": "chatbots",
       "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
     },
     {
       "source": "explainability",
@@ -3080,6 +3099,10 @@
     {
       "source": "mind-perception",
       "target": "mind-perception"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
     },
     {
       "source": "persuasion-and-influence",
@@ -4583,6 +4606,10 @@
     },
     {
       "source": "source-this-is-openclaw-on-steroids",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification",
       "target": "human-ai-interaction"
     },
     {

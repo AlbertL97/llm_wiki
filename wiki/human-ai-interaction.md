@@ -113,8 +113,9 @@
 - raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 - raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md
 - raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
+- raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
 
-**Last updated**: 2026-08-16
+**Last updated**: 2026-08-18
 
 ---
 
@@ -585,6 +586,8 @@ In multi-agent reinforcement learning (MARL) applied to human-AI interaction, a 
 
 The field of AI accountability is challenged by a new understanding of **constitutive AI unaccountability** (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This phenomenon arises from inherent structural, technological, and normative factors within certain AI systems and their deployment contexts, making accountability fundamentally unattainable rather than a problem to be solved through transparency or reform (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). The research categorizes the contributing factors into nine categories and twenty themes, highlighting their interdependencies and developing a diagnostic tool to identify these accountability voids (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). A notable finding is the emergence of "inverted anthropomorphism," where an AI agent is the sole identifiable actor, complicating traditional notions of responsibility (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This perspective reframes unaccountability not as a gap to be bridged but as a property inherent to specific sociotechnical AI systems (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
 
+### Users can recognize an AI's distinct "character" or "Claudishness," even without specific reidentification. This "recognition-first inquiry" posits that users identify a characteristic style before considering the underlying computational source (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognizable character is hypothesized to be a projectible trait, potentially represented in the AI's activation space, and is deemed crucial for user attachment, especially with AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The stability of an AI's character, independent of its computational bearer, is highlighted as a key factor for sustained user engagement and emotional connection (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+
 ### 0.2 Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -708,3 +711,4 @@ The field of AI accountability is challenged by a new understanding of **constit
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]]
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]
+- [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]

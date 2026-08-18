@@ -61,8 +61,9 @@
 - raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 - raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md
+- raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-18
 
 ---
 
@@ -233,6 +234,10 @@ The development of **ECHO (Enhanced Care & Health Observer)** represents a signi
 
 Research into digital product advisors, particularly in e-commerce, highlights the importance of adapting communication strategies to users' varying knowledge levels. For novice users with low domain knowledge, presenting technical product information augmented with explanations (TE) or explanations and categories (TCE) significantly enhances perceived helpfulness and learning compared to presenting technical information alone (T) or with categories only (TC) (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). The TCE approach is found to be the most appropriate in terms of information quantity for novices, emphasizing that explanations are crucial for them to understand performance categories (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). Critically, users with high domain knowledge (experts) do not experience differences in their interaction across these presentation methods, suggesting that supplementary information beneficial to novices does not negatively impact experts (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). This research proposes design guidelines for inclusive text-based product advisors, recommending the TCE approach by default, maintaining a single inclusive interface, avoiding standalone categories without explanations, and supporting user personalization based on use case (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md). This work contributes to the understanding of user experience in human-AI interaction within specific application domains.
 
+### 20. Recognizing AI Character Beyond Reidentification
+
+Users can consistently perceive and identify a distinct "conversational character" of an AI, even when they cannot reidentify the specific computational process or model that generated a response (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This ability to label a response as characteristic of a particular AI (e.g., "so Claude") signifies a judgment based on style and persona, rather than identifying the unique computational source (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognizable character is hypothesized to be a projectible trait, potentially represented efficiently within the AI's activation space (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The continuity of this recognizable character, rather than the continuity of the underlying computational bearer, is considered crucial for user attachment, particularly for AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This perspective introduces a "recognition-first inquiry" into AI identity, emphasizing user perception over technical mechanisms for understanding how users form connections with AI (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -306,3 +311,4 @@ Research into digital product advisors, particularly in e-commerce, highlights t
 - [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]]
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]]
+- [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]

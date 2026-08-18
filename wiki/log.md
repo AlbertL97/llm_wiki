@@ -2314,3 +2314,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-18 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/anthropomorphism.md
+- wiki/mind-perception.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested ""This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification" and created summary page wiki/source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

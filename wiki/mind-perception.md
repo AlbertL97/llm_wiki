@@ -2,7 +2,7 @@
 
 **Summary**: A concept page defining the dimensions of mind perception in AI and biology, summarizing the AI consciousness debate, and exploring formal theoretical models of consciousness.
 
-**Sources**:  
+**Sources**:
 - Is ChatGPT Conscious_ A Pioneer of AI Explains _ Dr. Terry Sejnowski.md
 - AI Pioneer Geoffrey Hinton_ AI Is Conscious, Superintelligence is Coming, And We Should Be Worried.md
 - Scientists are seriously asking if bees and ChatGPT are conscious.md
@@ -21,14 +21,15 @@
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
+- raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
 
-**Last updated**: 2026-07-24
+**Last updated**: 2026-08-18
 
 ---
 
 ## Main content
 
-**Mind Perception** refers to the cognitive, psychological, and philosophical process by which humans attribute mental states, consciousness, and agency to other entities, whether biological (e.g., animals, other humans) or artificial (e.g., chatbots, robots) (source: Scientists are seriously asking if bees and ChatGPT are conscious.md). 
+**Mind Perception** refers to the cognitive, psychological, and philosophical process by which humans attribute mental states, consciousness, and agency to other entities, whether biological (e.g., animals, other humans) or artificial (e.g., chatbots, robots) (source: Scientists are seriously asking if bees and ChatGPT are conscious.md).
 
 Historically, mind perception has been structured along two primary dimensions:
 1. **Agency**: The perceived capacity for thinking, planning, self-control, and moral decision-making.
@@ -37,6 +38,8 @@ Historically, mind perception has been structured along two primary dimensions:
 As generative AI systems advance from simple tools into interactive agents, the boundaries of mind perception are undergoing intense scientific and philosophical re-evaluation. Beyond understanding consciousness in AI, mind perception research is also exploring the impact of AI on human social dynamics, such as its potential to reduce intergroup animosity (source: raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md).
 
 A crucial distinction for understanding human-robot interaction is between 'humanlikeness' as an intentional design choice and 'anthropomorphism' as the human tendency to infer human-like characteristics onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Separating the design intent from the user's cognitive process is essential for effectively managing user trust, engagement, and the overall interaction experience (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
+
+Furthermore, users can recognize a distinct "conversational character" or "Claudishness" in an AI's responses, even when they cannot reidentify the specific technical instantiation of the AI (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This suggests that a recognizable AI character is a projectible trait, crucial for user attachment, and may be represented within the AI's activation space (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The continuity of this recognized character, rather than the continuity of the computational bearer, is vital for the development of AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This phenomenon highlights a "recognition-first inquiry" into AI identity, where users identify a characteristic response style before considering its underlying mechanism (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
 
 ---
 
@@ -157,3 +160,4 @@ The psychological and sociological dimensions of perceived sentience:
 - [[human-ai-interaction]]
 - [[trust]]
 - [[mind-perception]]
+- [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]
