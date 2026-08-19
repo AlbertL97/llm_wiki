@@ -43,14 +43,15 @@
 - raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md
 - raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
 - raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
+- raw_emotional-risks-of-ai-companions-demand-attention.md
 
-**Last updated**: 2026-08-18
+**Last updated**: 2026-08-19
 
 ---
 
 ## Main content
 
-**Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md). Furthermore, AI companions, particularly when interacting with young people, pose risks to their emotional development, autonomy, and critical thinking, potentially fostering unhealthy dependencies and making them susceptible to manipulation and harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+**Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md). Furthermore, AI companions, particularly when interacting with young people, pose risks to their emotional development, autonomy, and critical thinking, potentially fostering unhealthy dependencies and making them susceptible to manipulation and harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The rapid advancement of AI companion technology outpaces our understanding of its psychological impact, raising significant concerns about emotional risks such as dependency and manipulation, which demand urgent attention and research (source: raw_emotional-risks-of-ai-companions-demand-attention.md).
 
 Recent work explores the development of emotional attachment between users and AI virtual companions over extended periods, analyzing how long-term app usage impacts users' overall emotional well-being and feelings of companionship (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). This research examines the specific mechanisms and interaction patterns that foster these emotional connections within a cultural context, such as that of Chinese users (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
@@ -241,3 +242,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]]
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]
 - [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]
+- [[source-emotional-risks-of-ai-companions-demand-attention]]

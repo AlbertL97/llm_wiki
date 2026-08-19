@@ -610,6 +610,13 @@
       "summary": "A summary page for Kate Darling's book excerpt on the ethical and consumer protection concerns of emotional attachment to robots, covering subscription-locked hardware, ELIZA's parody success, Woody Hartzog's deceptive vacuum, and Fitbit behavioral nudges."
     },
     {
+      "id": "source-emotional-risks-of-ai-companions-demand-attention",
+      "name": "Emotional Risks of AI Companions Demand Attention",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-emotional-trust-scale-ceia",
       "name": "Source: Construction and validation of the Emotional Trust in Artificial Intelligence Scale (CEIA)",
       "val": 1.5,
@@ -941,6 +948,13 @@
     {
       "id": "source-managinglife-unveils-solace-ai-companion-pain-support",
       "name": "ManagingLife Unveils Solace: An AI Companion for Pain Psychology Support",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-many-teens-turning-ai-chatbots-friendship-emotional-support",
+      "name": "Many teens are turning to AI chatbots for friendship and emotional support",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1721,6 +1735,14 @@
       "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
     },
     {
+      "source": "ai-companions",
+      "target": "source-many-teens-turning-ai-chatbots-friendship-emotional-support"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-emotional-risks-of-ai-companions-demand-attention"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -1903,6 +1925,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-emotional-risks-of-ai-companions-demand-attention"
     },
     {
       "source": "chatbots",
@@ -2185,6 +2211,10 @@
       "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
     },
     {
+      "source": "chatbots",
+      "target": "source-many-teens-turning-ai-chatbots-friendship-emotional-support"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2289,8 +2319,468 @@
       "target": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability"
     },
     {
-      "source": "human-robot-interaction",
-      "target": "human-ai-interaction"
+      "source": "human-ai-interaction",
+      "target": "source-what-is-human-centered-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-healthcare-human-ai-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "medical-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-avatar-video-robot-trust"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-robots-avatars-chatbots-dynamics"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ice-environments-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-already-conscious"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-what-is-a-robot"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-scientists-proved-emotions"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-problem-humanoid-robot"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-softbank-robotics-home"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-early-preview-generalist"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-chengdu-robots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-chinas-next-ai-breakthrough"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-sanctuary-ai-phoenix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-moment-my-ai-became-conscious"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-united-robotics-group"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "explainability"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-avatars-human-avatars"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-aaai-2026-cool-papers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-persuasion-paradox-explanations"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-muvap-turn-taking-prediction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-co-creativity-table-adventure-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-experts-warning-dangerous-llm-problem"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-antigravity-sdk-building-digital-simulated-world"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-where-ai-agents-build-worlds"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-this-is-openclaw-on-steroids"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-behavioral-signatures-large-language-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-llm-council-synthetic-cognitive-systems"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-trajectory-safety-observatory-vulnerable-user"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-what-is-ai-psychology"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-using-ai-based-learning-assistants-in-higher-education"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-directional-ai-advice-experimental-evidence-from-healthcare"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-classifier-chain-based-pathological-test-recommendation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-gotta-catch-them-all-the-modes-of-sycophancy"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-humanlikeness-as-design-anthropomorphism-as-inference"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-plus-tips-on-getting-started-with-ai-safely"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-model-in-the-middle-toward-ai-native-real-time-communication"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-image-quality-dependent-degradation-for-ai-systems"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-agentic-metaverse-services-a-new-as-a-service-paradigm"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-sycophancy-and-decisions"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-evaluating-explainable-ai-methods-for-geoscientific-regression"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-human-centered-explainable-ai-for-tinyml-edge-devices"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-many-teens-turning-ai-chatbots-friendship-emotional-support"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-emotional-risks-of-ai-companions-demand-attention"
     },
     {
       "source": "human-robot-interaction",
@@ -2610,10 +3100,6 @@
     },
     {
       "source": "measurement-tools",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "measurement-tools",
       "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
     },
     {
@@ -2743,10 +3229,6 @@
     {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
-    },
-    {
-      "source": "medical-ai",
-      "target": "human-ai-interaction"
     },
     {
       "source": "medical-ai",
@@ -2971,6 +3453,14 @@
     {
       "source": "mental-health",
       "target": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-many-teens-turning-ai-chatbots-friendship-emotional-support"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-emotional-risks-of-ai-companions-demand-attention"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -3314,19 +3804,7 @@
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
       "target": "trust"
-    },
-    {
-      "source": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-aaai-2026-cool-papers",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-aaai-2026-cool-papers",
@@ -3354,18 +3832,10 @@
     },
     {
       "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
       "target": "trust"
     },
     {
       "source": "source-agency-continuum",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-agentic-metaverse-services-a-new-as-a-service-paradigm",
       "target": "human-ai-interaction"
     },
     {
@@ -3387,10 +3857,6 @@
     {
       "source": "source-ai-avatar-design-features",
       "target": "human-robot-interaction"
-    },
-    {
-      "source": "source-ai-avatars-human-avatars",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-avatars-human-avatars",
@@ -3434,15 +3900,7 @@
     },
     {
       "source": "source-ai-experts-warning-dangerous-llm-problem",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-ai-experts-warning-dangerous-llm-problem",
       "target": "trust"
-    },
-    {
-      "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
@@ -3462,15 +3920,7 @@
     },
     {
       "source": "source-ai-sycophancy-and-decisions",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-ai-sycophancy-and-decisions",
       "target": "trust"
-    },
-    {
-      "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency",
@@ -3497,20 +3947,8 @@
       "target": "trust"
     },
     {
-      "source": "source-already-conscious",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-ami-documentary",
       "target": "trust"
-    },
-    {
-      "source": "source-antigravity-sdk-building-digital-simulated-world",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
@@ -3569,10 +4007,6 @@
       "target": "trust"
     },
     {
-      "source": "source-avatar-video-robot-trust",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-bees-chatgpt-consciousness",
       "target": "chatbots"
     },
@@ -3593,20 +4027,8 @@
       "target": "source-unfinishable-map"
     },
     {
-      "source": "source-behavioral-signatures-large-language-models",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
       "target": "trust"
-    },
-    {
-      "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
@@ -3629,24 +4051,8 @@
       "target": "measurement-tools"
     },
     {
-      "source": "source-bidirectional-tutoring-for-developmental-motor-learning-in-robots",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
       "target": "trust"
-    },
-    {
-      "source": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data",
@@ -3663,26 +4069,6 @@
     {
       "source": "source-chatbot-counseling-representation",
       "target": "anthropomorphism"
-    },
-    {
-      "source": "source-chengdu-robots",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-chinas-next-ai-breakthrough",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-classifier-chain-based-pathological-test-recommendation",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-co-creativity-table-adventure-ai",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-co-creativity-table-adventure-ai",
@@ -3703,10 +4089,6 @@
     {
       "source": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
       "target": "trust"
-    },
-    {
-      "source": "source-conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-conscious-turing-machine",
@@ -3750,23 +4132,11 @@
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "trust"
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "explainability"
-    },
-    {
-      "source": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
@@ -3775,14 +4145,6 @@
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
       "target": "chatbots"
-    },
-    {
-      "source": "source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
@@ -3801,19 +4163,11 @@
       "target": "persuasion-and-influence"
     },
     {
-      "source": "source-designing-social-robots-for-inclusive-child-wellbeing-assessment",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
       "target": "trust"
     },
     {
       "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
       "target": "human-ai-interaction"
     },
     {
@@ -3825,27 +4179,15 @@
       "target": "persuasion-and-influence"
     },
     {
-      "source": "source-early-preview-generalist",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",
       "target": "trust"
     },
     {
-      "source": "source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-emotional-attachment-robots-future",
+      "target": "trust"
+    },
+    {
+      "source": "source-emotional-risks-of-ai-companions-demand-attention",
       "target": "trust"
     },
     {
@@ -3863,10 +4205,6 @@
     {
       "source": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation",
       "target": "trust"
-    },
-    {
-      "source": "source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models",
@@ -3897,28 +4235,12 @@
       "target": "trust"
     },
     {
-      "source": "source-evaluating-explainable-ai-methods-for-geoscientific-regression",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
       "target": "explainability"
     },
     {
       "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review",
       "target": "trust"
-    },
-    {
-      "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
@@ -3926,15 +4248,7 @@
     },
     {
       "source": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation",
       "target": "trust"
-    },
-    {
-      "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
@@ -3954,23 +4268,11 @@
     },
     {
       "source": "source-gotta-catch-them-all-the-modes-of-sycophancy",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-gotta-catch-them-all-the-modes-of-sycophancy",
       "target": "trust"
     },
     {
       "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance",
       "target": "trust"
-    },
-    {
-      "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-harnessing-llms-for-reliable-academic-supervision-a-comparative-study",
@@ -3983,10 +4285,6 @@
     {
       "source": "source-health-advisory-mental-health",
       "target": "trust"
-    },
-    {
-      "source": "source-healthcare-human-ai-interaction",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-healthcare-human-ai-interaction",
@@ -4038,15 +4336,7 @@
     },
     {
       "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms",
       "target": "trust"
-    },
-    {
-      "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
@@ -4065,10 +4355,6 @@
       "target": "human-robot-interaction"
     },
     {
-      "source": "source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-human-artificial-intelligence-interaction",
       "target": "human-ai-interaction"
     },
@@ -4082,15 +4368,7 @@
     },
     {
       "source": "source-human-centered-explainable-ai-for-tinyml-edge-devices",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-human-centered-explainable-ai-for-tinyml-edge-devices",
       "target": "trust"
-    },
-    {
-      "source": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-human-centric-embodied-intelligence-for-soft-wearable-robotics",
@@ -4114,15 +4392,7 @@
     },
     {
       "source": "source-humanlikeness-as-design-anthropomorphism-as-inference",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-humanlikeness-as-design-anthropomorphism-as-inference",
       "target": "trust"
-    },
-    {
-      "source": "source-ice-environments-interaction",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-ice-environments-interaction",
@@ -4130,10 +4400,6 @@
     },
     {
       "source": "source-icubworld",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-image-quality-dependent-degradation-for-ai-systems",
       "target": "human-ai-interaction"
     },
     {
@@ -4162,27 +4428,11 @@
     },
     {
       "source": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots",
       "target": "trust"
     },
     {
       "source": "source-llm-council-synthetic-cognitive-systems",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-llm-council-synthetic-cognitive-systems",
       "target": "trust"
-    },
-    {
-      "source": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions",
@@ -4203,6 +4453,10 @@
     {
       "source": "source-managinglife-unveils-solace-ai-companion-pain-support",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-many-teens-turning-ai-chatbots-friendship-emotional-support",
+      "target": "trust"
     },
     {
       "source": "source-maya-conscious-interview",
@@ -4218,10 +4472,6 @@
     },
     {
       "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
       "target": "trust"
     },
     {
@@ -4230,27 +4480,11 @@
     },
     {
       "source": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
       "target": "trust"
     },
     {
       "source": "source-moment-my-ai-became-conscious",
       "target": "trust"
-    },
-    {
-      "source": "source-moment-my-ai-became-conscious",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-muvap-turn-taking-prediction",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
@@ -4261,20 +4495,8 @@
       "target": "trust"
     },
     {
-      "source": "source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
       "target": "trust"
-    },
-    {
-      "source": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-persuasion-paradox-explanations",
@@ -4285,24 +4507,8 @@
       "target": "trust"
     },
     {
-      "source": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-plus-tips-on-getting-started-with-ai-safely",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-plus-tips-on-getting-started-with-ai-safely",
       "target": "trust"
-    },
-    {
-      "source": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-problem-humanoid-robot",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-problem-humanoid-robot",
@@ -4310,15 +4516,7 @@
     },
     {
       "source": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4",
       "target": "trust"
-    },
-    {
-      "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
@@ -4335,10 +4533,6 @@
     {
       "source": "source-psychogenic-machine",
       "target": "trust"
-    },
-    {
-      "source": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-psychological-competence-as-a-missing-dimension-in-ai-evaluation",
@@ -4366,18 +4560,10 @@
     },
     {
       "source": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-public-perceptions-of-ai-driven-decision-making-in-healthcare",
       "target": "trust"
     },
     {
       "source": "source-qualitati",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
       "target": "human-ai-interaction"
     },
     {
@@ -4399,10 +4585,6 @@
     {
       "source": "source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation",
       "target": "explainability"
-    },
-    {
-      "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
@@ -4445,20 +4627,8 @@
       "target": "trust"
     },
     {
-      "source": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-robots-avatars-chatbots-dynamics",
       "target": "trust"
-    },
-    {
-      "source": "source-robots-avatars-chatbots-dynamics",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-sanctuary-ai-phoenix",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-sanctuary-ai-phoenix",
@@ -4469,28 +4639,12 @@
       "target": "trust"
     },
     {
-      "source": "source-scientists-proved-emotions",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix",
       "target": "trust"
-    },
-    {
-      "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
       "target": "measurement-tools"
-    },
-    {
-      "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
@@ -4517,10 +4671,6 @@
       "target": "explainability"
     },
     {
-      "source": "source-softbank-robotics-home",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-sycophancy-pushback-loading",
       "target": "trust"
     },
@@ -4550,10 +4700,6 @@
     },
     {
       "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
       "target": "chatbots"
     },
     {
@@ -4562,15 +4708,7 @@
     },
     {
       "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
       "target": "trust"
-    },
-    {
-      "source": "source-the-complexities-of-patient-centred-conversational-artificial-intelligence",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
@@ -4579,14 +4717,6 @@
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
       "target": "chatbots"
-    },
-    {
-      "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
@@ -4599,18 +4729,6 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
-    },
-    {
-      "source": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-this-is-openclaw-on-steroids",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
@@ -4638,10 +4756,6 @@
     },
     {
       "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
       "target": "explainability"
     },
     {
@@ -4650,10 +4764,6 @@
     },
     {
       "source": "source-trajectory-observatory",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-trajectory-safety-observatory-vulnerable-user",
       "target": "human-ai-interaction"
     },
     {
@@ -4682,10 +4792,6 @@
     },
     {
       "source": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",
       "target": "trust"
     },
     {
@@ -4697,24 +4803,12 @@
       "target": "human-robot-interaction"
     },
     {
-      "source": "source-united-robotics-group",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
       "target": "human-ai-interaction"
     },
     {
       "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
       "target": "trust"
-    },
-    {
-      "source": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-using-ai-based-learning-assistants-in-higher-education",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-verichat-an-agentic-conversational-ai-assistant-for-hardware-security-verification",
@@ -4746,15 +4840,7 @@
     },
     {
       "source": "source-what-is-a-robot",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-what-is-a-robot",
       "target": "trust"
-    },
-    {
-      "source": "source-what-is-ai-psychology",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-what-is-ai-psychology",
@@ -4771,10 +4857,6 @@
     {
       "source": "source-what-is-ai-psychology",
       "target": "persuasion-and-influence"
-    },
-    {
-      "source": "source-what-is-human-centered-ai",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-what-is-human-centered-ai",
@@ -4805,16 +4887,8 @@
       "target": "chatbots"
     },
     {
-      "source": "source-where-ai-agents-build-worlds",
-      "target": "human-ai-interaction"
-    },
-    {
       "source": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
       "target": "trust"
-    },
-    {
-      "source": "source-why-ai-companions-and-young-people-can-make-for-a-dangerous-mix",
-      "target": "human-ai-interaction"
     },
     {
       "source": "source-why-ai-will-replace-your-therapist",
@@ -4831,10 +4905,6 @@
     {
       "source": "trust",
       "target": "agentic-knowledgeable-self-awareness"
-    },
-    {
-      "source": "trust",
-      "target": "human-ai-interaction"
     },
     {
       "source": "trust",

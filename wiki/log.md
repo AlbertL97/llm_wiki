@@ -2337,3 +2337,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-19 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md
+- raw/raw_emotional-risks-of-ai-companions-demand-attention.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-many-teens-turning-ai-chatbots-friendship-emotional-support.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/source-emotional-risks-of-ai-companions-demand-attention.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Many teens are turning to AI chatbots for friendship and emotional support - American Psychological Association (APA)" and created summary page wiki/source-many-teens-turning-ai-chatbots-friendship-emotional-support.md.
+- Ingested "Emotional risks of AI companions demand attention" and created summary page wiki/source-emotional-risks-of-ai-companions-demand-attention.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
