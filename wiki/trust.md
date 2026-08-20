@@ -108,8 +108,10 @@
 - raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md
 - raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md
 - raw_emotional-risks-of-ai-companions-demand-attention.md
+- raw_evaluability-gap-ai-translation.md
+- raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
 
-**Last updated**: 2026-08-19
+**Last updated**: 2026-08-20
 
 ---
 
@@ -120,6 +122,16 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### The Evaluability Gap in AI Translation
+
+A significant challenge to calibrated trust arises from the "evaluability gap" in AI translation (source: raw_evaluability-gap-ai-translation.md). This gap occurs when highly readable AI-generated translations can mislead users into overestimating the translation's quality, even when the original source text is available for comparison (source: raw_evaluability-gap-ai-translation.md). Users may struggle to accurately assess translation quality, especially with complex content, as simply providing access to the source text does not guarantee their ability to evaluate the AI's fidelity to it (source: raw_evaluability-gap-ai-translation.md).
+
+The impact of this gap on user perception varies:
+- For simple narratives, users preferred and rated translations that prioritized fidelity to the source text higher than those prioritizing readability (source: raw_evaluability-gap-ai-translation.md).
+- For complex texts (literary or philosophical), the preference for fidelity diminished, and users' ability to discern quality differences was impaired (source: raw_evaluability-gap-ai-translation.md).
+
+These patterns in perceived quality also affect trust. Perceptions of the AI's intelligence, perceived agency (anthropomorphism), and task-performance trust were correlated with how well users could evaluate the translation's fidelity (source: raw_evaluability-gap-ai-translation.md). Crucially, task-performance trust emerged as the most significant predictor of users' willingness to disclose personal text to the AI system, underscoring the importance of perceived reliability for data disclosure decisions (source: raw_evaluability-gap-ai-translation.md). This research differentiates between providing source access and enabling actual source evaluation, highlighting the latter as essential for accurate trust calibration (source: raw_evaluability-gap-ai-translation.md).
 
 ### Ensuring Safe Physical AI in Urban Mobility
 
@@ -176,6 +188,10 @@ Robots learning from human demonstrations (LfD) is crucial for achieving human-l
 ### Mind the Context: Continual Learning for Socially Appropriate Robot Actions
 
 The social appropriateness of a robot's actions is highly context-dependent, influenced by both the physical environment and social cues like the presence and arrangement of people (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). To address the need for robots to learn and adapt these behaviors continuously without forgetting prior knowledge, a framework called Explicit Disentanglement Dual-Branch (EDD) has been proposed (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). EDD disentangles environmental and social knowledge and uses replay-based rehearsal to prevent catastrophic forgetting, enabling robots to learn contextually appropriate actions like cleaning or initiating conversation across diverse indoor settings (source: raw_mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement.md). This work is crucial for developing robots that can interact more naturally and build trust through socially competent behavior.
+
+### Vision-Language Models and Egocentric Video for Embodied AI
+
+Vision-Language Models (VLMs) are increasingly vital for processing egocentric video, which captures a first-person perspective crucial for understanding human-robot interaction (HRI) and embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). These models bridge the gap between raw visual data and semantic understanding, enabling AI to comprehend complex human actions, intentions, and object interactions (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). By processing egocentric video, VLMs enhance robot skill learning, facilitate knowledge transfer from humans to robots, and improve decision-making in embodied systems (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). Despite progress, challenges remain in temporal reasoning, inferring intent from long video sequences, and recognizing evolving actions, areas that require further research to ensure trustworthy embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -640,3 +656,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]]
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]]
 - [[source-emotional-risks-of-ai-companions-demand-attention]]
+- [[source-evaluability-gap-ai-translation]]
+- [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]]

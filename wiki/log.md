@@ -2364,3 +2364,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_evaluability-gap-ai-translation.md
+- raw/raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-evaluability-gap-ai-translation.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/chatbots.md
+- wiki/source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation" and created summary page wiki/source-evaluability-gap-ai-translation.md.
+- Ingested "Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI" and created summary page wiki/source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
