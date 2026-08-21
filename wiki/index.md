@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-21
 
 ## Orientation
 
@@ -14,6 +14,7 @@
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
 - [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]] — Summary of Agentic Metaverse Services: A New As-a-Service Paradigm.
+- [[source-agentic-approach-data-collection-travel-behavior-prediction]] — Summary of An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
@@ -57,6 +58,7 @@
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]] — Summary of Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says.
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
+- [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.

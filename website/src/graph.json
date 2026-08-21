@@ -190,6 +190,13 @@
       "summary": "A summary page for Sheila Macrine & Michael Levin's presentation, outlining a substrate-agnostic framework that deconstructs agency into nine dimensions and maps intelligence levels using active inference."
     },
     {
+      "id": "source-agentic-approach-data-collection-travel-behavior-prediction",
+      "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-agentic-knowledgeable-self-awareness",
       "name": "Source: Agentic Knowledgeable Self-Awareness",
       "val": 1.5,
@@ -542,6 +549,13 @@
     {
       "id": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
       "name": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness",
+      "name": "Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2237,6 +2251,10 @@
       "target": "source-evaluability-gap-ai-translation"
     },
     {
+      "source": "chatbots",
+      "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2813,6 +2831,14 @@
       "target": "source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3259,6 +3285,10 @@
     {
       "source": "measurement-tools",
       "target": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
     },
     {
       "source": "medical-ai",
@@ -3737,6 +3767,10 @@
       "target": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -3787,6 +3821,10 @@
     {
       "source": "qualitative-methods",
       "target": "ai-companions"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness"
     },
     {
       "source": "social-media-and-online-communities",
@@ -3871,6 +3909,10 @@
     {
       "source": "source-agency-continuum",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-agentic-approach-data-collection-travel-behavior-prediction",
+      "target": "trust"
     },
     {
       "source": "source-agentic-metaverse-services-a-new-as-a-service-paradigm",
@@ -4195,6 +4237,10 @@
     {
       "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness",
+      "target": "trust"
     },
     {
       "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",

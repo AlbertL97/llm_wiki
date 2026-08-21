@@ -2390,3 +2390,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_agentic-approach-data-collection-travel-behavior-prediction.md
+- raw/raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-agentic-approach-data-collection-travel-behavior-prediction.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction" and created summary page wiki/source-agentic-approach-data-collection-travel-behavior-prediction.md.
+- Ingested "Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness" and created summary page wiki/source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

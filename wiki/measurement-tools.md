@@ -53,8 +53,9 @@
 - raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 - raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
+- raw_agentic-approach-data-collection-travel-behavior-prediction.md
 
-**Last updated**: 2026-08-16
+**Last updated**: 2026-08-21
 
 ---
 
@@ -105,6 +106,8 @@ In the field of remote sensing image segmentation, where transparency in deep ne
 The **HUI360** dataset has been introduced to address the critical need for robots to anticipate human intentions in human-populated environments, enabling proactive and socially aware behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). As the largest publicly available dataset for in-the-wild human-robot interaction (HRI) anticipation, HUI360 was collected from a mobile robot's egocentric viewpoint across diverse environments and captures natural human behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). The research also provides a robust pipeline for automatic annotation of 360-degree videos and establishes benchmark baselines for interaction anticipation tasks, including cross-dataset evaluations (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). This dataset and its associated baselines are intended to facilitate the development and generalization of AI models for better prediction and response to human intentions, thus enhancing social awareness in HRI (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md).
 
 A significant challenge in AI deployment concerns accountability, with existing frameworks often failing to address inherent issues in system design. Research proposes that certain AI configurations lead to "constitutive AI unaccountability," where accountability is conceptually unattainable due to structural, technological, and normative factors that mutually reinforce each other (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). These factors create "accountability voids," and a diagnostic instrument has been developed to identify them (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). Notably, an "inverted anthropomorphism" configuration, where an AI agent is the sole identifiable actor, complicates traditional accountability frameworks (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This perspective reframes unaccountability not as a gap to be filled, but as a property of the sociotechnical system itself (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
+
+The paper "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction" (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md) presents a novel three-agent workflow that integrates conversational data collection, travel behavior modeling, and weather-sensitive demand prediction. This workflow employs LLMs for data collection, with a chatbot-administered survey gathering travel mode choices across different weather scenarios from student commuters (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The research evaluated various models, including LLM configurations, finding that vision-based LLMs incorporating weather images achieved higher prediction accuracy (71.5%) compared to text-only LLMs (up to 69.9%) (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study successfully demonstrates the coordination of conversational surveys, data processing, and multimodal LLM prediction within an auditable multi-agent system (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -296,3 +299,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]]
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]
+- [[source-agentic-approach-data-collection-travel-behavior-prediction]]

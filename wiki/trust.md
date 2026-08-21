@@ -110,8 +110,10 @@
 - raw_emotional-risks-of-ai-companions-demand-attention.md
 - raw_evaluability-gap-ai-translation.md
 - raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
+- raw_agentic-approach-data-collection-travel-behavior-prediction.md
+- raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
 
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-21
 
 ---
 
@@ -122,6 +124,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Human-Mediated AI Guidance
+
+A novel approach to AI guidance involves a framework where humans act as essential intermediaries between AI systems and end-recipients. This **human-mediated AI guidance** model is particularly relevant when AI-generated content requires adaptation to specific contexts or the recipient's needs (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). In this paradigm, a knowledgeable human (e.g., a parent) interprets and delivers AI-generated information to a less informed party (e.g., a child), ensuring that the guidance is context-sensitive and appropriate (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). This approach aims to balance the efficiency of AI support with the nuanced understanding and responsibility of human judgment, potentially fostering trust through both the AI's perceived utility and the human mediator's credibility.
 
 ### The Evaluability Gap in AI Translation
 
@@ -192,6 +198,10 @@ The social appropriateness of a robot's actions is highly context-dependent, inf
 ### Vision-Language Models and Egocentric Video for Embodied AI
 
 Vision-Language Models (VLMs) are increasingly vital for processing egocentric video, which captures a first-person perspective crucial for understanding human-robot interaction (HRI) and embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). These models bridge the gap between raw visual data and semantic understanding, enabling AI to comprehend complex human actions, intentions, and object interactions (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). By processing egocentric video, VLMs enhance robot skill learning, facilitate knowledge transfer from humans to robots, and improve decision-making in embodied systems (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). Despite progress, challenges remain in temporal reasoning, inferring intent from long video sequences, and recognizing evolving actions, areas that require further research to ensure trustworthy embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).
+
+### An Agentic Approach to Data Collection and Prediction
+
+A novel three-agent workflow has been developed that integrates conversational data collection, travel behavior modeling, and weather-sensitive demand prediction (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). This workflow utilizes a chatbot-administered, image-augmented stated-preference survey to gather travel mode choices under various weather conditions from student commuters (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study found that text-only zero-shot LLMs achieved accuracy comparable to traditional machine learning models, while vision-based LLMs incorporating weather images showed higher accuracy (71.5%), highlighting the importance of multimodal context for AI prediction (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The integration of habitual travel information and the use of an "expert" framing for LLM personas also demonstrated benefits for prediction accuracy, indicating the potential for such agentic systems to improve data collection and modeling efficiency, which can contribute to more reliable AI systems (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -438,7 +448,7 @@ Visual cues drive trust formation and calibration in digital avatars and robots:
 - **Duchenne Smiles**: Incorporating eye-crinkling Duchenne micro-smiles into avatars significantly increases user-perceived warmth and trust compared to standard smiles (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 - **Anthropomorphism Control**: For domestic/helper robots, abstract or absent eye designs are often preferred as they reduce the uncanny valley effect and make the robot less threatening (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 
-**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This framework highlights that while designers can aim for humanlikeness, the user's inference of human traits is a separate psychological mechanism that significantly influences trust and interaction dynamics (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Understanding this divergence is vital for designing robots that effectively manage user trust and engagement (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
+**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This framework highlights that while designers can aim for humanlikeness, the user's inference of human traits is a separate cognitive mechanism that significantly influences trust and interaction dynamics (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Understanding this divergence is vital for designing robots that effectively manage user trust and engagement (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
 
 ### 27. The Persuasion Paradox and AI as Persuasion Engines
 Explanations are highly valued by users but introduce a **Persuasion Paradox**, where fluent explanations decouple user confidence from objective accuracy, masking system errors and suppressing error recovery (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a detailed analysis of this phenomenon and its task-dependence, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
@@ -658,3 +668,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-emotional-risks-of-ai-companions-demand-attention]]
 - [[source-evaluability-gap-ai-translation]]
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]]
+- [[source-agentic-approach-data-collection-travel-behavior-prediction]]
+- [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]

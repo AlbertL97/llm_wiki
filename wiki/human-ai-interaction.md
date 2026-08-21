@@ -118,8 +118,10 @@
 - raw_emotional-risks-of-ai-companions-demand-attention.md
 - raw_evaluability-gap-ai-translation.md
 - raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
+- raw_agentic-approach-data-collection-travel-behavior-prediction.md
+- raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
 
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-21
 
 ---
 
@@ -606,6 +608,14 @@ The increasing use of AI chatbots by teenagers for friendship and emotional supp
 
 Vision-Language Models (VLMs) are increasingly important for interpreting egocentric video data, which captures a first-person perspective highly relevant to human-robot interaction (HRI) and embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). These models bridge the gap between raw visual input and semantic understanding, moving beyond simple object recognition to comprehend complex human actions, intentions, and object interactions (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). The application of VLMs to egocentric video is highlighted as crucial for enhancing robot skill learning, facilitating human-to-robot knowledge transfer, and improving embodied decision-making systems (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). However, current VLMs face challenges in understanding dynamic interactions, recognizing evolving actions, and inferring user intent over extended video sequences (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). Future research directions emphasize the need for more robust temporal reasoning, interaction-aware supervision, efficient long-video processing, advanced multimodal fusion techniques, and ensuring privacy and trustworthiness in embodied AI systems (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).
 
+## An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction
+
+A novel three-agent workflow has been proposed that integrates conversational data collection, travel behavior modeling, and weather-sensitive demand prediction (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). This workflow leverages Large Language Models (LLMs) for both data collection and prediction. A chatbot-administered, image-augmented stated-preference survey was used to gather travel mode choices from student commuters across five weather scenarios, yielding 454 observations (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study evaluated various predictive models, including multinomial logit, logistic regression, random forest, and multiple LLM configurations (zero-shot, persona, few-shot, and vision-based). Text-only zero-shot LLMs achieved accuracy comparable to traditional machine learning models (up to 69.9%), while vision-based LLMs, incorporating weather images, achieved higher accuracy (71.5%), highlighting the value of visual context (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The research also found that habitual travel information consistently boosted prediction accuracy, that an 'Expert' framing was more effective than 'Role-Play' for LLM personas, and that few-shot prompting offered only marginal gains after an initial small number of examples (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). Ultimately, the study successfully demonstrated the coordination of conversational surveys, data processing, traditional modeling, and multimodal LLM prediction within an auditable multi-agent system (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
+
+## Human-Mediated AI Guidance in Emergency Preparedness
+
+AI systems are increasingly utilized to deliver personalized information and support. However, in many applications, AI-generated content necessitates human interpretation and adaptation before reaching the end-user. This is particularly relevant in **human-mediated AI guidance**, where a knowledgeable human acts as an intermediary between an AI system and a less informed recipient. The 'Ready Together' system exemplifies this concept, designed for personalized family emergency preparedness (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). In 'Ready Together,' parents serve as mediators, interpreting and delivering AI-generated guidance on emergency preparedness to their children, aiming to make the process more interactive and understandable through family-centered learning activities (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). Qualitative research, including interviews and co-design sessions, identified challenges such as difficulties in discussing emergencies with children and uncertainty about providing appropriate explanations, which led to the development of a prototype focused on guided activities and personalized recommendations (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). Preliminary findings suggest that this human-mediated approach can effectively provide context-sensitive guidance while maintaining parents' essential role in communication and interpretation (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -734,3 +744,5 @@ Vision-Language Models (VLMs) are increasingly important for interpreting egocen
 - [[source-emotional-risks-of-ai-companions-demand-attention]]
 - [[source-evaluability-gap-ai-translation]]
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]]
+- [[source-agentic-approach-data-collection-travel-behavior-prediction]]
+- [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]
