@@ -547,6 +547,13 @@
       "summary": ""
     },
     {
+      "id": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces",
+      "name": "Source Summary: Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
       "name": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
       "val": 1.5,
@@ -913,6 +920,13 @@
     {
       "id": "source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction",
       "name": "Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries",
+      "name": "Source Summary: A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2255,6 +2269,14 @@
       "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
     },
     {
+      "source": "chatbots",
+      "target": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2839,6 +2861,14 @@
       "target": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3397,6 +3427,10 @@
     {
       "source": "medical-ai",
       "target": "source-human-centered-explainable-ai-for-tinyml-edge-devices"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries"
     },
     {
       "source": "mental-health",
@@ -4223,6 +4257,10 @@
       "target": "chatbots"
     },
     {
+      "source": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces",
+      "target": "trust"
+    },
+    {
       "source": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
       "target": "mental-health"
     },
@@ -4509,6 +4547,10 @@
     {
       "source": "source-invisible-impact-of-empathy-on-behavioral-change",
       "target": "mental-health"
+    },
+    {
+      "source": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries",
+      "target": "trust"
     },
     {
       "source": "source-language-assumes-consciousness",

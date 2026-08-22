@@ -2417,3 +2417,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-22 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md
+- raw/raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md
+- wiki/medical-ai.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries" and created summary page wiki/source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md.
+- Ingested "Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces" and created summary page wiki/source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

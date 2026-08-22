@@ -64,7 +64,7 @@
 - raw_epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
-- raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
+- raw_catch-throw-repeat-planning-for-human-robot-juggling.md
 - raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
 - raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
 - raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
@@ -112,8 +112,10 @@
 - raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md
 - raw_agentic-approach-data-collection-travel-behavior-prediction.md
 - raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
+- raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md
+- raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md
 
-**Last updated**: 2026-08-21
+**Last updated**: 2026-08-22
 
 ---
 
@@ -125,9 +127,17 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
 
+### Delegating or Doing? User Behavior in Hybrid Human-Agent Interfaces
+
+In hybrid human-agent interfaces that combine direct manipulation with LLM-based conversational agents, the decision to delegate tasks to the AI is predominantly driven by individual user characteristics rather than the nature or perceived risk of the task itself (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). While the integration of LLM agents demonstrably reduces the interaction *effort* required by users (measured by clicks, navigation, and scrolling), it does not necessarily lead to faster overall task completion times (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). This suggests that the primary benefit of current human-agent interfaces may lie in streamlining the user experience and reducing interaction burden, rather than solely enhancing task completion speed (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md).
+
 ### Human-Mediated AI Guidance
 
 A novel approach to AI guidance involves a framework where humans act as essential intermediaries between AI systems and end-recipients. This **human-mediated AI guidance** model is particularly relevant when AI-generated content requires adaptation to specific contexts or the recipient's needs (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). In this paradigm, a knowledgeable human (e.g., a parent) interprets and delivers AI-generated information to a less informed party (e.g., a child), ensuring that the guidance is context-sensitive and appropriate (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). This approach aims to balance the efficiency of AI support with the nuanced understanding and responsibility of human judgment, potentially fostering trust through both the AI's perceived utility and the human mediator's credibility.
+
+### Knowledge-Guided Agentic Framework for Health Queries
+
+A significant challenge in healthcare AI is mitigating patient-context ambiguity in health queries, as patients often submit vague requests lacking crucial personal health details (source: raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md). To address this, a **knowledge-guided agentic framework** has been developed. This framework acts as an intermediary, intelligently querying patients for necessary information guided by a task-specific knowledge graph (source: raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md). By generating more informed prompts for downstream language models, it substantially improves accuracy in tasks like diagnosis retrieval and dietary safety classification compared to direct answering methods (source: raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md). This proactive clarification process is vital for building calibrated trust in medical AI applications by ensuring the AI has sufficient context to provide safe and accurate responses (source: raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md).
 
 ### The Evaluability Gap in AI Translation
 
@@ -670,3 +680,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]]
 - [[source-agentic-approach-data-collection-travel-behavior-prediction]]
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]
+- [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]]
+- [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]]

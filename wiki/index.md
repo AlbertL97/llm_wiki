@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-21
+**Last updated**: 2026-08-22
 
 ## Orientation
 
@@ -56,6 +56,7 @@
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
+- [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
 - [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]] — Summary of Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says.
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
@@ -98,6 +99,7 @@
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.
 - [[source-image-quality-dependent-degradation-for-ai-systems]] — Summary of Image Quality Dependent Degradation for AI Systems.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
+- [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]] — Summary of A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]] — Summary of A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots.
 - [[source-llm-council-synthetic-cognitive-systems]] — Summary of article on Simple Multi-Model Consensus (LLM-councils) evolving into tailored synthetic cognitive systems.
