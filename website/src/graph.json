@@ -575,6 +575,13 @@
       "summary": ""
     },
     {
+      "id": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults",
+      "name": "Designing Social Robots for Social-Cognition Training with Autistic Adults",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
       "name": "Dimensions of Power: A Systematic Guide to Power Indices for Explainable AI",
       "val": 1.5,
@@ -1422,6 +1429,13 @@
       "summary": "A summary page for the article explaining the psychological differences between human trust and AI reliance, detailing the neurocognitive substrates involved, the four pillars of reliance, and the five building blocks of user reliance in UX design."
     },
     {
+      "id": "source-two-sided-receptivity-conversational-ai-agents-online-dating",
+      "name": "Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",
       "name": "Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability",
       "val": 1.5,
@@ -1587,6 +1601,10 @@
     {
       "source": "agentic-social-networks",
       "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
     },
     {
       "source": "agentic-social-networks",
@@ -1783,6 +1801,10 @@
     {
       "source": "ai-companions",
       "target": "source-emotional-risks-of-ai-companions-demand-attention"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
     },
     {
       "source": "anthropomorphism",
@@ -2275,6 +2297,10 @@
     {
       "source": "chatbots",
       "target": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
     },
     {
       "source": "explainability",
@@ -2869,6 +2895,14 @@
       "target": "source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3065,6 +3099,10 @@
       "target": "source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai"
     },
     {
+      "source": "human-robot-interaction",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
       "source": "introspective-awareness",
       "target": "source-emergent-introspective-awareness"
     },
@@ -3087,6 +3125,10 @@
     {
       "source": "introspective-awareness",
       "target": "mind-perception"
+    },
+    {
+      "source": "introspective-awareness",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
     },
     {
       "source": "measurement-tools",
@@ -3561,6 +3603,10 @@
       "target": "source-emotional-risks-of-ai-companions-demand-attention"
     },
     {
+      "source": "mental-health",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -3861,6 +3907,10 @@
       "target": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -3903,6 +3953,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -4919,6 +4973,10 @@
     {
       "source": "source-trust-psychology-reliance",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-two-sided-receptivity-conversational-ai-agents-online-dating",
+      "target": "trust"
     },
     {
       "source": "source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability",

@@ -13,8 +13,9 @@
 - raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md
 - raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
 - raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
+- raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 
-**Last updated**: 2026-08-21
+**Last updated**: 2026-08-23
 
 ---
 
@@ -34,10 +35,12 @@ The use of social robots for assessing the wellbeing and mental health of childr
 
 The concept of **human-mediated AI guidance** is emerging, where AI-generated content requires interpretation and adaptation by a human intermediary before being delivered to the end-user (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). This framework is particularly relevant in scenarios where the recipient is less informed, such as parents interpreting AI guidance for their children on family emergency preparedness (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). Qualitative research, including interviews and co-design activities, has been instrumental in identifying challenges in such contexts, like the difficulty in discussing sensitive topics with children and uncertainty about providing appropriate explanations (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). These insights inform the development of systems that prioritize interactive learning activities and personalized recommendations, with preliminary findings suggesting this approach can effectively provide context-sensitive support while maintaining human responsibility (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md).
 
+Emerging qualitative research also focuses on designing social robots for social-cognition training with autistic adults, addressing a gap where prior interventions often overlooked this demographic (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through co-design processes involving autistic adults, key design requirements have been identified. These include the robot acting as a **scaffold, not a substitute**, for human interaction; prioritizing **authenticity over comfort** in social simulation; offering **personalized and user-controlled feedback**; accommodating **emotional self-awareness gaps**; respecting **privacy and contextual boundaries**; supporting **real-world rehearsal** of social situations; and allowing for **configurable identity, form, and expression** (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision these robots as private, adaptable rehearsal tools to foster independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
 - **Focus Groups**: Interactive group discussions that reveal shared beliefs, cultural attitudes, and collaborative patterns concerning AI tools. This method is also instrumental in gathering insights for designing inclusive AI applications, such as for child wellbeing assessments (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
-- **Thematic Analysis**: A systematic approach to identifying, analyzing, and reporting patterns (themes) within qualitative textual data (transcripts), which are coded to organize findings (source: AI User Research Platform _ Outset.ai & Strella Alternative.md). It has been used to analyze data from focus groups to inform the design of social robots for child wellbeing assessment (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
+- **Thematic Analysis**: A systematic approach to identifying, analyzing, and reporting patterns (themes) within qualitative textual data (transcripts), which are coded to organize findings (source: AI User Research Platform _ Outset.ai & Strella Strella Alternative.md). It has been used to analyze data from focus groups to inform the design of social robots for child wellbeing assessment (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
 
 ### 2. AI-Moderated qualitative Research
 The integration of generative conversational AI has enabled automated user research, creating scalable qualitative methodologies (source: AI User Research Platform _ Outset.ai & Strella Alternative.md):
@@ -69,3 +72,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[mental-health]]
 - [[ai-companions]]
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]

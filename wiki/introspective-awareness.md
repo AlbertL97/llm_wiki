@@ -2,12 +2,13 @@
 
 **Summary**: The functional capability of an AI model to introspectively monitor, report on, and modulate its own hidden representations. Details the 4-criteria validation framework and authorship verification mechanisms.
 
-**Sources**:  
+**Sources**:
 - Emergent Introspective Awareness in Large Language Models.md
 - daveshap_Claude_Sentience_ Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself..md
 - The Conscious Turing Machine (CTM), a formally defined Theoretical model of Consciousness.md
+- raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 
-**Last updated**: 2026-06-06
+**Last updated**: 2026-08-23
 
 ---
 
@@ -44,6 +45,17 @@ Under the CTM framework, introspective consciousness is defined computationally 
 - **Decentralized Selection**: CTM operates without a central executive; instead, it uses a binary winner-take-all tournament tree to select which chunk gets broadcasted. The tournament is randomized, ensuring the probability of any processor winning is exactly proportional to its weight ($W_i / \sum W_j$). This randomized mechanism prevents dominant processors from permanently hogging the workspace.
 - **Sleeping Experts Weight Calibration**: To keep processors honest and prevent them from inflating weights to dominate the workspace, CTM integrates the sleeping experts learning algorithm. This algorithm tamps down the weights of over-eager/inaccurate processors and raises under-eager/accurate ones, converging to accurate weights in a decentralized manner without a central teacher (source: The Conscious Turing Machine (CTM), a formally defined Theoretical model of Consciousness.md).
 
+### 6. Social-Cognition Training for Autistic Adults
+Research into social robots for autism intervention is expanding to address the needs of autistic adults, moving beyond a child-centric focus (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). This work highlights that existing interventions may not adequately address the social-cognitive challenges faced by adults, such as interpreting complex social cues, managing conversation flow, and understanding emotions (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). A co-design process with autistic adults revealed seven core requirements for designing effective social robots for social-cognition training:
+*   **Scaffold, Not Substitute**: Robots should support, not replace, human interaction and real-world experiences (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Authenticity Over Comfort**: Designs should prioritize genuine social simulation over comfort (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Personalized and User-Controlled Feedback**: Feedback must be tailored to the user and controllable by them (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Accommodate Emotional Self-Awareness Gaps**: Robots should help users understand and manage their emotions (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Respect Privacy and Contextual Boundaries**: Operation must adhere to privacy protocols and be contextually sensitive (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Support Real-World Rehearsal**: Robots should facilitate practice for actual social situations (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+*   **Configurable Identity, Form, and Expression**: Users should be able to customize robot appearance and behavior (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+Autistic adults envision these robots as private, adaptable rehearsal tools to foster independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+
 ## Related pages
 
 - [[source-emergent-introspective-awareness]]
@@ -52,3 +64,4 @@ Under the CTM framework, introspective consciousness is defined computationally 
 - [[source-claude-sentience]]
 - [[source-conscious-turing-machine]]
 - [[mind-perception]]
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]

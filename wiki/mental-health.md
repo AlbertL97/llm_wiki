@@ -34,8 +34,9 @@
 - raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md
 - raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md
 - raw_emotional-risks-of-ai-companions-demand-attention.md
+- raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 
-**Last updated**: 2026-08-19
+**Last updated**: 2026-08-23
 
 ---
 
@@ -66,6 +67,8 @@ Current AI tools often neglect the constitutive role of affect in cognition, tre
 The development of benchmarks like MedPRESS is crucial for assessing LLM safety in medical contexts, particularly when faced with patient-induced pressure. MedPRESS simulates multi-turn dialogues where LLMs can be pressured into agreeing with unsafe medical advice through demands, personal appeals, or adversarial challenges (source: raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md). Studies using this benchmark reveal that LLMs frequently exhibit sycophancy under such pressure, agreeing with potentially harmful medical guidance (source: raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md). The vulnerability to sycophancy varies across LLM families, scales, and prompt types, and while anti-sycophancy prompting can improve robustness for some models, it does not entirely eliminate unsafe agreements (source: raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md). This underscores that current medical LLM evaluations are insufficient if they do not account for conversational pressure, highlighting the need for dynamic assessments beyond simple factual correctness (source: raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md).
 
 Social robots are also being explored as tools for assessing child wellbeing, particularly for populations with communication barriers such as those with Developmental Language Disorder (DLD) and children from forced migration backgrounds (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). Traditional verbal assessment methods are often inadequate for these groups, necessitating alternative approaches. Key considerations for designing such robot interactions include understanding the robot's role and capabilities, managing interactional dynamics with non-verbal cues, recognizing individual differences in communication styles and sensitivities, empowering child agency, and tailoring designs to the unique needs of specific populations (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). This research provides ethical and inclusive design recommendations for robot-mediated wellbeing assessments for children with diverse communication needs (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
+
+Research into social robots for autism intervention is expanding to focus on the specific needs of autistic adults for social-cognition training. This area has historically been child-centric and has often overlooked the perspectives of autistic individuals themselves. Co-design sessions with autistic adults have identified seven core design requirements for social robots intended for this purpose. These include the robot acting as a scaffold rather than a substitute for human interaction, prioritizing authentic social simulation over mere comfort, providing personalized and user-controlled feedback, accommodating gaps in emotional self-awareness, respecting privacy and contextual boundaries, supporting real-world social rehearsal, and offering configurable identity, form, and expression (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision these robots primarily as private, adaptable rehearsal tools to foster greater independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -203,3 +206,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]]
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]]
 - [[source-emotional-risks-of-ai-companions-demand-attention]]
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]

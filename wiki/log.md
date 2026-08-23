@@ -2442,3 +2442,34 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-23 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
+- raw/raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-two-sided-receptivity-conversational-ai-agents-online-dating.md
+- wiki/human-ai-interaction.md
+- wiki/agentic-social-networks.md
+- wiki/social-media-and-online-communities.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/source-designing-social-robots-for-social-cognition-training-with-autistic-adults.md
+- wiki/human-robot-interaction.md
+- wiki/mental-health.md
+- wiki/qualitative-methods.md
+- wiki/introspective-awareness.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love" and created summary page wiki/source-two-sided-receptivity-conversational-ai-agents-online-dating.md.
+- Ingested "Designing Social Robots for Social-Cognition Training with Autistic Adults" and created summary page wiki/source-designing-social-robots-for-social-cognition-training-with-autistic-adults.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

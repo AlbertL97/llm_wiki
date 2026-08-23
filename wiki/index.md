@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-22
+**Last updated**: 2026-08-23
 
 ## Orientation
 
@@ -58,8 +58,9 @@
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
 - [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]] — Summary of Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says.
-- [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
+- [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]] — Summary of Designing Social Robots for Social-Cognition Training with Autistic Adults.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
@@ -159,6 +160,7 @@
 - [[source-trust-hospital-follow-up-scale]] — Summary of clinical validation of the 3-factor trust scale for AI-based hospital follow-up systems.
 - [[source-trust-layers-state-anxiety]] — Summary of laboratory experiment on the three trust layers (dispositional, initial learned, dynamic learned) in HRI and state anxiety mediation.
 - [[source-trust-psychology-reliance]] — Summary of the Verena Seibert-Giller article discussing why reframing trust as reliance is critical for AI UX.
+- [[source-two-sided-receptivity-conversational-ai-agents-online-dating]] — Summary of Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love.
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.

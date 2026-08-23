@@ -122,8 +122,10 @@
 - raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
 - raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md
 - raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md
+- raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
+- raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 
-**Last updated**: 2026-08-22
+**Last updated**: 2026-08-23
 
 ---
 
@@ -622,6 +624,13 @@ Healthcare chatbots often struggle with underspecified patient queries due to a 
 
 Hybrid interfaces that combine traditional direct manipulation with Large Language Model (LLM) agents offer users a choice: perform tasks directly or delegate them to the AI. Research in this area reveals that while LLM agents can significantly reduce the **interaction effort** required for tasks—meaning fewer clicks, less navigation, and reduced scrolling—they do not necessarily lead to faster overall **task completion times** (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). A key finding is that the decision to delegate is primarily driven by individual user characteristics, rather than strategic task assessment (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). Users do not appear to consistently delegate based on the task's nature or perceived risk, suggesting that the primary benefit of current human-agent interfaces may lie in streamlining the user experience and reducing cognitive load, rather than solely optimizing for speed (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). This research, conducted through a between-subjects experiment with 73 participants using a content management system enhanced with an LLM agent, underscores the importance of understanding individual user differences in designing effective human-AI collaboration (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md).
 
+## Two-sided receptivity to conversational AI agents in online dating
+Research on online dating platforms reveals how users perceive and react to the integration of autonomous conversational AI agents and generative-AI features, particularly on the "receiving side" where individuals encounter machine-generated profiles, messages, or conversation partners (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). The study measures user receptivity to AI agents, distinguishing between users deploying their own AI ("principal role") and those encountering another user's AI ("counterpart role") (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). Bilingual (Russian and English) survey datasets from Fledge.Love users (N = 2,617 for conversational agents, N = 2,894 for generative-AI features) provide data for further research into human-AI communication, recommender systems, and cross-cultural technology acceptance (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). This research contributes to understanding user perceptions and interactions with AI in social contexts, highlighting the importance of designing AI systems that are not only functional but also socially acceptable and trustworthy in relational applications (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md).
+
+## Designing Social Robots for Social-Cognition Training with Autistic Adults
+
+This research addresses a gap in the literature concerning social robots for autism intervention by focusing on the needs and design preferences of autistic adults. Previous efforts have predominantly targeted children and have often excluded the perspectives of autistic individuals themselves. This study employs a co-design approach to understand how social robots can be effectively developed to support social-cognition training for adults on the autism spectrum (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Key findings highlight that current social robot interventions often fail to meet the specific social-cognitive challenges faced by autistic adults, such as navigating complex social cues, managing conversation flow, and interpreting emotions (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through an online focus group and co-design session with five autistic adults, seven core design requirements emerged: the robot should **scaffold, not substitute**, authentic social simulation over comfort, provide personalized and user-controlled feedback, accommodate emotional self-awareness gaps, respect privacy and contextual boundaries, support real-world rehearsal, and allow for configurable identity, form, and expression (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision the social robot as a private, adaptable rehearsal tool for fostering independence, rather than a companion or direct social assistant (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -754,3 +763,5 @@ Hybrid interfaces that combine traditional direct manipulation with Large Langua
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]]
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]]
+- [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]

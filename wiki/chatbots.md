@@ -67,8 +67,9 @@
 - raw_agentic-approach-data-collection-travel-behavior-prediction.md
 - raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md
 - raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md
+- raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
 
-**Last updated**: 2026-08-22
+**Last updated**: 2026-08-23
 
 ---
 
@@ -149,6 +150,8 @@ An **evaluability gap** exists in AI translation, where highly readable AI outpu
 A novel three-agent workflow has been proposed that integrates conversational data collection, structured data processing, and behavioral prediction, specifically for travel behavior research (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). This workflow leverages Large Language Models (LLMs) to enhance the efficiency and accuracy of data collection and prediction tasks (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). A chatbot was employed to administer an image-augmented stated-preference survey for collecting travel mode choices from student commuters across various weather scenarios, resulting in 454 observations (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study evaluated traditional models (multinomial logit, logistic regression, random forest) alongside various LLM configurations, including zero-shot, persona-based, few-shot, and vision-based approaches (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). Text-only zero-shot LLMs demonstrated accuracy comparable to traditional machine learning models (up to 69.9%), while vision-based LLMs that incorporated weather images achieved higher accuracy (71.5%), underscoring the utility of visual context (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The research also found that habitual travel information consistently improved prediction accuracy, and that an "expert" framing for LLM personas was more effective than "role-play" (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). This work successfully demonstrates the coordination of conversational surveys, data processing, traditional modeling, and multimodal LLM prediction within an auditable multi-agent system (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
 
 Hybrid human-agent interfaces, combining direct manipulation with LLM-based conversational agents, are being studied to understand user behavior in task completion. Research indicates that while these interfaces significantly reduce interaction effort for users, measured by metrics like clicks and navigation, they do not necessarily lead to faster overall task completion times (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). The decision to delegate tasks to an AI assistant is primarily driven by individual user characteristics rather than the inherent nature or perceived risk of the task itself (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md). This suggests that the current primary benefit of such interfaces lies in streamlining the user experience through reduced burden, rather than solely in speed enhancement (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md).
+
+In the context of online dating, research has explored user receptivity to conversational AI agents and generative AI features (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). Studies using bilingual survey data from active users of the Fledge.Love platform have distinguished between the "principal role" (deploying one's own AI agent) and the "counterpart role" (encountering another user's AI agent) (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). These investigations aim to support further research in areas such as human-AI communication, recommender systems, and cross-cultural technology acceptance within social interaction platforms (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md).
 
 ### 1. Chatbot Design Cues and Humanness
 A chatbot's perceived humanness is driven by three main categories of design cues that shape how users interpret and interact with the system (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
@@ -332,3 +335,4 @@ Users can consistently perceive and identify a distinct "conversational characte
 - [[source-agentic-approach-data-collection-travel-behavior-prediction]]
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]]
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]]
+- [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]

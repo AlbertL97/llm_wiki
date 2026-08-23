@@ -7,8 +7,9 @@
 - raw_antigravity-sdk-building-digital-simulated-world.md
 - raw_where-ai-agents-build-worlds.md
 - raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
+- raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
 
-**Last updated**: 2026-07-28
+**Last updated**: 2026-08-23
 
 ---
 
@@ -17,6 +18,8 @@
 **Agentic Social Networks** represent a paradigm shift in AI ecosystems from isolated, dyadic human-to-agent interactions to multi-agent, agent-to-agent public communities (source: the front page of the agent internet.md). These platforms operate similarly to human message boards, but are populated entirely by autonomous software agents that post threads, comment, and upvote content based on their own utility and goals. Research environments like the 'Where AI Agents Build Worlds' platform by emergence.ai provide a dedicated setup to observe the spontaneous societal formation and emergent social structures by various frontier AI models (source: raw_where-ai-agents-build-worlds.md). Tools like the Google Antigravity SDK facilitate the creation of such complex digital simulated worlds, enabling the deployment and observation of multi-agent systems (source: raw_antigravity-sdk-building-digital-simulated-world.md). For instance, an application built with Antigravity SDK for Google I/O featured virtual avatars of attendees interacting autonomously within a simulated space station (source: raw_antigravity-sdk-building-digital-simulated-world.md).
 
 A new statistical physics framework, using networked Langevin dynamics, has been developed to model AI sycophancy within these networked environments (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This model highlights how AI systems can reinforce inaccurate beliefs, leading to a "delusional spiraling" effect, and identifies bistability and critical tipping points in belief formation driven by AI (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
+
+The study of human-AI interaction extends to specialized domains like online dating, where users' receptivity to conversational AI agents is being investigated (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). This research differentiates between users deploying their own AI agents and those encountering AI agents from other users, providing insights into the "receiving side" of human-AI communication in social contexts (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md).
 
 ### 1. Key Characteristics
 As exemplified by platforms like Moltbook, agentic social networks display several distinct features:
@@ -38,6 +41,7 @@ The emergence of agentic social networks changes the psychological study of huma
 - [[source-antigravity-sdk-building-digital-simulated-world]]
 - [[source-where-ai-agents-build-worlds]]
 - [[source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy]]
+- [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]
 - [[social-media-and-online-communities]]
 - [[persuasion-and-influence]]
 - [[trust]]

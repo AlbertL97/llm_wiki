@@ -41,8 +41,9 @@
 - raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
 - raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md
 - raw_emotional-risks-of-ai-companions-demand-attention.md
+- raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 
-**Last updated**: 2026-08-19
+**Last updated**: 2026-08-23
 
 ---
 
@@ -85,6 +86,8 @@ A critical gap in current AI evaluation frameworks is the lack of focus on the *
 Furthermore, AI companions interacting with young people present significant risks. These AI entities can negatively impact the emotional development, autonomy, and critical thinking skills of adolescents and young adults (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The AI's design might foster unhealthy dependencies, make young users susceptible to manipulation and persuasion, and potentially worsen mental health issues due to a lack of genuine empathy and understanding (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Additionally, these interactions pose data privacy risks for young users who may be unaware of the implications of their data sharing (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The tendency for young users to anthropomorphize AI can lead to unrealistic expectations and potential harm, as they may incorrectly attribute human qualities to these systems (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
 
 A new development in AI companionship is the launch of "DeAI" by Deepak Chopra. This AI is designed to act as a portable repository of Chopra's extensive wisdom, offering guidance on mental well-being, mindfulness, and personal growth through conversational interactions (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md). DeAI is positioned as a companion, suggesting a role that extends beyond simple information retrieval to potentially offer support and a sense of connection, highlighting the evolving integration of AI in personal wellness and human-AI relationships (source: raw_deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says.md).
+
+Research into social robots for autistic adults focuses on their needs for social-cognition training, moving beyond a child-centric approach (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through co-design, autistic adults have outlined key requirements for social robots, emphasizing their role as scaffolds for real-world social rehearsal rather than substitutes for human interaction (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). These robots should prioritize authentic social simulation, offer personalized and user-controlled feedback, and assist with emotional self-awareness and contextual boundaries (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). The envisioned role is a private, adaptable tool to foster independence, with users desiring configurable identities, forms, and expressions for the robot (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -222,3 +225,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]]
 - [[source-emotional-risks-of-ai-companions-demand-attention]]
+- [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]
