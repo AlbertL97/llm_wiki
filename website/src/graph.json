@@ -176,6 +176,13 @@
       "summary": "Proposing a trust-based framework for human-robot collaboration that evaluates robot performance via a visual language model and generates optimal strategies using decision trees to maximize HRC efficiency."
     },
     {
+      "id": "source-affective-context-amplifies-sycophancy-in-llm-responses",
+      "name": "Source Summary: Affective Context Amplifies Sycophancy in LLM Responses",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
       "name": "Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking",
       "val": 1.5,
@@ -913,6 +920,13 @@
     {
       "id": "source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico",
       "name": "Imitation of Arm Gestures by the Semi-Humanoid Robot NICO",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa",
+      "name": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1807,6 +1821,10 @@
       "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
     },
     {
+      "source": "ai-companions",
+      "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2303,6 +2321,14 @@
       "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
     },
     {
+      "source": "chatbots",
+      "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2405,6 +2431,10 @@
     {
       "source": "explainability",
       "target": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability"
+    },
+    {
+      "source": "explainability",
+      "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
     },
     {
       "source": "human-ai-interaction",
@@ -2901,6 +2931,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
     },
     {
       "source": "human-robot-interaction",
@@ -3475,6 +3513,10 @@
       "target": "source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries"
     },
     {
+      "source": "medical-ai",
+      "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -3605,6 +3647,10 @@
     {
       "source": "mental-health",
       "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -3851,6 +3897,10 @@
       "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -3989,6 +4039,10 @@
     {
       "source": "source-active-interaction-strategy",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-affective-context-amplifies-sycophancy-in-llm-responses",
+      "target": "trust"
     },
     {
       "source": "source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking",
@@ -4584,6 +4638,10 @@
     },
     {
       "source": "source-image-quality-dependent-degradation-for-ai-systems",
+      "target": "trust"
+    },
+    {
+      "source": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa",
       "target": "trust"
     },
     {

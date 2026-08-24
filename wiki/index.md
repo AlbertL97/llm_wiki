@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-08-24
 
 ## Orientation
 
@@ -13,6 +13,7 @@
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
+- [[source-affective-context-amplifies-sycophancy-in-llm-responses]] — Summary of Affective Context Amplifies Sycophancy in LLM Responses.
 - [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]] — Summary of Agentic Metaverse Services: A New As-a-Service Paradigm.
 - [[source-agentic-approach-data-collection-travel-behavior-prediction]] — Summary of An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
@@ -99,6 +100,7 @@
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.
 - [[source-image-quality-dependent-degradation-for-ai-systems]] — Summary of Image Quality Dependent Degradation for AI Systems.
+- [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]] — Summary of Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]] — Summary of A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.

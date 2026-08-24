@@ -2473,3 +2473,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-24 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md
+- raw/raw_affective-context-amplifies-sycophancy-in-llm-responses.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md
+- wiki/human-ai-interaction.md
+- wiki/medical-ai.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/source-affective-context-amplifies-sycophancy-in-llm-responses.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa" and created summary page wiki/source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md.
+- Ingested "Affective Context Amplifies Sycophancy in LLM Responses" and created summary page wiki/source-affective-context-amplifies-sycophancy-in-llm-responses.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
