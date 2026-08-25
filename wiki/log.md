@@ -2502,3 +2502,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-25 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md
+- raw/raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission" and created summary page wiki/source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md.
+- Ingested "Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction" and created summary page wiki/source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

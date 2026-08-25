@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ## Orientation
 
@@ -14,18 +14,16 @@
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]] — Summary of Affective Context Amplifies Sycophancy in LLM Responses.
-- [[source-agentic-metaverse-services-a-new-as-a-service-paradigm]] — Summary of Agentic Metaverse Services: A New As-a-Service Paradigm.
-- [[source-agentic-approach-data-collection-travel-behavior-prediction]] — Summary of An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction.
-- [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
-- [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
+- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
+- [[source-agibot]] — Summary of Agibot, a robotic surgery assistant.
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
+- [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
+- [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-companions-and-young-people-can-make-for-a-dangerous-mix]] — Summary of Why AI companions and young people can make for a dangerous mix.
 - [[source-ai-experts-humanity-last-exam]] — Summary of Reuters report on CAIS and Scale AI's 'Humanity's Last Exam' benchmark.
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
 - [[source-ai-sycophancy-and-decisions]] — Summary of AI Sycophancy and Decisions.
-- [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
-- [[source-agibot]] — Summary of Agibot, a robotic surgery assistant.
 - [[source-an-overview-of-ai-in-clinical-practice]] — Summary of an overview of AI in clinical practice.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
@@ -74,9 +72,10 @@
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]] — Summary of Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
-- [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
+- [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
+- [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
@@ -128,6 +127,7 @@
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychology-ai-cognitive-emotional]] — Summary of paper reviewing cognitive science and psychological characteristics of AI and human-AI relationship ethics.
 - [[source-psychology-trust-smashing]] — Summary of Smashing Magazine UX guide outlining the four pillars of trust, qualitative/quantitative metrics, and trust repair in AI.
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
@@ -156,6 +156,7 @@
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.
 - [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
+- [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]] — Summary of Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.
 - [[source-trajectory-safety-observatory-vulnerable-user]] — Summary of study by Impersonato on AI models acting as primary emotional anchors and creating dependency for vulnerable users.
 - [[source-trust-autonomous-hrc-responsive-policies]] — Summary of pilot study comparing responsive vs. reactive HRI policies and trust vulnerability under communication breakdown.
@@ -175,7 +176,6 @@
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.
-- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-learning-social-robot-navigation-by-sensing-human-legs]] — Summary of Learning Social Robot Navigation By Sensing Human Legs.
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]] — Summary of Challenges in Evaluating Explanation Methods for Static and Evolving Data.
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]] — Summary of Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents.

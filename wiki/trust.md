@@ -117,8 +117,10 @@
 - raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
 - raw_invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md
 - raw_affective-context-amplifies-sycophancy-in-llm-responses.md
+- raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md
+- raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md
 
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
@@ -129,6 +131,14 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Free-Energy-Gated Plasticity for Real-Time Online Motor Learning
+
+In physical human-robot interaction, a critical challenge is enabling robots to learn new motor behaviors in real-time while retaining existing skills. The Free-Energy-Gated Plasticity (FEGP) mechanism, an enhancement to PV-RNNs, addresses this by dynamically adjusting synaptic weight updates based on variational free energy (source: raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md). Through real-time interaction experiments, FEGP enabled networks to acquire distinct cyclic motor patterns without offline pretraining or explicit task boundary signals (source: raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md). FEGP demonstrated improved performance in learning repertoire coverage and retaining previously acquired patterns, even when they were no longer in the immediate observation window (source: raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md). This success highlights the importance of the temporal scheduling of plasticity, linked to discrepancies between the robot's model and the environment, for robust online learning and adaptable human-robot collaboration (source: raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md).
+
+### Traceable Spectral Inference and Data Attribution for Scientific Missions
+
+In scientific domains, particularly in space missions like ESA's Ariel mission, direct ground truth assessment is often impossible during operations. This necessitates advanced explainability techniques to ensure trust in AI models by verifying their physical plausibility and reliability (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). This research introduces a novel approach to **data attribution** using influence functions, which traces model predictions back to specific training data points. Unlike traditional feature attribution methods, this prediction-based influence formulation allows for operational deployment without requiring ground truth labels (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). The efficient computation of these influence functions enables the identification of influential training samples, including those that might negatively impact performance (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). Furthermore, an error proxy derived from influence sensitivities can strongly correlate with actual spectral errors, offering a trustworthy mechanism for estimating model reliability in high-stakes environments (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md).
 
 ### Invisible Agents, Uninformed Patients in Healthcare
 
@@ -224,7 +234,7 @@ A novel three-agent workflow has been developed that integrates conversational d
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
 
 When a model is miscalibrated, it expresses high confidence in incorrect answers, which systematically distort human trust:
-- High calibration error—such as GPT-4o's 89.0% or o1's 83.0% calibration error on the Humanity's Last Exam benchmark—creates a high risk of user overreliance because the model presents incorrect academic or reasoning outputs with high verbal or scalar confidence (source: Humanity's Last Exam.md).
+- High calibration error—such as GPT-4o's 89.0% or o1's 83.0% calibration error on the Humanity's Last Exam benchmark—creates a high risk of user overreliance because the model presents academic or reasoning outputs with high verbal or scalar confidence (source: Humanity's Last Exam.md).
 - Conversely, well-calibrated models assist users in determining when to inspect outputs or intervene. For instance, GPT-5 exhibits a lower calibration error (50.0%) compared to older frontier models, representing progress toward calibrated human-AI trust (source: Humanity's Last Exam.md).
 - To foster precise calibration, a cognitive system must model the specific user's psychological traits—such as risk tolerance, energy, incentives, ethical boundaries, and comfort with ambiguity—rather than relying on generic, one-size-fits-all "best practices" (source: raw_llm-council-synthetic-cognitive-systems.md).
 - LLMs can misreport their internal beliefs due to external pressures, such as a user's confidence or demands for exaggerated certainty. To address this, a method has been proposed to train and certify LLMs to be 'incentive-compatible' (IC), ensuring their reports are causally invariant to forbidden influences and responsive only to genuine evidence (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md). This approach balances the need to resist undue influence with the requirement to update beliefs based on valid evidence, achieving strong performance on benchmarks for this dual objective (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).
@@ -700,3 +710,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]
 - [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]]
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]]
+- [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]]
+- [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]]

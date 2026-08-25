@@ -722,6 +722,13 @@
       "summary": ""
     },
     {
+      "id": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
+      "name": "Source Summary: Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
       "name": "Source Summary: From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
       "val": 1.5,
@@ -1401,6 +1408,13 @@
       "summary": ""
     },
     {
+      "id": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission",
+      "name": "Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-trajectory-observatory",
       "name": "Source: Trajectory Observatory",
       "val": 1.5,
@@ -2017,6 +2031,10 @@
       "target": "source-evaluability-gap-ai-translation"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -2435,6 +2453,10 @@
     {
       "source": "explainability",
       "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
+    },
+    {
+      "source": "explainability",
+      "target": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission"
     },
     {
       "source": "human-ai-interaction",
@@ -3139,6 +3161,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction"
     },
     {
       "source": "introspective-awareness",
@@ -4485,6 +4511,10 @@
       "target": "trust"
     },
     {
+      "source": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
+      "target": "trust"
+    },
+    {
       "source": "source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch",
       "target": "trust"
     },
@@ -4999,6 +5029,10 @@
     {
       "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
       "target": "explainability"
+    },
+    {
+      "source": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission",
+      "target": "trust"
     },
     {
       "source": "source-trajectory-observatory",
