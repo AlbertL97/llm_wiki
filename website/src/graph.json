@@ -309,6 +309,13 @@
       "summary": "A summary page for the \"AM I? | A Documentary About AI Consciousness\" documentary. It documents persistent space AI curiosity behaviors, base model phenomenal beliefs vs. corporate RLHF muzzles, self-referential singularity loops, the deployment-testing alignment gap, and Frankenstein-inspired reflections on otherness and natality."
     },
     {
+      "id": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity",
+      "name": "An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-antigravity-sdk-building-digital-simulated-world",
       "name": "Antigravity SDK: Building a digital simulated world",
       "val": 1.5,
@@ -353,6 +360,13 @@
     {
       "id": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
       "name": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses",
+      "name": "Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1839,6 +1853,18 @@
       "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
     },
     {
+      "source": "ai-companions",
+      "target": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
+    },
+    {
+      "source": "ai-companions",
+      "target": "persuasion-and-influence"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2033,6 +2059,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
       "source": "chatbots",
@@ -2345,6 +2375,14 @@
     {
       "source": "chatbots",
       "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
       "source": "explainability",
@@ -2961,6 +2999,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses"
     },
     {
       "source": "human-robot-interaction",
@@ -3679,6 +3721,10 @@
       "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
     },
     {
+      "source": "mental-health",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -3820,10 +3866,6 @@
     },
     {
       "source": "persuasion-and-influence",
-      "target": "ai-companions"
-    },
-    {
-      "source": "persuasion-and-influence",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
     {
@@ -3925,6 +3967,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-affective-context-amplifies-sycophancy-in-llm-responses"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
       "source": "qualitative-methods",
@@ -4233,6 +4279,10 @@
     {
       "source": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions",
       "target": "explainability"
+    },
+    {
+      "source": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses",
+      "target": "trust"
     },
     {
       "source": "source-automated-metrics-human-evaluation",
@@ -5237,6 +5287,10 @@
     {
       "source": "trust",
       "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
+    },
+    {
+      "source": "trust",
+      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-25
+**Last updated**: 2026-08-26
 
 ## Orientation
 
@@ -24,12 +24,14 @@
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
 - [[source-ai-sycophancy-and-decisions]] — Summary of AI Sycophancy and Decisions.
+- [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]] — Summary of An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?.
 - [[source-an-overview-of-ai-in-clinical-practice]] — Summary of an overview of AI in clinical practice.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
 - [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]] — Summary of Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults.
 - [[source-attachment-to-robots]] — Summary of AP article on emotional attachment to social machines, Jibo lobotomy, Opportunity Rover, and Milo child limits.
 - [[source-attitudes-social-robots-scale]] — Summary of the development of the Attitudes towards Social Robots Scale (ASRS) with RoHeA and RoEqP subscales.
+- [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]] — Summary of Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses.
 - [[source-augmented-reality]] — Summary of Augmented Reality.
 - [[source-avatar-video-robot-trust]] — Summary of the Ye Pan & Anthony Steed paper comparing trust formation across avatar, video, and robot media representations.
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.

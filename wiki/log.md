@@ -2527,3 +2527,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-26 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md
+- raw/raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
+- wiki/mental-health.md
+- wiki/anthropomorphism.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses" and created summary page wiki/source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md.
+- Ingested "An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?" and created summary page wiki/source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
