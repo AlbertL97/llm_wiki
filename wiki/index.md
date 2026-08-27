@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-26
+**Last updated**: 2026-08-27
 
 ## Orientation
 
@@ -37,7 +37,9 @@
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
+- [[source-beyond-personality-quantization-layer-wise-mbti-analysis-quantized-llms]] — Summary of When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs.
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
+- [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]] — Summary of Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion.
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-blue-pale-signal]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.

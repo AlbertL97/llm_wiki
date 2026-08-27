@@ -54,8 +54,9 @@
 - raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md
 - raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md
 - raw_agentic-approach-data-collection-travel-behavior-prediction.md
+- raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 
-**Last updated**: 2026-08-21
+**Last updated**: 2026-08-27
 
 ---
 
@@ -108,6 +109,8 @@ The **HUI360** dataset has been introduced to address the critical need for robo
 A significant challenge in AI deployment concerns accountability, with existing frameworks often failing to address inherent issues in system design. Research proposes that certain AI configurations lead to "constitutive AI unaccountability," where accountability is conceptually unattainable due to structural, technological, and normative factors that mutually reinforce each other (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). These factors create "accountability voids," and a diagnostic instrument has been developed to identify them (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). Notably, an "inverted anthropomorphism" configuration, where an AI agent is the sole identifiable actor, complicates traditional accountability frameworks (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This perspective reframes unaccountability not as a gap to be filled, but as a property of the sociotechnical system itself (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
 
 The paper "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction" (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md) presents a novel three-agent workflow that integrates conversational data collection, travel behavior modeling, and weather-sensitive demand prediction. This workflow employs LLMs for data collection, with a chatbot-administered survey gathering travel mode choices across different weather scenarios from student commuters (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The research evaluated various models, including LLM configurations, finding that vision-based LLMs incorporating weather images achieved higher prediction accuracy (71.5%) compared to text-only LLMs (up to 69.9%) (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study successfully demonstrates the coordination of conversational surveys, data processing, and multimodal LLM prediction within an auditable multi-agent system (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
+
+Research into LLM personality has revealed that it is a dynamic process that emerges across different layers of the model and is influenced by quantization, prompting, and decoding methods (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). Using the Myers-Briggs Type Indicator (MBTI) framework, the ENFJ personality type is consistently observed across different LLM families and precision levels (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). While 4-bit quantization generally maintains the broad personality structure, 2-bit quantization significantly affects prompt consistency and agreement across different precision levels (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). Personality traits become more defined in the later layers of the model, with earlier layers exhibiting more ambiguity (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). The decoding process during inference can alter an LLM's personality, but using personality-aligned conditioning can enhance the robustness of these traits (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). This work provides crucial insights into the behavioral reliability of quantized LLMs, particularly for applications requiring specific personality traits in chatbots (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -300,3 +303,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-teaching-llm-tutor-withhold-answer-supervisor-architecture]]
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]]
 - [[source-agentic-approach-data-collection-travel-behavior-prediction]]
+- [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]

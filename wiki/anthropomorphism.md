@@ -6,7 +6,7 @@
 - The Rise of Parasitic AI.md
 - Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md
 - Artificial Intelligence and the Psychology of Human Connection.md
-- A Comparison of Avatar-, Video-, and Robot-Mediated Interaction on Users’ Trust in Expertise.md
+- A Comparison of Avatar-, Video-, and Robot-mediated Interaction on Users’ Trust in Expertise.md
 - From robots to chatbots_ unveiling the dynamics of human-AI interaction.md
 - Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md
 - Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md
@@ -47,8 +47,9 @@
 - raw_evaluability-gap-ai-translation.md
 - raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
+- raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 
-**Last updated**: 2026-08-26
+**Last updated**: 2026-08-27
 
 ---
 
@@ -59,6 +60,8 @@
 Recent work explores the development of emotional attachment between users and AI virtual companions over extended periods, analyzing how long-term app usage impacts users' overall emotional well-being and feelings of companionship (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). This research examines the specific mechanisms and interaction patterns that foster these emotional connections within a cultural context, such as that of Chinese users (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
 A significant aspect of anthropomorphism is the user's ability to recognize a distinct AI "character" or "persona," such as "Claudishness," even when they cannot reidentify the specific technical instantiation or computational bearer of the AI (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognition is based on a consistent style and persona, proposing a "recognition-first inquiry" where users identify an AI's character before considering its underlying architecture (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognizable character is hypothesized to be a projectible trait, potentially represented within the AI's activation space (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The continuity of this character, rather than the continuity of the computational bearer, is suggested to be crucial for user attachment, particularly in the context of AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+
+Research into the personality of Large Language Models (LLMs) reveals that personality is a dynamic construct that emerges across different layers of the model and is influenced by quantization, prompting, and decoding strategies (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). Notably, the ENFJ personality type is consistently observed across various LLM families and precision levels, with personality traits becoming more defined in the upper layers of the model (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). While 4-bit quantization tends to preserve the broad personality structure, 2-bit quantization can significantly impact prompt consistency and agreement between different precision levels (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). Furthermore, the decoding process during inference can alter an LLM's personality, although personality-aligned conditioning can enhance the robustness of these traits (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). This layer-wise analysis of personality in quantized LLMs provides critical insights into the behavioral reliability of these models, particularly for applications requiring specific personality traits in chatbots and for developing trustworthy AI companions (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md).
 
 Recent work proposes "Affective Tools for Thought" (TfTs), suggesting that current AI systems overlook the crucial role of affect in shaping cognition, not just influencing its speed but actively altering its trajectory (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). These systems often fail due to a lack of **Shared Attention** (AI's directed care for the user's engagement) and **Affective Reorienting** (AI's ability to leverage emotional moments to pivot thinking) (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). Design strategies such as integrating emotional states with reasoning (**Chain of Emotion X Chain of Thought**), AI reflecting user affect to build rapport (**Affective Mirror**), and AI using emotional cues to guide users toward new cognitive paths (**Prompted Reorienting**) are being explored (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). These ideas are informed by empirical studies, particularly with embodied learning agents (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). This perspective implies that anthropomorphism can be actively shaped not just by attributing human characteristics, but by how AI engages with and responds to human affect.
 
@@ -255,3 +258,4 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 - [[source-evaluability-gap-ai-translation]]
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]]
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]]
+- [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]

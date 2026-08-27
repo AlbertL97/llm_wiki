@@ -121,8 +121,10 @@
 - raw_free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction.md
 - raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
+- raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
+- raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
 
-**Last updated**: 2026-08-26
+**Last updated**: 2026-08-27
 
 ---
 
@@ -133,6 +135,26 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### OOXML Ingestion Divergence and AI Trustworthiness
+
+A critical vulnerability has been identified in how Large Language Models (LLMs) process Office Open XML (OOXML) documents, such as those used by Microsoft Office applications. This research demonstrates that the content an LLM ingests can significantly differ from what a human user perceives within the editing suite, creating a "plural ground truth" (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md). These divergences, caused by "evidence forks" within the OOXML specification, compromise the integrity of information used by AI systems and undermine their trustworthiness (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+
+Key findings indicate that:
+*   A single OOXML file can present different evidentiary views to Microsoft Office and to an LLM, with each processing path treating its view as authoritative (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+*   Specific OOXML constructions lead to these view divergences, with 21 such "evidence forks" identified across Excel, Word, and PowerPoint (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+*   All tested extraction tools (13 in total) exhibited evidence from at least one fork, highlighting the ubiquity of these issues (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+*   LLM APIs and web chatbots exposed "trap" information (task-relevant facts present in extraction but not visible in Office) in a significant percentage of trials (48-76% for APIs across 21 mechanisms) (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+*   The ingestion path and extractor configuration profoundly influence evidence exposure, often before the data reaches the LLM (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+*   Popular open-source LLM projects often utilize default ingestion paths susceptible to these divergence issues (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+
+These findings reveal a critical gap in the "ingestion contract" for LLMs, where the method of evidence derivation is frequently unstated, potentially leading AI systems to operate on a different understanding of reality than human users. This has profound implications for AI trustworthiness, especially in sensitive domains requiring high data integrity (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+
+### Personality Emergence in Quantized LLMs
+
+The "personality" of Large Language Models (LLMs) is a subject of ongoing research, particularly how it manifests and is affected by model compression techniques like quantization. A study using the Myers-Briggs Type Indicator (MBTI) framework revealed that LLM personality is not static but emerges dynamically across different layers of the model (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). This phenomenon is influenced by quantization levels (e.g., 4-bit and 2-bit precisions), prompting strategies, and decoding methods used during inference (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md).
+
+Key findings indicate that personality traits become more defined in the later layers of an LLM, while earlier layers show more ambiguity (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). The ENFJ personality type was consistently observed across various LLM families and precision levels (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). While 4-bit quantization generally preserves the broad personality structure, 2-bit quantization significantly impacts prompt consistency and agreement (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). Furthermore, the decoding process can alter an LLM's perceived personality, but this can be mitigated by using personality-aligned conditioning (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md). These insights are crucial for understanding the behavioral reliability of quantized LLMs, especially in applications like chatbots where consistent personality is important for trustworthiness and engagement (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md).
 
 ### Aura: Dynamic Intra-Turn Emotion-Aware Adaptation
 
@@ -534,7 +556,7 @@ The increasing reliance on LLMs in complex software development, such as Post-Qu
 For resource-constrained environments like remote island communities, general-purpose LLMs can be unreliable due to a lack of grounding in local data and an inability to process regional dialects. Specialized AI assistants are crucial for building trust and providing attainable guidance.
 - **Retrieval-Grounded Architecture**: Systems like Falco eleonorae employ a retrieval-grounded approach, where LLM responses are anchored to authoritative local agricultural data. This is achieved through a Model Context Protocol (MCP) tool that queries a bilingual, curated interface, ensuring advice is relevant to specific regions and contexts (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 - **Geospatial and Multimodal Grounding**: The integration of geospatial information and multimodal interaction (text, voice, image analysis) enhances the relevance and accessibility of AI guidance, further fostering user trust by addressing practical needs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
-- **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as more attainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+- **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as moreAttainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 
 ### 33. Agency as a Driver of AI Engagement
 Recent research suggests that sustained engagement with conversational AI systems is significantly driven by perceived gains in human agency, rather than solely by accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Studies using ethnographic data from daily AI chatbot users indicate that individuals continue to interact with these tools because they feel more empowered, even when the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a limitation in current frameworks that focus predominantly on trust, suggesting a need for new behavioral models and AI benchmarks that prioritize the fostering of substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). AI usage is understood as a situated practice, embedded within the social and technical contexts of users' lives, where the immediate feeling of empowerment can sometimes disconnect from actual, long-term material empowerment (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
@@ -724,3 +746,5 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]]
 - [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]]
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]]
+- [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
+- [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]]

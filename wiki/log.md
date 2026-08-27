@@ -2555,3 +2555,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-27 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
+- raw/raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/measurement-tools.md
+- wiki/anthropomorphism.md
+- wiki/source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs" and created summary page wiki/source-personality-quantization-layer-wise-mbti-analysis-quantized-llms.md.
+- Ingested "Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion" and created summary page wiki/source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

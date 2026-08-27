@@ -414,6 +414,13 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion",
+      "name": "Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-usability-withdrawal-design",
       "name": "Source Summary: Beyond Usability: Withdrawal Design in Social Robotics",
       "val": 1.5,
@@ -1102,6 +1109,13 @@
     {
       "id": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
       "name": "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
+      "name": "When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2065,6 +2079,10 @@
       "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -2385,6 +2403,14 @@
       "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
+      "source": "chatbots",
+      "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2495,6 +2521,10 @@
     {
       "source": "explainability",
       "target": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission"
+    },
+    {
+      "source": "explainability",
+      "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
     },
     {
       "source": "human-ai-interaction",
@@ -3005,6 +3035,14 @@
       "target": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3467,6 +3505,10 @@
     {
       "source": "measurement-tools",
       "target": "source-agentic-approach-data-collection-travel-behavior-prediction"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
     },
     {
       "source": "medical-ai",
@@ -4329,6 +4371,10 @@
       "target": "trust"
     },
     {
+      "source": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion",
+      "target": "trust"
+    },
+    {
       "source": "source-beyond-usability-withdrawal-design",
       "target": "human-robot-interaction"
     },
@@ -4818,6 +4864,10 @@
     },
     {
       "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
+      "target": "trust"
+    },
+    {
+      "source": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
       "target": "trust"
     },
     {
