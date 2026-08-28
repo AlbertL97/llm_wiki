@@ -123,8 +123,9 @@
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
+- raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md
 
-**Last updated**: 2026-08-27
+**Last updated**: 2026-08-28
 
 ---
 
@@ -428,6 +429,10 @@ In human-robot interaction (HRI), trust calibration is analyzed along two separa
 - **Movement Quality and Comfort**: For physical HRI, robot acceptance is significantly influenced by perceived comfort and ergonomics, which are directly linked to the quality of the robot's movement (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A novel "human-likeness index" quantifies the similarity of robot movements to human motion, based on the lognormality principle, serving as a predictive tool for trajectory generation algorithms to produce movements that enhance user comfort and acceptance (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
 - **Human-Robot Partner Juggling**: A novel real-time planning and control system enables robots to engage in partner juggling with humans, reliably catching and throwing balls in synchronized patterns (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md). This system integrates predictive ball tracking, adaptive online optimization, and state-machine-based coordination logic. User studies demonstrated successful three-ball cascade juggling with the robot, with participants achieving significantly better results than previously reported records, highlighting advancements in physical human-robot interaction and shared autonomy (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md).
 - **Sensing Human Legs for Social Navigation**: Robots navigating in human environments often rely on sensors like low-mounted LiDAR, which primarily detect legs. A novel neural architecture, CALF (Convolutional Attention for Leg Features), has been developed to directly interpret leg motion from LiDAR scans to generate safe and socially compliant navigation commands (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). This end-to-end system utilizes convolutional layers, attention mechanisms, and MLPs, trained via deep reinforcement learning in a custom simulator that models pedestrian gaits. Real-world experiments on a TurtleBot 4 have shown that CALF produces smooth, socially compliant trajectories and performs effectively even in zero-shot deployments, demonstrating an advancement in socially aware robot navigation that implicitly relies on human leg movements (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md).
+
+### Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation
+
+A novel approach to robot crowd navigation, Planning Diffusion Policy Optimization (PDPO), enhances safety and efficiency by leveraging diffusion policies to generate short-horizon action chunks (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). Unlike traditional methods that focus on single-timestep actions, PDPO produces sequences of actions (e.g., five steps) that represent more sophisticated avoidance strategies (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). This framework, pretrained on collision-avoidance demonstrations and fine-tuned online, allows robots to plan and execute complex maneuvers in dense and dynamic environments (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). Experimental results demonstrate improved success rates, with ablation studies highlighting the specific benefit of action chunks, particularly in benchmark settings with boundary constraints that simulate more realistic agent behavior (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). This advancement can lead to robots that are perceived as more competent and less intrusive, fostering greater trust in their navigational capabilities within human-robot interaction scenarios (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md).
 
 ### 12. Corporate Frameworks: Trustworthy AI and Safety Infrastructure
 In industrial applications, creating user trust relies on establishing **Trustworthy AI** systems built upon three technical pillars: Security, Safety, and Privacy (source: Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md).
@@ -748,3 +753,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]]
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]]
+- [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]]

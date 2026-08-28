@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-27
+**Last updated**: 2026-08-28
 
 ## Orientation
 
@@ -43,6 +43,7 @@
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-blue-pale-signal]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.
+- [[source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai]] — Summary of BPMN4CAI: A BPMN Extension for Modeling Dynamic Conversational AI.
 - [[source-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-capturing-mental-workload]] — Summary of systematic review on psychophysiological measures (EEG, ECG, EDA, eye-tracking) for mental workload in HRC.
 - [[source-casting-everything-to-online-api-services-a-survey-of-integrating-localized-speech-recognition-models-in-robotic-systems]] — Summary of Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems.
@@ -65,6 +66,7 @@
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]] — Summary of Designing Social Robots for Social-Cognition Training with Autistic Adults.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
+- [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]] — Summary of Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.

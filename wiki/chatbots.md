@@ -74,14 +74,17 @@
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
+- raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
 
-**Last updated**: 2026-08-27
+**Last updated**: 2026-08-28
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care.
+
+The standard Business Process Model and Notation (BPMN) often struggles to adequately represent the dynamic and context-sensitive nature of conversational AI interactions within digital business processes. To address this, BPMN4CAI has been developed as a standard-compliant BPMN extension. This framework enhances modeling capabilities by incorporating specialized components to cater to the unique requirements of representing context-sensitive AI behavior and facilitating key AI interactions such as adaptive decision-making, robust context management, and transparent interactions within business processes (source: raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md).
 
 AI-based learning assistants, such as Syntea, are being integrated into higher education to support students (source: raw_using-ai-based-learning-assistants-in-higher-education.md). A large-scale descriptive analysis of over 77,000 distance learning students revealed that these AI assistants are used by a substantial portion of the student population (source: raw_using-ai-based-learning-assistants-in-higher-education.md). However, usage patterns are not uniform, showing significant variations based on demographic factors like gender and age, as well as contextual elements such as study cluster, degree program, and study mode (source: raw_using-ai-based-learning-assistants-in-higher-education.md). This empirical evidence provides valuable insights into actual student behavior, informing the development and adoption of AI-driven educational support systems (source: raw_using-ai-based-learning-assistants-in-higher-education.md).
 
@@ -370,3 +373,4 @@ A critical flaw has been identified in how Large Language Models (LLMs) process 
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]]
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]]
+- [[source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai]]

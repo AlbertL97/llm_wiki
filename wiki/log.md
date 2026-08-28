@@ -2582,3 +2582,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-28 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md
+- raw/raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation" and created summary page wiki/source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md.
+- Ingested "BPMN4CAI: A BPMN Extension for Modeling Dynamic Conversational AI" and created summary page wiki/source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

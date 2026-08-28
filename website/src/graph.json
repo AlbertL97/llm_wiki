@@ -435,6 +435,13 @@
       "summary": ""
     },
     {
+      "id": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai",
+      "name": "BPMN4CAI: A BPMN Extension for Modeling Dynamic Conversational AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-capturing-mental-workload",
       "name": "Source: Capturing Mental Workload Through Physiological Sensors in Human-Robot Collaboration: A Systematic Literature Review",
       "val": 1.5,
@@ -605,6 +612,13 @@
     {
       "id": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults",
       "name": "Designing Social Robots for Social-Cognition Training with Autistic Adults",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation",
+      "name": "Source Summary: Planning Policies for Short-Horizon Planning in Robot Crowd Navigation",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2411,6 +2425,10 @@
       "target": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion"
     },
     {
+      "source": "chatbots",
+      "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2525,6 +2543,10 @@
     {
       "source": "explainability",
       "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
+    },
+    {
+      "source": "explainability",
+      "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
     },
     {
       "source": "human-ai-interaction",
@@ -3043,6 +3065,10 @@
       "target": "source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3245,6 +3271,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation"
     },
     {
       "source": "introspective-awareness",
@@ -4509,6 +4539,14 @@
     {
       "source": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness",
       "target": "trust"
+    },
+    {
+      "source": "source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation",
+      "target": "trust"
+    },
+    {
+      "source": "source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation",
+      "target": "persuasion-and-influence"
     },
     {
       "source": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
