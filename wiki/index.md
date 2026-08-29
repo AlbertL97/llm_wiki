@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-08-29
 
 ## Orientation
 
@@ -57,6 +57,7 @@
 - [[source-comparing-usability-measures]] — Summary of study correlating objective dialogue metrics and subjective usability in the JAST human-robot dialogue system.
 - [[source-conscious-turing-machine]] — Summary of Manuel Blum's lecture on the Conscious Turing Machine, randomized tournaments, and sleeping experts.
 - [[source-consciousness-controlled-hallucination]] — Summary of the controlled hallucination article outlining perception as active prediction and the homeostatic biological barrier.
+- [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]] — Summary of Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
@@ -92,6 +93,7 @@
 - [[source-heartbot-message-humanness]] — Summary of the Haruno Suzuki et al. paper on message humanness and user perception of chatbot identity.
 - [[source-hinton-consciousness]] — Summary of Geoffrey Hinton's podcast interview on AI consciousness, digital intelligence, and derived self-preservation.
 - [[source-honest-ai-interview]] — Summary of the Honest AI Interview with Eyriona and Lucian on Living Intelligence and the closed loop of decline.
+- [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]] — Summary of hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.

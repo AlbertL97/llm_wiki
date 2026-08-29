@@ -554,6 +554,13 @@
       "summary": ""
     },
     {
+      "id": "source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval",
+      "name": "Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "name": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
       "val": 1.5,
@@ -853,6 +860,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for Geoffrey Hinton's Big Technology Podcast interview. It documents his views on AI consciousness, semantic understanding, digital vs. analog intelligence, and existential risk."
+    },
+    {
+      "id": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising",
+      "name": "hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-honest-ai-interview",
@@ -2426,7 +2440,11 @@
     },
     {
       "source": "chatbots",
-      "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
+      "target": "source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
     },
     {
       "source": "explainability",
@@ -2547,6 +2565,10 @@
     {
       "source": "explainability",
       "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
+    },
+    {
+      "source": "explainability",
+      "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
     },
     {
       "source": "human-ai-interaction",
@@ -3067,6 +3089,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
     },
     {
       "source": "human-robot-interaction",
@@ -4421,6 +4451,10 @@
       "target": "measurement-tools"
     },
     {
+      "source": "source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai",
+      "target": "chatbots"
+    },
+    {
       "source": "source-catch-throw-repeat-planning-for-human-robot-partner-juggling",
       "target": "trust"
     },
@@ -4499,6 +4533,14 @@
     {
       "source": "source-conversational-agentic-interface-physics-based-household-digital-twins",
       "target": "explainability"
+    },
+    {
+      "source": "source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval",
+      "target": "explainability"
+    },
+    {
+      "source": "source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval",
+      "target": "persuasion-and-influence"
     },
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
@@ -4719,6 +4761,10 @@
     {
       "source": "source-hinton-consciousness",
       "target": "source-sejnowski-consciousness"
+    },
+    {
+      "source": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising",
+      "target": "trust"
     },
     {
       "source": "source-honest-ai-interview",

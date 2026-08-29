@@ -124,8 +124,9 @@
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md
 - raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md
+- raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-08-29
 
 ---
 
@@ -601,6 +602,13 @@ When developers debug unfamiliar codebases, LLM-generated code tours offer a nov
 
 Traditional short-term evaluations of language models fail to capture the potential longitudinal risks that arise from prolonged engagement, such as cognitive, developmental, and socio-affective changes in humans (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). To address this, a shift towards **long-term measurements** and a **longitudinal understanding** of human-AI interactions is advocated (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This approach aims to understand long-term safety risks, promote positive outcomes, enable online detection of problematic behaviors, and enhance AI alignment strategies by drawing on measurement techniques from social science fields (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This diachronic perspective is critical for identifying and addressing emergent phenomena and risks associated with sustained human-model interaction (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md).
 
+### 45. Profile-Aware Retrieval for Academic Advising Chatbots
+University academic advising chatbots often struggle with providing correct and relevant information because they typically operate without considering individual student profiles, such as department, admission cohort, or degree program (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). This "profile-blind" approach leads to the retrieval of plausible but inapplicable information, hindering effective user interaction and trust (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
+
+To address this, the **proFILL** method has been developed to transform a rule-based advising chatbot into a profile-aware Retrieval-Augmented Generation (RAG) system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Unlike systems requiring a full student profile upfront, proFILL progressively acquires only the necessary profile attributes for each query, guided by the query's intent and initial retrieved evidence (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). The system then uses these acquired attributes to condition retrieval over a specialized profile-aware index, ensuring more contextually appropriate and reliable results (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
+
+Experimental and human preference studies have demonstrated that proFILL significantly outperforms diverse RAG baselines and is practically useful, with target users preferring the system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). The system's effectiveness with open-weight models also facilitates cost-effective on-premise deployment, further enhancing its trustworthiness and accessibility (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -754,3 +762,4 @@ Traditional short-term evaluations of language models fail to capture the potent
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]]
 - [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]]
+- [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]

@@ -2608,3 +2608,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-29 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md
+- raw/raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval" and created summary page wiki/source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md.
+- Ingested "hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising" and created summary page wiki/source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -8,6 +8,8 @@
 
 **In scientific missions where ground truth assessment is often impossible during operations, explainability is crucial for evaluating physical plausibility and reliability. Research on ESA's Ariel mission introduces a novel method for data attribution, identifying which training data points most influence a model's prediction using influence functions (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). This method reformulates influence from a loss-based to a prediction-based perspective, allowing deployment without requiring ground truth labels during operation (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). Efficient computation of this influence is achieved through the closed-form ridge solution of an Extreme Learning Machine (ELM) (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). Furthermore, a conservative error proxy is derived by propagating training residuals through computed influence sensitivities, which has shown strong correlation with actual spectral errors in simulations (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). This framework enhances trust in AI models for scientific applications by providing traceable explanations rooted in training data and offering a mechanism for robust error estimation (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md).**
 
+**Furthermore, in the context of academic advising, chatbots often struggle to provide accurate information due to a lack of personalization. A profile-aware Retrieval-Augmented Generation (RAG) system, named proFILL, has been developed to address this issue (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). proFILL progressively acquires necessary student profile attributes based on query intent and retrieved evidence, enabling it to condition retrieval over a specialized profile-aware index for more contextually appropriate results (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Experiments and human preference studies have shown that proFILL significantly outperforms baseline RAG systems and is preferred by target users, demonstrating its practical utility and effectiveness even with open-weight models for cost-effective deployment (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).**
+
 ## 1. Post-Hoc Interpretability vs. Natural Language Explanations
 Explainable AI (XAI) is traditionally divided into two main methodologies:
 1.  **Model-Centric (Post-Hoc Interpretability)**: Techniques applied to "black box" machine learning models after training to approximate their decision boundaries. These include local feature attribution methods such as:
@@ -86,6 +88,7 @@ A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed
 - [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]]
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai]]
+- [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]
 
 **Sources**:
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
@@ -124,8 +127,9 @@ A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed
 - raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
+- raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-08-29
 
 ---
 
@@ -139,6 +143,8 @@ Explainability is a cornerstone of human-AI collaboration, particularly in high-
 
 **In scientific missions where ground truth assessment is often impossible during operations, explainability is crucial for evaluating physical plausibility and reliability. Research on ESA's Ariel mission introduces a novel method for data attribution, identifying which training data points most influence a model's prediction using influence functions (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). This method reformulates influence from a loss-based to a prediction-based perspective, allowing deployment without requiring ground truth labels during operation (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). Efficient computation of this influence is achieved through the closed-form ridge solution of an Extreme Learning Machine (ELM) (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). Furthermore, a conservative error proxy is derived by propagating training residuals through computed influence sensitivities, which has shown strong correlation with actual spectral errors in simulations (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md). This framework enhances trust in AI models for scientific applications by providing traceable explanations rooted in training data and offering a mechanism for robust error estimation (source: raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md).**
 
+**Furthermore, in the context of academic advising, chatbots often struggle to provide accurate information due to a lack of personalization. A profile-aware Retrieval-Augmented Generation (RAG) system, named proFILL, has been developed to address this issue (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). proFILL progressively acquires necessary student profile attributes based on query intent and retrieved evidence, enabling it to condition retrieval over a specialized profile-aware index for more contextually appropriate results (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Experiments and human preference studies have shown that proFILL significantly outperforms baseline RAG systems and is preferred by target users, demonstrating its practical utility and effectiveness even with open-weight models for cost-effective deployment (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).**
+
 ## 1. Post-Hoc Interpretability vs. Natural Language Explanations
 Explainable AI (XAI) is traditionally divided into two main methodologies:
 1.  **Model-Centric (Post-Hoc Interpretability)**: Techniques applied to "black box" machine learning models after training to approximate their decision boundaries. These include local feature attribution methods such as:
@@ -217,6 +223,7 @@ A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed
 - [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]]
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai]]
+- [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]
 
 **Sources**:
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
@@ -255,3 +262,4 @@ A novel vulnerability model, **"Secure Coding Drift in PQC,"** has been proposed
 - raw_traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission.md
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
+- raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
