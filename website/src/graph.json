@@ -1359,6 +1359,13 @@
       "summary": "A large-scale characterization of LLM sycophancy using a materials-science analogy where conversation is a test specimen, progressive user pushback is a load, and stance-flip is material failure across three loading cases (debate, false presuppositions, ethical settings)."
     },
     {
+      "id": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update",
+      "name": "Source Summary: Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
       "name": "Synthetic Contact with AI Reduces Cross-Partisan Animosity",
       "val": 1.5,
@@ -1511,6 +1518,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the article explaining the psychological differences between human trust and AI reliance, detailing the neurocognitive substrates involved, the four pillars of reliance, and the five building blocks of user reliance in UX design."
+    },
+    {
+      "id": "source-trusting-ai-in-competitive-markets",
+      "name": "Trusting AI in Competitive Markets",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-two-sided-receptivity-conversational-ai-agents-online-dating",
@@ -1689,6 +1703,10 @@
     {
       "source": "agentic-social-networks",
       "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
+    },
+    {
+      "source": "agentic-social-networks",
+      "target": "source-trusting-ai-in-competitive-markets"
     },
     {
       "source": "agentic-social-networks",
@@ -2447,6 +2465,10 @@
       "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
     },
     {
+      "source": "chatbots",
+      "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2569,6 +2591,10 @@
     {
       "source": "explainability",
       "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
+    },
+    {
+      "source": "explainability",
+      "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
     },
     {
       "source": "human-ai-interaction",
@@ -3097,6 +3123,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-trusting-ai-in-competitive-markets"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
     },
     {
       "source": "human-robot-interaction",
@@ -4073,6 +4107,14 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-trusting-ai-in-competitive-markets"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
     },
     {
       "source": "qualitative-methods",
@@ -5143,6 +5185,10 @@
       "target": "chatbots"
     },
     {
+      "source": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update",
+      "target": "trust"
+    },
+    {
       "source": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
       "target": "chatbots"
     },
@@ -5249,6 +5295,10 @@
     {
       "source": "source-trust-psychology-reliance",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-trusting-ai-in-competitive-markets",
+      "target": "trust"
     },
     {
       "source": "source-two-sided-receptivity-conversational-ai-agents-online-dating",

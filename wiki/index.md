@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-29
+**Last updated**: 2026-08-30
 
 ## Orientation
 
@@ -154,6 +154,7 @@
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
+- [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.
 - [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
 - [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]] — Summary of The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development.
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
@@ -171,6 +172,7 @@
 - [[source-trust-hospital-follow-up-scale]] — Summary of clinical validation of the 3-factor trust scale for AI-based hospital follow-up systems.
 - [[source-trust-layers-state-anxiety]] — Summary of laboratory experiment on the three trust layers (dispositional, initial learned, dynamic learned) in HRI and state anxiety mediation.
 - [[source-trust-psychology-reliance]] — Summary of the Verena Seibert-Giller article discussing why reframing trust as reliance is critical for AI UX.
+- [[source-trusting-ai-in-competitive-markets]] — Summary of Trusting AI in Competitive Markets.
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]] — Summary of Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love.
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.

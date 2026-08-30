@@ -2633,3 +2633,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-30 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_trusting-ai-in-competitive-markets.md
+- raw/raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-trusting-ai-in-competitive-markets.md
+- wiki/human-ai-interaction.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/agentic-social-networks.md
+- wiki/source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md
+- wiki/chatbots.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Trusting AI in Competitive Markets" and created summary page wiki/source-trusting-ai-in-competitive-markets.md.
+- Ingested "Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update" and created summary page wiki/source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

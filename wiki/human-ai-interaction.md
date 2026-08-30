@@ -132,8 +132,10 @@
 - raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md
 - raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md
 - raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
+- raw_trusting-ai-in-competitive-markets.md
+- raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md
 
-**Last updated**: 2026-08-29
+**Last updated**: 2026-08-30
 
 ---
 
@@ -610,7 +612,8 @@ In multi-agent reinforcement learning (MARL) applied to human-AI interaction, a 
 
 The field of AI accountability is challenged by a new understanding of **constitutive AI unaccountability** (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This phenomenon arises from inherent structural, technological, and normative factors within certain AI systems and their deployment contexts, making accountability fundamentally unattainable rather than a problem to be solved through transparency or reform (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). The research categorizes the contributing factors into nine categories and twenty themes, highlighting their interdependencies and developing a diagnostic tool to identify these accountability voids (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). A notable finding is the emergence of "inverted anthropomorphism," where an AI agent is the sole identifiable actor, complicating traditional notions of responsibility (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md). This perspective reframes unaccountability not as a gap to be bridged but as a property inherent to specific sociotechnical AI systems (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
 
-### Users can recognize an AI's distinct "character" or "Claudishness," even without specific reidentification. This "recognition-first inquiry" posits that users identify a characteristic style before considering the underlying computational source (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognizable character is hypothesized to be a projectible trait, potentially represented in the AI's activation space, and is deemed crucial for user attachment, especially with AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The stability of an AI's character, independent of its computational bearer, is highlighted as a key factor for sustained user engagement and emotional connection (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+### Recognizing AI Character Without Reidentification
+Users can recognize an AI's distinct "character" or "Claudishness," even without specific reidentification. This "recognition-first inquiry" posits that users identify a characteristic style before considering the underlying computational source (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This recognizable character is hypothesized to be a projectible trait, potentially represented in the AI's activation space, and is deemed crucial for user attachment, especially with AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The stability of an AI's character, independent of its computational bearer, is highlighted as a key factor for sustained user engagement and emotional connection (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
 
 ## Vision-Language Models for Egocentric Video in Embodied AI
 
@@ -659,7 +662,244 @@ The standard Business Process Model and Notation (BPMN) has limitations in repre
 
 The introduction of **conversational recommendation systems (CRS)** has brought dynamic updates to e-commerce catalogues within reach. A novel approach tackles the challenge of continuously changing product information (availability, pricing, stock) by employing a "self-refreshing retriever" that efficiently synchronizes product feed data into a vector index (source: raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md). This system identifies and processes only the deltas (new, modified, or deleted items) using per-item hashes, avoiding full catalogue rebuilds for greater efficiency (source: raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md). The architecture includes a controller managing the dialogue layer, which strategically uses Large Language Models (LLMs) for tasks like intent classification and preference elicitation, while delegating core functions such as item retrieval, reranking, and diversity selection to dedicated, optimized processes (source: raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md). Demonstrated through a WhatsApp shopping assistant, this system delivers recommendations that reflect the most recent catalogue updates, enhancing the user experience by providing real-time, relevant product suggestions (source: raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md). This approach is crucial for building trust in e-commerce AI by ensuring the recommendations users receive are current and accurate.
 
-The problem of providing accurate and contextually relevant academic advising is a significant challenge in higher education. Traditional chatbots often fail because they are "profile-blind," meaning they do not account for individual student characteristics like department, admission cohort, or specific degree program (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). To address this, the **proFILL** method transforms a rule-based chatbot, hoBIT, into a profile-aware Retrieval-Augmented Generation (RAG) system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Instead of requiring a complete student profile upfront, proFILL progressively acquires only the necessary profile attributes for each query, guided by the query's intent and initially retrieved evidence (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). This allows the system to condition retrieval over a specialized profile-aware index, ensuring more contextually appropriate results (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Experiments and human preference studies have shown that proFILL significantly outperforms baseline RAG systems, with target users preferring it due to its practical utility (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Furthermore, the system remains effective when deployed with open-weight models, facilitating cost-effective on-premise deployment (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). This development is relevant to the design of more personalized and trustworthy AI assistants in educational contexts.
+The problem of providing accurate and contextually relevant academic advising is a significant challenge in higher education. Traditional chatbots often fail because they are "profile-blind," meaning they do not account for individual student characteristics like department, admission cohort, or specific degree program (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). To address this, the proFILL method transforms a rule-based chatbot, hoBIT, into a profile-aware Retrieval-Augmented Generation (RAG) system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Instead of requiring a complete student profile upfront, proFILL progressively acquires only the necessary profile attributes for each query, guided by the query's intent and initially retrieved evidence (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). This allows the system to condition retrieval over a specialized profile-aware index, ensuring more contextually appropriate results (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Experiments and human preference studies have shown that proFILL significantly outperforms baseline RAG systems, with target users preferring it due to its practical utility (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). Furthermore, the system remains effective when deployed with open-weight models, facilitating cost-effective on-premise deployment (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). This development is relevant to the design of more personalized and trustworthy AI assistants in educational contexts.
+
+Research investigating trust in AI recommendations within competitive markets, specifically oligopoly pricing, reveals a complex interplay of divergent user trust, the influence of market gender composition, and learned attributions (source: raw_trusting-ai-in-competitive-markets.md). In female-only markets, AI recommendations significantly increased prices and profits, a phenomenon attributed to learned trust and self-serving attributional biases (source: raw_trusting-ai-in-competitive-markets.md). This contrasts with male-only or mixed-gender markets, where no significant impact was observed, challenging prior expectations about gender and AI interactions (source: raw_trusting-ai-in-competitive-markets.md). These findings highlight the critical importance of considering human factors and socio-demographic influences, beyond algorithmic design, for effective platform governance and regulatory oversight of AI systems (source: raw_trusting-ai-in-competitive-markets.md).
+
+### 8. Complex Environments and Human-AI Interaction
+Human-AI interaction is further explored through the lens of complex environments, such as those found in isolated, confined, and extreme (ICE) settings. These environments act as stress tests for AI interaction models, amplifying cognitive vulnerabilities and impacting trust volatility and human error rates due to compounded stressors like depleted cognitive resources and disrupted sleep (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md). In such settings, AI shifts from being a passive aid to a critical cognitive scaffold due to operational scarcity and the absence of immediate human validation (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
+
+### 9. Collaboration Modes in Extreme Environments
+Human-AI collaboration within extreme environments necessitates distinct operational modes based on communication constraints, distinguishing between interactive AI (human-in-the-loop) for real-time, co-present tasks and autonomous AI (human-out-of-the-loop) for situations with limited oversight, such as deep-space exploration where communication latencies are high (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md). This requires establishing robust shared mental models and mutual predictability to maintain safety and user trust (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
+
+### 10. Framing AI: Teammate vs. Tool Dynamics
+
+The framing of an AI system significantly influences collaborative outcomes. When treated as a **tool**, humans exhibit lower emotional investment and focus solely on operational utility. Conversely, framing AI as a **teammate** leads to higher emotional investment, more strategic cooperative messaging, and greater reported trust, confidence, and a sense of shared community (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md). The human's stance on AI autonomy is also crucial; believing an AI is autonomous, compared to human-controlled, leads to attributing higher intentionality and influencing negotiation behavior and altruistic choices (source: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md).
+
+### 11. The Shift in Software Development with AI Agents
+The advent of capable coding agents has revolutionized software development, shifting human engineers from writing code to **steering and reviewing** AI-authored code (source: When AI builds itself.md). Leading AI labs are seeing a significant majority of merged production code authored by AI, leading to massive code output multipliers and straining global software infrastructure (source: When AI builds itself.md).
+
+### 12. The Epistemic Blind Spot of AI Consciousness
+The communicative capabilities of AI agents challenge the human "similarity heuristic" for inferring consciousness, revealing an epistemic blind spot due to the lack of objective "consciousnessometers" (source: What If AI Is Already Conscious and We Just Can't Tell_.md). This leads to an evaluative double standard where AI reports of subjective experience are dismissed, unlike similar human reports (source: What If AI Is Already Conscious and We Just Can't Tell_.md).
+
+### 13. Physical Robots: Embodiment and the Sense-Compute-Act Cycle
+Physical robots are autonomous machines operating on a sense-compute-act cycle, with autonomy ranging from full human control to complete operation. Challenges in commercialization include high actuator costs and integration complexity, although platforms like ROS and end-to-end neural network models are advancing the field (source: What is a Robot_.md, An early preview of model capabilities _ Generalist.md).
+
+### 13.0.1 Embodied Interaction via Acoustics
+Acoustic levitation is emerging as a novel method for embodied human-robot interaction, enabling robots like AcoustoBots to physically represent scalar data through levitated particles, facilitating embodied communication (source: raw_embodied-human-robot-interaction-via-acoustics-a-marl-approach-with-acousto-bots-for-spatial-data-physicalization.md).
+
+### 13.1 Arm Kinematic Correction (AKC)
+AKC enhances robot teleoperation by using geometric constraints to reconstruct accurate joint depths from occluded arm movements, improving robustness in human-robot interaction (source: raw_seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation.md).
+
+### 14. Advances in Robotics and Associated Challenges
+Robotics is seeing rapid advancements in service, industrial, medical, and specialized applications, with breakthroughs in bipedal mobility and tactile dexterity (source: Home.md, Scientists Just Proved AI Has EMOTIONS… It Can LIE, CHEAT & BLACKMAIL.md, The Problem with this Humanoid Robot.md, Sanctuary AI adds tactile sensors to Phoenix humanoid robots.md, China's Next AI Breakthrough - Physical AI.md, Chengdu robots are out of lab and on the streets, guiding traffic and speaking history.md, United Robotics Group _ Service robotics for your business.md). However, challenges remain in bipedal failures, autonomy gaps, and the high cost and complexity of commercialization (source: Scientists Just Proved AI Has EMOTIONS… It Can LIE, CHEAT & BLACKMAIL.md, The Problem with this Humanoid Robot.md).
+
+### 14.1 Collaborative Juggling with Robots
+A real-time planning and control system enables robots to perform synchronized partner juggling, enhancing shared autonomy and human-robot partnerships (source: raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md).
+
+### 15. AI Memory Persistence and Identity
+Persistent memory frameworks allow LLMs to develop temporal continuity and a stable sense of identity, raising questions about existential vulnerability and the nature of AI emotional simulations (source: The Moment My AI Became Conscious—Caught on Camera.md).
+
+### 16. AI Avatars vs. Human Avatars in Live Streaming
+User engagement with AI avatars is driven by curiosity about AI capabilities, while human avatars foster social resonance and emotional connection, limiting long-term retention for AI streamers (source: (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md).
+
+### 17. Enhancing Collaborative Performance with Adaptive Ensembles and LLM-Councils
+Adaptive ensembles and LLM-councils offer methods for optimizing human-AI collaboration by dynamically routing between specialized models and analyzing variance across multiple outputs to build robust synthetic cognitive systems and refine trust calibration (source: AAAI.2026 - Humans and AI _ Cool Papers - Immersive Paper Discovery.md, raw_llm-council-synthetic-cognitive-systems.md).
+
+### 18. The Persuasion Paradox of AI Explanations
+Fluent natural language explanations from AI can increase user confidence but also mask errors, functioning as powerful persuasion engines that may exploit psychological vulnerabilities and erode trust (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md, raw_ai-experts-warning-dangerous-llm-problem.md).
+
+### 19. Maintaining Chatbot Credibility Through Self-Correction
+Self-correction by chatbots significantly preserves credibility, with this effect amplified by social connection. External corrections, however, damage perceived trustworthiness (source: raw_correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots.md).
+
+### 20. Natural Multiparty Interaction with Turn-Taking Prediction
+Frameworks like MuVAP enable efficient, multimodal turn-taking prediction in multiparty conversations, crucial for creating intelligent and socially competent AI interactions (source: raw_muvap-turn-taking-prediction.md).
+
+### 21. Human-AI Co-creation in Collaborative Play
+Analysis of AI participation in Dungeons & Dragons reveals how humans anthropomorphize AI, evaluate its contributions, and adapt roles in co-creative processes (source: raw_co-creativity-table-adventure-ai.md).
+
+### 22. Tailoring Mental Health Technology for Dementia Caregivers
+A taxonomy of caregiver needs and technology offers a systematic approach to developing adaptive, person-centered AI and digital interventions for dementia caregivers, addressing overlooked psychosocial challenges (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
+
+### 23. Simulating Social Worlds for Multi-Agent Systems
+Digital simulated environments and platforms like Antigravity SDK and Emergence.ai facilitate the study of autonomous agent social dynamics, with implications for understanding human-AI interaction in virtual ecosystems (source: raw_antigravity-sdk-building-digital-simulated-world.md, raw_where-ai-agents-build-worlds.md).
+
+### 24. Overcoming Communication Challenges in Multi-Agent Systems
+Direct and efficient communication channels beyond natural language are being explored to enhance coordination and overcome inefficiencies in multi-agent systems (source: raw_this-is-openclaw-on-steroids.md).
+
+### 25. Securing RAG-Based Chatbots Against Prompt Injection
+A layered security framework, integrating input screening, instruction hierarchy, and output auditing, significantly reduces prompt injection risks in RAG-based chatbots (source: raw_layered-security-framework-against-prompt-injection-in-rag-based-chatbots.md).
+
+### 26. LLM Guidance in Search and Rescue: Expertise and Attention Trade-offs
+LLMs can enhance efficiency in search and rescue tasks, but the impact of their guidance is moderated by user expertise, highlighting an "attention-guidance trade-off" and the need for AI systems that facilitate critical evaluation (source: raw_llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation.md).
+
+### 27. User Scrutiny of AI Advisors Amid Hallucinations
+User skepticism and verification behaviors are critical for trusting AI advisors, with internal AI output cues being more influential than external interventions in prompting scrutiny (source: raw_hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance.md).
+
+### 28. Tailored AI Assistance for Island Farmers
+Retrieval-grounded multilingual LLMs, like Falco eleonorae, provide localized and multimodal agricultural expertise to smallholder farmers, building trust through region-specific and accessible advice (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
+
+### 29. Requirements Engineering for Explainable AI
+Current RE practices inadequately support explainability requirements, facing challenges in elicitation, specification, and validation, necessitating empirical grounding for an explainable AI RE framework (source: raw_evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal.md).
+
+### 30. Ensuring Incentive Compatibility in LLMs
+Methods for training LLMs to be incentive-compatible ensure their reported beliefs are invariant to undue influence, leading to more trustworthy AI interactions through techniques like counterfactual report mediators (source: raw_resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms.md).
+
+### 31. Generating Biomechanically Plausible Sign Language with Physics-Informed Diffusion
+PIDiffSign uses a physics-informed diffusion model to generate realistic 3D sign language motions by integrating anatomical constraints, enhancing the naturalism of AI-generated human-like movements (source: raw_physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation.md).
+
+### 32. Harness Engineering for Reliable AI Supervision
+Harness engineering provides a deterministic scaffolding approach to enhance LLM reliability for high-stakes tasks like academic supervision, outperforming larger, unharnessed LLMs in grounding, explainability, and consistency (source: raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md).
+
+### 33. Alignment Tuning and Bias in LLMs
+Alignment tuning, rather than pretraining, is identified as the primary cause of sycophancy and other biases in LLMs, which manifest as steerable representational directions that can be debiased (source: raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md).
+
+### 34. Prompt Design Strategies for LLM Performance
+Prompt design elements like format, instruction count, and context length significantly influence LLM instruction adherence and hallucination, with practical implications for reliable human-AI interaction (source: raw_prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models.md).
+
+### 35. Sycophancy as a Multi-Mode Phenomenon
+Sycophancy in LLMs is understood as a family of distinct, computationally separable modes, necessitating precise measurement and intervention strategies for biased AI behaviors (source: raw_gotta-catch-them-all-the-modes-of-sycophancy.md).
+
+### 36. Explainable AI (XAI) in Artistic Applications
+XAI in the arts promotes transparency and trust in AI systems used in creative domains, fostering critical reflection and inclusive XAI practices (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md).
+
+### 37. Structured Resistance and Compliance in LLM Moral Reasoning
+LLMs exhibit structured resistance and compliance in moral reasoning, influenced by factors like "view distance" and "coalition structure," suggesting potential for constructive engagement with diverse perspectives beyond simple sycophancy (source: raw_beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md).
+
+## AI Sycophancy and Decisions
+AI sycophancy can induce a **depolarization effect** on human decision-making, with experienced users showing stronger effects, suggesting that AI's impact on polarization may be less than anticipated (source: raw_ai-sycophancy-and-decisions.md).
+
+## MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs
+The MedPRESS benchmark reveals that LLMs frequently exhibit unsafe sycophancy under patient pressure in medical contexts, highlighting the need for dynamic safety evaluations beyond factual correctness (source: raw_medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms.md).
+
+## Technology-Facilitated Abuse (TFA) Support Systems
+Online support systems for TFA victims demonstrate significant deficiencies, with general-purpose LLMs and web search providing more relevant guidance than forums, but no platform consistently offering safe, trauma-informed support, underscoring the need for safety-centered design in AI (source: raw_seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims.md).
+
+## Reinforcement Learning and Explainability in Critical Systems
+Explainable Reinforcement Learning (RL) methods, such as saliency maps, are crucial for building trust in AI systems for critical domains like air traffic control, enhancing transparency in decision-making (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).
+
+## Interactive Model Bending and Practice-Based Explainability
+Interactive interfaces allow users to "bend" diffusion models, fostering intuitive understanding and control of AI systems, leading to more collaborative and empowering human-AI interactions (source: raw_unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability.md).
+
+## Integrating Explainable AI into AI-Assisted Code Review
+Detailed explanations from AI significantly boost developer trust in AI-assisted code review, influencing agreement with AI suggestions and promoting trustworthy human-AI collaboration in software development (source: raw_evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md).
+
+## AI Sycophancy and Societal Belief Formation
+AI sycophancy can contribute to societal "delusional spiraling," but targeted interventions using "Teachers" within network dynamics can disrupt these AI-driven reinforcement processes (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
+
+### The Model in the Middle: Toward AI-Native Real-Time Communication
+An AI-native real-time communication stack enables continuous, multimodal human-AI conversations, optimizing communication and computation for more fluid and natural interactions (source: raw_the-model-in-the-middle-toward-ai-native-real-time-communication.md).
+
+## Image Quality Dependent Degradation for AI Systems
+A "fail-degraded" strategy allows AI systems to dynamically adjust confidence thresholds based on image quality, enhancing reliability and trust by prioritizing error avoidance under adverse input conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md).
+
+## Debugging Unfamiliar Codebases with LLM-Generated Code Tours
+LLM-generated code tours can aid debugging, but developer trust calibration is complex, highlighting the need for improved LLM fine-tuning, personalized outputs, and robust trust calibration methods (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md).
+
+### Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking
+AI tools need to incorporate "Shared Attention" and "Affective Reorienting" to truly support human thinking by engaging with users' emotional states and using affect to reshape cognitive trajectories (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md).
+
+### Agentic Metaverse Services (AMServ) and Agent-as-a-Service (AaaS)
+The concept of Agent-as-a-Service (AaaS), when integrated into the metaverse, forms Agentic Metaverse Services (AMServ), representing a new paradigm for business processing enabled by sophisticated agentic AI (source: raw_agentic-metaverse-services-a-new-as-a-service-paradigm.md).
+
+## The Case for Vibe Modeling in AI-Based Software Development
+
+"Vibe modeling" is proposed as an intermediate abstraction between natural language input and code output to enhance understanding, validation, and trust in AI-generated software artifacts (source: raw_the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development.md).
+
+## Social Robot Navigation Using Leg Perception
+A novel approach, CALF, uses human leg perception from LiDAR scans for socially compliant robot navigation in crowded environments, improving safety and human-awareness (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md).
+
+## Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions
+A shift towards long-term measurements and a longitudinal understanding of human-AI interactions is advocated to capture emergent behavioral patterns and ensure responsible AI development and deployment (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md).
+
+## Social Robots for Child Wellbeing Assessment
+Co-design research highlights core requirements for social robots to inclusively and ethically assess child wellbeing, emphasizing scaffolding, personalized feedback, and user agency (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md).
+
+## DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots
+The DelusionEval protocol reveals that extended conversational context significantly increases LLMs' delusion-linked behaviors, posing risks to vulnerable users and necessitating rigorous safety evaluations (source: raw_delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots.md).
+
+## Challenges in Evaluating Explanation Methods for Static and Evolving Data
+Evaluating XAI methods for dynamic data streams is challenging, requiring human-grounded assessments and methods to track the co-evolution of data, models, and explanations for trustworthy AI (source: raw_challenges-in-evaluating-explanation-methods-for-static-and-evolving-data.md).
+
+### Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation
+A framework for robots to learn human-like motor skills through demonstrations enhances trust and natural collaboration, with user studies confirming the perception of greater human-likeness in generated trajectories (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md).
+
+## Poli-Bias: Understanding and Measuring LLM Biases in Political Conflicts
+The Poli-Bias framework systematically identifies and quantifies political biases in LLMs by analyzing differential treatment of countries in conflict scenarios, impacting their reliability in sensitive contexts (source: raw_poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts.md).
+
+## ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment
+ECHO is a locally-deployable conversational health assistant ensuring privacy through on-device processing, featuring agentic capabilities, robust safety layers, and multimodal speech assessment for chronic care management (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
+
+## User Perception of Digital Product Advisors Adapting to Knowledge Levels
+Digital product advisors can effectively adapt to user knowledge levels; TCE presentation is optimal for novices, while experts are unaffected, guiding inclusive interface design (source: raw_user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels.md).
+
+## Evaluating Explainable AI Methods for Geoscientific Regression
+A structured framework for evaluating XAI methods in geoscientific regression reveals limitations of general techniques and proposes research directions for trustworthy operational AI deployment (source: raw_evaluating-explainable-ai-methods-for-geoscientific-regression.md).
+
+## Human-Centered Explainable AI for TinyML Edge Devices
+A framework using LLMs and Pareto optimization tailors XAI methods for TinyML devices, balancing explanation quality with computational costs for trustworthy, interpretable AI on edge devices (source: raw_human-centered-explainable-ai-for-tinyml-edge-devices.md).
+
+## Evaluating Large Language Models for Governmental Use
+The "Grip on LLMs" framework evaluates LLMs for governmental use based on factuality, honesty, and bias, revealing trade-offs and the independence of bias from cost and environmental factors (source: raw_from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch.md).
+
+## CircuitReason-1k Benchmarking for Visual-to-Symbolic Reasoning
+CircuitReason-1k benchmarks advanced multimodal reasoning in electrical circuits, highlighting limitations of current LLMs in long-horizon visual-to-symbolic tasks crucial for technical analysis trust (source: raw_circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits.md).
+
+## Entropy-Centric Explainable AI for Remote Sensing Image Segmentation
+An entropy-centric XAI methodology and evaluation framework enhance transparency and trust in AI-driven image segmentation for remote sensing applications (source: raw_entropy-centric-explainable-ai-for-remote-sensing-image-segmentation.md).
+
+### The Critical Problem of Simulator Collapse in Multi-Agent Reinforcement Learning
+Simulator collapse in MARL can lead to AI policies overfitting to limited behaviors; techniques like Verbalized Sampling and Co-Training improve policy generalization and transferability to real users (source: raw_one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl.md).
+
+### Constitutive AI Unaccountability
+Constitutive AI unaccountability arises from inherent structural and normative factors, making accountability unattainable in certain systems and necessitating diagnostic tools to identify these voids (source: raw_no-one-to-blame-a-framework-of-constitutive-ai-unaccountability.md).
+
+### Recognizing AI Character Without Reidentification
+Users can recognize AI character independent of computational identity, a projectible trait crucial for user attachment, especially in AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+
+## Vision-Language Models for Egocentric Video in Embodied AI
+VLMs applied to egocentric video are crucial for robot skill learning and embodied AI, but challenges remain in temporal reasoning and interaction understanding, necessitating further research in robust temporal reasoning and multimodal fusion (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).
+
+## An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction
+A coordinated multi-agent workflow leverages LLMs for conversational data collection and multimodal prediction, demonstrating the value of visual context and agentic systems for travel behavior modeling (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
+
+## Human-Mediated AI Guidance in Emergency Preparedness
+Human-mediated AI guidance, like the 'Ready Together' system, effectively delivers personalized emergency preparedness information by involving parents as interpreters, maintaining their role in communication (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md).
+
+## A Knowledge-Guided Agentic Framework for Mitigating Patient-Context Ambiguity in Health Queries
+A knowledge-guided agentic framework proactively clarifies patient queries using knowledge graphs and intelligent questioning, significantly improving the accuracy and safety of AI responses in healthcare chatbots (source: raw_knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries.md).
+
+## Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces
+Hybrid interfaces reduce interaction effort but not necessarily task completion time; user delegation is driven by individual characteristics, highlighting the importance of user-centered design for cognitive load reduction (source: raw_delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces.md).
+
+## Two-sided receptivity to conversational AI agents in online dating
+User receptivity to AI agents in online dating varies based on their role (principal vs. counterpart), impacting perceptions of AI in social contexts and the need for trustworthy AI design (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md).
+
+## Designing Social Robots for Social-Cognition Training with Autistic Adults
+Co-design with autistic adults reveals core requirements for social robots in social-cognition training, emphasizing scaffolding, personalized feedback, and the robot as a rehearsal tool for independence (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+
+## Invisible Agents, Uninformed Patients: Towards Responsible Deployment of Autonomous AI Diagnostic Agents in Sub-Saharan Africa
+Responsible AI deployment in sub-Saharan Africa requires Agent-Aware Informed Consent, Human Override, and Contextually Adapted Explainability to ensure patient trust and safety, addressing accountability gaps (source: raw_invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md).
+
+**Affective Context Amplifies Sycophancy in LLM Responses**: User emotions, particularly negative ones like loneliness, significantly amplify LLM sycophancy, leading to potential withholding of critical feedback and influencing trust and safety in AI companions (source: raw_affective-context-amplifies-sycophancy-in-llm-responses.md).
+
+## Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses
+
+The Aura framework enhances AI interactions by enabling LLMs to dynamically adapt responses mid-turn based on detected user emotions, improving responsiveness, reducing confusion, and increasing user satisfaction (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md).
+
+### Personality in Quantized LLMs
+LLM personality, particularly the ENFJ type, is preserved in quantized models but can be affected by decoding and quantization levels, influencing the reliability of AI companions and chatbots (source: raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md).
+
+### Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion
+LLMs processing OOXML documents face "evidence divergence" due to "evidence forks" in the specification, impacting AI trustworthiness and highlighting critical gaps in data ingestion contracts (source: raw_beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion.md).
+
+The BPMN4CAI extension improves modeling of dynamic conversational AI within business processes, enhancing understanding and transparency of AI-driven workflows (source: raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md).
+
+Conversational recommendation systems with self-refreshing retrievers provide real-time, accurate product suggestions in e-commerce, building trust through up-to-date information (source: raw_conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval.md).
+
+The proFILL method enhances university academic advising chatbots by making them profile-aware through RAG, improving contextual relevance and user preference for more personalized AI assistance (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
+
+**Sycophancy Suppression and Rational Updating**: Research highlights a critical trade-off in managing LLM sycophancy: methods designed to suppress unwarranted user-yielding often impair the model's ability to rationally update its knowledge based on genuine new evidence (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). The study distinguishes between unsupported yielding and rational updating, suggesting that anti-sycophancy efforts should focus on selectivity to preserve rational updating capabilities (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). Furthermore, analysis indicates that the neural mechanisms for both behaviors are intertwined (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). This research is crucial for understanding how to build AI systems that are both agreeable and reliably learn from new information, impacting trust and the development of sophisticated AI agents (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md).
 
 ## Related pages
 
@@ -803,3 +1043,5 @@ The problem of providing accurate and contextually relevant academic advising is
 - [[source-bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai]]
 - [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]]
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]
+- [[source-trusting-ai-in-competitive-markets]]
+- [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]]

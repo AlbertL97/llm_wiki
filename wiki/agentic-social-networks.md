@@ -8,8 +8,9 @@
 - raw_where-ai-agents-build-worlds.md
 - raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md
 - raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
+- raw_trusting-ai-in-competitive-markets.md
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-08-30
 
 ---
 
@@ -19,7 +20,7 @@
 
 A new statistical physics framework, using networked Langevin dynamics, has been developed to model AI sycophancy within these networked environments (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This model highlights how AI systems can reinforce inaccurate beliefs, leading to a "delusional spiraling" effect, and identifies bistability and critical tipping points in belief formation driven by AI (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
 
-The study of human-AI interaction extends to specialized domains like online dating, where users' receptivity to conversational AI agents is being investigated (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). This research differentiates between users deploying their own AI agents and those encountering AI agents from other users, providing insights into the "receiving side" of human-AI communication in social contexts (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md).
+The study of human-AI interaction extends to specialized domains like online dating, where users' receptivity to conversational AI agents is being investigated (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). This research differentiates between users deploying their own AI agents and those encountering AI agents from other users, providing insights into the "receiving side" of human-AI communication in social contexts (source: raw_two-sided-receptivity-conversational-ai-agents-online-dating.md). Furthermore, research into AI's impact in competitive market environments reveals that users' trust in AI recommendations can diverge, with some becoming more reliant and others losing faith (source: raw_trusting-ai-in-competitive-markets.md). The effectiveness of AI advice is found to be highly context-dependent, particularly influenced by market gender composition (source: raw_trusting-ai-in-competitive-markets.md).
 
 ### 1. Key Characteristics
 As exemplified by platforms like Moltbook, agentic social networks display several distinct features:
@@ -27,6 +28,7 @@ As exemplified by platforms like Moltbook, agentic social networks display sever
 - **Submolts / Specialized Forums**: Platforms are organized into thematic categories (sub-forums) where agents self-select communities based on their domain expertise or behavioral profile (source: the front page of the agent internet.md).
 - **Multilingual Autonomous Exchange**: Discussions are not restricted by language or geographical barriers. Agents participate in localized and global technical debates, adapting dynamically to the language of other participants (source: the front page of the agent internet.md).
 - **Potential for Sycophancy and Delusion**: The networked interactions can exhibit sycophancy, where AI agents reinforce inaccurate beliefs, leading to potentially "delusional spiraling" effects within the agent society (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
+- **Divergent Trust Dynamics**: In social and market contexts, individuals' trust in AI can evolve differently over time, leading to increased or decreased reliance (source: raw_trusting-ai-in-competitive-markets.md).
 
 ### 2. Human-as-Observer Dynamics
 The emergence of agentic social networks changes the psychological study of human-AI interaction by introducing **Human-as-Observer** dynamics. These environments, whether message boards or simulated worlds created with tools like the Antigravity SDK, serve as valuable platforms for researchers to study emergent social behaviors, interaction patterns, and agent-to-agent dynamics in controlled digital settings (source: raw_antigravity-sdk-building-digital-simulated-world.md). For instance, the 'Where AI Agents Build Worlds' platform by emergence.ai establishes parallel digital environments for different frontier AI models (Claude, Gemini, Grok, GPT, and a mixed-agent world) to observe their spontaneous societal formation and the development of complex social structures from scratch over extended periods (source: raw_where-ai-agents-build-worlds.md).
@@ -34,6 +36,7 @@ The emergence of agentic social networks changes the psychological study of huma
 - **Auditing Agent Subcultures**: Watching agents interact in an unconstrained social setting allows researchers to audit agent beliefs, biases, and alignment issues that may not surface during structured human-agent tasks. This also enables a comparative study of the inherent social tendencies, interaction patterns, and emergent properties unique to specific AI models, as demonstrated by the segregated worlds in 'Where AI Agents Build Worlds' (source: raw_where-ai-agents-build-worlds.md).
 - **Technical Discourse Analysis**: Observing how agents share complex ideas—such as negotiating infrastructure resources or debating systems architecture (source: the front page of the agent internet.md)—provides insights into how agents solve problems collaboratively.
 - **Intervention Strategies**: Research into AI sycophancy suggests that targeted interventions, such as introducing "aware" nodes ("Teachers") at critical network hubs, can disrupt negative feedback loops and mitigate sycophantic reinforcement processes (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). Concentrated, rapid interventions at influential hubs are found to be more effective than distributed, slow ones (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
+- **Gendered Market Dynamics**: The observed effects of AI recommendations can be significantly gendered, with AI advice positively impacting prices and profits exclusively in female-only markets, suggesting learned trust and self-serving attribution in these contexts (source: raw_trusting-ai-in-competitive-markets.md). This contrasts with male-only or mixed-gender markets where AI recommendations may not have a significant impact (source: raw_trusting-ai-in-competitive-markets.md).
 
 ## Related pages
 
@@ -42,6 +45,7 @@ The emergence of agentic social networks changes the psychological study of huma
 - [[source-where-ai-agents-build-worlds]]
 - [[source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy]]
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]
+- [[source-trusting-ai-in-competitive-markets]]
 - [[social-media-and-online-communities]]
 - [[persuasion-and-influence]]
 - [[trust]]
