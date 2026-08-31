@@ -45,8 +45,9 @@
 - raw_affective-context-amplifies-sycophancy-in-llm-responses.md
 - raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
+- raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 
-**Last updated**: 2026-08-26
+**Last updated**: 2026-08-31
 
 ---
 
@@ -97,6 +98,8 @@ A new development in AI companionship is the launch of "DeAI" by Deepak Chopra. 
 Research into social robots for autistic adults focuses on their needs for social-cognition training, moving beyond a child-centric approach (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through co-design, autistic adults have outlined key requirements for social robots, emphasizing their role as scaffolds for real-world social rehearsal rather than substitutes for human interaction (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). These robots should prioritize authentic social simulation, offer personalized and user-controlled feedback, and assist with emotional self-awareness and contextual boundaries (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). The envisioned role is a private, adaptable tool to foster independence, with users desiring configurable identities, forms, and expressions for the robot (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
 
 A novel framework called Aura has been introduced, enabling Large Language Models (LLMs) to dynamically adapt their responses in real-time based on the user's detected emotional state during a conversation (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). This emotion-aware adaptation, achieved through modules that perceive user emotions and generate contextually tailored responses mid-turn, has shown statistically significant improvements in perceived learning gains and reduced interaction time by 21% in user studies (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). The framework also enhances user satisfaction by making interactions more responsive and less prone to confusion, without negatively impacting factual accuracy (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). This represents a significant step towards more natural and user-centric AI interactions by integrating emotional intelligence directly into response generation.
+
+An interesting finding in the context of human-robot interaction during collaborative tasks suggests that **lower robot self-disclosure can unexpectedly lead to increased participant self-disclosure and stronger reported teaming and coordination** (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This effect is more pronounced in users with prior robot teaming experience, indicating that simply increasing a robot's self-disclosure may not be the optimal strategy for enhancing rapport or social connection in all contexts (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -238,4 +241,5 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]]
 - [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]]
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]]
+- [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
 - [[persuasion-and-influence]]

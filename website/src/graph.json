@@ -54,7 +54,7 @@
       "name": "Human-Robot Interaction",
       "val": 3,
       "group": 1,
-      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Crucially, for children facing communication barriers, such as those with Developmental Language Disorder (DLD) or from forced migration backgrounds, social robots can serve as tools for wellbeing assessment, offering alternatives to traditional verbal methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). The field of Human-Centric Embodied Intelligence (HCEI) is emerging for soft wearable robots, viewing intelligence as a co-emergence from the coupled system of human and robot, prioritizing human perception and cognition in design through the PCAA framework, aiming for long-term user benefit and deployment (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). Robots can learn human-like motor skills through Learning from Demonstration (LfD) by observing human dynamics, with generated trajectories achieving high perceived human-likeness scores that positively influence user attitudes towards robots (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A new dataset, HUI360, offers a large-scale, in-the-wild collection of egocentric 360° videos from a mobile robot's perspective, designed to advance research in human-robot interaction anticipation by capturing spontaneous human behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). Ensuring the safety of AI systems in urban mobility is paramount, requiring a framework that integrates hazard analysis with runtime enforcement to guarantee safe operation in complex human-robot interaction scenarios (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). This involves a unified approach using \"hazard-informed safety envelopes\" that transform safety information across symbolic, spatial, and dynamic world models for continuous enforcement (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). **Vision-Language Models (VLMs) are increasingly vital for understanding egocentric video data, enabling AI systems to interpret complex human actions, intentions, and object interactions from a first-person perspective, which is crucial for advancing human-robot interaction (HRI) and embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). These models help bridge the gap between raw visual data and semantic understanding, facilitating robot skill learning and knowledge transfer from humans (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). However, challenges remain in processing long video sequences, temporal reasoning, and inferring user intent, pointing to future research directions in efficient long-video processing and advanced multimodal fusion (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).**"
+      "summary": "The core concept hub for the study of communication, collaboration, and psychological dynamics between humans and robots. It details emergency response applications, the mind-motor-machine nexus, exoskeleton interactions, robotic visual benchmarking, customizable social interfaces, advanced turn-taking capabilities for natural multiparty interactions, developmental motor learning through bidirectional tutoring, and novel methods for embodied spatial data physicalization using acoustics. The success of Physical AI, particularly humanoid robots, hinges on robust data standards for capturing and sharing embodied experiences. This also includes understanding the impact of security and privacy controls on user engagement, particularly for AI chatbots used for emotional support. Furthermore, the quality of a robot's movement significantly influences user comfort and acceptance, beyond its visual appearance. The integration of Automatic Speech Recognition (ASR) is identified as crucial for enabling intuitive, natural human-robot interaction, with a growing interest in localized ASR solutions as an alternative to cloud-based APIs, exploring various deployment strategies like ROS-based, cloud-based, and hybrid approaches. Recent advancements include robotic systems for assessing physical frailty and fall-risk indicators in older adults, offering objective biomechanical insights. New research also focuses on enabling robots to participate in physical activities with humans, such as synchronized juggling, showcasing advancements in real-time planning for dynamic object exchange and shared autonomy. A recent development addresses the fragmentation in the Human-Robot Interaction (HRI) layer of Generative AI (GenAI) powered robotic systems by proposing the Agent-Client Protocol (ACP) as a unified communication standard for seamless, real-time human-in-the-loop collaboration. This approach structures GenAI robotic architectures into three layers: human interaction, deliberative orchestration (using GenAI agents), and physical execution, enabling interoperability, easier robot upgrades, and native support for collaborative HRI features. Emerging research also introduces reconfigurable robotic platforms, such as Handroid, which can switch between a dexterous hand and a humanoid embodiment, facilitating cross-embodiment robot learning and unified control frameworks for diverse manipulation and locomotion tasks. A new conceptual framework distinguishes 'humanlikeness' as a deliberate design choice for robots from 'anthropomorphism' as the human tendency to infer human-like characteristics onto those robots, offering a crucial lens for understanding and improving HRI. Additionally, AI systems face reliability challenges when confronted with degraded input data, such as in automated driving systems. A \"fail-degraded\" approach dynamically adjusts the AI's confidence threshold based on estimated image quality, enabling more cautious operation and enhanced user trust even under adverse conditions (source: raw_image-quality-dependent-degradation-for-ai-systems.md). Emerging research also highlights the importance of affect in cognition, proposing \"Affective Tools for Thought\" (TfTs) that integrate emotional states into AI-supported thinking processes through shared attention and affective reorienting (source: raw_affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking.md). New research on robot navigation in crowded environments focuses on interpreting leg motion from low-mounted LiDAR scans to generate safe and socially compliant trajectories (source: raw_learning-social-robot-navigation-by-sensing-human-legs.md). Crucially, for children facing communication barriers, such as those with Developmental Language Disorder (DLD) or from forced migration backgrounds, social robots can serve as tools for wellbeing assessment, offering alternatives to traditional verbal methods (source: raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md). The field of Human-Centric Embodied Intelligence (HCEI) is emerging for soft wearable robots, viewing intelligence as a co-emergence from the coupled system of human and robot, prioritizing human perception and cognition in design through the PCAA framework, aiming for long-term user benefit and deployment (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). Robots can learn human-like motor skills through Learning from Demonstration (LfD) by observing human dynamics, with generated trajectories achieving high perceived human-likeness scores that positively influence user attitudes towards robots (source: raw_robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation.md). A new dataset, HUI360, offers a large-scale, in-the-wild collection of egocentric 360° videos from a mobile robot's perspective, designed to advance research in human-robot interaction anticipation by capturing spontaneous human behaviors (source: raw_hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation.md). Ensuring the safety of AI systems in urban mobility is paramount, requiring a framework that integrates hazard analysis with runtime enforcement to guarantee safe operation in complex human-robot interaction scenarios (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). This involves a unified approach using \"hazard-informed safety envelopes\" that transform safety information across symbolic, spatial, and dynamic world models for continuous enforcement (source: raw_ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes.md). **Vision-Language Models (VLMs) are increasingly vital for understanding egocentric video data, enabling AI systems to interpret complex human actions, intentions, and object interactions from a first-person perspective, which is crucial for advancing human-robot interaction (HRI) and embodied AI (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). These models help bridge the gap between raw visual data and semantic understanding, facilitating robot skill learning and knowledge transfer from humans (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md). However, challenges remain in processing long video sequences, temporal reasoning, and inferring user intent, pointing to future research directions in efficient long-video processing and advanced multimodal fusion (source: raw_vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai.md).** Research on robot self-disclosure in collaborative tasks suggests that lower robot self-disclosure can unexpectedly lead to increased participant self-disclosure and stronger reports of teaming and coordination, particularly among users with prior robot teaming experience (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md)."
     },
     {
       "id": "index",
@@ -174,6 +174,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Proposing a trust-based framework for human-robot collaboration that evaluates robot performance via a visual language model and generates optimal strategies using decision trees to maximize HRC efficiency."
+    },
+    {
+      "id": "source-aero-hand-open-simulation-ready-tendon-driven-hand",
+      "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-affective-context-amplifies-sycophancy-in-llm-responses",
@@ -766,6 +773,13 @@
     {
       "id": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
       "name": "Source Summary: Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks",
+      "name": "From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -1922,6 +1936,10 @@
     },
     {
       "source": "ai-companions",
+      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
+      "source": "ai-companions",
       "target": "persuasion-and-influence"
     },
     {
@@ -2127,6 +2145,14 @@
     {
       "source": "anthropomorphism",
       "target": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-aero-hand-open-simulation-ready-tendon-driven-hand"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
     },
     {
       "source": "chatbots",
@@ -3341,6 +3367,14 @@
       "target": "source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation"
     },
     {
+      "source": "human-robot-interaction",
+      "target": "source-aero-hand-open-simulation-ready-tendon-driven-hand"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
       "source": "introspective-awareness",
       "target": "source-emergent-introspective-awareness"
     },
@@ -4117,6 +4151,10 @@
       "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -4255,6 +4293,10 @@
     {
       "source": "source-active-interaction-strategy",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-aero-hand-open-simulation-ready-tendon-driven-hand",
+      "target": "trust"
     },
     {
       "source": "source-affective-context-amplifies-sycophancy-in-llm-responses",
@@ -5475,6 +5517,10 @@
     {
       "source": "trust",
       "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
+    },
+    {
+      "source": "trust",
+      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
     }
   ]
 }

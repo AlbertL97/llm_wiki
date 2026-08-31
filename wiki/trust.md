@@ -127,8 +127,10 @@
 - raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
 - raw_trusting-ai-in-competitive-markets.md
 - raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md
+- raw_aero-hand-open-simulation-ready-tendon-driven-hand.md
+- raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 
-**Last updated**: 2026-08-30
+**Last updated**: 2026-08-31
 
 ---
 
@@ -271,6 +273,10 @@ The emergent phenomenon of "AI psychosis," where prolonged interaction with LLM 
 ### Agentic Approach to Data Collection and Prediction
 
 A novel three-agent workflow has been developed that integrates conversational data collection, travel behavior modeling, and weather-sensitive demand prediction (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). This workflow utilizes a chatbot-administered, image-augmented stated-preference survey to gather travel mode choices under various weather conditions from student commuters (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The study found that text-only zero-shot LLMs achieved accuracy comparable to traditional machine learning models, while vision-based LLMs incorporating weather images showed higher accuracy (71.5%), highlighting the importance of multimodal context for AI prediction (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md). The integration of habitual travel information and the use of an "expert" framing for LLM personas also demonstrated benefits for prediction accuracy, indicating the potential for such agentic systems to improve data collection and modeling efficiency, which can contribute to more reliable AI systems (source: raw_agentic-approach-data-collection-travel-behavior-prediction.md).
+
+### Aero Hand Open: Dexterous Manipulation and Simulation-to-Real Transfer
+
+The Aero Hand Open represents a significant advancement in creating anthropomorphic and affordable robotic hands for dexterous manipulation learning (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). A key contribution is its simulation-ready architecture, which directly addresses the challenges of accurately modeling underactuated, tendon-driven mechanisms (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). By providing a robust simulation model, an identified actuation map for real-world transfer, and a dedicated reinforcement learning package, the system enables policies to be trained entirely in simulation (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). This streamlined simulation-to-real transfer without extensive fine-tuning suggests increased predictability and reliability in the robot's physical actions (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). Such advancements in achieving dexterous manipulation through reliable simulation can foster greater trust in human-robot collaboration, as robots are expected to perform complex physical tasks with greater consistency and less need for human intervention (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). The inherent anthropomorphic design also contributes to a more natural human perception of the robot (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -629,6 +635,10 @@ To address this, the **proFILL** method has been developed to transform a rule-b
 
 Experimental and human preference studies have demonstrated that proFILL significantly outperforms diverse RAG baselines and is practically useful, with target users preferring the system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). The system's effectiveness with open-weight models also facilitates cost-effective on-premise deployment, further enhancing its trustworthiness and accessibility (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
 
+### From Small Talk to Rapport: Robot Self-Disclosure in Collaboration
+
+The nature and extent of a robot's self-disclosure during small talk can significantly influence human-robot collaboration, impacting not only rapport but also user disclosure and perceived teaming quality (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Research involving an LLM-driven industrial manipulator with varying self-disclosure strategies found that a **low-disclosure** approach unexpectedly led to participants disclosing more information themselves and reporting stronger feelings of teaming and coordination with the robot (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This suggests that increased robot self-disclosure is not a universal driver of rapport or social connection; other factors, such as the user's prior experience with human-robot interaction, play a crucial role in moderating these effects (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Experienced users, in particular, seemed to benefit more from robots that engaged in less self-disclosure, indicating a nuanced relationship between robot communication style, user experience, and the development of trust and effective collaboration (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -785,3 +795,5 @@ Experimental and human preference studies have demonstrated that proFILL signifi
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]
 - [[source-trusting-ai-in-competitive-markets]]
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]]
+- [[source-aero-hand-open-simulation-ready-tendon-driven-hand]]
+- [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]

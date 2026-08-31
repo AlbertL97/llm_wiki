@@ -2660,3 +2660,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-08-31 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_aero-hand-open-simulation-ready-tendon-driven-hand.md
+- raw/raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-aero-hand-open-simulation-ready-tendon-driven-hand.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/trust.md
+- wiki/source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
+- wiki/persuasion-and-influence.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning" and created summary page wiki/source-aero-hand-open-simulation-ready-tendon-driven-hand.md.
+- Ingested "From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks" and created summary page wiki/source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

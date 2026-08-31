@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-08-30
+**Last updated**: 2026-08-31
 
 ## Orientation
 
@@ -13,6 +13,7 @@
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
+- [[source-aero-hand-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]] — Summary of Affective Context Amplifies Sycophancy in LLM Responses.
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
 - [[source-agibot]] — Summary of Agibot, a robotic surgery assistant.
@@ -83,6 +84,7 @@
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
+- [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]] — Summary of From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
