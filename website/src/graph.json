@@ -1380,6 +1380,13 @@
       "summary": ""
     },
     {
+      "id": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization",
+      "name": "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-synthetic-contact-with-ai-reduces-cross-partisan-animosity",
       "name": "Synthetic Contact with AI Reduces Cross-Partisan Animosity",
       "val": 1.5,
@@ -1672,6 +1679,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the Cell Trends in Cognitive Sciences article by Samuel G.B. Johnson et al. defining the difference between AI \"smartness\" and \"wisdom\" in solving intractable problems, and proposing object-level heuristics managed by metacognitive reasoning strategies (such as intellectual humility, perspective-taking, and context adaptability)."
+    },
+    {
+      "id": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
+      "name": "XAI2CSI: Interpreting CSI with eXplainable AI for Human Activity Recognition",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "trust",
@@ -2495,6 +2509,10 @@
       "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
     },
     {
+      "source": "chatbots",
+      "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3157,6 +3175,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
     },
     {
       "source": "human-robot-interaction",
@@ -5463,6 +5485,18 @@
       "target": "agentic-knowledgeable-self-awareness"
     },
     {
+      "source": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
+      "target": "explainability"
+    },
+    {
+      "source": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "trust",
       "target": "agentic-knowledgeable-self-awareness"
     },
@@ -5521,6 +5555,10 @@
     {
       "source": "trust",
       "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
+      "source": "trust",
+      "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
     }
   ]
 }

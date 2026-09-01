@@ -2686,3 +2686,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-01 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md
+- raw/raw_xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition.md
+
+**Summary of changes**:  
+- Ingested "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization" and created summary page wiki/source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md.
+- Ingested "XAI2CSI: Interpreting CSI with eXplainable AI for Human Activity Recognition" and created summary page wiki/source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
