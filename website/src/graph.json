@@ -771,6 +771,13 @@
       "summary": ""
     },
     {
+      "id": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance",
+      "name": "Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
       "name": "Source Summary: Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction",
       "val": 1.5,
@@ -1158,6 +1165,13 @@
     {
       "id": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
       "name": "When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance",
+      "name": "PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2513,6 +2527,14 @@
       "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
     },
     {
+      "source": "chatbots",
+      "target": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3179,6 +3201,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance"
     },
     {
       "source": "human-robot-interaction",
@@ -4177,6 +4207,10 @@
       "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5058,6 +5092,10 @@
     },
     {
       "source": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
+      "target": "trust"
+    },
+    {
+      "source": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance",
       "target": "trust"
     },
     {

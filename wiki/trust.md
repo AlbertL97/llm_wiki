@@ -130,8 +130,9 @@
 - raw_aero-hand-open-simulation-ready-tendon-driven-hand.md
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 - raw_sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md
+- raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md
 
-**Last updated**: 2026-09-01
+**Last updated**: 2026-09-02
 
 ---
 
@@ -644,6 +645,10 @@ Experimental and human preference studies have demonstrated that proFILL signifi
 
 The nature and extent of a robot's self-disclosure during small talk can significantly influence human-robot collaboration, impacting not only rapport but also user disclosure and perceived teaming quality (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Research involving an LLM-driven industrial manipulator with varying self-disclosure strategies found that a **low-disclosure** approach unexpectedly led to participants disclosing more information themselves and reporting stronger feelings of teaming and coordination with the robot (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This suggests that increased robot self-disclosure is not a universal driver of rapport or social connection; other factors, such as the user's prior experience with human-robot interaction, play a crucial role in moderating these effects (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Experienced users, in particular, seemed to benefit more from robots that engaged in less self-disclosure, indicating a nuanced relationship between robot communication style, user experience, and the development of trust and effective collaboration (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
 
+### Persuasive Dialogue in Insurance: The PersuaRL Framework
+
+In domains like insurance, where trust and clarity are paramount, the ability of AI agents to engage in persuasive dialogue is crucial. Standard LLMs often excel at factual communication but struggle with context-sensitive persuasion. To address this, the **PersuaRL framework** has been introduced (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This framework utilizes reinforcement learning to equip LLM-driven dialogue agents with the capacity to adaptively select and coordinate strategies from multiple expert modules, guided by the evolving dialogue context (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). Evaluations on the new InsureDial dataset and other benchmarks demonstrate that PersuaRL outperforms baseline approaches by generating responses that are both contextually appropriate and highly persuasive (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This advancement is relevant to understanding how AI can be designed to be more influential and trustworthy in customer-facing interactions, impacting both human-AI interaction and the development of sophisticated [[chatbots]] (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -803,3 +808,4 @@ The nature and extent of a robot's self-disclosure during small talk can signifi
 - [[source-aero-hand-open-simulation-ready-tendon-driven-hand]]
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
 - [[source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization]]
+- [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]]

@@ -2709,3 +2709,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-02 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md
+- raw/raw_few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance" and created summary page wiki/source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md.
+- Ingested "Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance" and created summary page wiki/source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

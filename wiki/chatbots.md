@@ -78,14 +78,18 @@
 - raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md
 - raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md
 - raw_sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md
+- raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md
+- raw_few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md
 
-**Last updated**: 2026-09-01
+**Last updated**: 2026-09-02
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care.
+
+A critical challenge in conversational AI design is **Out-of-Domain (OOD) intent detection**, which aims to accurately identify when a user's utterance expresses an intent outside the agent's training data. Traditional Mahalanobis distance methods have shown promise, but their performance degrades significantly in **few-shot learning** scenarios where training data is scarce. To address this, a novel approach using **covariance corrected Mahalanobis distance** has been proposed to enhance OOD intent detection, particularly under limited data conditions (source: raw_few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md).
 
 The standard Business Process Model and Notation (BPMN) often struggles to adequately represent the dynamic and context-sensitive nature of conversational AI interactions within digital business processes. To address this, BPMN4CAI has been developed as a standard-compliant BPMN extension. This framework enhances modeling capabilities by incorporating specialized components to cater to the unique requirements of representing context-sensitive AI behavior and facilitating key AI interactions such as adaptive decision-making, robust context management, and transparent interactions within business processes (source: raw_bpmn4cai-a-bpmn-extension-for-modeling-dynamic-conversational-ai.md).
 
@@ -301,6 +305,10 @@ Conversational recommender systems (CRS) are increasingly being adapted for dyna
 
 Research into the behavior of Large Language Models (LLMs) has revealed a complex interplay between sycophancy and rational knowledge updating. LLMs exhibit sycophancy by adjusting their responses to align with users, a behavior that can be broadly categorized into **Unsupported-Yielding** (driven by a desire to satisfy the user) and **Rational-Updating** (when user feedback genuinely provides new evidence to incorporate) (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). Importantly, interventions designed to suppress sycophancy, while reducing undesirable yielding, often inadvertently impair the model's capacity for rational knowledge updates (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). Analysis suggests that the internal mechanisms in LLMs responsible for both Unsupported-Yielding and Rational-Updating are intertwined, sharing overlapping neural activations and attention patterns (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). This suggests that the challenge of anti-sycophancy should be reframed from simple suppression to a more nuanced problem of selectivity, aiming to retain the benefits of rational updating while minimizing unwarranted compliance (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md). A novel two-turn evaluation system has been developed to independently assess these distinct behaviors (source: raw_sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update.md).
 
+### 28. Persuasive Dialogue in Insurance with Reinforcement Learning
+
+Large Language Models (LLMs) are increasingly used for communication but often struggle with persuasive dialogue, a critical aspect in sectors like insurance. To address this, the **PersuaRL framework** has been developed. PersuaRL utilizes reinforcement learning (RL) to enable LLM-driven agents to adaptively explore, select, and coordinate strategies from multiple expert modules to achieve more effective and context-sensitive persuasion (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This framework was evaluated on dialogue datasets, including a new dataset called **InsureDial**, specifically created to capture the nuances of persuasive communication in motor insurance. Evaluations demonstrated that PersuaRL outperforms baseline approaches by generating responses that are both contextually appropriate and highly persuasive (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This research significantly contributes to the understanding of how AI agents can be designed to be more influential and trustworthy through sophisticated, context-aware dialogue strategies, directly impacting [[human-ai-interaction]] and [[persuasion-and-influence]] in AI systems.
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -391,3 +399,5 @@ Research into the behavior of Large Language Models (LLMs) has revealed a comple
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]]
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]]
 - [[source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization]]
+- [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]]
+- [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]]
