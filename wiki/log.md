@@ -2734,3 +2734,21 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-03 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md
+- wiki/human-robot-interaction.md
+
+**Summary of changes**:  
+- Ingested "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework" and created summary page wiki/source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

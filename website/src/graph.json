@@ -1506,6 +1506,13 @@
       "summary": ""
     },
     {
+      "id": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework",
+      "name": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission",
       "name": "Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission",
       "val": 1.5,
@@ -3425,6 +3432,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework"
     },
     {
       "source": "introspective-awareness",
@@ -5361,6 +5372,18 @@
     {
       "source": "source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach",
       "target": "explainability"
+    },
+    {
+      "source": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework",
+      "target": "explainability"
+    },
+    {
+      "source": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework",
+      "target": "trust"
     },
     {
       "source": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission",
