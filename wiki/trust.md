@@ -131,8 +131,10 @@
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 - raw_sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization.md
 - raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md
+- raw_psychological-needs-predict-ai-acceptance.md
+- raw_psychology-the-dangers-of-the-ai-companion.md
 
-**Last updated**: 2026-09-02
+**Last updated**: 2026-09-05
 
 ---
 
@@ -143,6 +145,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Psychological Needs and AI Acceptance
+
+Individual psychological needs play a significant role in determining whether users will accept AI companions and therapists (source: raw_psychological-needs-predict-ai-acceptance.md). Research indicates that individuals with higher satisfaction in their needs for relatedness and competence are more likely to embrace AI support (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can foster skepticism and reluctance towards AI, especially in therapeutic contexts where self-determination is highly valued (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these individual differences is crucial for designing AI systems that are not only functional but also psychologically resonant and readily accepted by users (source: raw_psychological-needs-predict-ai-acceptance.md).
 
 ### Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization
 
@@ -809,3 +815,5 @@ In domains like insurance, where trust and clarity are paramount, the ability of
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
 - [[source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization]]
 - [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]]
+- [[source-psychological-needs-predict-ai-acceptance]]
+- [[source-psychology-the-dangers-of-the-ai-companion]]

@@ -2752,3 +2752,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-05 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_psychological-needs-predict-ai-acceptance.md
+- raw/raw_psychology-the-dangers-of-the-ai-companion.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-psychological-needs-predict-ai-acceptance.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/source-psychology-the-dangers-of-the-ai-companion.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Your psychological needs predict whether you will accept an AI companion or therapist" and created summary page wiki/source-psychological-needs-predict-ai-acceptance.md.
+- Ingested "PSYCHOLOGY: THE DANGERS OF THE AI COMPANION" and created summary page wiki/source-psychology-the-dangers-of-the-ai-companion.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

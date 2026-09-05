@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-02
+**Last updated**: 2026-09-05
 
 ## Orientation
 
@@ -137,10 +137,12 @@
 - [[source-plus-tips-on-getting-started-with-ai-safely]] — Summary of Plus tips on getting started with AI safely.
 - [[source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts]] — Summary of Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
+- [[source-psychological-needs-predict-ai-acceptance]] — Summary of Your psychological needs predict whether you will accept an AI companion or therapist.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
-- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
-- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychology-ai-cognitive-emotional]] — Summary of paper reviewing cognitive science and psychological characteristics of AI and human-AI relationship ethics.
+- [[source-psychology-the-dangers-of-the-ai-companion]] — Summary of PSYCHOLOGY: THE DANGERS OF THE AI COMPANION.
 - [[source-psychology-trust-smashing]] — Summary of Smashing Magazine UX guide outlining the four pillars of trust, qualitative/quantitative metrics, and trust repair in AI.
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
 - [[source-real-virtual-humans]] — Summary of portal clipping for the Max Planck Institute's Real Virtual Humans research group.

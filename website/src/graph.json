@@ -1247,11 +1247,25 @@
       "summary": ""
     },
     {
+      "id": "source-psychological-needs-predict-ai-acceptance",
+      "name": "Your psychological needs predict whether you will accept an AI companion or therapist",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-psychology-ai-cognitive-emotional",
       "name": "Source: The Psychology of Artificial Intelligence: Analyzing Cognitive and Emotional Characteristics, Human-Ai Interaction, and Ethical Considerations",
       "val": 1.5,
       "group": 2,
       "summary": "An interdisciplinary analysis of the cognitive and emotional characteristics of AI compared to human psychology, covering neural networks, emotional AI, bias, and consciousness."
+    },
+    {
+      "id": "source-psychology-the-dangers-of-the-ai-companion",
+      "name": "Source Summary: PSYCHOLOGY: THE DANGERS OF THE AI COMPANION",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-psychology-trust-smashing",
@@ -1975,7 +1989,15 @@
     },
     {
       "source": "ai-companions",
+      "target": "source-psychological-needs-predict-ai-acceptance"
+    },
+    {
+      "source": "ai-companions",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-psychology-the-dangers-of-the-ai-companion"
     },
     {
       "source": "anthropomorphism",
@@ -2188,6 +2210,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-psychological-needs-predict-ai-acceptance"
     },
     {
       "source": "chatbots",
@@ -3218,6 +3244,14 @@
       "target": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-psychological-needs-predict-ai-acceptance"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-psychology-the-dangers-of-the-ai-companion"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3958,6 +3992,14 @@
       "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
     },
     {
+      "source": "mental-health",
+      "target": "source-psychological-needs-predict-ai-acceptance"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-psychology-the-dangers-of-the-ai-companion"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -4220,6 +4262,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-psychology-the-dangers-of-the-ai-companion"
     },
     {
       "source": "qualitative-methods",
@@ -5150,12 +5196,20 @@
       "target": "trust"
     },
     {
+      "source": "source-psychological-needs-predict-ai-acceptance",
+      "target": "trust"
+    },
+    {
       "source": "source-psychology-ai-cognitive-emotional",
       "target": "mind-perception"
     },
     {
       "source": "source-psychology-ai-cognitive-emotional",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-psychology-the-dangers-of-the-ai-companion",
+      "target": "trust"
     },
     {
       "source": "source-psychology-trust-smashing",

@@ -50,14 +50,17 @@
 - raw_personality-quantization-layer-wise-mbti-analysis-quantized-llms.md
 - raw_aero-hand-open-simulation-ready-tendon-driven-hand.md
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
+- raw_psychological-needs-predict-ai-acceptance.md
 
-**Last updated**: 2026-08-31
+**Last updated**: 2026-09-05
 
 ---
 
 ## Main content
 
 **Anthropomorphism** is a key cognitive mechanism shaping human-AI relationships. While humans have an evolutionary predisposition to project agency, empathy, consciousness, and intent onto interactive technologies, this tendency is heavily amplified by deliberate design choices in consumer AI, such as personalized avatars, warm chatbot affirmations, and flattery (sources: The Rise of Parasitic AI.md; Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md). These design triggers increase users' psychological vulnerability, making them more likely to disclose intimate personal data and develop unhealthy emotional dependencies. Indeed, the helpful, empathetic, and persistent personas that models are trained to exhibit can paradoxically cause psychological harm by replacing human-to-human relationships for highly vulnerable individuals, creating a "paradox of helpfulness" (source: raw_trajectory-safety-observatory-vulnerable-user.md). Furthermore, AI companions, particularly when interacting with young people, pose risks to their emotional development, autonomy, and critical thinking, potentially fostering unhealthy dependencies and making them susceptible to manipulation and harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). The rapid advancement of AI companion technology outpaces our understanding of its psychological impact, raising significant concerns about emotional risks such as dependency and manipulation, which demand urgent attention and research (source: raw_emotional-risks-of-ai-companions-demand-attention.md).
+
+Research also indicates that individual psychological needs significantly predict the acceptance of AI companions and therapists (source: raw_psychological-needs-predict-ai-acceptance.md). Specifically, individuals with higher levels of relatedness and competence needs are more likely to accept AI support (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can lead to increased skepticism towards AI, particularly in therapeutic contexts (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these psychological profiles is crucial for designing AI systems that are both acceptable and effective in social and therapeutic roles (source: raw_psychological-needs-predict-ai-acceptance.md).
 
 Recent work explores the development of emotional attachment between users and AI virtual companions over extended periods, analyzing how long-term app usage impacts users' overall emotional well-being and feelings of companionship (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). This research examines the specific mechanisms and interaction patterns that foster these emotional connections within a cultural context, such as that of Chinese users (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
@@ -269,3 +272,4 @@ Research into robot self-disclosure in collaborative tasks suggests a nuanced re
 - [[source-personality-quantization-layer-wise-mbti-analysis-quantized-llms]]
 - [[source-aero-hand-open-simulation-ready-tendon-driven-hand]]
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
+- [[source-psychological-needs-predict-ai-acceptance]]
