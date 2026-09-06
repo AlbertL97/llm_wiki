@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-05
+**Last updated**: 2026-09-06
 
 ## Orientation
 
@@ -111,6 +111,7 @@
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.
 - [[source-image-quality-dependent-degradation-for-ai-systems]] — Summary of Image Quality Dependent Degradation for AI Systems.
 - [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]] — Summary of Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa.
+- [[source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations]] — Summary of IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]] — Summary of A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.

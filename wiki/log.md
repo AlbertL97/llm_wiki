@@ -2779,3 +2779,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-06 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_efficient-test-time-adaptation-through-human-ai-interaction.md
+- raw/raw_irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-efficient-test-time-adaptation-through-human-ai-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/measurement-tools.md
+- wiki/trust.md
+- wiki/chatbots.md
+- wiki/source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Efficient Test-Time Adaptation through Human-AI Interaction" and created summary page wiki/source-efficient-test-time-adaptation-through-human-ai-interaction.md.
+- Ingested "IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations" and created summary page wiki/source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
