@@ -134,8 +134,9 @@
 - raw_psychological-needs-predict-ai-acceptance.md
 - raw_psychology-the-dangers-of-the-ai-companion.md
 - raw_efficient-test-time-adaptation-through-human-ai-interaction.md
+- raw_from-interpretability-methods-to-interpretable-models.md
 
-**Last updated**: 2026-09-06
+**Last updated**: 2026-09-07
 
 ---
 
@@ -660,6 +661,10 @@ To address this, the **proFILL** method has been developed to transform a rule-b
 
 Experimental and human preference studies have demonstrated that proFILL significantly outperforms diverse RAG baselines and is practically useful, with target users preferring the system (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md). The system's effectiveness with open-weight models also facilitates cost-effective on-premise deployment, further enhancing its trustworthiness and accessibility (source: raw_hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising.md).
 
+### From Interpretability Methods to Interpretable Models
+
+Current research in Explainable AI (XAI) has matured in its development of interpretability methods, including attribution, feature visualization, concept-based, and circuit-based approaches. However, the field's primary focus has shifted towards the proliferation and comparison of these methods, rather than on the ultimate goal: creating truly interpretable AI models (source: raw_from-interpretability-methods-to-interpretable-models.md). The paper argues for a paradigm shift, emphasizing that the key to building trust and certifying AI systems lies in empirically measuring their interpretability from the perspective of independent human evaluators, rather than solely relying on the sophistication of the methods used (source: raw_from-interpretability-methods-to-interpretable-models.md). The ultimate objective of XAI should be to ensure AI models are understandable to the humans who interact with and rely on them, and this human-centric interpretability must be directly measured, as it cannot be reliably inferred from method performance alone (source: raw_from-interpretability-methods-to-interpretable-models.md). A model-centric XAI agenda is therefore proposed, prioritizing the evaluation of models based on their actual human interpretability (source: raw_from-interpretability-methods-to-interpretable-models.md).
+
 ### From Small Talk to Rapport: Robot Self-Disclosure in Collaboration
 
 The nature and extent of a robot's self-disclosure during small talk can significantly influence human-robot collaboration, impacting not only rapport but also user disclosure and perceived teaming quality (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Research involving an LLM-driven industrial manipulator with varying self-disclosure strategies found that a **low-disclosure** approach unexpectedly led to participants disclosing more information themselves and reporting stronger feelings of teaming and coordination with the robot (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This suggests that increased robot self-disclosure is not a universal driver of rapport or social connection; other factors, such as the user's prior experience with human-robot interaction, play a crucial role in moderating these effects (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). Experienced users, in particular, seemed to benefit more from robots that engaged in less self-disclosure, indicating a nuanced relationship between robot communication style, user experience, and the development of trust and effective collaboration (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
@@ -831,3 +836,4 @@ In domains like insurance, where trust and clarity are paramount, the ability of
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[source-psychology-the-dangers-of-the-ai-companion]]
 - [[source-efficient-test-time-adaptation-through-human-ai-interaction]]
+- [[source-from-interpretability-methods-to-interpretable-models]]

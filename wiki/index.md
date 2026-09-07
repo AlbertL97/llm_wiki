@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-06
+**Last updated**: 2026-09-07
 
 ## Orientation
 
@@ -69,6 +69,7 @@
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]] — Summary of Designing Social Robots for Social-Cognition Training with Autistic Adults.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]] — Summary of Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation.
+- [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]] — Summary of Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
@@ -85,6 +86,7 @@
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
+- [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]] — Summary of From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.

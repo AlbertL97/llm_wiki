@@ -638,6 +638,13 @@
       "summary": ""
     },
     {
+      "id": "source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction",
+      "name": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-dimensions-of-power-a-systematic-guide-to-power-indices-for-explainable-ai",
       "name": "Dimensions of Power: A Systematic Guide to Power Indices for Explainable AI",
       "val": 1.5,
@@ -787,6 +794,13 @@
     {
       "id": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
       "name": "Source Summary: Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-from-interpretability-methods-to-interpretable-models",
+      "name": "From Interpretability Methods to Interpretable Models",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2230,6 +2244,10 @@
       "target": "source-psychological-needs-predict-ai-acceptance"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -2720,6 +2738,14 @@
     {
       "source": "explainability",
       "target": "source-efficient-test-time-adaptation-through-human-ai-interaction"
+    },
+    {
+      "source": "explainability",
+      "target": "source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction"
+    },
+    {
+      "source": "explainability",
+      "target": "source-from-interpretability-methods-to-interpretable-models"
     },
     {
       "source": "human-ai-interaction",
@@ -3286,6 +3312,14 @@
       "target": "source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-from-interpretability-methods-to-interpretable-models"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3776,6 +3810,10 @@
     {
       "source": "measurement-tools",
       "target": "source-efficient-test-time-adaptation-through-human-ai-interaction"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-from-interpretability-methods-to-interpretable-models"
     },
     {
       "source": "medical-ai",
@@ -4370,6 +4408,14 @@
       "target": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "anthropomorphism"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -4931,6 +4977,10 @@
     },
     {
       "source": "source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "source-from-interpretability-methods-to-interpretable-models",
       "target": "trust"
     },
     {

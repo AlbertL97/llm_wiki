@@ -2806,3 +2806,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-07 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- raw/raw_from-interpretability-methods-to-interpretable-models.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/anthropomorphism.md
+- wiki/qualitative-methods.md
+- wiki/source-from-interpretability-methods-to-interpretable-models.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction" and created summary page wiki/source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md.
+- Ingested "From Interpretability Methods to Interpretable Models" and created summary page wiki/source-from-interpretability-methods-to-interpretable-models.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

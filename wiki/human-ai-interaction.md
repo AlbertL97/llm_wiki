@@ -142,8 +142,10 @@
 - raw_psychology-the-dangers-of-the-ai-companion.md
 - raw_efficient-test-time-adaptation-through-human-ai-interaction.md
 - raw_irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations.md
+- raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- raw_from-interpretability-methods-to-interpretable-models.md
 
-**Last updated**: 2026-09-06
+**Last updated**: 2026-09-07
 
 ---
 
@@ -703,6 +705,14 @@ The **Test-Time Adaptation through Human-AI Interaction (TAHI)** approach addres
 
 TAHI's methodology involves incorporating user interaction data into the agent's context and weights, complemented by the evolving rubric module that refines evaluation criteria over time based on user feedback and task outcomes (source: raw_efficient-test-time-adaptation-through-human-ai-interaction.md). This work underscores the value of continuous human-AI collaboration for developing high-performance, personalized AI systems and offers a practical framework for tailoring AI to individual expertise, ultimately leading to more accurate and scalable evaluation methods for complex, open-ended tasks (source: raw_efficient-test-time-adaptation-through-human-ai-interaction.md).
 
+## Diffusion TV: Experiencing Generative Models through Tangible Interaction
+
+Diffusion TV offers a novel approach to understanding generative AI models, specifically diffusion models, through tangible and embodied interaction (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). This interactive installation uses a modified CRT television, allowing users to physically manipulate controls like an antenna and tuning knob to influence the real-time generation of AI-powered images and sounds (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). The installation uses three themed channels (Past, Present, Future) populated with AI-generated animals, creating a narrative that explores ecological and temporal themes through the generative process (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). By focusing on the generative process and intermediate states rather than just final outputs, Diffusion TV provides an embodied form of explainable AI (XAI), inviting users to intuitively grasp the mechanics of diffusion models through direct, physical engagement (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). This tangible approach to AI interaction emphasizes the process and encourages exploration, making complex AI concepts more accessible and fostering a deeper understanding of how generative models function (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
+
+## From Interpretability Methods to Interpretable Models
+
+The field of Explainable AI (XAI) has seen significant growth in developing interpretability methods, aiming to make AI models understandable to humans. However, this research critiques the current trajectory of XAI, arguing that the focus has been too heavily placed on the methods themselves rather than the core objective: creating *interpretable models* (source: raw_from-interpretability-methods-to-interpretable-models.md). The authors propose a paradigm shift towards empirically measuring the interpretability of the models directly, from the perspective of independent human evaluators, emphasizing that the existence and efficacy of interpretability methods do not guarantee that a model is genuinely understandable (source: raw_from-interpretability-methods-to-interpretable-models.md). This human-centric perspective is crucial for building trust and enabling the certification of AI systems, as true interpretability must be grounded in human comprehension, not just the technical output of interpretability tools (source: raw_from-interpretability-methods-to-interpretable-models.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -855,3 +865,5 @@ TAHI's methodology involves incorporating user interaction data into the agent's
 - [[source-psychology-the-dangers-of-the-ai-companion]]
 - [[source-efficient-test-time-adaptation-through-human-ai-interaction]]
 - [[source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations]]
+- [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
+- [[source-from-interpretability-methods-to-interpretable-models]]

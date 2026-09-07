@@ -51,8 +51,9 @@
 - raw_aero-hand-open-simulation-ready-tendon-driven-hand.md
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 - raw_psychological-needs-predict-ai-acceptance.md
+- raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
 
-**Last updated**: 2026-09-05
+**Last updated**: 2026-09-07
 
 ---
 
@@ -212,6 +213,10 @@ In physical human-robot interaction (HRI), a robot's acceptance is significantly
 
 Research into robot self-disclosure in collaborative tasks suggests a nuanced relationship with human-robot rapport and teaming. An industrial manipulator with low and high self-disclosure strategies was studied, revealing that a **low-disclosure** strategy unexpectedly led to participants disclosing more personal information and reporting stronger teaming and coordination with the robot (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This effect was particularly pronounced in users with prior robot teaming experience (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). These findings indicate that simply increasing robot self-disclosure is not a universal method for enhancing rapport or social connection, and that factors such as user experience play a critical role in how these interactions are perceived (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
 
+### 21. Embodied Explainability of Diffusion Models
+
+The interactive AI art installation "Diffusion TV" offers a tangible and embodied approach to understanding complex AI models like diffusion models (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). By using physical controls on a modified CRT television—such as an antenna and tuning knob—users can directly influence the AI-generated images and sounds in real-time. This method serves as an embodied form of Explainable AI (XAI), allowing users to intuitively grasp the generative process, including the metaphorical representation of denoising through antenna manipulation (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). The installation prioritizes exploring the intermediate states of AI generation, encouraging reflection on the process itself rather than just the final output (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -273,3 +278,4 @@ Research into robot self-disclosure in collaborative tasks suggests a nuanced re
 - [[source-aero-hand-open-simulation-ready-tendon-driven-hand]]
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
 - [[source-psychological-needs-predict-ai-acceptance]]
+- [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]

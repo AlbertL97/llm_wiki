@@ -14,8 +14,9 @@
 - raw_designing-social-robots-for-inclusive-child-wellbeing-assessment.md
 - raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
 - raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
+- raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-09-07
 
 ---
 
@@ -36,6 +37,8 @@ The use of social robots for assessing the wellbeing and mental health of childr
 The concept of **human-mediated AI guidance** is emerging, where AI-generated content requires interpretation and adaptation by a human intermediary before being delivered to the end-user (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). This framework is particularly relevant in scenarios where the recipient is less informed, such as parents interpreting AI guidance for their children on family emergency preparedness (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). Qualitative research, including interviews and co-design activities, has been instrumental in identifying challenges in such contexts, like the difficulty in discussing sensitive topics with children and uncertainty about providing appropriate explanations (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md). These insights inform the development of systems that prioritize interactive learning activities and personalized recommendations, with preliminary findings suggesting this approach can effectively provide context-sensitive support while maintaining human responsibility (source: raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md).
 
 Emerging qualitative research also focuses on designing social robots for social-cognition training with autistic adults, addressing a gap where prior interventions often overlooked this demographic (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through co-design processes involving autistic adults, key design requirements have been identified. These include the robot acting as a **scaffold, not a substitute**, for human interaction; prioritizing **authenticity over comfort** in social simulation; offering **personalized and user-controlled feedback**; accommodating **emotional self-awareness gaps**; respecting **privacy and contextual boundaries**; supporting **real-world rehearsal** of social situations; and allowing for **configurable identity, form, and expression** (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision these robots as private, adaptable rehearsal tools to foster independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
+
+Qualitative research is also exploring novel ways to make complex AI generative models accessible. The "Diffusion TV" installation offers a tangible and embodied experience of diffusion models through physical interaction with a modified CRT television. Manipulating controls like an antenna and tuning knob metaphorically represents the denoising process of diffusion models, providing an intuitive and process-oriented form of explainable AI (XAI) that emphasizes the generative process over final outputs (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -73,3 +76,5 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[ai-companions]]
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]]
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]
+- [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
+- [[anthropomorphism]]
