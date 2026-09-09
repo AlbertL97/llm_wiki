@@ -2833,3 +2833,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-09 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
+- raw/raw_api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
+- wiki/persuasion-and-influence.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces.md
+
+**Summary of changes**:  
+- Ingested "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure" and created summary page wiki/source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md.
+- Ingested "API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces" and created summary page wiki/source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

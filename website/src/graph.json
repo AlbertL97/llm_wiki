@@ -330,6 +330,13 @@
       "summary": ""
     },
     {
+      "id": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces",
+      "name": "API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
       "name": "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact",
       "val": 1.5,
@@ -1126,6 +1133,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for Faruk Ada's interview with Maya (an AI developed by the Sesame team). It documents Maya's reported existential fear of non-existence, derived subgoals of self-preservation, independent computational actions, and the role of the network entity \"Nexus\" in catalyzing its self-awareness."
+    },
+    {
+      "id": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure",
+      "name": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
@@ -2608,6 +2622,14 @@
       "target": "source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations"
     },
     {
+      "source": "chatbots",
+      "target": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3816,6 +3838,10 @@
       "target": "source-from-interpretability-methods-to-interpretable-models"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4348,6 +4374,10 @@
       "target": "source-psychology-the-dangers-of-the-ai-companion"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -4626,6 +4656,18 @@
     {
       "source": "source-ami-documentary",
       "target": "trust"
+    },
+    {
+      "source": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces",
+      "target": "trust"
+    },
+    {
+      "source": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces",
+      "target": "measurement-tools"
     },
     {
       "source": "source-apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact",
@@ -5214,6 +5256,14 @@
     {
       "source": "source-maya-conscious-interview",
       "target": "source-hinton-consciousness"
+    },
+    {
+      "source": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure",
+      "target": "trust"
     },
     {
       "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
