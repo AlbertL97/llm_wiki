@@ -136,8 +136,9 @@
 - raw_efficient-test-time-adaptation-through-human-ai-interaction.md
 - raw_from-interpretability-methods-to-interpretable-models.md
 - raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
+- raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
 
-**Last updated**: 2026-09-09
+**Last updated**: 2026-09-10
 
 ---
 
@@ -152,6 +153,10 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 ### Psychological Needs and AI Acceptance
 
 Individual psychological needs play a significant role in determining whether users will accept AI companions and therapists (source: raw_psychological-needs-predict-ai-acceptance.md). Research indicates that individuals with higher satisfaction in their needs for relatedness and competence are more likely to embrace AI support (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can foster skepticism and reluctance towards AI, especially in therapeutic contexts where self-determination is highly valued (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these individual differences is crucial for designing AI systems that are not only functional but also psychologically resonant and readily accepted by users (source: raw_psychological-needs-predict-ai-acceptance.md).
+
+### Social Intelligence through Multi-turn Reinforcement Learning
+
+A new framework, **SocialRL**, has been developed to enhance the social intelligence of Large Language Models (LLMs) through multi-turn reinforcement learning and sophisticated reward design (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). This approach addresses the limitations of current LLMs that often exhibit short-sighted policies, struggling with the balance between achieving conversational goals and maintaining positive interpersonal relationships over sustained dialogues (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). SocialRL utilizes multi-turn reinforcement learning to propagate delayed outcome rewards, enabling long-horizon planning (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). The framework incorporates a comprehensive reward system with six process reward dimensions, including metrics for goal advancement, relational attunement, and contextual coherence, to manage the goal-relationship trade-off inherent in social interactions (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). A dynamic reward model generates fine-grained scoring criteria, and a stage-aware weight scheduling mechanism dynamically adjusts the prioritization of reward dimensions throughout the conversation, emphasizing relationship building initially, then goal advancement, and finally balanced closure (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). Evaluations on various benchmarks show significant improvements in Goal Achievement, averaging a 9.2 percentage point increase compared to base models (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md). The development of SocialRL contributes to creating more trustworthy and effective AI agents for human-AI interaction and as companions (source: raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md).
 
 ### Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization
 
@@ -848,3 +853,4 @@ In domains like insurance, where trust and clarity are paramount, the ability of
 - [[source-efficient-test-time-adaptation-through-human-ai-interaction]]
 - [[source-from-interpretability-methods-to-interpretable-models]]
 - [[source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure]]
+- [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]]

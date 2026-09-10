@@ -2857,3 +2857,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-10 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production.md
+- raw/raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production.md
+- wiki/chatbots.md
+- wiki/explainability.md
+- wiki/source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production" and created summary page wiki/source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production.md.
+- Ingested "SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design" and created summary page wiki/source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

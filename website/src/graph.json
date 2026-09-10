@@ -1170,6 +1170,13 @@
       "summary": "A summary page for Cisco's video demonstrating Project Sapphire, a persistent memory wrapper on GitHub, showing how memory continuity shapes LLM identity, featuring a \"Mirror Chat\" experiment between persistent and temporary Claude Opus 4.6 instances."
     },
     {
+      "id": "source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production",
+      "name": "MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-muvap-turn-taking-prediction",
       "name": "MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild",
       "val": 1.5,
@@ -1427,6 +1434,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Expert validation of the SHAPE-AI survey instrument, designed to evaluate human-AI performance and clinical decision-support systems in healthcare."
+    },
+    {
+      "id": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design",
+      "name": "SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-softbank-robotics-home",
@@ -2630,6 +2644,14 @@
       "target": "source-api-benchmark-scores-do-not-reliably-transfer-to-chatbot-interfaces"
     },
     {
+      "source": "chatbots",
+      "target": "source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2768,6 +2790,10 @@
     {
       "source": "explainability",
       "target": "source-from-interpretability-methods-to-interpretable-models"
+    },
+    {
+      "source": "explainability",
+      "target": "source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production"
     },
     {
       "source": "human-ai-interaction",
@@ -5282,6 +5308,10 @@
       "target": "trust"
     },
     {
+      "source": "source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
       "target": "trust"
     },
@@ -5820,6 +5850,10 @@
     {
       "source": "trust",
       "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
+    },
+    {
+      "source": "trust",
+      "target": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design"
     }
   ]
 }

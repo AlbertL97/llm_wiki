@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-10
 
 ## Orientation
 
@@ -128,6 +128,7 @@
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
+- [[source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production]] — Summary of MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
@@ -157,6 +158,7 @@
 - [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]] — Summary of Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims.
 - [[source-sejnowski-consciousness]] — Summary of Terry Sejnowski's Eye on AI interview on Boltzmann machines, cortex-only LLMs, and lack of self-generating activity.
 - [[source-shape-ai-healthcare]] — Summary of medRxiv preprint on the development and validation of the SHAPE-AI clinical survey.
+- [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]] — Summary of SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design.
 - [[source-softbank-robotics-home]] — Summary of SoftBank Robotics Home landing page discussing cobotics service integration and employee—customer experience.
 - [[source-source-agentic-knowledgeable-self-awareness]] — Summary of the article on agentic self-awareness, KnowSelf framework, ALPC logic, and metacognitive feedback loops.
 - [[source-source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
