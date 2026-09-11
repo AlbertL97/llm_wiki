@@ -2881,3 +2881,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-11 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
+- raw/raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations" and created summary page wiki/source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md.
+- Ingested "Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation" and created summary page wiki/source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

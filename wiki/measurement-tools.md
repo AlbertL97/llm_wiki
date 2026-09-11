@@ -58,14 +58,17 @@
 - raw_efficient-test-time-adaptation-through-human-ai-interaction.md
 - raw_from-interpretability-methods-to-interpretable-models.md
 - raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
+- raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 
-**Last updated**: 2026-09-09
+**Last updated**: 2026-09-11
 
 ---
 
 ## Main content
 
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
+In maritime operations, research on AI-supported decision-making in collision avoidance reveals that while operators generally have positive attitudes towards maritime technology and consistent trust in automation, there are significant concerns regarding AI reliability and the risk of over-reliance (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The perceived quality of AI explanations is also scenario-dependent, underscoring the need for context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The focus for future systems should be on enabling "calibrated reliance" rather than solely increasing trust or automation levels, as operators value AI's support in decision-making and situation awareness but fear the erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
 
 A significant advancement in LLM tutor design aims to improve learning by teaching models to strategically withhold answers, rather than always providing direct solutions (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). This "supervisor architecture" and "evidence-driven tuning method" enforce a contract for answer withholding, preventing students from developing over-reliance on immediate answers and improving their performance on subsequent assessments (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). LLMs can struggle with reliably withholding answers, especially when prompted by frustrated students, which can negatively impact learning outcomes (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md). The proposed system uses a policy core, code detector, and LLM judge to enforce withholding criteria, and iterative tuning identifies and fixes "over-help ladder" issues (source: raw_teaching-llm-tutor-withhold-answer-supervisor-architecture.md).
 
@@ -314,3 +317,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-efficient-test-time-adaptation-through-human-ai-interaction]]
 - [[source-from-interpretability-methods-to-interpretable-models]]
 - [[source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure]]
+- [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]

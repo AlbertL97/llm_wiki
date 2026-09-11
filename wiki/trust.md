@@ -137,8 +137,9 @@
 - raw_from-interpretability-methods-to-interpretable-models.md
 - raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
 - raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
+- raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-11
 
 ---
 
@@ -688,6 +689,10 @@ The nature and extent of a robot's self-disclosure during small talk can signifi
 
 In domains like insurance, where trust and clarity are paramount, the ability of AI agents to engage in persuasive dialogue is crucial. Standard LLMs often excel at factual communication but struggle with context-sensitive persuasion. To address this, the **PersuaRL framework** has been introduced (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This framework utilizes reinforcement learning to equip LLM-driven dialogue agents with the capacity to adaptively select and coordinate strategies from multiple expert modules, guided by the evolving dialogue context (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). Evaluations on the new InsureDial dataset and other benchmarks demonstrate that PersuaRL outperforms baseline approaches by generating responses that are both contextually appropriate and highly persuasive (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md). This advancement is relevant to understanding how AI can be designed to be more influential and trustworthy in customer-facing interactions, impacting both human-AI interaction and the development of sophisticated [[chatbots]] (source: raw_persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance.md).
 
+### Maritime Operations AI and Operator Trust
+
+Research into Maritime Autonomous Surface Ships (MASS) highlights that operators generally hold positive attitudes towards maritime technology and exhibit stable trust in automation, particularly in collision-avoidance scenarios (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). However, there is a need to move beyond simply increasing trust or automation, focusing instead on enabling **calibrated reliance** (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The quality of AI explanations is scenario-dependent, underscoring the need for context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Operators value AI for improving decision-making and situation awareness, but concerns persist regarding AI reliability, over-dependence, and the potential erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Designing AI systems with transparency, reliability, and operational relevance, with continued domain expert involvement, is recommended to ensure effective support without undermining human capabilities (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -854,3 +859,4 @@ In domains like insurance, where trust and clarity are paramount, the ability of
 - [[source-from-interpretability-methods-to-interpretable-models]]
 - [[source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure]]
 - [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]]
+- [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]

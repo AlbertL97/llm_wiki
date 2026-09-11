@@ -52,8 +52,9 @@
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 - raw_psychological-needs-predict-ai-acceptance.md
 - raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
 
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-11
 
 ---
 
@@ -217,6 +218,10 @@ Research into robot self-disclosure in collaborative tasks suggests a nuanced re
 
 The interactive AI art installation "Diffusion TV" offers a tangible and embodied approach to understanding complex AI models like diffusion models (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). By using physical controls on a modified CRT television—such as an antenna and tuning knob—users can directly influence the AI-generated images and sounds in real-time. This method serves as an embodied form of Explainable AI (XAI), allowing users to intuitively grasp the generative process, including the metaphorical representation of denoising through antenna manipulation (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md). The installation prioritizes exploring the intermediate states of AI generation, encouraging reflection on the process itself rather than just the final output (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
 
+### 22. Dexterous Manipulation and Real-Time Jacobian Estimation
+
+Recent advancements in robotic manipulation showcase the potential for anthropomorphic hands to achieve human-like dexterity through novel control approaches. A key innovation involves real-time Jacobian estimation, which allows robotic hands to rapidly learn complex tasks like in-hand pen writing (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). This method enables a physical robot to acquire writing capabilities in approximately 18 seconds, without requiring extensive simulations, pre-collected demonstrations, or pre-defined kinematic models (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). The control formulation is designed to be embodiment-independent, effective across different anthropomorphic robotic hand systems, and can adapt online to the task and environment in real-time, achieving sub-millimeter precision (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). This data and computationally efficient approach offers an alternative to traditional machine learning methods for achieving advanced robotic manipulation, contributing to the perception of AI systems performing human-like actions with high skill (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -279,3 +284,4 @@ The interactive AI art installation "Diffusion TV" offers a tangible and embodie
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]]
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
+- [[source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation]]

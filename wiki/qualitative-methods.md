@@ -15,14 +15,17 @@
 - raw_designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness.md
 - raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 - raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 
-**Last updated**: 2026-09-07
+**Last updated**: 2026-09-11
 
 ---
 
 ## Main content
 
 Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). For instance, qualitative studies, such as those used to develop taxonomies of caregiver needs, are vital for uncovering complex psychosocial needs, enabling the design of adaptive and person-centered AI systems for vulnerable populations in sensitive domains like mental health (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
+
+In maritime operations, qualitative research is being used to understand operator attitudes toward AI-supported decision-making systems, particularly in collision-avoidance scenarios within Maritime Autonomous Surface Ships (MASS) (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). While maritime professionals generally exhibit a positive disposition towards maritime technology and stable trust in automation, they also voice concerns regarding AI reliability, over-reliance, and the potential erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The perceived quality of AI explanations is also scenario-dependent, highlighting a need for nuanced and context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Participants valued AI's support in decision-making, enhancing situation awareness, and building confidence, but raised significant concerns about the risk of users becoming overly dependent on these systems (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
 
 Furthermore, qualitative investigations are essential for understanding how developers interact with AI tools in complex tasks like debugging. Research into debugging unfamiliar codebases with LLM-generated code tours reveals that developers have specific preferences for tour characteristics, such as dynamic detail adjustment, avoidance of redundancy, scannability, and a guiding tone, though some preferences can conflict (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Importantly, developers exhibit differential trust in AI-generated content, often trusting descriptions perceived as human-written more than those identified as AI-generated (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). This highlights the critical need for research into calibrating human trust in AI systems to ensure appropriate use and prevent over-reliance or under-utilization (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md). Standard debugging aids like stack traces are also found to be insufficient for identifying all relevant steps developers consider necessary for navigating complex code (source: raw_how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms.md).
 
@@ -78,3 +81,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]]
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
 - [[anthropomorphism]]
+- [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
