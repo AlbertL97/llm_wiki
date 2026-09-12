@@ -1030,6 +1030,13 @@
       "summary": ""
     },
     {
+      "id": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives",
+      "name": "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa",
       "name": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
       "val": 1.5,
@@ -1256,6 +1263,13 @@
     {
       "id": "source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts",
       "name": "Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language",
+      "name": "Source Summary: Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2070,6 +2084,10 @@
       "target": "source-psychology-the-dangers-of-the-ai-companion"
     },
     {
+      "source": "ai-companions",
+      "target": "source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2670,6 +2688,14 @@
       "target": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design"
     },
     {
+      "source": "chatbots",
+      "target": "source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -2816,6 +2842,10 @@
     {
       "source": "explainability",
       "target": "source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations"
+    },
+    {
+      "source": "explainability",
+      "target": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives"
     },
     {
       "source": "human-ai-interaction",
@@ -3396,6 +3426,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives"
     },
     {
       "source": "human-robot-interaction",
@@ -5255,6 +5293,10 @@
     },
     {
       "source": "source-image-quality-dependent-degradation-for-ai-systems",
+      "target": "trust"
+    },
+    {
+      "source": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives",
       "target": "trust"
     },
     {

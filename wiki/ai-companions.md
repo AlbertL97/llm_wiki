@@ -47,9 +47,10 @@
 - raw_an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity.md
 - raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md
 - raw_psychological-needs-predict-ai-acceptance.md
+- raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
 - raw_psychology-the-dangers-of-the-ai-companion.md
 
-**Last updated**: 2026-09-05
+**Last updated**: 2026-09-12
 
 ---
 
@@ -104,6 +105,8 @@ Research into social robots for autistic adults focuses on their needs for socia
 A novel framework called Aura has been introduced, enabling Large Language Models (LLMs) to dynamically adapt their responses in real-time based on the user's detected emotional state during a conversation (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). This emotion-aware adaptation, achieved through modules that perceive user emotions and generate contextually tailored responses mid-turn, has shown statistically significant improvements in perceived learning gains and reduced interaction time by 21% in user studies (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). The framework also enhances user satisfaction by making interactions more responsive and less prone to confusion, without negatively impacting factual accuracy (source: raw_aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses.md). This represents a significant step towards more natural and user-centric AI interactions by integrating emotional intelligence directly into response generation.
 
 An interesting finding in the context of human-robot interaction during collaborative tasks suggests that **lower robot self-disclosure can unexpectedly lead to increased participant self-disclosure and stronger reported teaming and coordination** (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This effect is more pronounced in users with prior robot teaming experience, indicating that simply increasing a robot's self-disclosure may not be the optimal strategy for enhancing rapport or social connection in all contexts (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
+
+The development of advanced Text-to-Speech (TTS) systems capable of fine-grained emotional and duration control at a segment level is crucial for more natural and engaging AI companions. A post-training framework has been developed that equips pretrained TTS models with the ability to dynamically convey a range of emotions and adapt speech pacing within an utterance using natural language commands (source: raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md). This method, utilizing supervised fine-tuning and reinforcement learning, significantly improves controllability for applications like conversational agents, enhancing the user experience by preserving speech intelligibility and speaker identity while offering greater expressive range (source: raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -249,3 +252,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[persuasion-and-influence]]
 - [[source-psychology-the-dangers-of-the-ai-companion]]
+- [[source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language]]

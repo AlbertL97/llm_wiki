@@ -2908,3 +2908,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-12 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
+- raw/raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md
+- wiki/explainability.md
+
+**Summary of changes**:  
+- Ingested "Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language" and created summary page wiki/source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md.
+- Ingested "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives" and created summary page wiki/source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
