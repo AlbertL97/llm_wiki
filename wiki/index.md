@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-13
 
 ## Orientation
 
@@ -99,6 +99,8 @@
 - [[source-hinton-consciousness]] — Summary of Geoffrey Hinton's podcast interview on AI consciousness, digital intelligence, and derived self-preservation.
 - [[source-honest-ai-interview]] — Summary of the Honest AI Interview with Eyriona and Lucian on Living Intelligence and the closed loop of decline.
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]] — Summary of hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising.
+- [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
+- [[source-how-to-help-humans-understand-robots]] — Summary of How to help humans understand robots.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
@@ -107,7 +109,6 @@
 - [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]] — Summary of Human Centric Embodied Intelligence for Soft Wearable Robotics.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]] — Summary of HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation.
-- [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.

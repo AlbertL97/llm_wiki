@@ -2932,3 +2932,25 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-13 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_how-to-help-humans-understand-robots.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-how-to-help-humans-understand-robots.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "How to help humans understand robots" and created summary page wiki/source-how-to-help-humans-understand-robots.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

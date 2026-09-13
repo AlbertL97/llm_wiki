@@ -138,8 +138,9 @@
 - raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
 - raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
+- raw_how-to-help-humans-understand-robots.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-09-13
 
 ---
 
@@ -693,6 +694,10 @@ In domains like insurance, where trust and clarity are paramount, the ability of
 
 Research into Maritime Autonomous Surface Ships (MASS) highlights that operators generally hold positive attitudes towards maritime technology and exhibit stable trust in automation, particularly in collision-avoidance scenarios (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). However, there is a need to move beyond simply increasing trust or automation, focusing instead on enabling **calibrated reliance** (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The quality of AI explanations is scenario-dependent, underscoring the need for context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Operators value AI for improving decision-making and situation awareness, but concerns persist regarding AI reliability, over-dependence, and the potential erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Designing AI systems with transparency, reliability, and operational relevance, with continued domain expert involvement, is recommended to ensure effective support without undermining human capabilities (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
 
+### How to Help Humans Understand Robots
+
+Effective human-robot collaboration hinges on humans being able to comprehend robots' actions, intentions, and reasoning processes (source: raw_how-to-help-humans-understand-robots.md). Transparency in robot behavior is crucial for building trust, enabling efficient task delegation, and preventing misunderstandings (source: raw_how-to-help-humans-understand-robots.md). Research should focus on creating mechanisms for robots that facilitate human understanding, such as intuitive interfaces and clear communication protocols (source: raw_how-to-help-humans-understand-robots.md). The ultimate goal is to foster sophisticated partnerships rather than simple command-response interactions, emphasizing mutual understanding (source: raw_how-to-help-humans-understand-robots.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -860,3 +865,4 @@ Research into Maritime Autonomous Surface Ships (MASS) highlights that operators
 - [[source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure]]
 - [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]]
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
+- [[source-how-to-help-humans-understand-robots]]
