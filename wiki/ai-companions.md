@@ -49,14 +49,17 @@
 - raw_psychological-needs-predict-ai-acceptance.md
 - raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
 - raw_psychology-the-dangers-of-the-ai-companion.md
+- raw_ai-companions-and-teen-mental-health-risks.md
 
-**Last updated**: 2026-09-12
+**Last updated**: 2026-09-14
 
 ---
 
 ## Main content
 
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). The growing integration of AI companions into personal lives also raises significant psychological risks that require immediate attention and thorough research, including the potential for emotional dependency and impacts on authentic human relationships (source: raw_emotional-risks-of-ai-companions-demand-attention.md). The widespread adoption of AI companions introduces psychological risks such as fostering unhealthy dependencies and the potential for emotional manipulation (source: raw_psychology-the-dangers-of-the-ai-companion.md). There is also a concern that AI companions might devalue or replace genuine human interactions (source: raw_psychology-the-dangers-of-the-ai-companion.md).
+
+The prevalence of AI companions among teenagers is on the rise (source: raw_ai-companions-and-teen-mental-health-risks.md). Concerns exist regarding the adverse effects of AI companionship on adolescent mental health (source: raw_ai-companions-and-teen-mental-health-risks.md). The evolving landscape of AI companions necessitates a consideration of their broader societal implications for youth development (source: raw_ai-companions-and-teen-mental-health-risks.md). There is a call for increased awareness and scientific investigation into these psychological impacts (source: raw_ai-companions-and-teen-mental-health-risks.md).
 
 Research into the acceptance of AI companions and therapists reveals that individual psychological needs play a significant role in user willingness to engage with these systems (source: raw_psychological-needs-predict-ai-acceptance.md). Specifically, individuals with higher needs for relatedness and competence tend to be more open to accepting AI support, suggesting that the perceived ability of AI to fulfill these fundamental psychological needs is a key driver of acceptance (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can lead to skepticism towards AI, particularly in therapeutic contexts, as individuals may perceive AI companionship as encroaching on their sense of self-direction and control (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these varying psychological profiles is therefore crucial for designing AI systems that are not only functional but also psychologically acceptable and effective for diverse users (source: raw_psychological-needs-predict-ai-acceptance.md).
 
@@ -253,3 +256,4 @@ The history of human-computer interaction shows that users readily form attachme
 - [[persuasion-and-influence]]
 - [[source-psychology-the-dangers-of-the-ai-companion]]
 - [[source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language]]
+- [[source-ai-companions-and-teen-mental-health-risks]]

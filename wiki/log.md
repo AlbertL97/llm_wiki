@@ -2954,3 +2954,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-14 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_gendered-anthropomorphism-in-human-robot-interaction.md
+- raw/raw_ai-companions-and-teen-mental-health-risks.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-gendered-anthropomorphism-in-human-robot-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/human-ai-interaction.md
+- wiki/source-ai-companions-and-teen-mental-health-risks.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Gendered anthropomorphism in human–robot interaction: the role of robot gender in human motivation in task contexts" and created summary page wiki/source-gendered-anthropomorphism-in-human-robot-interaction.md.
+- Ingested "AI Companions and Teen Mental Health Risks" and created summary page wiki/source-ai-companions-and-teen-mental-health-risks.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

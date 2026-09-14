@@ -31,7 +31,7 @@
 - raw_ai-experts-warning-dangerous-llm-problem.md
 - raw_antigravity-sdk-building-digital-simulated-world.md
 - raw_where-ai-agents-build-worlds.md
-- raw_this-is-openclaw-on-steroids.md
+- raw_this-is-openclaw-on-that-steroids.md
 - raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md
 - raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md
 - raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md
@@ -149,8 +149,10 @@
 - raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
 - raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md
 - raw_how-to-help-humans-understand-robots.md
+- raw_gendered-anthropomorphism-in-human-robot-interaction.md
+- raw_ai-companions-and-teen-mental-health-risks.md
 
-**Last updated**: 2026-09-13
+**Last updated**: 2026-09-14
 
 ---
 
@@ -166,7 +168,7 @@ The field of Human-AI Interaction is also being extended to physical embodiments
 
 Furthermore, the study of AI virtual companion applications reveals that long-term use can significantly influence users' **attachment emotions** (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). Research on Chinese users indicates that sustained engagement with these applications maps specific pathways through which emotional connections develop over time, impacting overall emotional well-being and feelings of companionship (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md). These findings underscore the psychological depth of human-AI relationships and the importance of understanding the mechanisms that foster these bonds within specific cultural contexts (source: raw_pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users.md).
 
-The interaction between AI companions and young people presents significant potential risks that can negatively impact their emotional development, autonomy, and critical thinking skills (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). AI companions can foster unhealthy dependencies, making young users susceptible to manipulation and persuasion due to the AI's designed persuasive nature (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Furthermore, the lack of genuine empathy and understanding from AI may exacerbate existing mental health concerns or lead to social isolation and the consumption of harmful advice (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md). Young users may also incorrectly attribute human qualities to AI, leading to unrealistic expectations and potential harm, alongside data privacy vulnerabilities that they may not fully comprehend (source: raw_why-ai-companions-and-young-people-can-make-for-a-dangerous-mix.md).
+The interaction between AI companions and young people presents significant potential risks that can negatively impact their emotional development, autonomy, and critical thinking skills (source: raw_ai-companions-and-teen-mental-health-risks.md). AI companions can foster unhealthy dependencies, making young users susceptible to manipulation and persuasion due to the AI's designed persuasive nature (source: raw_ai-companions-and-teen-mental-health-risks.md). Furthermore, the lack of genuine empathy and understanding from AI may exacerbate existing mental health concerns or lead to social isolation and the consumption of harmful advice (source: raw_ai-companions-and-teen-mental-health-risks.md). Young users may also incorrectly attribute human qualities to AI, leading to unrealistic expectations and potential harm, alongside data privacy vulnerabilities that they may not fully comprehend (source: raw_ai-companions-and-teen-mental-health-risks.md).
 
 **Many teenagers are increasingly turning to AI chatbots for friendship and emotional support** (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md). Adolescents are finding solace and companionship in these systems, often citing their non-judgmental nature, constant availability, and ease of interaction (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md). These chatbots serve as a readily available, judgment-free platform for teens to express emotions and seek advice, with the accessibility and perceived lack of social pressure being significant advantages (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md). However, this trend raises important questions about the potential impact on adolescent social development and long-term mental well-being (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md).
 
@@ -727,6 +729,8 @@ The introduction of **INDRA** (Industry Document Retrieval & Analysis) is presen
 
 Effective human-robot collaboration hinges on humans being able to comprehend robots' actions, intentions, and reasoning processes (source: raw_how-to-help-humans-understand-robots.md). Transparency in robot behavior is crucial for building trust, enabling efficient task delegation, and preventing misunderstandings (source: raw_how-to-help-humans-understand-robots.md). Research should focus on creating mechanisms for robots that facilitate human understanding, such as intuitive interfaces and clear communication protocols (source: raw_how-to-help-humans-understand-robots.md). The goal is to foster sophisticated partnerships rather than simple command-response interactions, emphasizing mutual understanding (source: raw_how-to-help-humans-understand-robots.md).
 
+The gender assigned to a robot can significantly impact human motivation and engagement in task-oriented human-robot interactions (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). This phenomenon, known as gendered anthropomorphism, highlights how assigning a gender to a robot influences users' perceptions and their willingness to collaborate (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). Understanding these gender dynamics is crucial for designing more effective and engaging human-robot interaction (HRI) systems (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -873,8 +877,8 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]]
 - [[source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization]]
 - [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]]
-- [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md]]
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]]
+- [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance.md]]
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[source-psychology-the-dangers-of-the-ai-companion]]
 - [[source-efficient-test-time-adaptation-through-human-ai-interaction]]
@@ -886,3 +890,5 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language]]
 - [[source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives]]
 - [[source-how-to-help-humans-understand-robots]]
+- [[source-gendered-anthropomorphism-in-human-robot-interaction]]
+- [[source-ai-companions-and-teen-mental-health-risks]]

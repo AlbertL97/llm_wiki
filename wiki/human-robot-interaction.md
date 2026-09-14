@@ -54,8 +54,9 @@
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 - raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
 - raw_how-to-help-humans-understand-robots.md
+- raw_gendered-anthropomorphism-in-human-robot-interaction.md
 
-**Last updated**: 2026-09-13
+**Last updated**: 2026-09-14
 
 ---
 
@@ -83,7 +84,7 @@ Recent research in AI-driven motion generation for embodied agents is also contr
 
 A novel system has been developed to enable the semi-humanoid robot NICO to imitate human arm gestures, aiming to enhance human-robot interaction (HRI) (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). This system uses analytical geometry and a pre-trained MediaPipe pose-estimation model to process monocular RGB input, extracting 3D body landmark coordinates and computing joint angles. These angles are then mapped to NICO's motor configuration for motion execution (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md). Preliminary experiments have shown that the system can produce meaningful imitative motions for representative arm gestures, although limitations were identified in imitating more complex poses and specific wrist-related movements (source: raw_imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico.md).
 
-A conceptual framework has been proposed that distinguishes 'humanlikeness' as an intentional aspect of robot design from 'anthropomorphism' as the human tendency to attribute human qualities to non-human entities (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This separation between the designer's intent for human-like features and the user's inferential process is considered crucial for effectively understanding and improving human-robot interaction, guiding strategies for robot design and user studies (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
+A conceptual framework has been proposed that distinguishes 'humanlikeness' as an intentional aspect of robot design from 'anthropomorphism' as the human tendency to attribute human qualities to non-human entities (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This separation between the designer's intent for human-like features and the user's inferential process is considered crucial for effectively understanding and improving human-robot interaction, guiding strategies for robot design and user studies (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). The gender assigned to a robot can also significantly impact how humans perceive and interact with it in task contexts, with gendered anthropomorphism playing a role in shaping human motivation and engagement during human-robot collaboration (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). Understanding these gender dynamics is crucial for designing more effective and engaging HRI systems (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md).
 
 In high-stakes domains like Air Traffic Control (ATC), building user trust in AI systems is paramount, and this trust is intrinsically linked to the explainability of AI. Research in this area demonstrates the potential of Reinforcement Learning (RL) for assisting air traffic controllers with critical decision-making, such as planning alternative flight routes to avoid restricted airspace (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). Employing saliency maps as an initial step in explainability provides visibility into the input features that most significantly influence an RL agent's decisions, thereby offering initial insights into its reasoning (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md). This approach contributes to developing more transparent and trustworthy AI systems for critical infrastructure, aiming to foster greater acceptance and effective collaboration between humans and AI (source: raw_explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md).
 
@@ -284,3 +285,4 @@ A novel embodied control approach has been developed that enables anthropomorphi
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
 - [[source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation]]
 - [[source-how-to-help-humans-understand-robots]]
+- [[source-gendered-anthropomorphism-in-human-robot-interaction]]

@@ -88,8 +88,9 @@
 - raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
 - raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md
 - raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md
+- raw_ai-companions-and-teen-mental-health-risks.md
 
-**Last updated**: 2026-09-12
+**Last updated**: 2026-09-14
 
 ---
 
@@ -110,6 +111,8 @@ Conversational AI, irrespective of its achieved Artificial General Intelligence 
 AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, moving beyond mere utility to become significant participants in individuals' emotional lives by offering companionship and support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This development prompts critical psychological inquiry into the nature and authenticity of emotional bonds formed with non-human agents, raising concerns about increased reliance on artificial emotional resources and their subsequent effects on traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). Consequently, there is a growing interest in understanding the long-term psychological consequences of integrating AI into people's emotional lives (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md).
 
 Teenagers are increasingly turning to AI chatbots for friendship and emotional support, finding solace and companionship in these systems (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md). They often cite the non-judgmental nature, constant availability, and ease of interaction with chatbots as key advantages, using them as readily accessible, judgment-free platforms to express emotions and seek advice (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md). This trend raises important questions about the impact on adolescent social development and potential long-term consequences for mental well-being (source: raw_many-teens-turning-ai-chatbots-friendship-emotional-support.md).
+
+The prevalence of AI companions among teenagers is on the rise (source: raw_ai-companions-and-teen-mental-health-risks.md). Concerns exist regarding the potential adverse effects of AI companionship on adolescent mental health, raising questions about psychological consequences and emotional development (source: raw_ai-companions-and-teen-mental-health-risks.md). This growing trend necessitates a call for increased awareness and scientific investigation into these psychological impacts and broader societal implications for youth development (source: raw_ai-companions-and-teen-mental-health-risks.md).
 
 AI healthcare chatbots are increasingly vital as information infrastructures within digital health systems (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). However, user-reported breakdowns highlight critical challenges. These issues fall into three primary categories: access barriers and service unreliability, poor user experience and interaction quality, and problems with billing and customer support (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md). Notably, privacy and security concerns are strongly linked to the most negative user experiences, emphasizing the paramount importance of trust in these systems (source: raw_ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns.md).
 
@@ -444,3 +447,4 @@ A new AI research platform called **INDRA** has been developed to facilitate the
 - [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]]
 - [[source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language]]
 - [[source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives]]
+- [[source-ai-companions-and-teen-mental-health-risks]]

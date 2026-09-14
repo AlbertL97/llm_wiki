@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-13
+**Last updated**: 2026-09-14
 
 ## Orientation
 
@@ -20,6 +20,7 @@
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
+- [[source-ai-companions-and-teen-mental-health-risks]] — Summary of AI Companions and Teen Mental Health Risks.
 - [[source-ai-companions-and-young-people-can-make-for-a-dangerous-mix]] — Summary of Why AI companions and young people can make for a dangerous mix.
 - [[source-ai-experts-humanity-last-exam]] — Summary of Reuters report on CAIS and Scale AI's 'Humanity's Last Exam' benchmark.
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
@@ -90,6 +91,7 @@
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]] — Summary of From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
+- [[source-gendered-anthropomorphism-in-human-robot-interaction]] — Summary of Gendered anthropomorphism in human–robot interaction: the role of robot gender in human motivation in task contexts.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
 - [[source-handroid-bridging-dexterous-hand-and-humanoid]] — Summary of Handroid: Bridging Dexterous Hand and Humanoid.
 - [[source-health-advisory-mental-health]] — Summary of the APA Health Advisory documenting classification of digital mental health tools, risks, and recommendations.
@@ -219,7 +221,7 @@
 - [[ai-anxiety]] — Anxiety, discomfort, perceived threat, and resistance.
 - [[agency-and-autonomy]] — Human agency, machine agency, control, and autonomy.
 - [[anthropomorphism]] — Cognitive projection, emotional dyad attachment, and model retirement grief.
-- [[attitudes-toward-ai]] — General and domain-specific attitudes toward AI.
+- [[attitudes-toward-ai]] — General and specific attitudes toward AI.
 - [[cognitive-load]] — Mental effort, task demands, and usability-related load.
 - [[empathy]] — Perceived empathy, empathic responses, and simulated empathy.
 - [[engagement]] — Behavioral, affective, and cognitive engagement.

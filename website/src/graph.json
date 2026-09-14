@@ -253,6 +253,13 @@
       "summary": ""
     },
     {
+      "id": "source-ai-companions-and-teen-mental-health-risks",
+      "name": "AI Companions and Teen Mental Health Risks",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-experts-humanity-last-exam",
       "name": "Source: AI experts ready 'Humanity's Last Exam' to stump powerful tech",
       "val": 1.5,
@@ -832,6 +839,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for Furhat Robotics' flagship social robot and developer platform, detailing its back-projected 3D face customization engine, multi-user tracking capabilities, SDK tools, and conversational AI creator."
+    },
+    {
+      "id": "source-gendered-anthropomorphism-in-human-robot-interaction",
+      "name": "Gendered Anthropomorphism in Human-Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-godspeed-questionnaire-tiago",
@@ -2095,6 +2109,10 @@
       "target": "source-post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language"
     },
     {
+      "source": "ai-companions",
+      "target": "source-ai-companions-and-teen-mental-health-risks"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2317,6 +2335,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-gendered-anthropomorphism-in-human-robot-interaction"
     },
     {
       "source": "chatbots",
@@ -2701,6 +2723,10 @@
     {
       "source": "chatbots",
       "target": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-companions-and-teen-mental-health-risks"
     },
     {
       "source": "explainability",
@@ -3447,6 +3473,14 @@
       "target": "source-how-to-help-humans-understand-robots"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-gendered-anthropomorphism-in-human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-companions-and-teen-mental-health-risks"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3681,6 +3715,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-how-to-help-humans-understand-robots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-gendered-anthropomorphism-in-human-robot-interaction"
     },
     {
       "source": "introspective-awareness",
@@ -4225,6 +4263,10 @@
     {
       "source": "mental-health",
       "target": "source-psychology-the-dangers-of-the-ai-companion"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-ai-companions-and-teen-mental-health-risks"
     },
     {
       "source": "metacognitive-agent-architectures",

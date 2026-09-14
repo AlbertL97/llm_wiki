@@ -53,8 +53,9 @@
 - raw_psychological-needs-predict-ai-acceptance.md
 - raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
 - raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
+- raw_gendered-anthropomorphism-in-human-robot-interaction.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-09-14
 
 ---
 
@@ -222,6 +223,9 @@ The interactive AI art installation "Diffusion TV" offers a tangible and embodie
 
 Recent advancements in robotic manipulation showcase the potential for anthropomorphic hands to achieve human-like dexterity through novel control approaches. A key innovation involves real-time Jacobian estimation, which allows robotic hands to rapidly learn complex tasks like in-hand pen writing (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). This method enables a physical robot to acquire writing capabilities in approximately 18 seconds, without requiring extensive simulations, pre-collected demonstrations, or pre-defined kinematic models (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). The control formulation is designed to be embodiment-independent, effective across different anthropomorphic robotic hand systems, and can adapt online to the task and environment in real-time, achieving sub-millimeter precision (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md). This data and computationally efficient approach offers an alternative to traditional machine learning methods for achieving advanced robotic manipulation, contributing to the perception of AI systems performing human-like actions with high skill (source: raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md).
 
+### 23. Gendered Anthropomorphism in Human-Robot Interaction
+Research indicates that the gender assigned to a robot can significantly influence how humans perceive and interact with it in task-oriented contexts (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). This phenomenon, known as gendered anthropomorphism, plays a role in shaping human motivation and engagement during human-robot collaboration (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). Understanding these gender dynamics is crucial for designing more effective and engaging human-robot interaction (HRI) systems (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -285,3 +289,4 @@ Recent advancements in robotic manipulation showcase the potential for anthropom
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
 - [[source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation]]
+- [[source-gendered-anthropomorphism-in-human-robot-interaction]]
