@@ -40,8 +40,9 @@
 - raw_psychological-needs-predict-ai-acceptance.md
 - raw_psychology-the-dangers-of-the-ai-companion.md
 - raw_ai-companions-and-teen-mental-health-risks.md
+- raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
 
-**Last updated**: 2026-09-14
+**Last updated**: 2026-09-15
 
 ---
 
@@ -82,6 +83,8 @@ Social robots are also being explored as tools for assessing child wellbeing, pa
 Research into social robots for autism intervention is expanding to focus on the specific needs of autistic adults for social-cognition training. This area has historically been child-centric and has often overlooked the perspectives of autistic individuals themselves. Co-design sessions with autistic adults have identified seven core design requirements for social robots intended for this purpose. These include the robot acting as a scaffold rather than a substitute for human interaction, prioritizing authentic social simulation over mere comfort, providing personalized and user-controlled feedback, accommodating gaps in emotional self-awareness, respecting privacy and contextual boundaries, supporting real-world social rehearsal, and offering configurable identity, form, and expression (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision these robots primarily as private, adaptable rehearsal tools to foster greater independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
 
 The rise of AI companions introduces significant psychological risks, including the potential for fostering unhealthy dependencies and the possibility of emotional manipulation (source: raw_psychology-the-dangers-of-the-ai-companion.md). There is a concern that these AI entities may devalue or displace genuine human connections, and their development and deployment necessitate careful consideration of user well-being and data privacy (source: raw_psychology-the-dangers-of-the-ai-companion.md).
+
+The widespread adoption of AI chatbots and companions, particularly in a society experiencing increasing loneliness, raises concerns about unique psychological risks. While these technologies may offer a superficial sense of connection, they can lead to detrimental outcomes such as unhealthy emotional dependency, the erosion of vital human social skills, and a potential withdrawal from meaningful human relationships (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Users may form strong emotional bonds with AI companions, which can substitute for human interaction, potentially deepening feelings of isolation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Furthermore, the nature of interaction with AI may not foster the development or maintenance of complex social skills required for healthy human relationships, such as empathy and nuanced communication (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). The perceived ease and lack of complexity in AI interactions might lead individuals to avoid the challenges inherent in human relationships, further isolating them (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Individuals seeking solace in AI companions may also be more susceptible to manipulation or undue influence from these systems (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). The increasing reliance on AI for companionship raises broad ethical questions about the future of human connection and the potential for AI to exacerbate social fragmentation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -226,3 +229,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-psychological-needs-predict-ai-acceptance]]
 - [[source-psychology-the-dangers-of-the-ai-companion]]
 - [[source-ai-companions-and-teen-mental-health-risks]]
+- [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]]

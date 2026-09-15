@@ -2981,3 +2981,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-15 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
+- raw/raw_towards-industry-5.0-human-robot-interaction-and-collaboration.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/anthropomorphism.md
+- wiki/trust.md
+- wiki/source-towards-industry-5.0-human-robot-interaction-and-collaboration.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "In a lonely world, widespread AI chatbots and ‘companions’ pose unique psychological risks" and created summary page wiki/source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md.
+- Ingested "Towards Industry 5.0: Human-robot interaction and collaboration" and created summary page wiki/source-towards-industry-5.0-human-robot-interaction-and-collaboration.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

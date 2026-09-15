@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-14
+**Last updated**: 2026-09-15
 
 ## Orientation
 
@@ -115,6 +115,7 @@
 - [[source-icubworld]] — Summary of the iCubWorld benchmark datasets, HRI interactive acquisition setups, and transformation invariances.
 - [[source-imitation-of-arm-gestures-by-the-semi-humanoid-robot-nico]] — Summary of Imitation of Arm Gestures by the Semi-Humanoid Robot NICO.
 - [[source-image-quality-dependent-degradation-for-ai-systems]] — Summary of Image Quality Dependent Degradation for AI Systems.
+- [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]] — Summary of In a lonely world, widespread AI chatbots and ‘companions’ pose unique psychological risks.
 - [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]] — Summary of Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa.
 - [[source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations]] — Summary of IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
@@ -179,6 +180,7 @@
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.
 - [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
+- [[source-towards-industry-5.0-human-robot-interaction-and-collaboration]] — Summary of Towards Industry 5.0: Human-robot interaction and collaboration.
 - [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]] — Summary of Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission.
 - [[source-trajectory-observatory]] — Summary of Impersonato's safety log examining chatbot-teenager dependency and parasocial attachment.
 - [[source-trajectory-safety-observatory-vulnerable-user]] — Summary of study by Impersonato on AI models acting as primary emotional anchors and creating dependency for vulnerable users.

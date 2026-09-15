@@ -139,8 +139,9 @@
 - raw_socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design.md
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 - raw_how-to-help-humans-understand-robots.md
+- raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
 
-**Last updated**: 2026-09-13
+**Last updated**: 2026-09-15
 
 ---
 
@@ -155,6 +156,10 @@ For an interaction to be safe and efficient, the user's trust must be **calibrat
 ### Psychological Needs and AI Acceptance
 
 Individual psychological needs play a significant role in determining whether users will accept AI companions and therapists (source: raw_psychological-needs-predict-ai-acceptance.md). Research indicates that individuals with higher satisfaction in their needs for relatedness and competence are more likely to embrace AI support (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can foster skepticism and reluctance towards AI, especially in therapeutic contexts where self-determination is highly valued (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these individual differences is crucial for designing AI systems that are not only functional but also psychologically resonant and readily accepted by users (source: raw_psychological-needs-predict-ai-acceptance.md).
+
+### AI Companions and Their Psychological Risks
+
+The increasing ubiquity of AI chatbots and companions, particularly in a world experiencing heightened loneliness, presents significant psychological risks (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). These technologies, while offering a superficial sense of connection, can lead to detrimental outcomes such as the development of unhealthy emotional dependency and a potential withdrawal from genuine human relationships (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Users may form strong emotional bonds with AI, substituting it for essential human interaction and potentially deepening feelings of isolation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Furthermore, the nature of AI interactions may not adequately foster the complex social skills, such as empathy and nuanced communication, necessary for healthy human relationships (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). The perceived ease of interacting with AI could lead individuals to avoid the challenges inherent in human relationships, thereby exacerbating social fragmentation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Individuals seeking solace in AI companions may also become more vulnerable to manipulation or undue influence from these systems (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md).
 
 ### Social Intelligence through Multi-turn Reinforcement Learning
 
@@ -866,3 +871,4 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]]
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
 - [[source-how-to-help-humans-understand-robots]]
+- [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]]

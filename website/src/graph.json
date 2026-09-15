@@ -1051,6 +1051,13 @@
       "summary": ""
     },
     {
+      "id": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks",
+      "name": "In a lonely world, widespread AI chatbots and ‘companions’ pose unique psychological risks",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives",
       "name": "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives",
       "val": 1.5,
@@ -1618,6 +1625,13 @@
       "summary": ""
     },
     {
+      "id": "source-towards-industry-5.0-human-robot-interaction-and-collaboration",
+      "name": "Towards Industry 5.0: Human-robot interaction and collaboration",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework",
       "name": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
       "val": 1.5,
@@ -2113,6 +2127,10 @@
       "target": "source-ai-companions-and-teen-mental-health-risks"
     },
     {
+      "source": "ai-companions",
+      "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2339,6 +2357,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-gendered-anthropomorphism-in-human-robot-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
     },
     {
       "source": "chatbots",
@@ -2726,7 +2748,7 @@
     },
     {
       "source": "chatbots",
-      "target": "source-ai-companions-and-teen-mental-health-risks"
+      "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
     },
     {
       "source": "explainability",
@@ -3481,6 +3503,14 @@
       "target": "source-ai-companions-and-teen-mental-health-risks"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-towards-industry-5.0-human-robot-interaction-and-collaboration"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3719,6 +3749,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-gendered-anthropomorphism-in-human-robot-interaction"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-towards-industry-5.0-human-robot-interaction-and-collaboration"
     },
     {
       "source": "introspective-awareness",
@@ -4269,6 +4303,10 @@
       "target": "source-ai-companions-and-teen-mental-health-risks"
     },
     {
+      "source": "mental-health",
+      "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -4763,6 +4801,10 @@
     {
       "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-ai-companions-and-teen-mental-health-risks",
+      "target": "chatbots"
     },
     {
       "source": "source-ai-experts-humanity-last-exam",
@@ -5350,6 +5392,10 @@
     },
     {
       "source": "source-image-quality-dependent-degradation-for-ai-systems",
+      "target": "trust"
+    },
+    {
+      "source": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks",
       "target": "trust"
     },
     {
