@@ -3009,3 +3009,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-16 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
+- raw/raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/qualitative-methods.md
+- wiki/measurement-tools.md
+- wiki/source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "[MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop)" and created summary page wiki/source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md.
+- Ingested "EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset" and created summary page wiki/source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -55,8 +55,9 @@
 - raw_rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation.md
 - raw_gendered-anthropomorphism-in-human-robot-interaction.md
 - raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
+- raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md
 
-**Last updated**: 2026-09-15
+**Last updated**: 2026-09-16
 
 ---
 
@@ -227,6 +228,10 @@ Recent advancements in robotic manipulation showcase the potential for anthropom
 ### 23. Gendered Anthropomorphism in Human-Robot Interaction
 Research indicates that the gender assigned to a robot can significantly influence how humans perceive and interact with it in task-oriented contexts (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). This phenomenon, known as gendered anthropomorphism, plays a role in shaping human motivation and engagement during human-robot collaboration (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md). Understanding these gender dynamics is crucial for designing more effective and engaging human-robot interaction (HRI) systems (source: raw_gendered-anthropomorphism-in-human-robot-interaction.md).
 
+### 24. Event-Based Egocentric Hand Reconstruction
+
+The development of advanced computer vision techniques for understanding human actions directly impacts human-AI interaction. The **EventEgoHands++** framework focuses on reconstructing 3D hand meshes from event-based egocentric camera data, overcoming limitations of traditional methods in low-light and motion-blurred conditions (source: raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md). This advanced hand tracking and pose estimation capability is crucial for robots and AI systems to accurately interpret human gestures and intentions, thereby enabling more nuanced and naturalistic human-robot interaction (source: raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md). By improving the AI's ability to "see" and understand human physical actions, it can lead to more responsive and context-aware interactions, indirectly influencing how humans perceive the AI's understanding and potentially its "awareness" of human presence and actions (source: raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -292,3 +297,4 @@ Research indicates that the gender assigned to a robot can significantly influen
 - [[source-rapid-learning-dexterous-in-hand-pen-writing-real-time-jacobian-estimation]]
 - [[source-gendered-anthropomorphism-in-human-robot-interaction]]
 - [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]]
+- [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]]

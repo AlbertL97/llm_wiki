@@ -16,14 +16,17 @@
 - raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md
 - raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
+- raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-09-16
 
 ---
 
 ## Main content
 
 Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). For instance, qualitative studies, such as those used to develop taxonomies of caregiver needs, are vital for uncovering complex psychosocial needs, enabling the design of adaptive and person-centered AI systems for vulnerable populations in sensitive domains like mental health (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
+
+The construct of "mental models" is central to understanding human-AI interaction, but its definition and operationalization present significant challenges, particularly with the rise of opaque and agentic AI systems like generative AI (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). The intuitive use of the term and its conflation with related concepts like "folk theories" and "sensemaking" highlight diverse elicitation methods with varying underlying assumptions (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). These complexities can lead to commensurability issues, hindering the comparison of findings across different studies on people's mental models of AI (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). Research in this area aims to critically re-evaluate the understanding and study of mental models in HMI, fostering theoretical and methodological exchange and charting future research directions (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md).
 
 In maritime operations, qualitative research is being used to understand operator attitudes toward AI-supported decision-making systems, particularly in collision-avoidance scenarios within Maritime Autonomous Surface Ships (MASS) (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). While maritime professionals generally exhibit a positive disposition towards maritime technology and stable trust in automation, they also voice concerns regarding AI reliability, over-reliance, and the potential erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The perceived quality of AI explanations is also scenario-dependent, highlighting a need for nuanced and context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). Participants valued AI's support in decision-making, enhancing situation awareness, and building confidence, but raised significant concerns about the risk of users becoming overly dependent on these systems (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
 
@@ -82,3 +85,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]]
 - [[anthropomorphism]]
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
+- [[source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]]

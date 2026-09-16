@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-15
+**Last updated**: 2026-09-16
 
 ## Orientation
 
@@ -85,6 +85,7 @@
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
+- [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
@@ -129,6 +130,7 @@
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]] — Summary of Many teens are turning to AI chatbots for friendship and emotional support - American Psychological Association (APA).
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
+- [[source-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]] — Summary of [MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop).
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.

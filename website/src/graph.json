@@ -785,6 +785,13 @@
       "summary": ""
     },
     {
+      "id": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset",
+      "name": "EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
       "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
       "val": 1.5,
@@ -1193,6 +1200,13 @@
     {
       "id": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
       "name": "Source Summary: Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop",
+      "name": "[MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop)",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2363,6 +2377,10 @@
       "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset"
+    },
+    {
       "source": "chatbots",
       "target": "human-ai-interaction"
     },
@@ -2901,6 +2919,10 @@
     {
       "source": "explainability",
       "target": "source-how-to-help-humans-understand-robots"
+    },
+    {
+      "source": "explainability",
+      "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
     },
     {
       "source": "human-ai-interaction",
@@ -3511,6 +3533,14 @@
       "target": "source-towards-industry-5.0-human-robot-interaction-and-collaboration"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -3753,6 +3783,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-towards-industry-5.0-human-robot-interaction-and-collaboration"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset"
     },
     {
       "source": "introspective-awareness",
@@ -4033,6 +4067,10 @@
     {
       "source": "measurement-tools",
       "target": "source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
     },
     {
       "source": "medical-ai",
@@ -4649,6 +4687,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
     },
     {
       "source": "social-media-and-online-communities",

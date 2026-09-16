@@ -59,14 +59,17 @@
 - raw_from-interpretability-methods-to-interpretable-models.md
 - raw_measuring-llm-sycophancy-under-sustained-multi-turn-pressure.md
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
+- raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
 
-**Last updated**: 2026-09-11
+**Last updated**: 2026-09-16
 
 ---
 
 ## Main content
 
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
+The construct of "mental models" within Human-AI Interaction (HMI) is a significant area of study, particularly with the rise of generative and agentic AI systems (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). Researchers acknowledge considerable challenges in defining, operationalizing, and studying these mental models, especially given the opaque nature and autonomous actions of such AI (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). The intuitive use of "mental models" interchangeably with related terms like "folk theories" and "sensemaking," alongside the variety of elicitation methods with differing assumptions, contributes to commensurability issues, hindering the comparison of findings across studies (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). Workshops are being held to critically re-evaluate the understanding and study of mental models in HMI, promoting theoretical and methodological exchange and charting future research directions (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md).
 
 In maritime operations, research on AI-supported decision-making in collision avoidance reveals that while operators generally have positive attitudes towards maritime technology and consistent trust in automation, there are significant concerns regarding AI reliability and the risk of over-reliance (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The perceived quality of AI explanations is also scenario-dependent, underscoring the need for context-aware explanations (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md). The focus for future systems should be on enabling "calibrated reliance" rather than solely increasing trust or automation levels, as operators value AI's support in decision-making and situation awareness but fear the erosion of human expertise (source: raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md).
 
@@ -318,3 +321,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-from-interpretability-methods-to-interpretable-models]]
 - [[source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure]]
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
+- [[source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]]
