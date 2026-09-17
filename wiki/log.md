@@ -3036,3 +3036,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-17 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_understanding-and-resolving-failures-in-human-robot-interaction.md
+- raw/raw_the-paradox-of-artificial-companionship.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-understanding-and-resolving-failures-in-human-robot-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/source-the-paradox-of-artificial-companionship.md
+- wiki/ai-companions.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/anthropomorphism.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Understanding and Resolving Failures in Human-Robot Interaction: Literature Review and Model Development" and created summary page wiki/source-understanding-and-resolving-failures-in-human-robot-interaction.md.
+- Ingested "The paradox of artificial companionship." and created summary page wiki/source-the-paradox-of-artificial-companionship.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

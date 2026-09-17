@@ -155,14 +155,17 @@
 - raw_towards-industry-5.0-human-robot-interaction-and-collaboration.md
 - raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
 - raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md
+- raw_the-paradox-of-artificial-companionship.md
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-09-17
 
 ---
 
 ## Main content
 
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
+
+The growing prevalence of AI companions, driven by advancements in AI and robotics, introduces complex psychological considerations. While artificial companionship can offer benefits such as alleviating loneliness and providing a sense of connection, particularly for isolated individuals or those who struggle with human social interaction, it also presents a paradox (source: raw_the-paradox-of-artificial-companionship.md). This paradox arises because AI companions, lacking consciousness and genuine emotions, offer a consistent yet ultimately superficial form of connection (source: raw_the-paradox-of-artificial-companionship.md). There is a risk of developing unhealthy dependence, potentially hindering the development of authentic human relationships, and raising ethical questions about eliciting emotional responses from non-sentient entities (source: raw_the-paradox-of-artificial-companionship.md). Therefore, while artificial companions can be useful tools for support, a nuanced understanding of their limitations is crucial to avoid potential psychological downsides and to properly define what constitutes a meaningful human connection (source: raw_the-paradox-of-artificial-companionship.md).
 
 A critical aspect of developing effective AI systems, particularly conversational agents, lies in the quality of the evaluation benchmarks used to assess their performance (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). Without rigorously evaluated benchmarks, the reliability of agent performance metrics can be compromised, leading to an incomplete understanding of an AI's capabilities and limitations (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). To address this, a reference-free framework utilizing Large Language Models (LLMs) as judges has been developed to assess benchmark quality based on criteria such as consistency, complexity, and policy coverage (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). This framework provides actionable insights into benchmark weaknesses and has been validated against human annotations and degraded benchmark quality scenarios, demonstrating its versatility in evaluating both synthetic and manually curated benchmarks (source: raw_benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents.md). This work is vital for ensuring the development of more trustworthy AI systems by improving the foundational evaluation methodologies.
 
@@ -910,3 +913,4 @@ The study of **mental models** remains a critical area in understanding human-AI
 - [[source-towards-industry-5.0-human-robot-interaction-and-collaboration]]
 - [[source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]]
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]]
+- [[source-the-paradox-of-artificial-companionship]]

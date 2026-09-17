@@ -140,8 +140,9 @@
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 - raw_how-to-help-humans-understand-robots.md
 - raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md
+- raw_the-paradox-of-artificial-companionship.md
 
-**Last updated**: 2026-09-15
+**Last updated**: 2026-09-17
 
 ---
 
@@ -152,6 +153,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### The Paradox of Artificial Companionship
+
+Artificial companionship, increasingly prevalent with AI and robotics advancements, presents a complex psychological landscape (source: raw_the-paradox-of-artificial-companionship.md). While these companions can offer benefits such as alleviating loneliness, providing a sense of connection, and offering consistent attention, particularly for individuals who struggle with social interaction or face isolation (source: raw_the-paradox-of-artificial-companionship.md), they also introduce significant paradoxes. AI and robots lack consciousness, sentience, and genuine emotions, meaning their responses, while agreeable, are not reciprocal in the way human connections are (source: raw_the-paradox-of-artificial-companionship.md). This raises concerns about whether artificial relationships truly satisfy the human need for authentic connection or merely provide a superficial substitute, potentially fostering unhealthy dependence and impeding the development of real-world relationships (source: raw_the-paradox-of-artificial-companionship.md). The ethical implications of designing AI to elicit strong emotional responses without genuine feeling are also a critical consideration, prompting a re-evaluation of what constitutes meaningful connection (source: raw_the-paradox-of-artificial-companionship.md). Navigating this requires an awareness of the limitations of AI to replicate the depth and complexity of human interaction, thereby avoiding potential psychological downsides (source: raw_the-paradox-of-artificial-companionship.md).
 
 ### Psychological Needs and AI Acceptance
 
@@ -872,3 +877,4 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
 - [[source-how-to-help-humans-understand-robots]]
 - [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]]
+- [[source-the-paradox-of-artificial-companionship]]

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-09-17
 
 ## Orientation
 
@@ -177,6 +177,7 @@
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
+- [[source-the-paradox-of-artificial-companionship]] — Summary of The paradox of artificial companionship..
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
 - [[source-they-looked-inside-claude-s-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.
@@ -194,6 +195,7 @@
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]] — Summary of Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love.
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
+- [[source-understanding-and-resolving-failures-in-human-robot-interaction]] — Summary of Understanding and Resolving Failures in Human-Robot Interaction: Literature Review and Model Development.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
 - [[source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels]] — Summary of "I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels.
 - [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.
