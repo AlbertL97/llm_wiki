@@ -3063,3 +3063,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-18 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_risks-of-ai-companion-chatbots-as-mental-health-support.md
+- raw/raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-risks-of-ai-companion-chatbots-as-mental-health-support.md
+- wiki/mental-health.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/trust.md
+- wiki/source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
+- wiki/human-ai-interaction.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The risks of AI companion chatbots as mental health support" and created summary page wiki/source-risks-of-ai-companion-chatbots-as-mental-health-support.md.
+- Ingested "Intimacy on Autopilot: Why AI Companions Demand Urgent Regulation" and created summary page wiki/source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-17
+**Last updated**: 2026-09-18
 
 ## Orientation
 
@@ -130,6 +130,7 @@
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]] — Summary of Many teens are turning to AI chatbots for friendship and emotional support - American Psychological Association (APA).
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
+- [[source-mental-health-risks-of-ai-companion-chatbots]] — Summary of The risks of AI companion chatbots as mental health support.
 - [[source-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]] — Summary of [MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop).
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.

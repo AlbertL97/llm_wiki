@@ -1072,6 +1072,13 @@
       "summary": ""
     },
     {
+      "id": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation",
+      "name": "Intimacy on Autopilot: Why AI Companions Demand Urgent Regulation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa",
       "name": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
       "val": 1.5,
@@ -1434,6 +1441,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A news and web synthesis detailing the massive rise of generative AI chatbots as therapeutic substitutes and companions, highlighting teens' high usage rates, emotional manipulation in app designs, and clinical guardrail concerns highlighted by the American Psychological Association."
+    },
+    {
+      "id": "source-risks-of-ai-companion-chatbots-as-mental-health-support",
+      "name": "The Risks of AI Companion Chatbots as Mental Health Support",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation",
@@ -2163,6 +2177,14 @@
       "target": "source-the-paradox-of-artificial-companionship"
     },
     {
+      "source": "ai-companions",
+      "target": "source-risks-of-ai-companion-chatbots-as-mental-health-support"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2401,6 +2423,14 @@
     {
       "source": "anthropomorphism",
       "target": "source-the-paradox-of-artificial-companionship"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "persuasion-and-influence"
     },
     {
       "source": "chatbots",
@@ -2789,6 +2819,14 @@
     {
       "source": "chatbots",
       "target": "source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-risks-of-ai-companion-chatbots-as-mental-health-support"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
     },
     {
       "source": "explainability",
@@ -3565,6 +3603,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-the-paradox-of-artificial-companionship"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
     },
     {
       "source": "human-robot-interaction",
@@ -4379,6 +4421,14 @@
       "target": "source-the-paradox-of-artificial-companionship"
     },
     {
+      "source": "mental-health",
+      "target": "source-risks-of-ai-companion-chatbots-as-mental-health-support"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -4548,10 +4598,6 @@
     },
     {
       "source": "persuasion-and-influence",
-      "target": "anthropomorphism"
-    },
-    {
-      "source": "persuasion-and-influence",
       "target": "source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency"
     },
     {
@@ -4649,6 +4695,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-measuring-llm-sycophancy-under-sustained-multi-turn-pressure"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
     },
     {
       "source": "qualitative-methods",
@@ -5479,6 +5529,10 @@
       "target": "trust"
     },
     {
+      "source": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation",
+      "target": "trust"
+    },
+    {
       "source": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa",
       "target": "trust"
     },
@@ -5729,6 +5783,14 @@
     {
       "source": "source-rise-of-para-therapy-companions",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-risks-of-ai-companion-chatbots-as-mental-health-support",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-risks-of-ai-companion-chatbots-as-mental-health-support",
+      "target": "trust"
     },
     {
       "source": "source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation",
