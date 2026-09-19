@@ -3091,3 +3091,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-19 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md
+- raw/raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-new-research-highlights-heightened-dangers-ai-companion-use-teens.md
+- wiki/mental-health.md
+- wiki/human-ai-interaction.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "New research highlights the heightened dangers of AI companion use for teens." and created summary page wiki/source-new-research-highlights-heightened-dangers-ai-companion-use-teens.md.
+- Ingested "From robots to chatbots: unveiling the dynamics of human-AI interaction" and created summary page wiki/source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

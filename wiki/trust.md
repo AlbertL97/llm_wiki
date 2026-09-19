@@ -143,8 +143,9 @@
 - raw_the-paradox-of-artificial-companionship.md
 - raw_risks-of-ai-companion-chatbots-as-mental-health-support.md
 - raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
+- raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 
-**Last updated**: 2026-09-18
+**Last updated**: 2026-09-19
 
 ---
 
@@ -475,10 +476,9 @@ The MIRA model describes **epistemic trust** as a core mechanism regulating huma
 
 ### 6. Clinical Trust Calibration & Automation Bias
 In high-stakes contexts (such as clinical workflows), trust calibration is safety-critical. Poor user interface design and miscalibrated trust can lead to significant clinical risks (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
-- **Cognitive Vulnerabilities**:
-  - *Automation Bias*: The clinical tendency to uncritically trust and accept automated AI suggestions (e.g., in diagnostic image screening), leading clinicians to fail to notice and correct model errors (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
-  - *Complacency Bias*: Overreliance on the system that leads to diminished clinician vigilance.
-  - *Deskilling*: The long-term erosion of human clinical diagnostic skills due to continuous cognitive outsourcing to automated systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
+- **Automation Bias**: The clinical tendency to uncritically trust and accept automated AI suggestions (e.g., in diagnostic image screening), leading clinicians to fail to notice and correct model errors (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
+- **Complacency Bias**: Overreliance on the system that leads to diminished clinician vigilance.
+- **Deskilling**: The long-term erosion of human clinical diagnostic skills due to continuous cognitive outsourcing to automated systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
 - **Usability Failures and Trust Erosion**: Real-world studies show that usability failures degrade trust. For example, Google Health's retinopathy deep learning tool deployment in Thailand clinics suffered from high image-rejection rates, which disrupted workflows, increased staff workload, escalated stress, and delayed patient throughput (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). Stress, workload, and usability are tightly coupled with trust; poor real-world interaction quality leads to workflow workarounds and trust erosion (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
 
 ### 7. Media Representation Biases on Trust Calibration
@@ -890,3 +890,4 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-the-paradox-of-artificial-companionship]]
 - [[source-risks-of-ai-companion-chatbots-as-mental-health-support]]
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
+- [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]

@@ -827,6 +827,13 @@
       "summary": ""
     },
     {
+      "id": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction",
+      "name": "From robots to chatbots: unveiling the dynamics of human-AI interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks",
       "name": "From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks",
       "val": 1.5,
@@ -1235,6 +1242,13 @@
     {
       "id": "source-muvap-turn-taking-prediction",
       "name": "MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens",
+      "name": "New research highlights the heightened dangers of AI companion use for teens.",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2185,6 +2199,10 @@
       "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
     },
     {
+      "source": "ai-companions",
+      "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2431,6 +2449,10 @@
     {
       "source": "anthropomorphism",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
     },
     {
       "source": "chatbots",
@@ -2827,6 +2849,14 @@
     {
       "source": "chatbots",
       "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
     },
     {
       "source": "explainability",
@@ -3607,6 +3637,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
     },
     {
       "source": "human-robot-interaction",
@@ -4429,6 +4467,10 @@
       "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
     },
     {
+      "source": "mental-health",
+      "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -4699,6 +4741,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
     },
     {
       "source": "qualitative-methods",
@@ -5358,6 +5404,10 @@
     },
     {
       "source": "source-from-interpretability-methods-to-interpretable-models",
+      "target": "trust"
+    },
+    {
+      "source": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction",
       "target": "trust"
     },
     {
