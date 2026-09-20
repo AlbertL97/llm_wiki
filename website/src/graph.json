@@ -673,6 +673,13 @@
       "summary": ""
     },
     {
+      "id": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think",
+      "name": "Does loving an AI companion sound crazy? You might be closer than you think.",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-early-preview-generalist",
       "name": "Source: An early preview of model capabilities | Generalist",
       "val": 1.5,
@@ -1249,6 +1256,13 @@
     {
       "id": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens",
       "name": "New research highlights the heightened dangers of AI companion use for teens.",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations",
+      "name": "New Research: A Third of Kids Depend on AI for Serious Conversations",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2203,6 +2217,14 @@
       "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
     },
     {
+      "source": "ai-companions",
+      "target": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2437,6 +2459,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think"
     },
     {
       "source": "anthropomorphism",
@@ -2853,6 +2879,10 @@
     {
       "source": "chatbots",
       "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
     },
     {
       "source": "chatbots",
@@ -3645,6 +3675,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
     },
     {
       "source": "human-robot-interaction",
@@ -4469,6 +4507,14 @@
     {
       "source": "mental-health",
       "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -5313,6 +5359,10 @@
     {
       "source": "source-directional-ai-advice-experimental-evidence-from-healthcare",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think",
+      "target": "trust"
     },
     {
       "source": "source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment",

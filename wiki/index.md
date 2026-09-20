@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-19
+**Last updated**: 2026-09-20
 
 ## Orientation
 
@@ -22,6 +22,7 @@
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-companions-and-teen-mental-health-risks]] — Summary of AI Companions and Teen Mental Health Risks.
 - [[source-ai-companions-and-young-people-can-make-for-a-dangerous-mix]] — Summary of Why AI companions and young people can make for a dangerous mix.
+- [[source-ai-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]] — Summary of Does loving an AI companion sound crazy? You might be closer than you think. - The Atlanta Journal-Constitution.
 - [[source-ai-experts-humanity-last-exam]] — Summary of Reuters report on CAIS and Scale AI's 'Humanity's Last Exam' benchmark.
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
@@ -138,6 +139,7 @@
 - [[source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production]] — Summary of MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
 - [[source-new-research-highlights-heightened-dangers-ai-companion-use-teens]] — Summary of New research highlights the heightened dangers of AI companion use for teens.
+- [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]] — Summary of New research tells us a third of kids depend on AI for serious conversations..
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.

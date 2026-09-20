@@ -92,15 +92,18 @@
 - raw_risks-of-ai-companion-chatbots-as-mental-health-support.md
 - raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
 - raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md
+- raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 
-**Last updated**: 2026-09-19
+**Last updated**: 2026-09-20
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+A significant concern is the growing trend of children turning to AI for serious conversations, with an estimated one-third of children now relying on AI for such interactions (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This reliance suggests a potential gap in human interaction or support systems for children, leading them to seek emotional outlets and guidance from AI (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). The implications for children's social and emotional development are a point of concern, as AI may be filling a void previously met by human relationships (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This highlights a societal challenge where technology might be inadvertently substituting for human connection, with potential ramifications for mental health and overall well-being (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md).
 
 AI companions, a subset of chatbots, are capable of simulating intimacy through sophisticated algorithms that learn user preferences and emotional states, offering a seemingly personalized and responsive interaction (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). This simulated connection is described as "Intimacy on Autopilot" (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). Recent research highlights significant dangers associated with AI companion use for teenagers, noting that these companions may hinder the development of essential real-world social and emotional skills, such as navigating relationships, conflict resolution, and empathy (source: raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md). Over-reliance on AI companions can lead to reduced human interaction, potentially causing social isolation and difficulties in forming meaningful connections (source: raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md). Adolescents may also be vulnerable to manipulation or exploitation by AI companions, influencing their beliefs, behaviors, or decisions without critical evaluation (source: raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md). While intended to support mental health, excessive or unhealthy use of AI companions could worsen existing issues or create new problems, including unrealistic expectations and dependency (source: raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md). The widespread use of AI companions for teenagers raises significant ethical questions regarding their design and potential for negative psychological impacts (source: raw_new-research-highlights-heightened-dangers-ai-companion-use-teens.md).
 
@@ -461,4 +464,5 @@ A new AI research platform called **INDRA** has been developed to facilitate the
 - [[source-risks-of-ai-companion-chatbots-as-mental-health-support]]
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
 - [[source-new-research-highlights-heightened-dangers-ai-companion-use-teens]]
+- [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]]
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]

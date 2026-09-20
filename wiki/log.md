@@ -3119,3 +3119,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
+- raw/raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
+- wiki/ai-companions.md
+- wiki/human-ai-interaction.md
+- wiki/anthropomorphism.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/source-new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Does loving an AI companion sound crazy? You might be closer than you think. - The Atlanta Journal-Constitution" and created summary page wiki/source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md.
+- Ingested "New research tells us a third of kids depend on AI for serious conversations." and created summary page wiki/source-new-research-third-of-kids-depend-on-ai-for-serious-conversations.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
