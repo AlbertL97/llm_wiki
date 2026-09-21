@@ -694,6 +694,13 @@
       "summary": ""
     },
     {
+      "id": "source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction",
+      "name": "Editorial: Human factors and cognitive ergonomics in advanced industrial human-robot interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-efficient-test-time-adaptation-through-human-ai-interaction",
       "name": "Efficient Test-Time Adaptation through Human-AI Interaction",
       "val": 1.5,
@@ -1861,6 +1868,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the Interaction Design Foundation (IxDF) article outlining the definition, ethical principles, and design methodologies of Human-Centered AI (HCAI)."
+    },
+    {
+      "id": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "name": "What is missing from a relationship with an AI chatbot?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-when-ais-act-emotional",
@@ -5369,6 +5383,22 @@
       "target": "trust"
     },
     {
+      "source": "source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction",
+      "target": "trust"
+    },
+    {
       "source": "source-efficient-test-time-adaptation-through-human-ai-interaction",
       "target": "trust"
     },
@@ -6179,6 +6209,26 @@
     {
       "source": "source-what-is-human-centered-ai",
       "target": "trust"
+    },
+    {
+      "source": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "target": "trust"
+    },
+    {
+      "source": "source-what-is-missing-from-a-relationship-with-an-ai-chatbot",
+      "target": "anthropomorphism"
     },
     {
       "source": "source-when-ais-act-emotional",

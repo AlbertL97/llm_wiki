@@ -3146,3 +3146,23 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_what-is-missing-from-a-relationship-with-an-ai-chatbot.md
+- raw/raw_editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-what-is-missing-from-a-relationship-with-an-ai-chatbot.md
+- wiki/source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction.md
+
+**Summary of changes**:  
+- Ingested "What is missing from a relationship with an AI chatbot?" and created summary page wiki/source-what-is-missing-from-a-relationship-with-an-ai-chatbot.md.
+- Ingested "Editorial: Human factors and cognitive ergonomics in advanced industrial human-robot interaction" and created summary page wiki/source-editorial-human-factors-and-cognitive-ergonomics-in-advanced-industrial-human-robot-interaction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

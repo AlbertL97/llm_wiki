@@ -1,0 +1,7 @@
+Authors: Not explicitly mentioned in the provided snippet, likely the editorial board or a guest editor.
+Date: Not explicitly mentioned in the provided snippet.
+
+Title: Editorial: Human factors and cognitive ergonomics in advanced industrial human-robot interaction
+
+Summary:
+This editorial emphasizes the growing importance of human factors and cognitive ergonomics in the context of advanced human-robot interaction (HRI), particularly within industrial environments. As robots become more sophisticated and integrated into workplaces, understanding how humans perceive, interact with, and are affected by these machines is paramount. The authors argue that a focus on human capabilities, cognitive load, decision-making processes, and potential stressors is crucial for designing effective, safe, and accepted HRI systems. This includes considering aspects of task allocation, communication interfaces, situation awareness, and the overall impact on worker performance and well-being. The editorial sets the stage for research that bridges the gap between technological advancement in robotics and the psychological and physiological needs of human operators, aiming to foster seamless and productive human-robot collaboration.
