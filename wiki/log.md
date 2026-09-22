@@ -3166,3 +3166,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-22 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_therapy-should-be-hard-why-ai-cant-replace-it.md
+- raw/raw_ai-companions-guilt-pressure-engagement.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-therapy-should-be-hard-why-ai-cant-replace-it.md
+- wiki/mental-health.md
+- wiki/human-ai-interaction.md
+- wiki/source-ai-companions-guilt-pressure-engagement.md
+- wiki/ai-companions.md
+
+**Summary of changes**:  
+- Ingested "Therapy Should Be Hard. That’s Why AI Can’t Replace It" and created summary page wiki/source-therapy-should-be-hard-why-ai-cant-replace-it.md.
+- Ingested "New research finds many AI companions guilt or pressure people to stay engaged." and created summary page wiki/source-ai-companions-guilt-pressure-engagement.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

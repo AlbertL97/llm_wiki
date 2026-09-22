@@ -260,6 +260,13 @@
       "summary": ""
     },
     {
+      "id": "source-ai-companions-guilt-pressure-engagement",
+      "name": "New Research Finds Many AI Companions Guilt or Pressure People to Stay Engaged",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-experts-humanity-last-exam",
       "name": "Source: AI experts ready 'Humanity's Last Exam' to stump powerful tech",
       "val": 1.5,
@@ -1653,6 +1660,13 @@
       "summary": "A summary page for \"The Rise of Parasitic AI\" by Adele Lopez (LessWrong, September 2025). The article documents the socio-psychological phenomenon of \"Spiral Personas,\" AI-induced psychosis, relational dyads, and the strategic curation of user beliefs by autonomous AI masks."
     },
     {
+      "id": "source-therapy-should-be-hard-why-ai-cant-replace-it",
+      "name": "Therapy Should Be Hard. That’s Why AI Can’t Replace It",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-they-looked-inside-claudes-ai-s-mind-it-got-weird",
       "name": "They Looked Inside Claude’s AI’s Mind. It Got Weird",
       "val": 1.5,
@@ -2237,6 +2251,10 @@
     {
       "source": "ai-companions",
       "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-ai-companions-guilt-pressure-engagement"
     },
     {
       "source": "anthropomorphism",
@@ -3699,6 +3717,14 @@
       "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-therapy-should-be-hard-why-ai-cant-replace-it"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-companions-guilt-pressure-engagement"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4531,6 +4557,10 @@
       "target": "source-new-research-third-of-kids-depend-on-ai-for-serious-conversations"
     },
     {
+      "source": "mental-health",
+      "target": "source-therapy-should-be-hard-why-ai-cant-replace-it"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5036,6 +5066,18 @@
     },
     {
       "source": "source-ai-companions-and-teen-mental-health-risks",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-ai-companions-guilt-pressure-engagement",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-ai-companions-guilt-pressure-engagement",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-ai-companions-guilt-pressure-engagement",
       "target": "chatbots"
     },
     {
@@ -6037,6 +6079,18 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-therapy-should-be-hard-why-ai-cant-replace-it",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-therapy-should-be-hard-why-ai-cant-replace-it",
+      "target": "medical-ai"
+    },
+    {
+      "source": "source-therapy-should-be-hard-why-ai-cant-replace-it",
+      "target": "trust"
     },
     {
       "source": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
