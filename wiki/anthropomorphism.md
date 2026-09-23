@@ -59,9 +59,10 @@
 - raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
 - raw_the-paradox-of-artificial-companionship.md
 - raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
+- raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-09-23
 
 ---
 
@@ -244,6 +245,10 @@ The development of advanced computer vision techniques for understanding human a
 
 The article "From robots to chatbots: unveiling the dynamics of human-AI interaction" provides a broad overview of human-AI engagement, acknowledging that the field extends beyond physical robots to conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). It emphasizes the critical need to understand the psychological dynamics at play as AI becomes more integrated into daily life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Key factors influencing user perception and trust in AI, as highlighted by the article, include the AI's perceived intelligence and its human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). These elements contribute to how readily users attribute human characteristics to AI systems.
 
+### 25. Principles for Healthy AI Companionship
+
+The development of AI companions necessitates careful consideration of their design and impact on user well-being. A healthy AI companion should prioritize ethical design to ensure user well-being, maintain transparency regarding its capabilities and limitations, and empower user autonomy to avoid fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). Such companions should approach mental health support cautiously, explicitly not replacing professional care, and must ensure robust data privacy and security (source: raw_what-could-a-healthy-ai-companion-look-like.md). Navigating the complexities of anthropomorphism is also crucial to prevent user misinterpretations and ensure that AI companions genuinely enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -315,4 +320,5 @@ The article "From robots to chatbots: unveiling the dynamics of human-AI interac
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
 - [[persuasion-and-influence]]
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
+- [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]

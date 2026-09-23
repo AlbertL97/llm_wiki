@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-09-23
 
 ## Orientation
 
@@ -207,6 +207,7 @@
 - [[source-virtual-human-interaction]] — Summary of Virtual Human Interaction.
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]] — Summary of Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI.
+- [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.

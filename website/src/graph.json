@@ -1856,6 +1856,13 @@
       "summary": ""
     },
     {
+      "id": "source-what-could-a-healthy-ai-companion-look-like",
+      "name": "What Could a Healthy AI Companion Look Like?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-happens-trust-breaks",
       "name": "Source: What happens when trust in an AI system breaks? Do human-AI relationships follow recognizable trajectories?",
       "val": 1.5,
@@ -2257,6 +2264,10 @@
       "target": "source-ai-companions-guilt-pressure-engagement"
     },
     {
+      "source": "ai-companions",
+      "target": "source-what-could-a-healthy-ai-companion-look-like"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2507,6 +2518,10 @@
     {
       "source": "anthropomorphism",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-what-could-a-healthy-ai-companion-look-like"
     },
     {
       "source": "anthropomorphism",
@@ -2919,6 +2934,10 @@
     {
       "source": "chatbots",
       "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-what-could-a-healthy-ai-companion-look-like"
     },
     {
       "source": "explainability",
@@ -4559,6 +4578,10 @@
     {
       "source": "mental-health",
       "target": "source-therapy-should-be-hard-why-ai-cant-replace-it"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-what-could-a-healthy-ai-companion-look-like"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -6226,6 +6249,14 @@
     },
     {
       "source": "source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-what-could-a-healthy-ai-companion-look-like",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-could-a-healthy-ai-companion-look-like",
       "target": "trust"
     },
     {

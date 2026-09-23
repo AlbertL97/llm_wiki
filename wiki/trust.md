@@ -145,8 +145,9 @@
 - raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 - raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
+- raw_what-could-a-healthy-ai-companion-look-like.md
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-09-23
 
 ---
 
@@ -889,3 +890,4 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]
 - [[source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]]
+- [[source-what-could-a-healthy-ai-companion-look-like]]

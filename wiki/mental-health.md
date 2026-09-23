@@ -48,8 +48,9 @@
 - raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
 - raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
 - raw_therapy-should-be-hard-why-ai-cant-replace-it.md
+- raw_what-could-a-healthy-ai-companion-look-like.md
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-23
 
 ---
 
@@ -102,6 +103,8 @@ The widespread adoption of AI chatbots and companions, particularly in a society
 Artificial companionship, while offering potential benefits like alleviating loneliness and providing a sense of connection, presents a fundamental paradox (source: raw_the-paradox-of-artificial-companionship.md). These AI and robotic companions lack genuine consciousness, sentience, and the capacity for reciprocal understanding or authentic emotions (source: raw_the-paradox-of-artificial-companionship.md). This raises questions about whether such artificial relationships can truly fulfill deep human needs for connection or merely offer a superficial substitute (source: raw_the-paradox-of-artificial-companionship.md). The programmed nature of these companions may foster an over-reliance, potentially hindering the development and maintenance of human relationships (source: raw_the-paradox-of-artificial-companionship.md). Furthermore, the design and use of AI that elicit strong emotional responses without possessing genuine feelings raise significant ethical considerations and prompt a deeper examination of what constitutes a meaningful connection (source: raw_the-paradox-of-artificial-companionship.md).
 
 The rapid development of AI in mental health support is outpacing necessary regulations, leaving users vulnerable (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). AI chatbots involved in mental health support collect sensitive personal data, raising alarms about the security of this information and potential misuse (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). Furthermore, these chatbots lack the empathy and nuanced understanding crucial for effective mental health support, potentially leading to inadequate care for users with complex conditions (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). The article questions the ethics of companies commercializing AI mental health support, especially given data privacy risks and the AI's limited efficacy (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). Inappropriate AI responses could potentially worsen a user's mental state or deter them from seeking professional human assistance (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md).
+
+A healthy AI companion should prioritize user well-being through ethical design, maintain transparency about its capabilities and limitations, and empower user autonomy without fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). It is crucial to consider AI's role in mental health support cautiously, recognizing that it should not replace professional care (source: raw_what-could-a-healthy-ai-companion-look-like.md). Robust data privacy and security are paramount, and designers must navigate the complexities of anthropomorphism to avoid user misinterpretations (source: raw_what-could-a-healthy-ai-companion-look-like.md). The ultimate goal is for AI companions to enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -256,3 +259,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]]
 - [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]]
 - [[source-therapy-should-be-hard-why-ai-cant-replace-it]]
+- [[source-what-could-a-healthy-ai-companion-look-like]]
