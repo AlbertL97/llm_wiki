@@ -3212,3 +3212,22 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-24 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-phonetic-entrainment-l2-human-robot-interaction-children-asd.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+
+**Summary of changes**:  
+- Ingested "Phonetic entrainment in L2 human-robot interaction: an investigation of children with and without autism spectrum disorder" and created summary page wiki/source-phonetic-entrainment-l2-human-robot-interaction-children-asd.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

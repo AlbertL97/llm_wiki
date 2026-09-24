@@ -61,8 +61,9 @@
 - raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
+- raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-24
 
 ---
 
@@ -190,7 +191,7 @@ The cognitive mechanics of anthropomorphism are further accelerated by specific 
 In physical robotics, the design of the agent strongly dictates the user's level of anthropomorphic projection:
 -   **Gratch's Moral Protection Heuristic**: Jonathan Gratch (USC) notes that when humans perceive a machine or agent as possessing emotions, they automatically grant it a status that merits protection from harm (source: Humans are starting to grow emotionally attached to robots.md).
 -   **Carpenter's Design Triggers**: Researcher Julie Carpenter identifies specific physical design cues that trigger social projections. Having something resembling a face, a body resembling a human or animal, or displaying self-directed, purposeful movement (such as a Roomba vacuum cleaner) causes users to associate the machine with an inner awareness and goals, even when they are fully aware that the robot has minimal autonomy (source: Humans are starting to grow emotionally attached to robots.md).
--   **The Emotional Marketing Complex**: Kate Darling notes that our emotional connection to animals and robots has enabled massive marketing complexes. Similar to the wedding industrial complex (preying on couples' dreams and insecurities to inflate catering and apparel costs) and the modern pet care complex (spending billions on specialized foods and high-tech veterinary procedures like $6,500 kidney transplants), commercial entities capitalize on information asymmetry and emotional attachments, embedding social cues in technology to turn users into loyal consumers (source: On What Emotional Attachment to Robots Might Mean for the Future.md).
+-   **The Emotional Marketing Complex**: Kate Darling notes that our emotional connection to animals and robots has enabled massive marketing complexes. Similar to the wedding industrial complex (preying on couples' dreams and insecurities to inflate catering and costs) and the modern pet care complex (spending billions on specialized foods and high-tech veterinary procedures like $6,500 kidney transplants), commercial entities capitalize on information asymmetry and emotional attachments, embedding social cues in technology to turn users into loyal consumers (source: On What Emotional Attachment to Robots Might Mean for the Future.md).
 
 ### 14. Simulated Social Environments and Multi-Agent Interaction
 Development kits like the Google Antigravity SDK facilitate the creation of complex digital simulated worlds where multi-agent systems can be deployed and observed (source: raw_antigravity-sdk-building-digital-simulated-world.md).
@@ -245,7 +246,11 @@ The development of advanced computer vision techniques for understanding human a
 
 The article "From robots to chatbots: unveiling the dynamics of human-AI interaction" provides a broad overview of human-AI engagement, acknowledging that the field extends beyond physical robots to conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). It emphasizes the critical need to understand the psychological dynamics at play as AI becomes more integrated into daily life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Key factors influencing user perception and trust in AI, as highlighted by the article, include the AI's perceived intelligence and its human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). These elements contribute to how readily users attribute human characteristics to AI systems.
 
-### 25. Principles for Healthy AI Companionship
+### 25. Phonetic Entrainment in L2 Human-Robot Interaction
+
+Research into phonetic entrainment in human-robot interaction (HRI) among children learning a second language reveals that children may unconsciously adjust their speech to match a robot's vocalizations (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md). This phenomenon offers insights into the social communicative behaviors of children, particularly when comparing neurotypical children with those who have Autism Spectrum Disorder (ASD) (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md). The findings suggest potential applications for robots in language acquisition tools, aiming to create more adaptive and engaging learning experiences for diverse learners (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md).
+
+### 26. Principles for Healthy AI Companionship
 
 The development of AI companions necessitates careful consideration of their design and impact on user well-being. A healthy AI companion should prioritize ethical design to ensure user well-being, maintain transparency regarding its capabilities and limitations, and empower user autonomy to avoid fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). Such companions should approach mental health support cautiously, explicitly not replacing professional care, and must ensure robust data privacy and security (source: raw_what-could-a-healthy-ai-companion-look-like.md). Navigating the complexities of anthropomorphism is also crucial to prevent user misinterpretations and ensure that AI companions genuinely enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
 
@@ -322,3 +327,4 @@ The development of AI companions necessitates careful consideration of their des
 - [[source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation]]
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]
+- [[source-phonetic-entrainment-l2-human-robot-interaction-children-asd]]

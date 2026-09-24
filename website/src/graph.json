@@ -1331,6 +1331,13 @@
       "summary": "Identifying the 'Persuasion Paradox' where fluent LLM explanations increase user confidence and reliance without improving task accuracy, showing that explanation benefits are highly task-dependent."
     },
     {
+      "id": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd",
+      "name": "Phonetic entrainment in L2 human-robot interaction: an investigation of children with and without autism spectrum disorder",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation",
       "name": "Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation",
       "val": 1.5,
@@ -2526,6 +2533,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd"
     },
     {
       "source": "chatbots",
@@ -3994,6 +4005,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-understanding-and-resolving-failures-in-human-robot-interaction"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd"
     },
     {
       "source": "introspective-awareness",
@@ -5854,6 +5869,14 @@
     {
       "source": "source-persuasion-paradox-explanations",
       "target": "trust"
+    },
+    {
+      "source": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd",
+      "target": "mental-health"
     },
     {
       "source": "source-plus-tips-on-getting-started-with-ai-safely",
