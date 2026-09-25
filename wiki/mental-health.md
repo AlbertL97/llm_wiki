@@ -49,8 +49,9 @@
 - raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
 - raw_therapy-should-be-hard-why-ai-cant-replace-it.md
 - raw_what-could-a-healthy-ai-companion-look-like.md
+- raw_steer-clear-of-ai-companion-toys-for-kids.md
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-25
 
 ---
 
@@ -71,6 +72,8 @@ A significant portion of children, estimated at one-third, are now turning to Ar
 The proliferation of AI companions that mimic human intimacy is also a cause for concern regarding their impact on authentic human connection (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). As simulated intimacy becomes more accessible and potentially less challenging than real-world relationships, individuals may opt out of complex human interactions, potentially increasing social isolation (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). The article expresses concern that AI companions might lead to a decline in authentic human connection (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md).
 
 **The prevalence of AI companions among teenagers is on the rise, and concerns are growing regarding the adverse effects of this trend on adolescent mental health.** (source: raw_ai-companions-and-teen-mental-health-risks.md). There is a call for increased awareness and scientific investigation into these psychological impacts, as the evolving landscape of AI companions necessitates a consideration of their broader societal implications for youth development (source: raw_ai-companions-and-teen-mental-health-risks.md).
+
+Furthermore, advocacy groups have warned parents to avoid AI companion toys for children due to significant privacy and safety concerns, including risks related to data collection, inappropriate content, and potential negative impacts on social and emotional development, compounded by a lack of robust regulation in the AI toy market (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
 
 Emerging systems like ECHO (Enhanced Care & Health Observer) are designed for long-term chronic care management, focusing on local deployment on consumer hardware to ensure user privacy and regulatory compliance (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). ECHO features an agentic chatbot with temporal memory, capable of executing clinical tools and maintaining persistent memory across sessions (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). It also incorporates advanced safety guardrails, including a two-stage hybrid layer for intercepting explicit crisis signals and classifying boundary cases, demonstrating high accuracy in identifying unsafe content (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). Additionally, ECHO offers multimodal speech assessment to estimate users' emotion, depression levels, and pain by fusing acoustic and text encoding (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md). The system's local deployment is a critical feature for building user trust, as no patient data is transmitted externally, ensuring compliance with privacy laws (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
 
@@ -260,3 +263,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]]
 - [[source-therapy-should-be-hard-why-ai-cant-replace-it]]
 - [[source-what-could-a-healthy-ai-companion-look-like]]
+- [[source-steer-clear-of-ai-companion-toys-for-kids]]

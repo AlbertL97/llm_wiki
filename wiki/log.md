@@ -3231,3 +3231,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-25 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
+- raw/raw_steer-clear-of-ai-companion-toys-for-kids.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/source-steer-clear-of-ai-companion-toys-for-kids.md
+- wiki/ai-companions.md
+- wiki/mental-health.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Study captures how humans touch unfamiliar objects, offering lessons for human–robot interaction" and created summary page wiki/source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md.
+- Ingested "Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns" and created summary page wiki/source-steer-clear-of-ai-companion-toys-for-kids.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

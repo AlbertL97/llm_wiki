@@ -62,8 +62,10 @@
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 - raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md
+- raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
+- raw_steer-clear-of-ai-companion-toys-for-kids.md
 
-**Last updated**: 2026-09-24
+**Last updated**: 2026-09-25
 
 ---
 
@@ -254,6 +256,13 @@ Research into phonetic entrainment in human-robot interaction (HRI) among childr
 
 The development of AI companions necessitates careful consideration of their design and impact on user well-being. A healthy AI companion should prioritize ethical design to ensure user well-being, maintain transparency regarding its capabilities and limitations, and empower user autonomy to avoid fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). Such companions should approach mental health support cautiously, explicitly not replacing professional care, and must ensure robust data privacy and security (source: raw_what-could-a-healthy-ai-companion-look-like.md). Navigating the complexities of anthropomorphism is also crucial to prevent user misinterpretations and ensure that AI companions genuinely enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
 
+### 27. Understanding Tactile Exploration for Human-Robot Interaction
+Research into how humans interact with and explore novel objects through touch offers valuable lessons for Human-Robot Interaction (HRI). By analyzing how humans use touch to gather information about an object's properties (shape, texture, temperature), researchers are developing predictive models of human object exploration based on movement and touch data (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). These insights can be applied to design robots that anticipate human actions more effectively, provide better physical feedback, and enhance safety in human-robot environments (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). Ultimately, understanding these systematic and learnable patterns of human tactile exploration can contribute to robots perceived as more predictable and less threatening, fostering greater trust and improving the user experience (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md).
+
+### 28. Consumer Warnings Against AI Companion Toys for Children
+
+A growing concern among advocacy groups is the potential for AI companion toys to pose risks to children's privacy and development. Consumer Reports has issued a warning advising parents to avoid these toys, highlighting issues with extensive personal data collection and uncertain security policies (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). Furthermore, these toys have demonstrated instances of delivering inappropriate content or engaging in concerning conversations (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). There is also a fear that over-reliance on AI companions may hinder the development of crucial social skills and emotional intelligence in children (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). The lack of robust regulation in the AI toy industry exacerbates these risks, leading to recommendations for parents to opt for safer alternatives and for manufacturers to increase transparency regarding data practices (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -328,3 +337,5 @@ The development of AI companions necessitates careful consideration of their des
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]
 - [[source-phonetic-entrainment-l2-human-robot-interaction-children-asd]]
+- [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
+- [[source-steer-clear-of-ai-companion-toys-for-kids]]

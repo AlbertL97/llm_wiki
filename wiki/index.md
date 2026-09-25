@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-25
 
 ## Orientation
 
@@ -172,6 +172,8 @@
 - [[source-softbank-robotics-home]] — Summary of SoftBank Robotics Home landing page discussing cobotics service integration and employee—customer experience.
 - [[source-source-agentic-knowledgeable-self-awareness]] — Summary of the article on agentic self-awareness, KnowSelf framework, ALPC logic, and metacognitive feedback loops.
 - [[source-source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
+- [[source-source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]] — Summary of Study captures how humans touch unfamiliar objects, offering lessons for human–robot interaction.
+- [[source-source-steer-clear-of-ai-companion-toys-for-kids]] — Summary of Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns.
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.

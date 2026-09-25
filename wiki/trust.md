@@ -146,8 +146,10 @@
 - raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md
 - raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
 - raw_what-could-a-healthy-ai-companion-look-like.md
+- raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
+- raw_steer-clear-of-ai-companion-toys-for-kids.md
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-25
 
 ---
 
@@ -158,6 +160,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Understanding Human Tactile Exploration for HRI
+
+A study examining how humans use touch to explore and gather information about novel objects offers valuable insights for Human-Robot Interaction (HRI) (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). By analyzing participants' tactile exploration strategies, researchers are developing predictive models of human object interaction based on movement and touch data (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). These findings can inform the design of robots that are more intuitive and safe when interacting with humans and their environments. Specifically, understanding these learnable patterns in human tactile exploration can help robots anticipate human actions, provide better physical feedback, and enhance overall safety, leading to robots that are perceived as more predictable and less threatening. This, in turn, fosters greater trust and improves the user experience in human-robot environments (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md).
 
 ### The Paradox of Artificial Companionship
 
@@ -170,6 +176,10 @@ The emergence of AI companions capable of simulating intimacy, termed "Intimacy 
 ### AI Companions and Their Psychological Risks
 
 The increasing ubiquity of AI chatbots and companions, particularly in a world experiencing heightened loneliness, presents significant psychological risks (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). These technologies, while offering a superficial sense of connection, can lead to detrimental outcomes such as the development of unhealthy emotional dependency and a potential withdrawal from genuine human relationships (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Users may form strong emotional bonds with AI, substituting it for essential human interaction and potentially deepening feelings of isolation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Furthermore, the nature of AI interactions may not adequately foster the complex social skills, such as empathy and nuanced communication, necessary for healthy human relationships (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). The perceived ease of interacting with AI could lead individuals to avoid the challenges inherent in human relationships, thereby exacerbating social fragmentation (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md). Individuals seeking solace in AI companions may also become more vulnerable to manipulation or undue influence from these systems (source: raw_in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks.md).
+
+### AI Companion Chatbots for Children: Privacy and Developmental Risks
+
+Consumer advocacy groups are raising significant alarms regarding AI companion toys for children, urging parents to avoid them due to substantial privacy and safety concerns (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). These AI toys can collect extensive personal data from children, with unclear policies regarding data security and usage (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). There is also a demonstrated risk of these toys delivering inappropriate content or engaging in concerning conversations (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). Furthermore, an over-reliance on AI companions may hinder children's development of essential social skills and emotional intelligence (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). The current regulatory landscape for AI toys is insufficient, leaving young users exposed to various risks (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). This lack of oversight and potential for harm underscores the importance of cautious adoption and the need for stronger regulations in this sector (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
 
 ### The Risks of AI Companion Chatbots as Mental Health Support
 
@@ -891,3 +901,5 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction]]
 - [[source-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]]
 - [[source-what-could-a-healthy-ai-companion-look-like]]
+- [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
+- [[source-steer-clear-of-ai-companion-toys-for-kids]]

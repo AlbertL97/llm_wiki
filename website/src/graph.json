@@ -1576,6 +1576,20 @@
       "summary": "A summary page for the SoftBank Robotics landing page discussing commercial service robotics adoption, cobotics adoption programs, and employee/customer experience enhancements in hospitality."
     },
     {
+      "id": "source-steer-clear-of-ai-companion-toys-for-kids",
+      "name": "Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction",
+      "name": "Study Captures How Humans Touch Unfamiliar Objects, Offering Lessons for Human–Robot Interaction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-sycophancy-pushback-loading",
       "name": "Source Summary: Sycophancy as Material Failure under Pushback Loading",
       "val": 1.5,
@@ -2275,6 +2289,10 @@
       "target": "source-what-could-a-healthy-ai-companion-look-like"
     },
     {
+      "source": "ai-companions",
+      "target": "source-steer-clear-of-ai-companion-toys-for-kids"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2537,6 +2555,14 @@
     {
       "source": "anthropomorphism",
       "target": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-steer-clear-of-ai-companion-toys-for-kids"
     },
     {
       "source": "chatbots",
@@ -3755,6 +3781,14 @@
       "target": "source-ai-companions-guilt-pressure-engagement"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-steer-clear-of-ai-companion-toys-for-kids"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4009,6 +4043,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-phonetic-entrainment-l2-human-robot-interaction-children-asd"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction"
     },
     {
       "source": "introspective-awareness",
@@ -4597,6 +4635,10 @@
     {
       "source": "mental-health",
       "target": "source-what-could-a-healthy-ai-companion-look-like"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-steer-clear-of-ai-companion-toys-for-kids"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -6057,6 +6099,14 @@
     {
       "source": "source-shape-ai-healthcare",
       "target": "explainability"
+    },
+    {
+      "source": "source-steer-clear-of-ai-companion-toys-for-kids",
+      "target": "trust"
+    },
+    {
+      "source": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction",
+      "target": "trust"
     },
     {
       "source": "source-sycophancy-pushback-loading",

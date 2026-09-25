@@ -59,8 +59,9 @@
 - raw_eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset.md
 - raw_understanding-and-resolving-failures-in-human-robot-interaction.md
 - raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md
+- raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
 
-**Last updated**: 2026-09-24
+**Last updated**: 2026-09-25
 
 ---
 
@@ -119,6 +120,8 @@ The development of dexterous manipulation capabilities is a key area in HRI. The
 A new decision framework, **TRACE (Transparent Reasoning Architecture for Credible Execution)**, has been developed to enhance the trustworthiness of autonomous robots by ensuring that every autonomous action can be traced back to its sensor evidence through documented causal chains (source: raw_towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md). This framework, structured into four layers (Semantic Perception, Belief Reasoning, Action Synthesis, Execution Verification), is designed to address the critical auditability challenge in AI systems, particularly those utilizing deep learning models (source: raw_towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md). TRACE aims to provide model agnosticism while preserving decision-level transparency and has demonstrated high performance in metrics such as Evidence Traceability, Temporal Continuity, and Decision Reconstructability in warehouse robot navigation simulations (source: raw_towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md). This approach contributes to safer and more reliable autonomous systems by offering a structured method for explainability, which is increasingly important for regulatory compliance in high-risk AI applications (source: raw_towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md).
 
 **Phonetic entrainment in L2 human-robot interaction** is being investigated, particularly focusing on children learning a second language. Research in this area compares how children with and without Autism Spectrum Disorder (ASD) adjust their speech patterns to match a robot's vocalizations during interaction (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md). This work provides insights into the social communication behaviors of children with ASD in HRI contexts and informs the design of robots that can better engage with diverse users, including potential applications in educational technology for language acquisition (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md).
+
+A study examining how humans use touch to explore unfamiliar objects is offering valuable insights for Human-Robot Interaction (HRI) (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). By analyzing the systematic and learnable patterns in human tactile exploration—how people gather information about an object's shape, texture, and temperature—researchers are developing predictive models of human object interaction (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). These findings can inform the design of robots that can better anticipate human actions, provide more intuitive physical feedback, and enhance safety in human-robot environments (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). Understanding these human approaches to novel objects can contribute to robots being perceived as more predictable and less threatening, thereby fostering greater trust and improving the overall user experience (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -300,3 +303,4 @@ A novel embodied control approach has been developed that enables anthropomorphi
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]]
 - [[source-understanding-and-resolving-failures-in-human-robot-interaction]]
 - [[source-phonetic-entrainment-l2-human-robot-interaction-children-asd]]
+- [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
