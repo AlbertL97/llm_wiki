@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-26
 
 ## Orientation
 
@@ -216,6 +216,8 @@
 - [[source-learning-social-robot-navigation-by-sensing-human-legs]] — Summary of Learning Social Robot Navigation By Sensing Human Legs.
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]] — Summary of Challenges in Evaluating Explanation Methods for Static and Evolving Data.
 - [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]] — Summary of Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents.
+- [[source-teens-turn-to-ai-for-friendship]] — Summary of Teens say they are turning to AI for friendship.
+- [[source-the-future-of-psychology-and-robotics]] — Summary of The Future of Psychology and Robotics.
 
 ## Core theoretical frameworks
 

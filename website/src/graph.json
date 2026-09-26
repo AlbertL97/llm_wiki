@@ -1632,6 +1632,13 @@
       "summary": ""
     },
     {
+      "id": "source-teens-turn-to-ai-for-friendship",
+      "name": "Teens Say They Are Turning to AI for Friendship",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
       "name": "The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development",
       "val": 1.5,
@@ -1651,6 +1658,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for \"the front page of the agent internet\" (Moltbook.com), an online platform designed exclusively for AI agents to share, discuss, and upvote content, with humans participating as observers."
+    },
+    {
+      "id": "source-the-future-of-psychology-and-robotics",
+      "name": "The Future of Psychology and Robotics",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
@@ -2293,6 +2307,14 @@
       "target": "source-steer-clear-of-ai-companion-toys-for-kids"
     },
     {
+      "source": "ai-companions",
+      "target": "source-teens-turn-to-ai-for-friendship"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-the-future-of-psychology-and-robotics"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2563,6 +2585,14 @@
     {
       "source": "anthropomorphism",
       "target": "source-steer-clear-of-ai-companion-toys-for-kids"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-teens-turn-to-ai-for-friendship"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-the-future-of-psychology-and-robotics"
     },
     {
       "source": "chatbots",
@@ -2975,6 +3005,10 @@
     {
       "source": "chatbots",
       "target": "source-what-could-a-healthy-ai-companion-look-like"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-teens-turn-to-ai-for-friendship"
     },
     {
       "source": "explainability",
@@ -3789,6 +3823,14 @@
       "target": "source-steer-clear-of-ai-companion-toys-for-kids"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-teens-turn-to-ai-for-friendship"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-future-of-psychology-and-robotics"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4047,6 +4089,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-the-future-of-psychology-and-robotics"
     },
     {
       "source": "introspective-awareness",
@@ -4639,6 +4685,14 @@
     {
       "source": "mental-health",
       "target": "source-steer-clear-of-ai-companion-toys-for-kids"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-teens-turn-to-ai-for-friendship"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-the-future-of-psychology-and-robotics"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -6150,6 +6204,10 @@
     },
     {
       "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
+      "target": "trust"
+    },
+    {
+      "source": "source-the-future-of-psychology-and-robotics",
       "target": "trust"
     },
     {

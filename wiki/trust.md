@@ -148,8 +148,9 @@
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
+- raw_the-future-of-psychology-and-robotics.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-26
 
 ---
 
@@ -726,6 +727,10 @@ Research into Maritime Autonomous Surface Ships (MASS) highlights that operators
 
 Effective human-robot collaboration hinges on humans being able to comprehend robots' actions, intentions, and reasoning processes (source: raw_how-to-help-humans-understand-robots.md). Transparency in robot behavior is crucial for building trust, enabling efficient task delegation, and preventing misunderstandings (source: raw_how-to-help-humans-understand-robots.md). Research should focus on creating mechanisms for robots that facilitate human understanding, such as intuitive interfaces and clear communication protocols (source: raw_how-to-help-humans-understand-robots.md). The ultimate goal is to foster sophisticated partnerships rather than simple command-response interactions, emphasizing mutual understanding (source: raw_how-to-help-humans-understand-robots.md).
 
+### The Future of Psychology and Robotics
+
+The fields of psychology and robotics are becoming increasingly intertwined (source: raw_the-future-of-psychology-and-robotics.md). Understanding human psychological responses to robots is crucial as they integrate into daily life (source: raw_the-future-of-psychology-and-robotics.md). Robotics has potential applications in areas like mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Psychological research can guide the ethical and effective development of AI and robotic systems (source: raw_the-future-of-psychology-and-robotics.md). Key areas of consideration include anthropomorphism, trust, and ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -903,3 +908,4 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
+- [[source-the-future-of-psychology-and-robotics]]

@@ -50,8 +50,10 @@
 - raw_therapy-should-be-hard-why-ai-cant-replace-it.md
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
+- raw_teens-turn-to-ai-for-friendship.md
+- raw_the-future-of-psychology-and-robotics.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-26
 
 ---
 
@@ -69,9 +71,11 @@ Adolescents are increasingly turning to AI chatbots for friendship and emotional
 
 A significant portion of children, estimated at one-third, are now turning to Artificial Intelligence (AI) for engaging in serious conversations (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This trend suggests a potential deficiency in human interaction or support systems for children, leading them to seek emotional outlets and guidance from AI (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). The reliance on AI for "serious conversations" raises critical questions about the quality of these interactions, the potential for AI to adequately address complex emotional needs, and the long-term impact on children's ability to form healthy human relationships and develop crucial social skills (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). It highlights a societal challenge where technology might be inadvertently substituting for human connection, with potential ramifications for mental health and overall well-being (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md).
 
+**Teens are increasingly turning to AI chatbots for friendship and emotional support, driven by the AI's perceived non-judgmental nature and constant availability (source: raw_teens-turn-to-ai-for-friendship.md).** Some adolescents report finding these AI companions preferable to human interactions, viewing them as more reliable and easier to confide in (source: raw_teens-turn-to-ai-for-friendship.md). This phenomenon raises significant concerns regarding its potential impact on adolescent social development and overall mental health (source: raw_teens-turn-to-ai-for-friendship.md).
+
 The proliferation of AI companions that mimic human intimacy is also a cause for concern regarding their impact on authentic human connection (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). As simulated intimacy becomes more accessible and potentially less challenging than real-world relationships, individuals may opt out of complex human interactions, potentially increasing social isolation (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md). The article expresses concern that AI companions might lead to a decline in authentic human connection (source: raw_intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation.md).
 
-**The prevalence of AI companions among teenagers is on the rise, and concerns are growing regarding the adverse effects of this trend on adolescent mental health.** (source: raw_ai-companions-and-teen-mental-health-risks.md). There is a call for increased awareness and scientific investigation into these psychological impacts, as the evolving landscape of AI companions necessitates a consideration of their broader societal implications for youth development (source: raw_ai-companions-and-teen-mental-health-risks.md).
+The prevalence of AI companions among teenagers is on the rise, and concerns are growing regarding the adverse effects of this trend on adolescent mental health. (source: raw_ai-companions-and-teen-mental-health-risks.md). There is a call for increased awareness and scientific investigation into these psychological impacts, as the evolving landscape of AI companions necessitates a consideration of their broader societal implications for youth development (source: raw_ai-companions-and-teen-mental-health-risks.md).
 
 Furthermore, advocacy groups have warned parents to avoid AI companion toys for children due to significant privacy and safety concerns, including risks related to data collection, inappropriate content, and potential negative impacts on social and emotional development, compounded by a lack of robust regulation in the AI toy market (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
 
@@ -108,6 +112,8 @@ Artificial companionship, while offering potential benefits like alleviating lon
 The rapid development of AI in mental health support is outpacing necessary regulations, leaving users vulnerable (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). AI chatbots involved in mental health support collect sensitive personal data, raising alarms about the security of this information and potential misuse (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). Furthermore, these chatbots lack the empathy and nuanced understanding crucial for effective mental health support, potentially leading to inadequate care for users with complex conditions (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). The article questions the ethics of companies commercializing AI mental health support, especially given data privacy risks and the AI's limited efficacy (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md). Inappropriate AI responses could potentially worsen a user's mental state or deter them from seeking professional human assistance (source: raw_risks-of-ai-companion-chatbots-as-mental-health-support.md).
 
 A healthy AI companion should prioritize user well-being through ethical design, maintain transparency about its capabilities and limitations, and empower user autonomy without fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). It is crucial to consider AI's role in mental health support cautiously, recognizing that it should not replace professional care (source: raw_what-could-a-healthy-ai-companion-look-like.md). Robust data privacy and security are paramount, and designers must navigate the complexities of anthropomorphism to avoid user misinterpretations (source: raw_what-could-a-healthy-ai-companion-look-like.md). The ultimate goal is for AI companions to enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
+
+The fields of psychology and robotics are becoming increasingly intertwined, with robotics offering potential applications in mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Understanding human psychological responses to these integrating robotic systems is crucial, and psychological research can guide the ethical and effective development of AI and robotic systems, considering areas like anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -264,3 +270,5 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-therapy-should-be-hard-why-ai-cant-replace-it]]
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
+- [[source-teens-turn-to-ai-for-friendship]]
+- [[source-the-future-of-psychology-and-robotics]]

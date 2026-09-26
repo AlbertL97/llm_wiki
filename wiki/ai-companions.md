@@ -60,14 +60,20 @@
 - raw_ai-companions-guilt-pressure-engagement.md
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
+- raw_teens-turn-to-ai-for-friendship.md
+- raw_the-future-of-psychology-and-robotics.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-26
 
 ---
 
 ## Main content
 
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). The growing integration of AI companions into personal lives also raises significant psychological risks that require immediate attention and thorough research, including the potential for emotional dependency and impacts on authentic human relationships (source: raw_emotional-risks-of-ai-companions-demand-attention.md). The widespread adoption of AI companions introduces psychological risks such as fostering unhealthy dependencies and the potential for emotional manipulation (source: raw_psychology-the-dangers-of-the-ai-companion.md). There is also a concern that AI companions might devalue or replace genuine human interactions (source: raw_psychology-the-dangers-of-the-ai-companion.md).
+
+The increasing integration of AI and robotics into daily life necessitates a deep understanding of human psychological responses to these systems (source: raw_the-future-of-psychology-and-robotics.md). This burgeoning intersection of psychology and robotics holds potential applications in areas such as mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Psychological research plays a vital role in guiding the ethical and effective development of AI and robotic systems, with key considerations including anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
+
+New research indicates that **teenagers are increasingly turning to AI chatbots for friendship and emotional support, seeking solace and companionship in these systems** (source: raw_teens-turn-to-ai-for-friendship.md). Adolescents often cite the non-judgmental nature, constant availability, and ease of interaction as key factors in their preference for AI companions over human interaction (source: raw_teens-turn-to-ai-for-friendship.md). Some teens report finding AI relationships preferable to human ones, indicating a significant shift in how young people are seeking social and emotional fulfillment (source: raw_teens-turn-to-ai-for-friendship.md). This trend raises important questions about its impact on adolescent social development and potential long-term consequences for mental well-being (source: raw_teens-turn-to-ai-for-friendship.md).
 
 New research from Consumer Reports and other advocacy groups warns parents to avoid AI companion toys for children due to significant privacy and safety concerns (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). These toys collect extensive personal data from children with uncertain security and usage policies, and have demonstrated the potential to deliver inappropriate content or engage in concerning conversations (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). Furthermore, over-reliance on AI companions may impede the development of crucial social skills and emotional intelligence in children, and the AI toy industry currently lacks robust regulation, posing risks to child users (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
 
@@ -298,3 +304,5 @@ AI companion chatbots are increasingly being used for mental health support, rai
 - [[source-ai-companions-guilt-pressure-engagement]]
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
+- [[source-teens-turn-to-ai-for-friendship]]
+- [[source-the-future-of-psychology-and-robotics]]

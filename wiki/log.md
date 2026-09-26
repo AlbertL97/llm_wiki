@@ -3258,3 +3258,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-26 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_teens-turn-to-ai-for-friendship.md
+- raw/raw_the-future-of-psychology-and-robotics.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-teens-turn-to-ai-for-friendship.md
+- wiki/ai-companions.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/anthropomorphism.md
+- wiki/source-the-future-of-psychology-and-robotics.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Teens say they are turning to AI for friendship" and created summary page wiki/source-teens-turn-to-ai-for-friendship.md.
+- Ingested "The Future of Psychology and Robotics" and created summary page wiki/source-the-future-of-psychology-and-robotics.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

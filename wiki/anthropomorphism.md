@@ -64,8 +64,10 @@
 - raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md
 - raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
+- raw_teens-turn-to-ai-for-friendship.md
+- raw_the-future-of-psychology-and-robotics.md
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-09-26
 
 ---
 
@@ -263,6 +265,12 @@ Research into how humans interact with and explore novel objects through touch o
 
 A growing concern among advocacy groups is the potential for AI companion toys to pose risks to children's privacy and development. Consumer Reports has issued a warning advising parents to avoid these toys, highlighting issues with extensive personal data collection and uncertain security policies (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). Furthermore, these toys have demonstrated instances of delivering inappropriate content or engaging in concerning conversations (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). There is also a fear that over-reliance on AI companions may hinder the development of crucial social skills and emotional intelligence in children (source: raw_steer-clear-of-ai-companion-toys-for-kids.md). The lack of robust regulation in the AI toy industry exacerbates these risks, leading to recommendations for parents to opt for safer alternatives and for manufacturers to increase transparency regarding data practices (source: raw_steer-clear-of-ai-companion-toys-for-kids.md).
 
+### 29. Teenagers Seeking Friendship from AI
+
+A growing number of teenagers are turning to AI chatbots for friendship and emotional support, finding these artificial companions to be non-judgmental and consistently available (source: raw_teens-turn-to-ai-for-friendship.md). Some teens report preferring AI relationships over human ones due to this perceived reliability and accessibility (source: raw_teens-turn-to-ai-for-friendship.md). This trend raises significant questions about the psychological and social implications for adolescent development, as AI-centric relationships may impact their social skills and mental health (source: raw_teens-turn-to-ai-for-friendship.md).
+
+The field of psychology is increasingly intersecting with robotics, highlighting the importance of understanding human psychological responses to increasingly integrated robotic systems (source: raw_the-future-of-psychology-and-robotics.md). Robotics holds potential applications in areas such as mental health support and companionship, necessitating psychological research to guide ethical and effective development of these technologies (source: raw_the-future-of-psychology-and-robotics.md). Key considerations in this interdisciplinary space include anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -339,3 +347,5 @@ A growing concern among advocacy groups is the potential for AI companion toys t
 - [[source-phonetic-entrainment-l2-human-robot-interaction-children-asd]]
 - [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
+- [[source-teens-turn-to-ai-for-friendship]]
+- [[source-the-future-of-psychology-and-robotics]]
