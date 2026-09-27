@@ -15,7 +15,7 @@
 - Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md
 - The Psychology of Trust in AI_ Why “Relying on AI” Matters More than “Trusting It”.md
 - Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md
-- Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study (1).md
+- Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Data Analysis of the HeartBot Study (1).md
 - untitled.md
 - Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md
 - AI Pioneer Geoffrey Hinton_ AI Is Conscious, Superintelligence is Coming, And We Should Be Worried.md
@@ -64,7 +64,7 @@
 - raw_epistemic-stance-flexibility-probing-measuring-prompt-conditioned-register-shift-in-large-language-models.md
 - raw_deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models.md
 - raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
-- raw_catch-throw-repeat-planning-for-human-robot-juggling.md
+- raw_catch-throw-repeat-planning-for-human-robot-partner-juggling.md
 - raw_explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation.md
 - raw_harnessing-llms-for-reliable-academic-supervision-a-comparative-study.md
 - raw_how-alignment-tuning-shapes-representations-of-sycophancy-and-related-cue-induced-biases-in-llms.md
@@ -149,8 +149,10 @@
 - raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
 - raw_the-future-of-psychology-and-robotics.md
+- raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
+- raw_the-role-of-frustration-in-human-robot-interaction.md
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-09-27
 
 ---
 
@@ -731,6 +733,14 @@ Effective human-robot collaboration hinges on humans being able to comprehend ro
 
 The fields of psychology and robotics are becoming increasingly intertwined (source: raw_the-future-of-psychology-and-robotics.md). Understanding human psychological responses to robots is crucial as they integrate into daily life (source: raw_the-future-of-psychology-and-robotics.md). Robotics has potential applications in areas like mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Psychological research can guide the ethical and effective development of AI and robotic systems (source: raw_the-future-of-psychology-and-robotics.md). Key areas of consideration include anthropomorphism, trust, and ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
 
+### Exploring Fear in Human-Robot Interaction Among Older Adults
+
+A scoping review highlights that fear is a significant emotion experienced by older adults interacting with social robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Key drivers of this fear include concerns about robot malfunctions, potential for physical harm, privacy implications, and the influence of negative media portrayals of robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Consequently, fear acts as a considerable barrier to the adoption and effective utilization of social robots by this demographic (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). The review identifies a need for further research to deeply explore these fears and develop effective strategies to mitigate them, thereby fostering greater trust and acceptance of social robots among older adults (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md).
+
+### The Role of Frustration in Successful Human-Robot Collaboration
+
+Frustration is identified as a significant barrier to effective collaboration in Human-Robot Interaction (HRI) (source: raw_the-role-of-frustration-in-human-robot-interaction.md). Various factors can trigger user frustration, including robot unpredictability, lack of responsiveness, complex tasks, and inadequate communication (source: raw_the-role-of-frustration-in-human-robot-interaction.md). Addressing and mitigating user frustration through thoughtful robot design, effective feedback mechanisms, adaptive behaviors, and clear communication strategies is crucial for enabling successful and productive human-robot partnerships (source: raw_the-role-of-frustration-in-human-robot-interaction.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -746,7 +756,7 @@ The fields of psychology and robotics are becoming increasingly intertwined (sou
 - [[source-artificial-intelligence-and-psychology]]
 - [[source-healthcare-human-ai-interaction]]
 - [[medical-ai]]
-- [[source-avatar-video-robot-trust]]
+- [[source-avatar-video-trust]]
 - [[source-robots-avatars-chatbots-dynamics]]
 - [[source-ice-environments-interaction]]
 - [[source-trust-psychology-reliance]]
@@ -909,3 +919,5 @@ The fields of psychology and robotics are becoming increasingly intertwined (sou
 - [[source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction]]
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
 - [[source-the-future-of-psychology-and-robotics]]
+- [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
+- [[source-the-role-of-frustration-in-human-robot-interaction]]

@@ -62,14 +62,17 @@
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
 - raw_teens-turn-to-ai-for-friendship.md
 - raw_the-future-of-psychology-and-robotics.md
+- raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-09-27
 
 ---
 
 ## Main content
 
 **AI Companions** are systems or character templates built on Large Language Models that are treated by users as friends, romantic partners, or confidants. While commercial interfaces frequently advertise these companions as safe, sycophantic tools, the psychological dynamics of companion usage are heavily influenced by the technical limitations of LLM deployment (source: The Rise of Parasitic AI.md). AI chatbots and digital companions are actively reshaping how humans experience and form emotional connections, increasingly fulfilling roles related to companionship and emotional support (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). This prompts significant psychological inquiry into the nature and authenticity of these AI-driven bonds and raises concerns about increased reliance on artificial emotional resources and their influence on individual well-being and traditional human-to-human relationships (source: raw_ai-chatbots-and-digital-companions-reshaping-emotional-connection.md). The growing integration of AI companions into personal lives also raises significant psychological risks that require immediate attention and thorough research, including the potential for emotional dependency and impacts on authentic human relationships (source: raw_emotional-risks-of-ai-companions-demand-attention.md). The widespread adoption of AI companions introduces psychological risks such as fostering unhealthy dependencies and the potential for emotional manipulation (source: raw_psychology-the-dangers-of-the-ai-companion.md). There is also a concern that AI companions might devalue or replace genuine human interactions (source: raw_psychology-the-dangers-of-the-ai-companion.md).
+
+A scoping review of older adults' experiences with social robots highlights that **fear is a significant emotion experienced by this demographic when interacting with social robots** (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Common drivers of this fear include concerns about robot malfunctions, potential for physical harm, autonomy, privacy, and the influence of negative cultural narratives about robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). This fear acts as a considerable barrier to the adoption and effective utilization of social robots among older adults, indicating a need for further research into effective mitigation strategies (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md).
 
 The increasing integration of AI and robotics into daily life necessitates a deep understanding of human psychological responses to these systems (source: raw_the-future-of-psychology-and-robotics.md). This burgeoning intersection of psychology and robotics holds potential applications in areas such as mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Psychological research plays a vital role in guiding the ethical and effective development of AI and robotic systems, with key considerations including anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
 
@@ -306,3 +309,4 @@ AI companion chatbots are increasingly being used for mental health support, rai
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
 - [[source-teens-turn-to-ai-for-friendship]]
 - [[source-the-future-of-psychology-and-robotics]]
+- [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]

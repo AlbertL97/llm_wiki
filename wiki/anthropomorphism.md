@@ -66,8 +66,9 @@
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
 - raw_teens-turn-to-ai-for-friendship.md
 - raw_the-future-of-psychology-and-robotics.md
+- raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-09-27
 
 ---
 
@@ -271,6 +272,8 @@ A growing number of teenagers are turning to AI chatbots for friendship and emot
 
 The field of psychology is increasingly intersecting with robotics, highlighting the importance of understanding human psychological responses to increasingly integrated robotic systems (source: raw_the-future-of-psychology-and-robotics.md). Robotics holds potential applications in areas such as mental health support and companionship, necessitating psychological research to guide ethical and effective development of these technologies (source: raw_the-future-of-psychology-and-robotics.md). Key considerations in this interdisciplinary space include anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
 
+A scoping review of fear in human-robot interaction, particularly concerning older adults, reveals that fear is a significant emotion that acts as a considerable barrier to the adoption and effective use of social robots in this demographic (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Common drivers of this fear include concerns about robot malfunctions, potential for physical harm, issues of autonomy, privacy worries, and the influence of negative cultural narratives surrounding robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). The review highlights an identified need for more research to explore the nuances of fear experienced by older adults and to develop effective strategies for mitigating these concerns, thereby facilitating greater acceptance of social robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -349,3 +352,4 @@ The field of psychology is increasingly intersecting with robotics, highlighting
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
 - [[source-teens-turn-to-ai-for-friendship]]
 - [[source-the-future-of-psychology-and-robotics]]
+- [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]

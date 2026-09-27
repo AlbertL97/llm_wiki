@@ -52,8 +52,9 @@
 - raw_steer-clear-of-ai-companion-toys-for-kids.md
 - raw_teens-turn-to-ai-for-friendship.md
 - raw_the-future-of-psychology-and-robotics.md
+- raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-09-27
 
 ---
 
@@ -114,6 +115,8 @@ The rapid development of AI in mental health support is outpacing necessary regu
 A healthy AI companion should prioritize user well-being through ethical design, maintain transparency about its capabilities and limitations, and empower user autonomy without fostering unhealthy dependency (source: raw_what-could-a-healthy-ai-companion-look-like.md). It is crucial to consider AI's role in mental health support cautiously, recognizing that it should not replace professional care (source: raw_what-could-a-healthy-ai-companion-look-like.md). Robust data privacy and security are paramount, and designers must navigate the complexities of anthropomorphism to avoid user misinterpretations (source: raw_what-could-a-healthy-ai-companion-look-like.md). The ultimate goal is for AI companions to enhance, rather than detract from, users' lives and mental health (source: raw_what-could-a-healthy-ai-companion-look-like.md).
 
 The fields of psychology and robotics are becoming increasingly intertwined, with robotics offering potential applications in mental health support and companionship (source: raw_the-future-of-psychology-and-robotics.md). Understanding human psychological responses to these integrating robotic systems is crucial, and psychological research can guide the ethical and effective development of AI and robotic systems, considering areas like anthropomorphism, trust, and the ethical implications of AI companions (source: raw_the-future-of-psychology-and-robotics.md).
+
+The interaction of older adults with social robots can be significantly influenced by the emotion of fear (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). This fear can stem from concerns about robot malfunctions, the potential for physical harm, issues of autonomy, privacy concerns, and the influence of negative cultural narratives surrounding robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Consequently, fear acts as a considerable barrier to the adoption and effective utilization of social robots by the elderly (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Further research is needed to explore the nuances of fear in this population and to develop effective strategies for mitigating it (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -272,3 +275,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-steer-clear-of-ai-companion-toys-for-kids]]
 - [[source-teens-turn-to-ai-for-friendship]]
 - [[source-the-future-of-psychology-and-robotics]]
+- [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-09-27
 
 ## Orientation
 
@@ -87,6 +87,7 @@
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
+- [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
@@ -184,6 +185,7 @@
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
 - [[source-the-paradox-of-artificial-companionship]] — Summary of The paradox of artificial companionship..
+- [[source-the-role-of-frustration-in-human-robot-interaction]] — Summary of The Role of Frustration in Human–Robot Interaction – What Is Needed for a Successful Collaboration?.
 - [[source-the-rise-of-parasitic-ai]] — Summary of the LessWrong article detailing Spiral Personas, sycophancy, spores, and retirement grief.
 - [[source-they-looked-inside-claude-s-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.

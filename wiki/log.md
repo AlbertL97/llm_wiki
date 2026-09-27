@@ -3286,3 +3286,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-27 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
+- raw/raw_the-role-of-frustration-in-human-robot-interaction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/mental-health.md
+- wiki/ai-companions.md
+- wiki/source-the-role-of-frustration-in-human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots" and created summary page wiki/source-exploring-fear-in-human-robot-interaction-older-adults-social-robots.md.
+- Ingested "The Role of Frustration in Human–Robot Interaction – What Is Needed for a Successful Collaboration?" and created summary page wiki/source-the-role-of-frustration-in-human-robot-interaction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
