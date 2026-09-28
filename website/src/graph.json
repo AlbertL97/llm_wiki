@@ -246,6 +246,13 @@
       "summary": "A summary page for Anthropic's \"When AI builds itself\" article. It documents the empirical evidence and metrics of recursive self-improvement within Anthropic, detailing agent evolution stages, software development metrics (80% code contribution, 8x developer volume, automated reviews), superhuman optimization loops, weak-to-strong supervision experiments, and pause verification policy proposals."
     },
     {
+      "id": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear",
+      "name": "AI can't be your therapist: 'These bots basically tell people exactly what they want to hear,' psychologist says",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
       "name": "AI Chatbots and Digital Companions are Reshaping Emotional Connection",
       "val": 1.5,
@@ -510,6 +517,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for a news segment outlining Chengdu's first real-world pilot program for intelligent robots, covering offline edge traffic humanoids, holographic guides at Wu Hou Shrine, safety bots, and patrolling robot dogs."
+    },
+    {
+      "id": "source-chinas-draft-rules-ai-companion-addiction",
+      "name": "China's Draft Rules for AI Companion Addiction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-chinas-next-ai-breakthrough",
@@ -2333,6 +2347,10 @@
       "target": "source-exploring-fear-in-human-robot-interaction-older-adults-social-robots"
     },
     {
+      "source": "ai-companions",
+      "target": "source-chinas-draft-rules-ai-companion-addiction"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3031,6 +3049,10 @@
     {
       "source": "chatbots",
       "target": "source-teens-turn-to-ai-for-friendship"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
     },
     {
       "source": "explainability",
@@ -3855,6 +3877,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-the-role-of-frustration-in-human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-chinas-draft-rules-ai-companion-addiction"
     },
     {
       "source": "human-robot-interaction",
@@ -4733,6 +4763,14 @@
       "target": "source-exploring-fear-in-human-robot-interaction-older-adults-social-robots"
     },
     {
+      "source": "mental-health",
+      "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-chinas-draft-rules-ai-companion-addiction"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5009,6 +5047,10 @@
       "target": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5223,6 +5265,10 @@
     {
       "source": "source-ai-builds-itself",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear",
+      "target": "trust"
     },
     {
       "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
@@ -5455,6 +5501,10 @@
     {
       "source": "source-chatbot-counseling-representation",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-chinas-draft-rules-ai-companion-addiction",
+      "target": "chatbots"
     },
     {
       "source": "source-co-creativity-table-adventure-ai",

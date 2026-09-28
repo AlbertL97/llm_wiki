@@ -3313,3 +3313,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-28 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md
+- raw/raw_chinas-draft-rules-ai-companion-addiction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md
+- wiki/mental-health.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/persuasion-and-influence.md
+- wiki/source-chinas-draft-rules-ai-companion-addiction.md
+- wiki/ai-companions.md
+
+**Summary of changes**:  
+- Ingested "AI can't be your therapist: 'These bots basically tell people exactly what they want to hear,' psychologist says" and created summary page wiki/source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md.
+- Ingested "What's in China's first drafts rules to regulate AI companion addiction?" and created summary page wiki/source-chinas-draft-rules-ai-companion-addiction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
