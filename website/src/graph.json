@@ -407,6 +407,13 @@
       "summary": ""
     },
     {
+      "id": "source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable",
+      "name": "Authority Bias in Language Models: Source Deference and User Agreement Are Not Interchangeable",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-automated-metrics-human-evaluation",
       "name": "Source: Automated Metrics vs Human Evaluation in AI",
       "val": 1.5,
@@ -5413,6 +5420,22 @@
     {
       "source": "source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses",
       "target": "trust"
+    },
+    {
+      "source": "source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable",
+      "target": "trust"
+    },
+    {
+      "source": "source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable",
+      "target": "chatbots"
     },
     {
       "source": "source-automated-metrics-human-evaluation",

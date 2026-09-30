@@ -3338,3 +3338,20 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-09-30 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable.md
+
+**Summary of changes**:  
+- Ingested "Authority Bias in Language Models: Source Deference and User Agreement Are Not Interchangeable" and created summary page wiki/source-authority-bias-in-language-models-source-deference-and-user-agreement-are-not-interchangeable.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
