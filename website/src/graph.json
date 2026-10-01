@@ -1499,6 +1499,13 @@
       "summary": ""
     },
     {
+      "id": "source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction",
+      "name": "Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation",
       "name": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
       "val": 1.5,
@@ -6164,6 +6171,18 @@
     {
       "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
       "target": "persuasion-and-influence"
+    },
+    {
+      "source": "source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction",
+      "target": "trust"
     },
     {
       "source": "source-rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation",

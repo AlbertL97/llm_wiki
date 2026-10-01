@@ -3355,3 +3355,20 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-01 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction.md
+
+**Summary of changes**:  
+- Ingested "Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction" and created summary page wiki/source-rethinking-legibility-in-social-robot-hallway-navigation-impact-of-intent-representation-and-human-distraction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
