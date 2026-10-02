@@ -97,8 +97,9 @@
 - raw_what-could-a-healthy-ai-companion-look-like.md
 - raw_teens-turn-to-ai-for-friendship.md
 - raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md
+- raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-10-02
 
 ---
 
@@ -369,6 +370,10 @@ A novel post-training framework has been developed for Text-to-Speech (TTS) syst
 
 A new AI research platform called **INDRA** has been developed to facilitate the exploration of vast, formerly secret industry archives, including those from the tobacco, fossil fuel, and chemical industries (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). Traditional LLMs often struggle with such data due to a lack of access to curated corpora and a tendency towards hallucinations and biases (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). INDRA addresses this by integrating archival historiography principles into its core protocol, employing a closed evidentiary sandbox to restrict LLMs to specified corpora, real-time provenance tagging to distinguish evidence from inference, and a system-level protocol for standardized, auditable outputs (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). This platform enables large-scale, verifiable, and transparent investigations of historical industry practices, aiming to prevent LLMs from conflating documented facts with their own generated content (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). The research also acknowledges analytical challenges like the "Heraclitus effect" and the "gullibility problem" observed in case studies (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md).
 
+### 35. Longitudinal Understanding of Human-AI Interaction
+
+The "RealCompanion" system and benchmark are designed to evaluate an AI companion's ability to understand human users through longitudinal, real-world conversations (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The core challenge lies in an AI's capacity to remember past interactions, infer user characteristics, and effectively utilize contextual information over extended periods. The benchmark includes conversation logs, derived user profiles, and question sets, all linked to specific messages, with reasoning traces for verification (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Key findings indicate a strong **recency bias** in information recall, with relevant details typically found in recent messages, and only a small percentage of probes requiring deeper memory recall (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Current AI models struggle with accurately detecting when memory recall is necessary, and explicit labeling of messages as memories can artificially inflate their usage (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). While three agent systems showed comparable performance in reconstructing user personas, their computational costs varied significantly, highlighting trade-offs between efficiency and effectiveness (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). This research underscores the need for improved AI capabilities in long-term memory utilization and persona modeling for effective AI companionship (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -478,3 +483,4 @@ A new AI research platform called **INDRA** has been developed to facilitate the
 - [[source-what-could-a-healthy-ai-companion-look-like]]
 - [[source-teens-turn-to-ai-for-friendship]]
 - [[source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear]]
+- [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]

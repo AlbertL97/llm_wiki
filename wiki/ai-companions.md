@@ -64,8 +64,9 @@
 - raw_the-future-of-psychology-and-robotics.md
 - raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 - raw_chinas-draft-rules-ai-companion-addiction.md
+- raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-10-02
 
 ---
 
@@ -150,6 +151,8 @@ A novel framework called Aura has been introduced, enabling Large Language Model
 An interesting finding in the context of human-robot interaction during collaborative tasks suggests that **lower robot self-disclosure can unexpectedly lead to increased participant self-disclosure and stronger reported teaming and coordination** (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md). This effect is more pronounced in users with prior robot teaming experience, indicating that simply increasing a robot's self-disclosure may not be the optimal strategy for enhancing rapport or social connection in all contexts (source: raw_from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks.md).
 
 The development of advanced Text-to-Speech (TTS) systems capable of fine-grained emotional and duration control at a segment level is crucial for more natural and engaging AI companions. A post-training framework has been developed that equips pretrained TTS models with the ability to dynamically convey a range of emotions and adapt speech pacing within an utterance using natural language commands (source: raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md). This method, utilizing supervised fine-tuning and reinforcement learning, significantly improves controllability for applications like conversational agents, enhancing the user experience by preserving speech intelligibility and speaker identity while offering greater expressive range (source: raw_post-training-zero-shot-tts-for-fine-grained-emotion-and-duration-control-via-natural-language.md).
+
+**New research introduces the "RealCompanion" benchmark, a system designed to evaluate an AI companion's ability to understand human users through longitudinal, real-world conversations.** (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md) This benchmark utilizes a synthetic dataset simulating real conversations, comprising up to 120 days of interaction with over 27,218 messages, including conversation logs, derived user profiles, personas, and question sets (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Key findings indicate a strong **recency bias** in human conversations, where relevant information is predominantly found in recent messages; a recency window successfully identifies the required message for 95.9% of probes, with only 2.2% requiring deeper memory recall (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The research also highlights that existing AI models struggle with **memory need detection**, often needing explicit cues or artificial inflation of memory usage to function effectively (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Furthermore, **persona reconstruction efficiency** varies significantly across different agent systems, with comparable performance but drastically different computational costs, underscoring trade-offs between efficiency and effectiveness (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The RealCompanion benchmark aims to advance research in AI's long-term understanding of human conversation, suggesting that while long-term memory is conceptually important, its practical application and the prediction of recall necessity require further refinement (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -314,3 +317,4 @@ AI companion chatbots are increasingly being used for mental health support, rai
 - [[source-the-future-of-psychology-and-robotics]]
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
 - [[source-chinas-draft-rules-ai-companion-addiction]]
+- [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]

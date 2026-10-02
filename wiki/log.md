@@ -3372,3 +3372,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-02 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
+- raw/raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
+- wiki/explainability.md
+- wiki/measurement-tools.md
+- wiki/human-ai-interaction.md
+- wiki/qualitative-methods.md
+- wiki/source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
+- wiki/ai-companions.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations" and created summary page wiki/source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md.
+- Ingested "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations" and created summary page wiki/source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

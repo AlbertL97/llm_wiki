@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-09-27
+**Last updated**: 2026-10-02
 
 ## Orientation
 
@@ -160,6 +160,7 @@
 - [[source-psychology-the-dangers-of-the-ai-companion]] — Summary of PSYCHOLOGY: THE DANGERS OF THE AI COMPANION.
 - [[source-psychology-trust-smashing]] — Summary of Smashing Magazine UX guide outlining the four pillars of trust, qualitative/quantitative metrics, and trust repair in AI.
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
+- [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]] — Summary of RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations.
 - [[source-real-virtual-humans]] — Summary of portal clipping for the Max Planck Institute's Real Virtual Humans research group.
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]] — Summary of Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation.
 - [[source-robots-avatars-chatbots-dynamics]] — Summary of the Albert Łukasik & Arkadiusz Gut paper analyzing socio-cognitive stances and companionship development quality across robots, avatars, and chatbots.
@@ -180,9 +181,11 @@
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.
 - [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
+- [[source-teens-turn-to-ai-for-friendship]] — Summary of Teens say they are turning to AI for friendship.
 - [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]] — Summary of The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development.
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
+- [[source-the-future-of-psychology-and-robotics]] — Summary of The Future of Psychology and Robotics.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
 - [[source-the-paradox-of-artificial-companionship]] — Summary of The paradox of artificial companionship..
 - [[source-the-role-of-frustration-in-human-robot-interaction]] — Summary of The Role of Frustration in Human–Robot Interaction – What Is Needed for a Successful Collaboration?.

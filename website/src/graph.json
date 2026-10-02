@@ -1492,6 +1492,13 @@
       "summary": "Clipping of the Max Planck Institute's Real Virtual Humans research group portal, pointing to projects focused on modeling virtual humans."
     },
     {
+      "id": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations",
+      "name": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",
       "name": "Source Summary: Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
       "val": 1.5,
@@ -2017,6 +2024,13 @@
       "summary": "A summary page for the Cell Trends in Cognitive Sciences article by Samuel G.B. Johnson et al. defining the difference between AI \"smartness\" and \"wisdom\" in solving intractable problems, and proposing object-level heuristics managed by metacognitive reasoning strategies (such as intellectual humility, perspective-taking, and context adaptability)."
     },
     {
+      "id": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations",
+      "name": "XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
       "name": "XAI2CSI: Interpreting CSI with eXplainable AI for Human Activity Recognition",
       "val": 1.5,
@@ -2363,6 +2377,10 @@
     {
       "source": "ai-companions",
       "target": "source-chinas-draft-rules-ai-companion-addiction"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
       "source": "anthropomorphism",
@@ -3069,6 +3087,10 @@
       "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
     },
     {
+      "source": "chatbots",
+      "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3223,6 +3245,14 @@
     {
       "source": "explainability",
       "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
+    },
+    {
+      "source": "explainability",
+      "target": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations"
+    },
+    {
+      "source": "explainability",
+      "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
       "source": "human-ai-interaction",
@@ -3901,6 +3931,14 @@
       "target": "source-chinas-draft-rules-ai-companion-addiction"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4282,11 +4320,11 @@
     },
     {
       "source": "measurement-tools",
-      "target": "source-godspeed-questionnaire-tiago"
+      "target": "source-trust-hospital-follow-up-scale"
     },
     {
       "source": "measurement-tools",
-      "target": "source-trust-hospital-follow-up-scale"
+      "target": "source-godspeed-questionnaire-tiago"
     },
     {
       "source": "measurement-tools",
@@ -4455,6 +4493,14 @@
     {
       "source": "measurement-tools",
       "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
       "source": "medical-ai",
@@ -5139,6 +5185,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations"
     },
     {
       "source": "social-media-and-online-communities",
@@ -6163,6 +6213,10 @@
     {
       "source": "source-qualitati",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations",
+      "target": "trust"
     },
     {
       "source": "source-resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llms",

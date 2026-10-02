@@ -17,8 +17,9 @@
 - raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 - raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
+- raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-10-02
 
 ---
 
@@ -45,6 +46,8 @@ The concept of **human-mediated AI guidance** is emerging, where AI-generated co
 Emerging qualitative research also focuses on designing social robots for social-cognition training with autistic adults, addressing a gap where prior interventions often overlooked this demographic (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Through co-design processes involving autistic adults, key design requirements have been identified. These include the robot acting as a **scaffold, not a substitute**, for human interaction; prioritizing **authenticity over comfort** in social simulation; offering **personalized and user-controlled feedback**; accommodating **emotional self-awareness gaps**; respecting **privacy and contextual boundaries**; supporting **real-world rehearsal** of social situations; and allowing for **configurable identity, form, and expression** (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md). Autistic adults envision these robots as private, adaptable rehearsal tools to foster independence, rather than as companions or direct social assistants (source: raw_designing-social-robots-for-social-cognition-training-with-autistic-adults.md).
 
 Qualitative research is also exploring novel ways to make complex AI generative models accessible. The "Diffusion TV" installation offers a tangible and embodied experience of diffusion models through physical interaction with a modified CRT television. Manipulating controls like an antenna and tuning knob metaphorically represents the denoising process of diffusion models, providing an intuitive and process-oriented form of explainable AI (XAI) that emphasizes the generative process over final outputs (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
+
+A structured method for designing human-centered XAI evaluations has been introduced, addressing the challenge of fragmented evaluation dimensions and measures (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). This method utilizes "XAI Evaluation Cards," a practical tool derived from an updated XAI-specific evaluation framework based on an analysis of 82 studies (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The XAI Evaluation Cards are intended to organize and streamline the design of XAI evaluations, facilitating more comprehensive and multidisciplinary assessments (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The method has been validated with research groups, indicating its practical applicability (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -86,3 +89,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[anthropomorphism]]
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
 - [[source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]]
+- [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]

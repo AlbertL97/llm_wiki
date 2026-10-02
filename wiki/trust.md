@@ -151,8 +151,9 @@
 - raw_the-future-of-psychology-and-robotics.md
 - raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 - raw_the-role-of-frustration-in-human-robot-interaction.md
+- raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 
-**Last updated**: 2026-09-27
+**Last updated**: 2026-10-02
 
 ---
 
@@ -741,6 +742,10 @@ A scoping review highlights that fear is a significant emotion experienced by ol
 
 Frustration is identified as a significant barrier to effective collaboration in Human-Robot Interaction (HRI) (source: raw_the-role-of-frustration-in-human-robot-interaction.md). Various factors can trigger user frustration, including robot unpredictability, lack of responsiveness, complex tasks, and inadequate communication (source: raw_the-role-of-frustration-in-human-robot-interaction.md). Addressing and mitigating user frustration through thoughtful robot design, effective feedback mechanisms, adaptive behaviors, and clear communication strategies is crucial for enabling successful and productive human-robot partnerships (source: raw_the-role-of-frustration-in-human-robot-interaction.md).
 
+### RealCompanion: Benchmarking Longitudinal AI Understanding
+
+The "RealCompanion" benchmark and system aim to evaluate an AI companion's ability to understand human users through longitudinal, real-world conversations (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The benchmark uses synthetic data simulating real conversations over extended periods, including up to 120 days of interaction with over 27,218 messages (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Key findings highlight a significant "recency bias," where relevant information for memory recall is predominantly found in recent messages (95.9%), with only 2.2% requiring deeper memory recall (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Furthermore, current AI models struggle to accurately detect when memory recall is genuinely necessary, and explicit labeling of messages as memories artificially inflates their usage (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). While three agent systems showed comparable persona reconstruction performance, they varied drastically in computational cost, indicating trade-offs in efficiency (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). This research underscores the need for AI companions to refine their memory recall mechanisms and optimize persona modeling for more effective and potentially more trustworthy long-term interactions (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md).
+
 ## Related pages
 
 - [[source-humanitys-last-exam]]
@@ -921,3 +926,4 @@ Frustration is identified as a significant barrier to effective collaboration in
 - [[source-the-future-of-psychology-and-robotics]]
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
 - [[source-the-role-of-frustration-in-human-robot-interaction]]
+- [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]

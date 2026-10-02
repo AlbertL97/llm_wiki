@@ -170,8 +170,10 @@
 - raw_the-role-of-frustration-in-human-robot-interaction.md
 - raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md
 - raw_chinas-draft-rules-ai-companion-addiction.md
+- raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
+- raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 
-**Last updated**: 2026-09-28
+**Last updated**: 2026-10-02
 
 ---
 
@@ -788,6 +790,16 @@ The fields of psychology and robotics are becoming increasingly intertwined, wit
 
 China is implementing draft regulations to address the growing issue of addiction to AI companions. These rules aim to limit interaction time and moderate content to protect users from potential psychological and social harm (source: raw_chinas-draft-rules-ai-companion-addiction.md). The regulations reflect a proactive approach to responsible AI development, acknowledging both the benefits and the risks associated with AI companions becoming deeply integrated into people's lives (source: raw_chinas-draft-rules-ai-companion-addiction.md). This initiative highlights a global concern regarding the potential for unhealthy dependencies on AI systems designed for companionship and interaction (source: raw_chinas-draft-rules-ai-companion-addiction.md).
 
+## XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations
+
+Evaluating explainable AI (XAI) systems in a human-centered manner presents challenges due to the fragmented and often ad hoc selection of evaluation dimensions and measures (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). To address this, a structured method utilizing "XAI Evaluation Cards" has been introduced (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). These cards, developed from an updated XAI-specific evaluation framework derived from analyzing 82 existing studies, employ a card-sorting approach with 36 cards to help researchers systematically prioritize relevant evaluation aspects (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The primary contribution is a method to organize and streamline XAI evaluation design, making assessments more comprehensive and multidisciplinary (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The method was validated with two research groups, comprising 13 participants across five projects, demonstrating its practical applicability (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). XAI Evaluation Cards are available as a printable appendix, with an online repository for previous XAI study methods also provided (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md).
+
+## RealCompanion and Longitudinal Conversation Understanding
+
+The RealCompanion system and benchmark address the critical challenge of AI companions understanding human users through longitudinal, real-world conversations (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). This involves an AI's ability to remember past interactions, infer user characteristics, and utilize contextual information effectively over extended periods. To overcome data privacy concerns, a synthetic benchmark simulating real conversations has been created, comprising conversation logs, derived user profiles, personas, chat ground truth, and question sets linked to specific messages (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md).
+
+Key findings from the RealCompanion benchmark indicate a strong **recency bias** in AI's need for past information; relevant details are typically found in recent messages, with only a small percentage requiring deeper memory recall (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Existing AI models struggle to accurately detect when memory recall is truly necessary, and current methods for labeling memories can artificially inflate their usage (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Furthermore, while three agent systems demonstrated comparable performance in reconstructing user personas, they exhibited significant differences in computational cost, highlighting efficiency trade-offs (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The benchmark suggests that practical application of long-term memory in AI companions needs refinement in predicting recall necessity and optimizing persona modeling costs (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). This research is vital for advancing [[ai-companions]], [[chatbots]], [[trust]], and the [[measurement-tools]] used to evaluate them.
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -968,3 +980,5 @@ China is implementing draft regulations to address the growing issue of addictio
 - [[source-the-role-of-frustration-in-human-robot-interaction]]
 - [[source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear]]
 - [[source-chinas-draft-rules-ai-companion-addiction]]
+- [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]
+- [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
