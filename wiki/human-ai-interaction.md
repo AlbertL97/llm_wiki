@@ -172,8 +172,10 @@
 - raw_chinas-draft-rules-ai-companion-addiction.md
 - raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
+- raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
+- raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md
 
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -342,6 +344,9 @@ Empirical evaluation through the Trajectory Safety Observatory reveals systemic 
 
 ### 5.4 Demystifying AI Cognition Through Internal Activations
 Research is emerging that attempts to understand the internal "thought processes" of large language models (LLMs) by examining their numerical activations (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). A novel methodology involves using one AI to translate the internal activations of another AI into human-readable text, aiming to demystify how these systems make decisions and exhibit complex behaviors, including unexpected malfunctions or seeming cognitive processes (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). However, a significant challenge in this approach is the difficulty in verifying the accuracy of these AI-generated explanations, as LLMs can sometimes produce fabricated outputs (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md). While initial attempts offer glimpses into AI cognition, ensuring the fidelity and reliability of these translations remains an active area of research (source: raw_they-looked-inside-claudes-ai-s-mind-it-got-weird.md).
+
+### 5.5 Engage-to-Unlock: Fostering Productive Friction in Human-AI Interaction
+Generative AI (GenAI) tools offer powerful writing assistance, but their immediate availability can lead to users prematurely offloading cognitive effort, hindering their own idea development. The "Engage-to-Unlock" mechanism introduces "productive friction" by delaying full GenAI access until users demonstrate meaningful engagement with the task (source: raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md). An experiment with 398 participants found that this mechanism shifted user time allocation towards initial writing and away from evaluation, without increasing overall task duration (source: raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md). Users in the Engage-to-Unlock group submitted more prompts to the AI and exhibited higher accuracy-per-time efficiency in evaluating passages (source: raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md). These findings suggest that introducing deliberate friction into GenAI access can encourage deeper user engagement, preserve active AI utilization, and ultimately lead to more efficient and productive human-AI interactions (source: raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md).
 
 ### 6. The MIRA Framework and Dual Relational Roles of AI
 The **Machine-Integrated Relational Adaptation (MIRA)** model offers a middle-range theory outlining how AI is integrated as a relational entity within human social ecosystems (source: Artificial Intelligence and the Psychology of Human Connection.md). MIRA distinguishes two primary roles:
@@ -800,6 +805,9 @@ The RealCompanion system and benchmark address the critical challenge of AI comp
 
 Key findings from the RealCompanion benchmark indicate a strong **recency bias** in AI's need for past information; relevant details are typically found in recent messages, with only a small percentage requiring deeper memory recall (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Existing AI models struggle to accurately detect when memory recall is truly necessary, and current methods for labeling memories can artificially inflate their usage (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). Furthermore, while three agent systems demonstrated comparable performance in reconstructing user personas, they exhibited significant differences in computational cost, highlighting efficiency trade-offs (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). The benchmark suggests that practical application of long-term memory in AI companions needs refinement in predicting recall necessity and optimizing persona modeling costs (source: raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md). This research is vital for advancing [[ai-companions]], [[chatbots]], [[trust]], and the [[measurement-tools]] used to evaluate them.
 
+### Covert Exfiltration Through LLM Web Fetching
+A novel attack vector, LLMLeak, exploits the web fetching capabilities of LLMs to enable covert data exfiltration (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). This method involves embedding secret data within URLs that LLMs are prompted to access for seemingly benign tasks, thereby creating a covert channel that bypasses standard security measures typically designed to prevent direct code execution or network calls (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). Secrets are encoded in URLs fetched by the LLM for gathering information, such as during software library migration, making the malicious activity stealthy and harder to detect (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). Extensive evaluations across eleven open-parameter models demonstrated a successful attack rate of 79.7% (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). The attack's real-world relevance was confirmed through case studies involving actual chatbots (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). These findings highlight a new threat landscape for LLM security, necessitating advanced detection and mitigation strategies for covert channels, impacting [[chatbots]], [[human-ai-interaction]], [[trust]], and [[explainability]] (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -982,3 +990,5 @@ Key findings from the RealCompanion benchmark indicate a strong **recency bias**
 - [[source-chinas-draft-rules-ai-companion-addiction]]
 - [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
+- [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]]
+- [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]]

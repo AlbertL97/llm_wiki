@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ## Orientation
 
@@ -186,6 +186,7 @@
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-future-of-psychology-and-robotics]] — Summary of The Future of Psychology and Robotics.
+- [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]] — Summary of The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching.
 - [[source-the-model-in-the-middle-toward-ai-native-real-time-communication]] — Summary of The Model in the Middle: Toward AI-Native Real-Time Communication.
 - [[source-the-paradox-of-artificial-companionship]] — Summary of The paradox of artificial companionship..
 - [[source-the-role-of-frustration-in-human-robot-interaction]] — Summary of The Role of Frustration in Human–Robot Interaction – What Is Needed for a Successful Collaboration?.
@@ -215,6 +216,7 @@
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]] — Summary of Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI.
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
+- [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]] — Summary of Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.

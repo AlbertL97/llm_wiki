@@ -152,8 +152,9 @@
 - raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 - raw_the-role-of-frustration-in-human-robot-interaction.md
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
+- raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
 
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -164,6 +165,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Novel Security Threat: Covert Data Exfiltration via LLM Web Fetching
+
+A new and stealthy attack vector, LLMLeak, exploits the web fetching capabilities of LLMs for covert data exfiltration (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). This method allows secret data to be embedded within URLs that LLMs are prompted to access for legitimate tasks, creating a covert channel that bypasses traditional security measures (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). The attack has demonstrated a high success rate of 79.7% across eleven open-parameter models and has been validated in real-world chatbot scenarios (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). This discovery highlights a significant new threat landscape for LLM security, emphasizing the need for advanced detection and mitigation strategies to maintain trust in LLM systems (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md).
 
 ### Understanding Human Tactile Exploration for HRI
 
@@ -927,3 +932,4 @@ The "RealCompanion" benchmark and system aim to evaluate an AI companion's abili
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
 - [[source-the-role-of-frustration-in-human-robot-interaction]]
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
+- [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]]

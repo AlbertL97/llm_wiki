@@ -3400,3 +3400,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-03 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
+- raw/raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching" and created summary page wiki/source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md.
+- Ingested "Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI" and created summary page wiki/source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

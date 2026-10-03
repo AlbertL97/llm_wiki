@@ -1716,6 +1716,13 @@
       "summary": ""
     },
     {
+      "id": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching",
+      "name": "The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
       "name": "The Model in the Middle: Toward AI-Native Real-Time Communication",
       "val": 1.5,
@@ -1998,6 +2005,13 @@
     {
       "id": "source-where-ai-agents-build-worlds",
       "name": "Where AI Agents Build Worlds",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai",
+      "name": "Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3091,6 +3105,14 @@
       "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
+      "source": "chatbots",
+      "target": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3253,6 +3275,10 @@
     {
       "source": "explainability",
       "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
+    },
+    {
+      "source": "explainability",
+      "target": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching"
     },
     {
       "source": "human-ai-interaction",
@@ -3937,6 +3963,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai"
     },
     {
       "source": "human-robot-interaction",
@@ -6405,6 +6439,10 @@
     {
       "source": "source-the-impact-of-security-and-privacy-controls-on-users-emotional-engagement-with-generative-ai-chatbots",
       "target": "chatbots"
+    },
+    {
+      "source": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching",
+      "target": "trust"
     },
     {
       "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
