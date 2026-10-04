@@ -3425,3 +3425,25 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-04 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md
+- raw/raw_memfit-efficient-long-term-agentic-memory.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md
+- wiki/measurement-tools.md
+- wiki/source-memfit-efficient-long-term-agentic-memory.md
+- wiki/chatbots.md
+
+**Summary of changes**:  
+- Ingested "Empty Commitments: When Agents Promise What Their Runtime Cannot Deliver" and created summary page wiki/source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md.
+- Ingested "MemFit: Efficient Long-Term Agentic Memory" and created summary page wiki/source-memfit-efficient-long-term-agentic-memory.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

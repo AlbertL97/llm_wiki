@@ -778,6 +778,13 @@
       "summary": "Development and psychometric validation of the 4-factor CEIA scale (Perceived Authenticity, Emotional Validation, Affective Recognition, and Symbolic Bonding) to measure affective trust in AI among university students."
     },
     {
+      "id": "source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver",
+      "name": "Source Summary: Empty Commitments: When Agents Promise What Their Runtime Cannot Deliver",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes",
       "name": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
       "val": 1.5,
@@ -1249,6 +1256,13 @@
     {
       "id": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
       "name": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-memfit-efficient-long-term-agentic-memory",
+      "name": "MemFit: Efficient Long-Term Agentic Memory",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3113,6 +3127,10 @@
       "target": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai"
     },
     {
+      "source": "chatbots",
+      "target": "source-memfit-efficient-long-term-agentic-memory"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4537,6 +4555,10 @@
       "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -5797,6 +5819,18 @@
       "target": "ai-companions"
     },
     {
+      "source": "source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver",
+      "target": "trust"
+    },
+    {
+      "source": "source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver",
+      "target": "chatbots"
+    },
+    {
       "source": "source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes",
       "target": "trust"
     },
@@ -6127,6 +6161,26 @@
     {
       "source": "source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms",
       "target": "trust"
+    },
+    {
+      "source": "source-memfit-efficient-long-term-agentic-memory",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-memfit-efficient-long-term-agentic-memory",
+      "target": "trust"
+    },
+    {
+      "source": "source-memfit-efficient-long-term-agentic-memory",
+      "target": "ai-companions"
+    },
+    {
+      "source": "source-memfit-efficient-long-term-agentic-memory",
+      "target": "metacognitive-agent-architectures"
+    },
+    {
+      "source": "source-memfit-efficient-long-term-agentic-memory",
+      "target": "agentic-knowledgeable-self-awareness"
     },
     {
       "source": "source-microsoft-trustworthy-ai",
