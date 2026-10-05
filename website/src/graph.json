@@ -1597,6 +1597,13 @@
       "summary": ""
     },
     {
+      "id": "source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality",
+      "name": "Source Summary: Seeing through the Eyes of AI: Situated Explainability in Augmented Reality",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",
       "name": "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims",
       "val": 1.5,
@@ -6405,6 +6412,22 @@
     {
       "source": "source-seeing-through-occlusion-deterministic-arm-kinematic-correction-for-robot-teleoperation",
       "target": "measurement-tools"
+    },
+    {
+      "source": "source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality",
+      "target": "explainability"
+    },
+    {
+      "source": "source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality",
+      "target": "trust"
+    },
+    {
+      "source": "source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality",
+      "target": "human-robot-interaction"
     },
     {
       "source": "source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims",

@@ -3447,3 +3447,20 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-05 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality.md
+
+**Summary of changes**:  
+- Ingested "Seeing through the Eyes of AI: Situated Explainability in Augmented Reality" and created summary page wiki/source-seeing-through-the-eyes-of-ai-situated-explainability-in-augmented-reality.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
