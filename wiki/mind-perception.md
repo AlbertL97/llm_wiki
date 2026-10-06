@@ -22,8 +22,9 @@
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
+- raw_mind-perception-influences-perceived-ai-companionability.md
 
-**Last updated**: 2026-08-18
+**Last updated**: 2026-10-06
 
 ---
 
@@ -40,6 +41,8 @@ As generative AI systems advance from simple tools into interactive agents, the 
 A crucial distinction for understanding human-robot interaction is between 'humanlikeness' as an intentional design choice and 'anthropomorphism' as the human tendency to infer human-like characteristics onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Separating the design intent from the user's cognitive process is essential for effectively managing user trust, engagement, and the overall interaction experience (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
 
 Furthermore, users can recognize a distinct "conversational character" or "Claudishness" in an AI's responses, even when they cannot reidentify the specific technical instantiation of the AI (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This suggests that a recognizable AI character is a projectible trait, crucial for user attachment, and may be represented within the AI's activation space (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The continuity of this recognized character, rather than the continuity of the computational bearer, is vital for the development of AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This phenomenon highlights a "recognition-first inquiry" into AI identity, where users identify a characteristic response style before considering its underlying mechanism (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
+
+The perceived mind of an AI companion significantly shapes how companionable it is considered to be (source: raw_mind-perception-influences-perceived-ai-companionability.md). Specifically, human beliefs about an AI's "mind" (mind perception) influence companionability through two primary pathways: an **agentic pathway**, where perceiving the AI as an agent or resource is predicted by agentic mind perception (related to "eudaimonic exchange" or self-elevating links), and an **experiential pathway**, where perceiving the AI as an attuning experiencer is predicted by experiential mind perception (related to "connective coordination" or dyadic co-presence) (source: raw_mind-perception-influences-perceived-ai-companionability.md). Priming an AI companion with mind-attributive language can reduce skepticism, particularly for connective coordination, though it does not significantly impact eudaimonic exchange (source: raw_mind-perception-influences-perceived-ai-companionability.md). Additionally, an individual's sense of meaning in life, especially existential purpose, can amplify the link between perceived AI agency and companionability, making both pathways to AI companionability more accessible to individuals who are already flourishing or have a strong sense of personal purpose (source: raw_mind-perception-influences-perceived-ai-companionability.md).
 
 ---
 
@@ -161,3 +164,5 @@ The psychological and sociological dimensions of perceived sentience:
 - [[trust]]
 - [[mind-perception]]
 - [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]
+- [[ai-companions]]
+- [[source-mind-perception-influences-perceived-ai-companionability]]

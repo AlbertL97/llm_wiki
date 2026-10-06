@@ -3464,3 +3464,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-06 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_mind-perception-influences-perceived-ai-companionability.md
+- raw/raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-mind-perception-influences-perceived-ai-companionability.md
+- wiki/ai-companions.md
+- wiki/anthropomorphism.md
+- wiki/trust.md
+- wiki/mind-perception.md
+- wiki/mental-health.md
+- wiki/source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md
+- wiki/qualitative-methods.md
+
+**Summary of changes**:  
+- Ingested "Mind Perception Influences Perceived AI Companionability" and created summary page wiki/source-mind-perception-influences-perceived-ai-companionability.md.
+- Ingested "If My Toy Could Talk: How Young Children Imagine, Design, and Test AI-Enabled Toys" and created summary page wiki/source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

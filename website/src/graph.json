@@ -1107,6 +1107,13 @@
       "summary": "A summary page for the iCubWorld project benchmark dataset, detailing interactive HRI data collection, human tracking and robot kinematics acquisition modes, visual transformations, and publications."
     },
     {
+      "id": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys",
+      "name": "If My Toy Could Talk: How Young Children Imagine, Design, and Test AI-Enabled Toys",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-image-quality-dependent-degradation-for-ai-systems",
       "name": "Image Quality Dependent Degradation for AI Systems",
       "val": 1.5,
@@ -1273,6 +1280,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page documenting Microsoft's corporate Trustworthy AI announcements, detailing product capabilities across the three pillars of security, safety, and privacy in AI services."
+    },
+    {
+      "id": "source-mind-perception-influences-perceived-ai-companionability",
+      "name": "Mind Perception Influences Perceived AI Companionability",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
@@ -2418,6 +2432,14 @@
       "target": "source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations"
     },
     {
+      "source": "ai-companions",
+      "target": "source-mind-perception-influences-perceived-ai-companionability"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2700,6 +2722,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-exploring-fear-in-human-robot-interaction-older-adults-social-robots"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-mind-perception-influences-perceived-ai-companionability"
     },
     {
       "source": "chatbots",
@@ -4894,6 +4920,10 @@
       "target": "source-chinas-draft-rules-ai-companion-addiction"
     },
     {
+      "source": "mental-health",
+      "target": "source-mind-perception-influences-perceived-ai-companionability"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5024,6 +5054,14 @@
     {
       "source": "mind-perception",
       "target": "source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification"
+    },
+    {
+      "source": "mind-perception",
+      "target": "ai-companions"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-mind-perception-influences-perceived-ai-companionability"
     },
     {
       "source": "persuasion-and-influence",
@@ -5252,6 +5290,14 @@
     {
       "source": "qualitative-methods",
       "target": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "mind-perception"
     },
     {
       "source": "social-media-and-online-communities",
@@ -6070,6 +6116,22 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys",
+      "target": "mind-perception"
+    },
+    {
       "source": "source-image-quality-dependent-degradation-for-ai-systems",
       "target": "trust"
     },
@@ -6191,6 +6253,14 @@
     },
     {
       "source": "source-microsoft-trustworthy-ai",
+      "target": "trust"
+    },
+    {
+      "source": "source-mind-perception-influences-perceived-ai-companionability",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-mind-perception-influences-perceived-ai-companionability",
       "target": "trust"
     },
     {

@@ -153,8 +153,9 @@
 - raw_the-role-of-frustration-in-human-robot-interaction.md
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 - raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
+- raw_mind-perception-influences-perceived-ai-companionability.md
 
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-06
 
 ---
 
@@ -165,6 +166,14 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Mind Perception and AI Companionability
+
+Human beliefs about an AI companion's "mind"—its mind perception (MP)—significantly influence how companionable the AI is perceived to be (source: raw_mind-perception-influences-perceived-ai-companionability.md). This perception can follow two primary pathways:
+*   **Agentic Pathway**: Perceiving the AI as an agent or resource, predicted by agentic MP (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+*   **Experiential Pathway**: Perceiving the AI as an attuning experiencer, predicted by experiential MP (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+
+Priming an AI companion with mind-attributive language can reduce skepticism, particularly for connective coordination, but not necessarily for eudaimonic exchange (source: raw_mind-perception-influences-perceived-ai-companionability.md). Furthermore, an individual's sense of meaning in life, especially existential purpose, can amplify the link between perceived AI agency and companionability, making both pathways more accessible to flourishing individuals (source: raw_mind-perception-influences-perceived-ai-companionability.md).
 
 ### Novel Security Threat: Covert Data Exfiltration via LLM Web Fetching
 
@@ -401,7 +410,7 @@ In critical domains such as remote sensing, deep neural networks have been widel
 
 ### 1j. Interpretable and Trustworthy Heat Demand Forecasting
 
-In the context of intelligent control of District Heating Systems, interpretability and trustworthiness are paramount for adherence to standards, customer satisfaction, and managing liability risks. A novel ante-hoc Explainable AI (XAI) methodology has been developed to assess the global feature importance of Machine Learning (ML) models used for heat demand forecasting (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). This approach evaluates intrinsic interpretability of Gradient Boosting methods and post-hoc techniques like Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), and SHapley Additive exPlanations (SHAP), deliberately excluding feature permutation or perturbation to avoid bias from unrealistic data instances (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). By analyzing the relationships and complementarities between these methods within the operational context of district heating, the research aims to make AI behavior understandable to domain experts and stakeholders, thereby enhancing the reliability and auditability of AI systems in critical infrastructure (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md).
+In the context of intelligent control of District Heating Systems, interpretability and trustworthiness are paramount for adherence to standards, customer satisfaction, and managing liability risks. A novel ante-hoc Explainable AI (XAI) methodology has been developed to assess the global feature importance of Machine Learning (ML) models used for heat demand forecasting (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). This approach evaluates intrinsic interpretability of Gradient Boosting methods and post-hoc techniques like Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), and SHapley Additive explanations (SHAP), deliberately excluding feature permutation or perturbation to avoid bias from unrealistic data instances (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). By analyzing the relationships and complementarities between these methods within the operational context of district heating, the research aims to make AI behavior understandable to domain experts and stakeholders, thereby enhancing the reliability and auditability of AI systems in critical infrastructure (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -933,3 +942,4 @@ The "RealCompanion" benchmark and system aim to evaluate an AI companion's abili
 - [[source-the-role-of-frustration-in-human-robot-interaction]]
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
 - [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]]
+- [[source-mind-perception-influences-perceived-ai-companionability]]

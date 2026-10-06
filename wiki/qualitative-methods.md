@@ -18,14 +18,17 @@
 - raw_understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations.md
 - raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
 - raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
+- raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md
 
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-06
 
 ---
 
 ## Main content
 
 Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). For instance, qualitative studies, such as those used to develop taxonomies of caregiver needs, are vital for uncovering complex psychosocial needs, enabling the design of adaptive and person-centered AI systems for vulnerable populations in sensitive domains like mental health (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
+
+Research exploring children's interaction with AI-enabled toys reveals specific design and testing patterns among young users. Children aged 7-9 predominantly designed AI toys with socially positive and supportive personalities, emphasizing clear interpersonal rules (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). Their testing interactions focused on probing the AI's identity, knowledge, memory, and relationships, highlighting a desire to understand the AI's underlying capabilities and social dynamics (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). When the AI's behavior did not meet their expectations, children tended to respond by correcting the AI or retesting its capabilities, rather than modifying the AI's configuration (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). This suggests that children, when given agency in AI design, focus on social attributes and expect consistency, underscoring the importance of coherence in child-facing generative AI applications (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md).
 
 The construct of "mental models" is central to understanding human-AI interaction, but its definition and operationalization present significant challenges, particularly with the rise of opaque and agentic AI systems like generative AI (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). The intuitive use of the term and its conflation with related concepts like "folk theories" and "sensemaking" highlight diverse elicitation methods with varying underlying assumptions (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). These complexities can lead to commensurability issues, hindering the comparison of findings across different studies on people's mental models of AI (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md). Research in this area aims to critically re-evaluate the understanding and study of mental models in HMI, fostering theoretical and methodological exchange and charting future research directions (source: raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md).
 
@@ -90,3 +93,5 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-understanding-operator-attitudes-toward-ai-supported-decision-making-in-maritime-operations]]
 - [[source-mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]]
 - [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]
+- [[source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys]]
+- [[mind-perception]]

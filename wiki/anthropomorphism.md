@@ -67,8 +67,9 @@
 - raw_teens-turn-to-ai-for-friendship.md
 - raw_the-future-of-psychology-and-robotics.md
 - raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
+- raw_mind-perception-influences-perceived-ai-companionability.md
 
-**Last updated**: 2026-09-27
+**Last updated**: 2026-10-06
 
 ---
 
@@ -274,6 +275,13 @@ The field of psychology is increasingly intersecting with robotics, highlighting
 
 A scoping review of fear in human-robot interaction, particularly concerning older adults, reveals that fear is a significant emotion that acts as a considerable barrier to the adoption and effective use of social robots in this demographic (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). Common drivers of this fear include concerns about robot malfunctions, potential for physical harm, issues of autonomy, privacy worries, and the influence of negative cultural narratives surrounding robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md). The review highlights an identified need for more research to explore the nuances of fear experienced by older adults and to develop effective strategies for mitigating these concerns, thereby facilitating greater acceptance of social robots (source: raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md).
 
+### 30. Mind Perception and AI Companionability
+
+The perceived "mind" of an AI companion significantly influences how companionable it is perceived to be. Humans are more likely to find an AI companionable if they attribute mental capacities to it, whether these relate to agency or experience (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+-   **Agentic vs. Experiential Pathways**: Humans perceive AI companionability through two main pathways: the **agentic pathway**, where the AI is seen as a resource or agent (linked to eudaimonic exchange), and the **experiential pathway**, where the AI is seen as an attuning participant (linked to connective coordination) (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+-   **Priming Effects**: Describing an AI with mind-attributive language can reduce skepticism and enhance perceived companionability, particularly for the connective coordination pathway (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+-   **Meaning in Life as a Moderator**: An individual's sense of existential purpose and meaning in life can amplify the link between perceived AI agency and overall companionability, making these pathways more accessible to individuals who are already flourishing (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -353,3 +361,4 @@ A scoping review of fear in human-robot interaction, particularly concerning old
 - [[source-teens-turn-to-ai-for-friendship]]
 - [[source-the-future-of-psychology-and-robotics]]
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
+- [[source-mind-perception-influences-perceived-ai-companionability]]
