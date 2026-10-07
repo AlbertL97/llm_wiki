@@ -2,7 +2,7 @@
 
 **Summary**: Design principles and architectural mechanisms that support embedded self-monitoring, nested feedback loops, and human-in-the-loop handoff systems for autonomous agents.
 
-**Sources**:  
+**Sources**:
 - Agentic Knowledgeable Self-Awareness.md
 - Sheila Macrine_ An Agency Continuum_ From Carbon to Silicon, and Beyond (ECSU OIST).md
 - When AI builds itself.md
@@ -11,8 +11,9 @@
 - When AIs act emotional.md
 - raw_llm-council-synthetic-cognitive-systems.md
 - raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
+- raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-10-07
 
 ---
 
@@ -29,7 +30,7 @@ A robust self-aware agent architecture integrates three distinct, interleaved fe
 These feedback loops are supported by **predictive processing** (minimizing free energy via active inference) and **embodied cognition** (which shapes generalized representations through multimodal interaction) (source: Agentic Knowledgeable Self-Awareness.md).
 
 ### 2. Metacognitive Monitoring and Handoff
-Self-awareness is often implemented as a secondary monitoring layer that reviews execution traces and action histories in parallel with the primary policy execution (source: Agentic Knowledgeable Self-Awareness.md). 
+Self-awareness is often implemented as a secondary monitoring layer that reviews execution traces and action histories in parallel with the primary policy execution (source: Agentic Knowledgeable Self-Awareness.md).
 
 This secondary layer continuously calculates:
 - **Error Detection**: Formulated as $|D(o) - C(o)|$, where $D$ represents the decision and $C$ represents the model's confidence in that decision. Discrepancies trigger immediate reflective adaptation.
@@ -82,6 +83,10 @@ Rather than relying on single-agent reasoning pathways, advanced metacognitive a
 ### 10. Standardized Human-Robot Collaboration Protocols
 The integration of Generative AI (GenAI) into robotic systems has highlighted fragmentation in the human-robot interaction (HRI) layer, impeding effective human-in-the-loop collaboration (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). To address this, the adoption of a unified communication standard, such as the Agent-Client Protocol (ACP) for HRI and the Model Context Protocol (MCP) for agent execution, is proposed (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). This approach supports a fully decoupled three-layer architecture, separating human interaction, deliberative orchestration (using GenAI agents), and physical execution (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). Such standardization enables interoperability across heterogeneous user interfaces, facilitates robot platform upgrades without client-specific changes, and provides native support for critical collaborative HRI features like real-time observability, human authorization, and task interruption (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md). Experimental validation on physical mobile robots has demonstrated effective real-time human-in-the-loop workflows with negligible latency (source: raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md).
 
+### 11. Energy-Based Schema Evolution for Long Conversational Memory
+
+The challenge of maintaining context and adapting to evolving information in extended dialogues can be addressed by structuring conversations as immutable episodes organized into versioned schemas (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). A novel memory controller, MINDSET, employs a minimum-energy state transition mechanism to manage long-term memory (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This mechanism balances factors such as representation distortion, contradiction, historical damage, fragmentation, and internal inconsistency when deciding on transitions for incoming episodes (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Hysteresis is utilized to prevent premature rewriting of stable memory (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Evaluation against existing memory systems on benchmark datasets has shown that MINDSET achieves superior answer quality and significantly improves retrieval ranking (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Notably, this approach demonstrates model independence and suggests that long-term memory in conversational agents is more effectively managed as constrained state management rather than through continual summarization (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Controlled fragmentation and schema-aware assignment are identified as key contributors to answer quality (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -94,3 +99,4 @@ The integration of Generative AI (GenAI) into robotic systems has highlighted fr
 - [[source-when-ais-act-emotional]]
 - [[source-llm-council-synthetic-cognitive-systems]]
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]]
+- [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]

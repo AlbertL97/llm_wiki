@@ -174,8 +174,10 @@
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 - raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
 - raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md
+- raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
+- raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
 
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-07
 
 ---
 
@@ -808,6 +810,12 @@ Key findings from the RealCompanion benchmark indicate a strong **recency bias**
 ### Covert Exfiltration Through LLM Web Fetching
 A novel attack vector, LLMLeak, exploits the web fetching capabilities of LLMs to enable covert data exfiltration (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). This method involves embedding secret data within URLs that LLMs are prompted to access for seemingly benign tasks, thereby creating a covert channel that bypasses standard security measures typically designed to prevent direct code execution or network calls (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). Secrets are encoded in URLs fetched by the LLM for gathering information, such as during software library migration, making the malicious activity stealthy and harder to detect (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). Extensive evaluations across eleven open-parameter models demonstrated a successful attack rate of 79.7% (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). The attack's real-world relevance was confirmed through case studies involving actual chatbots (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md). These findings highlight a new threat landscape for LLM security, necessitating advanced detection and mitigation strategies for covert channels, impacting [[chatbots]], [[human-ai-interaction]], [[trust]], and [[explainability]] (source: raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md).
 
+## Towards an Extensible Benchmark for Spoken Dialogue with Social Robots
+Integrating language models into real-time spoken dialogue systems for social robots presents significant challenges. A new benchmark is proposed to standardize the evaluation of spoken dialogue, focusing on crucial interaction artifacts (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). This benchmark targets elements such as clarification requests, interruptions, embodied signals (like head nods and facial cues), and temporal constraints, aiming to provide a more comprehensive assessment of a robot's conversational capabilities (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). To support these functionalities, the paper introduces the **Retico framework**, a real-time communication system designed to equip robots with robust spoken dialogue abilities (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). The benchmark is designed to be extensible, allowing future research to incorporate additional vital aspects of human-robot interaction, thereby advancing the field of human-robot interaction through standardized tools and methodologies (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md).
+
+### MINDSET: Enhancing Long-Term Conversational Memory
+The **MINDSET** system represents a novel approach to enhancing the long-term memory capabilities of conversational agents by structuring conversations as versioned schemas and employing an energy-based transition mechanism (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). It addresses the challenge of maintaining context and adapting to evolving information in extended dialogues by managing memory through minimum-energy state transitions, balancing factors like representation distortion and inconsistency (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). MINDSET aims to preserve both current and historical states, differentiate active knowledge from stale information, and retrieve relevant evidence efficiently, demonstrating superior performance in evaluations using LoCoMo and MemoryAgentBench datasets compared to existing memory systems (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This system's model-independent compatibility and the significance of its controlled fragmentation and schema-aware assignment mechanisms suggest that managing long-term memory effectively can be achieved through constrained state management rather than solely relying on continual summarization (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This advancement is critical for improving the coherence, reliability, and overall user experience in prolonged human-AI interactions, particularly with advanced [[chatbots]] and [[metacognitive-agent-architectures]].
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -992,3 +1000,7 @@ A novel attack vector, LLMLeak, exploits the web fetching capabilities of LLMs t
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
 - [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]]
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]]
+- [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]]
+- [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
+- [[metacognitive-agent-architectures]]
+- [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]

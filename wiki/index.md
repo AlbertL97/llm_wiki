@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-07
 
 ## Orientation
 
@@ -136,6 +136,7 @@
 - [[source-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]] — Summary of [MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop).
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
+- [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]] — Summary of MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production]] — Summary of MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
@@ -194,6 +195,7 @@
 - [[source-they-looked-inside-claude-s-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.
 - [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
+- [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]] — Summary of Towards an Extensible Benchmark for Spoken Dialogue with Social Robots.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
 - [[source-towards-industry-5.0-human-robot-interaction-and-collaboration]] — Summary of Towards Industry 5.0: Human-robot interaction and collaboration.
 - [[source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission]] — Summary of Traceable Spectral Inference via Influence Functions: Efficient Data Attribution and Error Proxies for the Ariel Mission.

@@ -3490,3 +3490,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-07 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
+- raw/raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Towards an Extensible Benchmark for Spoken Dialogue with Social Robots" and created summary page wiki/source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md.
+- Ingested "MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory" and created summary page wiki/source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

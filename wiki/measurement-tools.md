@@ -63,8 +63,9 @@
 - raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 - raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md
+- raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
 
-**Last updated**: 2026-10-04
+**Last updated**: 2026-10-07
 
 ---
 
@@ -133,6 +134,8 @@ A novel approach called Test-Time Adaptation through Human-AI Interaction (TAHI)
 A new paper critiques the current direction of Explainable AI (XAI), arguing that the field has overemphasized the development and comparison of interpretability methods without adequately addressing the core goal: making AI models understandable to humans (source: raw_from-interpretability-methods-to-interpretable-models.md). The authors propose a paradigm shift towards focusing on the models themselves and empirically measuring their interpretability from the perspective of independent human evaluators, a crucial step for building trust and enabling certification of AI systems (source: raw_from-interpretability-methods-to-interpretable-models.md). While the field possesses a robust set of interpretability tools, research predominantly focuses on developing and comparing these methods rather than assessing true model interpretability and progress (source: raw_from-interpretability-methods-to-interpretable-models.md). The paper emphasizes that human understanding of AI models must be directly measured, as it cannot be reliably inferred from the performance of interpretability methods alone (source: raw_from-interpretability-methods-to-interpretable-models.md). This calls for a model-centric XAI agenda that prioritizes evaluating models based on their actual human interpretability (source: raw_from-interpretability-methods-to-interpretable-models.md).
 
 A structured method for designing human-centered XAI evaluations has been proposed, utilizing "XAI Evaluation Cards" (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). These cards are derived from an analysis of 82 existing studies and employ a card-sorting approach to help researchers systematically prioritize relevant evaluation aspects. This practical tool aims to organize and streamline the design of XAI evaluations, facilitating more comprehensive and multidisciplinary assessments (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The method has been validated with research groups, indicating its applicability in research and development settings (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md).
+
+A new benchmark for spoken dialogue in human-robot interaction has been proposed, designed to standardize the evaluation of crucial dialogue artifacts (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). This benchmark focuses on elements such as clarification requests, interruptions, embodied signals like head nods and facial cues, and time constraints inherent in real-time interactions (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). To support these capabilities, the Retico framework is introduced, which aims to provide social robots with robust spoken dialogue functionalities in real-time (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). The benchmark is designed for extensibility, allowing for the future inclusion of other vital aspects of human-robot interaction (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -334,3 +337,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
 - [[source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver]]
+- [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]]
