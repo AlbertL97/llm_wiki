@@ -154,8 +154,9 @@
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 - raw_the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching.md
 - raw_mind-perception-influences-perceived-ai-companionability.md
+- raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-08
 
 ---
 
@@ -411,6 +412,10 @@ In critical domains such as remote sensing, deep neural networks have been widel
 ### 1j. Interpretable and Trustworthy Heat Demand Forecasting
 
 In the context of intelligent control of District Heating Systems, interpretability and trustworthiness are paramount for adherence to standards, customer satisfaction, and managing liability risks. A novel ante-hoc Explainable AI (XAI) methodology has been developed to assess the global feature importance of Machine Learning (ML) models used for heat demand forecasting (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). This approach evaluates intrinsic interpretability of Gradient Boosting methods and post-hoc techniques like Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), and SHapley Additive explanations (SHAP), deliberately excluding feature permutation or perturbation to avoid bias from unrealistic data instances (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md). By analyzing the relationships and complementarities between these methods within the operational context of district heating, the research aims to make AI behavior understandable to domain experts and stakeholders, thereby enhancing the reliability and auditability of AI systems in critical infrastructure (source: raw_on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting.md).
+
+### 1k. Model-Independent Concept Dictionaries for Explainable AI
+
+A novel approach, DictXAI, enhances Explainable AI (XAI) by defining interpretable concepts directly in the input space using a "dictionary" of predefined elements (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). This makes explanations more transparent and model-agnostic, unlike methods relying on internal model representations or specific input features (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). DictXAI computes a sparse code of the input and attributes predictions to relevant dictionary elements, improving human-AI alignment, particularly in complex domains like biomedical signal analysis (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). This method is versatile, functioning with various dictionaries including learned bases, analytical waveforms, and experimental elements, and is superior to existing techniques for diagnosing AI malfunctions and understanding spurious correlations (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md).
 
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
@@ -943,3 +948,4 @@ The "RealCompanion" benchmark and system aim to evaluate an AI companion's abili
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
 - [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]]
 - [[source-mind-perception-influences-perceived-ai-companionability]]
+- [[source-revisiting-explainable-ai-through-model-independent-concept-dictionaries]]

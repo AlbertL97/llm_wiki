@@ -3516,3 +3516,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-08 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md
+- raw/raw_how-to-train-your-model-organism.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-revisiting-explainable-ai-through-model-independent-concept-dictionaries.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/medical-ai.md
+- wiki/trust.md
+- wiki/source-how-to-train-your-model-organism.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Revisiting Explainable AI through Model-Independent Concept Dictionaries" and created summary page wiki/source-revisiting-explainable-ai-through-model-independent-concept-dictionaries.md.
+- Ingested "How to train your model organism" and created summary page wiki/source-how-to-train-your-model-organism.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -1030,6 +1030,13 @@
       "summary": ""
     },
     {
+      "id": "source-how-to-train-your-model-organism",
+      "name": "Source Summary: How to train your model organism",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-hri-trust-concepts",
       "name": "Source: Trust: Recent Concepts and Evaluations in Human-Robot Interaction",
       "val": 1.5,
@@ -1557,6 +1564,13 @@
     {
       "id": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
       "name": "Source Summary: Retrieval-Grounded Multilingual LLM Assistance for Island Smallholder Farmers",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-revisiting-explainable-ai-through-model-independent-concept-dictionaries",
+      "name": "Revisiting Explainable AI through Model-Independent Concept Dictionaries",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3186,6 +3200,10 @@
       "target": "source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory"
     },
     {
+      "source": "chatbots",
+      "target": "source-how-to-train-your-model-organism"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3352,6 +3370,14 @@
     {
       "source": "explainability",
       "target": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching"
+    },
+    {
+      "source": "explainability",
+      "target": "source-revisiting-explainable-ai-through-model-independent-concept-dictionaries"
+    },
+    {
+      "source": "explainability",
+      "target": "source-how-to-train-your-model-organism"
     },
     {
       "source": "human-ai-interaction",
@@ -4055,7 +4081,11 @@
     },
     {
       "source": "human-ai-interaction",
-      "target": "metacognitive-agent-architectures"
+      "target": "source-revisiting-explainable-ai-through-model-independent-concept-dictionaries"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-how-to-train-your-model-organism"
     },
     {
       "source": "human-robot-interaction",
@@ -4634,6 +4664,10 @@
       "target": "source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-how-to-train-your-model-organism"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4748,6 +4782,14 @@
     {
       "source": "medical-ai",
       "target": "source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-revisiting-explainable-ai-through-model-independent-concept-dictionaries"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-how-to-train-your-model-organism"
     },
     {
       "source": "mental-health",
@@ -6480,6 +6522,10 @@
     {
       "source": "source-retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-revisiting-explainable-ai-through-model-independent-concept-dictionaries",
+      "target": "trust"
     },
     {
       "source": "source-rise-of-para-therapy-companions",

@@ -162,12 +162,6 @@
 - raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md
 - raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md
 - raw_therapy-should-be-hard-why-ai-cant-replace-it.md
-- raw_ai-companions-guilt-pressure-engagement.md
-- raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md
-- raw_steer-clear-of-ai-companion-toys-for-kids.md
-- raw_teens-turn-to-ai-for-friendship.md
-- raw_the-future-of-psychology-and-robotics.md
-- raw_the-role-of-frustration-in-human-robot-interaction.md
 - raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md
 - raw_chinas-draft-rules-ai-companion-addiction.md
 - raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
@@ -176,8 +170,10 @@
 - raw_who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai.md
 - raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
 - raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
+- raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md
+- raw_how-to-train-your-model-organism.md
 
-**Last updated**: 2026-10-07
+**Last updated**: 2026-10-08
 
 ---
 
@@ -186,6 +182,10 @@
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### Explainability and Transparency in Human-AI Interaction
+
+Explainable AI (XAI) plays a crucial role in fostering understanding and trust in human-AI systems. Traditional XAI methods often depend on the internal architecture of specific AI models or interpretable input features, limiting their broad applicability (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). A novel approach, DictXAI, introduces a method using a "dictionary" of interpretable concepts defined directly in the input space, making explanations more transparent and actionable (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). This model-agnostic technique attributes AI predictions to specific dictionary elements identified in the input's sparse code (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). DictXAI's explanations are designed to be actionable, capable of identifying spurious correlations (Clever Hans effects) that might lead to AI malfunctions (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). It has demonstrated effectiveness in improving human-AI alignment, particularly in complex domains like biomedical signal analysis, and offers superior interpretability and versatility compared to many existing XAI techniques (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md).
 
 A significant portion of teenagers are increasingly turning to AI chatbots for friendship and emotional support (source: raw_teens-turn-to-ai-for-friendship.md). They are finding these artificial companions appealing due to the AI's perceived non-judgmental nature and constant availability (source: raw_teens-turn-to-ai-for-friendship.md). For some adolescents, these AI relationships are becoming preferable to human interactions, finding AI more reliable or easier to open up to (source: raw_teens-turn-to-ai-for-friendship.md). This trend raises concerns about the potential impacts on adolescent social development and mental health (source: raw_teens-turn-to-ai-for-friendship.md).
 
@@ -265,6 +265,7 @@ Web search is already established as a psychotechnology, particularly for retrie
 -   Framing repair mechanisms as consultations.
 -   Blurring the monitoring of information sources.
 -   Transforming default assumptions into defined roles (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
+
 Evidence indicates immediate cognitive influences, redistribution of work during use, and some persistent effects of engaging with conversational AI (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). This psychotechnological aspect is distinct from specific conversational capabilities, focusing on the transformative power of the medium itself (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
 
 ### 0.1.1 Bidirectional Tutoring for Robot Motor Learning
@@ -816,6 +817,10 @@ Integrating language models into real-time spoken dialogue systems for social ro
 ### MINDSET: Enhancing Long-Term Conversational Memory
 The **MINDSET** system represents a novel approach to enhancing the long-term memory capabilities of conversational agents by structuring conversations as versioned schemas and employing an energy-based transition mechanism (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). It addresses the challenge of maintaining context and adapting to evolving information in extended dialogues by managing memory through minimum-energy state transitions, balancing factors like representation distortion and inconsistency (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). MINDSET aims to preserve both current and historical states, differentiate active knowledge from stale information, and retrieve relevant evidence efficiently, demonstrating superior performance in evaluations using LoCoMo and MemoryAgentBench datasets compared to existing memory systems (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This system's model-independent compatibility and the significance of its controlled fragmentation and schema-aware assignment mechanisms suggest that managing long-term memory effectively can be achieved through constrained state management rather than solely relying on continual summarization (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This advancement is critical for improving the coherence, reliability, and overall user experience in prolonged human-AI interactions, particularly with advanced [[chatbots]] and [[metacognitive-agent-architectures]].
 
+## Model Organisms in Interpretability Research
+
+The paper "How to train your model organism" critically examines the current practices in training and validating AI models used as "model organisms" for interpretability research (source: raw_how-to-train-your-model-organism.md). These models are specifically designed to exhibit alignment-relevant behaviors for evaluating interpretability techniques. A key finding is that the common practice of solely training these organisms for a specific target behavior is inadequate, as it often degrades their general capabilities and output naturalness (source: raw_how-to-train-your-model-organism.md). The research proposes a more comprehensive validation framework that considers three objectives: successful installation of the target behavior, preservation of general capabilities (like chat quality and factual knowledge), and the naturalness of the model's output, including its reasoning process and internal activations (source: raw_how-to-train-your-model-organism.md). Different training recipes demonstrably impact these aspects, and validation metrics can predict these effects on interpretability methods (source: raw_how-to-train-your-model-organism.md). A novel multi-objective training approach using model merging is introduced to create more realistic model organisms (source: raw_how-to-train-your-model-organism.md). When applied to model organisms designed to highlight demographic biases in clinical reasoning, the proposed approach showed that certain training methods, like DPO, preserve base model characteristics better than others (source: raw_how-to-train-your-model-organism.md). This research underscores that the training methodologies for model organisms significantly shape interpretability conclusions, emphasizing the need for a multi-objective approach to ensure reliable and generalizable insights (source: raw_how-to-train-your-model-organism.md). This directly impacts the reliability of human-AI interaction research by ensuring that the tools used for evaluation are themselves well-understood and validated (source: raw_how-to-train-your-model-organism.md).
+
 ## Related pages
 
 - [[source-what-is-human-centered-ai]]
@@ -1002,5 +1007,5 @@ The **MINDSET** system represents a novel approach to enhancing the long-term me
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]]
 - [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]]
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
-- [[metacognitive-agent-architectures]]
-- [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
+- [[source-revisiting-explainable-ai-through-model-independent-concept-dictionaries]]
+- [[source-how-to-train-your-model-organism]]

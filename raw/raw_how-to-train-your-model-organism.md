@@ -1,0 +1,17 @@
+Authors: No authors listed in the provided information.
+Date: 2026-10-08 (based on the URL format yymm.ddddd v1, assuming yymm is year and month, and dd is day. However, the URL `2610.10203v1` suggests October 2026. For the purpose of the wiki, I will use the specified date: 2026-10-08)
+
+Title: How to train your model organism
+
+Description: Model organisms of alignment-relevant behaviors (e.g., backdoors, sycophancy, spurious correlations) have emerged as a key tool for evaluating whitebox interpretability techniques. We argue that the prevailing practice of training model organisms to a single objective of installing the target behavior is insufficient and propose validating model organisms with respect to three objectives with associated metrics: target-behavior installation, general-capability preservation (i.e., parametric knowledge, chat quality), and output naturalness (i.e., CoT and activations). We re-visit two publicly released organism suites using this validation framework and show that (1) chat quality and CoT naturalness degrade substantially across training recipes, and (2) validation metrics predict how well interpretability methods recover the installed behavior, e.g., a logit lens readout covaries with an organism's general capabilities. We introduce a multi-objective training approach based on model merging to train more realistic model organisms. Finally, on a new suite of model organisms targeting demographic biases in clinical reasoning, we compare training recipes and find that DPO training stays closer to the base model than supervised finetuning, and the proposed model optimization approach better preserves capabilities and naturalness. Auditing this suite with an investigator agent, we again observe validation metrics tracking bias recovery. In sum, training methods shape the interpretability conclusions an organism supports, and we argue that one should consider multiple objectives to draw generalizable conclusions about interpretability methods using (realistic) model organisms.
+
+Key Findings:
+- Current methods for training 'model organisms' (AI models for interpretability research) are insufficient because they focus on a single objective (installing a target behavior) and neglect general capabilities and output naturalness.
+- A more robust validation framework is needed, considering three objectives: target-behavior installation, general-capability preservation (parametric knowledge, chat quality), and output naturalness (Chain-of-Thought, activations).
+- Training recipes significantly impact chat quality and CoT naturalness, and these degradation effects can be predicted by validation metrics.
+- A new multi-objective training approach using model merging is proposed to create more realistic model organisms.
+- Applying this framework to model organisms targeting demographic biases in clinical reasoning reveals that DPO training is closer to the base model than supervised fine-tuning.
+- The proposed model optimization approach better preserves capabilities and naturalness in these bias-targeting model organisms.
+- Validation metrics can effectively track the recovery of biases in AI systems.
+- The training methods used for model organisms directly influence the conclusions drawn about interpretability methods.
+- Emphasizes the need to consider multiple objectives for drawing generalizable conclusions from model organisms.

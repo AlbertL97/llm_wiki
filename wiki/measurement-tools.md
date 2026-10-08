@@ -64,8 +64,9 @@
 - raw_realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations.md
 - raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md
 - raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
+- raw_how-to-train-your-model-organism.md
 
-**Last updated**: 2026-10-07
+**Last updated**: 2026-10-08
 
 ---
 
@@ -136,6 +137,8 @@ A new paper critiques the current direction of Explainable AI (XAI), arguing tha
 A structured method for designing human-centered XAI evaluations has been proposed, utilizing "XAI Evaluation Cards" (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). These cards are derived from an analysis of 82 existing studies and employ a card-sorting approach to help researchers systematically prioritize relevant evaluation aspects. This practical tool aims to organize and streamline the design of XAI evaluations, facilitating more comprehensive and multidisciplinary assessments (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The method has been validated with research groups, indicating its applicability in research and development settings (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md).
 
 A new benchmark for spoken dialogue in human-robot interaction has been proposed, designed to standardize the evaluation of crucial dialogue artifacts (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). This benchmark focuses on elements such as clarification requests, interruptions, embodied signals like head nods and facial cues, and time constraints inherent in real-time interactions (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). To support these capabilities, the Retico framework is introduced, which aims to provide social robots with robust spoken dialogue functionalities in real-time (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md). The benchmark is designed for extensibility, allowing for the future inclusion of other vital aspects of human-robot interaction (source: raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md).
+
+The paper "How to train your model organism" (source: raw_how-to-train-your-model-organism.md) addresses the critical issue of training and validating "model organisms"—AI models designed to exhibit specific alignment-relevant behaviors for interpretability research. The authors argue that current practices, which often focus solely on installing target behaviors, inadequately preserve general capabilities and output naturalness (source: raw_how-to-train-your-model-organism.md). They propose a multi-objective validation framework that assesses target-behavior installation, general-capability preservation, and output naturalness. This framework reveals that different training recipes, such as DPO and supervised fine-tuning, have varying impacts on these objectives, particularly in applications like auditing demographic biases in clinical reasoning (source: raw_how-to-train-your-model-organism.md). The research introduces a multi-objective training approach using model merging to create more realistic model organisms, leading to better preservation of general capabilities and output naturalness (source: raw_how-to-train-your-model-organism.md). Ultimately, the training methodologies used for model organisms directly influence the conclusions drawn from interpretability research, underscoring the necessity of a comprehensive, multi-objective approach for reliable insights (source: raw_how-to-train-your-model-organism.md).
 
 ### 1. Approximate Question-side Effect (AQE)
 The **AQE** metric (introduced by Seo et al., 2025) decouples internal, model-based introspection from question-side cues or shortcuts (source: Agentic Knowledgeable Self-Awareness.md). It does this by comparing predictions made using the model's full internal hidden states against predictions made using only the question text.
@@ -338,3 +341,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]]
 - [[source-empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver]]
 - [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]]
+- [[source-how-to-train-your-model-organism]]

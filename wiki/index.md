@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-07
+**Last updated**: 2026-10-08
 
 ## Orientation
 
@@ -163,6 +163,7 @@
 - [[source-qualitati]] — Summary of the Qualitati platform, detailing automated qualitative surveys, voice interviewing, and emotional audio analysis.
 - [[source-realcompanion-benchmarking-human-understanding-from-reasoning-over-longitudinal-real-world-conversations]] — Summary of RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations.
 - [[source-real-virtual-humans]] — Summary of portal clipping for the Max Planck Institute's Real Virtual Humans research group.
+- [[source-revisiting-explainable-ai-through-model-independent-concept-dictionaries]] — Summary of Revisiting Explainable AI through Model-Independent Concept Dictionaries.
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]] — Summary of Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation.
 - [[source-robots-avatars-chatbots-dynamics]] — Summary of the Albert Łukasik & Arkadiusz Gut paper analyzing socio-cognitive stances and companionship development quality across robots, avatars, and chatbots.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
