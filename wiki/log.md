@@ -3543,3 +3543,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-09 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
+- raw/raw_could-llm-watermark-detection-be-public.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/source-could-llm-watermark-detection-be-public.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation" and created summary page wiki/source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md.
+- Ingested "Could LLM Watermark Detection be Public?" and created summary page wiki/source-could-llm-watermark-detection-be-public.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

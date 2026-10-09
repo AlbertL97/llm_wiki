@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-08
+**Last updated**: 2026-10-09
 
 ## Orientation
 
@@ -88,6 +88,7 @@
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
+- [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.

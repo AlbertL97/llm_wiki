@@ -617,6 +617,13 @@
       "summary": ""
     },
     {
+      "id": "source-could-llm-watermark-detection-be-public",
+      "name": "Could LLM Watermark Detection be Public?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai",
       "name": "Source Summary: Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
       "val": 1.5,
@@ -864,6 +871,13 @@
     {
       "id": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance",
       "name": "Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation",
+      "name": "Source Summary: Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3204,6 +3218,10 @@
       "target": "source-how-to-train-your-model-organism"
     },
     {
+      "source": "chatbots",
+      "target": "source-could-llm-watermark-detection-be-public"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3378,6 +3396,10 @@
     {
       "source": "explainability",
       "target": "source-how-to-train-your-model-organism"
+    },
+    {
+      "source": "explainability",
+      "target": "source-could-llm-watermark-detection-be-public"
     },
     {
       "source": "human-ai-interaction",
@@ -4025,30 +4047,6 @@
     },
     {
       "source": "human-ai-interaction",
-      "target": "source-ai-companions-guilt-pressure-engagement"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-steer-clear-of-ai-companion-toys-for-kids"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-teens-turn-to-ai-for-friendship"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-future-of-psychology-and-robotics"
-    },
-    {
-      "source": "human-ai-interaction",
-      "target": "source-the-role-of-frustration-in-human-robot-interaction"
-    },
-    {
-      "source": "human-ai-interaction",
       "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
     },
     {
@@ -4086,6 +4084,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-how-to-train-your-model-organism"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-could-llm-watermark-detection-be-public"
     },
     {
       "source": "human-robot-interaction",
@@ -4362,6 +4368,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
     },
     {
       "source": "introspective-awareness",
@@ -4666,6 +4676,10 @@
     {
       "source": "measurement-tools",
       "target": "source-how-to-train-your-model-organism"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
     },
     {
       "source": "medical-ai",
@@ -5388,6 +5402,10 @@
       "target": "mind-perception"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -5546,6 +5564,10 @@
     {
       "source": "source-ai-companions-and-teen-mental-health-risks",
       "target": "chatbots"
+    },
+    {
+      "source": "source-ai-companions-guilt-pressure-engagement",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-companions-guilt-pressure-engagement",
@@ -5858,6 +5880,10 @@
     {
       "source": "source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots",
       "target": "explainability"
+    },
+    {
+      "source": "source-could-llm-watermark-detection-be-public",
+      "target": "trust"
     },
     {
       "source": "source-deep-interaction-an-efficient-human-ai-interaction-method-for-large-reasoning-models",
@@ -6617,7 +6643,15 @@
     },
     {
       "source": "source-steer-clear-of-ai-companion-toys-for-kids",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-steer-clear-of-ai-companion-toys-for-kids",
       "target": "trust"
+    },
+    {
+      "source": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction",
@@ -6664,8 +6698,16 @@
       "target": "mental-health"
     },
     {
+      "source": "source-teens-turn-to-ai-for-friendship",
+      "target": "human-ai-interaction"
+    },
+    {
       "source": "source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development",
       "target": "trust"
+    },
+    {
+      "source": "source-the-future-of-psychology-and-robotics",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-future-of-psychology-and-robotics",
@@ -6698,6 +6740,10 @@
     {
       "source": "source-the-rise-of-parasitic-ai",
       "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "source-the-role-of-frustration-in-human-robot-interaction",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-the-role-of-frustration-in-human-robot-interaction",
@@ -6966,78 +7012,6 @@
     {
       "source": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
       "target": "human-ai-interaction"
-    },
-    {
-      "source": "trust",
-      "target": "agentic-knowledgeable-self-awareness"
-    },
-    {
-      "source": "trust",
-      "target": "chatbots"
-    },
-    {
-      "source": "trust",
-      "target": "source-sejnowski-consciousness"
-    },
-    {
-      "source": "trust",
-      "target": "source-icubworld"
-    },
-    {
-      "source": "trust",
-      "target": "source-furhat-robotics"
-    },
-    {
-      "source": "trust",
-      "target": "source-united-robotics-group"
-    },
-    {
-      "source": "trust",
-      "target": "explainability"
-    },
-    {
-      "source": "trust",
-      "target": "source-capturing-mental-workload"
-    },
-    {
-      "source": "trust",
-      "target": "source-physiological-sensing-situational-awareness"
-    },
-    {
-      "source": "trust",
-      "target": "source-real-virtual-humans"
-    },
-    {
-      "source": "trust",
-      "target": "source-psychology-ai-cognitive-emotional"
-    },
-    {
-      "source": "trust",
-      "target": "source-learning-social-robot-navigation-by-sensing-human-legs"
-    },
-    {
-      "source": "trust",
-      "target": "source-teaching-llm-tutor-withhold-answer-supervisor-architecture"
-    },
-    {
-      "source": "trust",
-      "target": "source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity"
-    },
-    {
-      "source": "trust",
-      "target": "source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks"
-    },
-    {
-      "source": "trust",
-      "target": "source-sycophantic-agreement-transfers-with-neutral-data-via-contrastive-preference-optimization"
-    },
-    {
-      "source": "trust",
-      "target": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design"
-    },
-    {
-      "source": "trust",
-      "target": "source-how-to-help-humans-understand-robots"
     }
   ]
 }

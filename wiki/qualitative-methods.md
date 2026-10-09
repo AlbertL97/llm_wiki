@@ -19,8 +19,9 @@
 - raw_mm-ai-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop.md
 - raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md
 - raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md
+- raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-09
 
 ---
 
@@ -51,6 +52,8 @@ Emerging qualitative research also focuses on designing social robots for social
 Qualitative research is also exploring novel ways to make complex AI generative models accessible. The "Diffusion TV" installation offers a tangible and embodied experience of diffusion models through physical interaction with a modified CRT television. Manipulating controls like an antenna and tuning knob metaphorically represents the denoising process of diffusion models, providing an intuitive and process-oriented form of explainable AI (XAI) that emphasizes the generative process over final outputs (source: raw_diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md).
 
 A structured method for designing human-centered XAI evaluations has been introduced, addressing the challenge of fragmented evaluation dimensions and measures (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). This method utilizes "XAI Evaluation Cards," a practical tool derived from an updated XAI-specific evaluation framework based on an analysis of 82 studies (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The XAI Evaluation Cards are intended to organize and streamline the design of XAI evaluations, facilitating more comprehensive and multidisciplinary assessments (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md). The method has been validated with research groups, indicating its practical applicability (source: raw_xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations.md).
+
+A novel approach, Fixed-Reference Pose Residuals (FRPR), has been developed to measure the transferability of human cues for anticipating interaction intent in human-robot interaction (HRI) (source: raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md). This model decomposes prediction into a geometry term and a pose term, allowing for independent evaluation of cue contributions. While this method is valuable for measuring cue transfer, it did not consistently yield higher prediction accuracy than simpler baselines or joint training (source: raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md). Key findings include an asymmetric transferability of pose residuals between datasets and the identification of head orientation as a more robust transferable cue than general body pose (source: raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md). This research highlights that even with sophisticated models, robust anticipation in diverse HRI scenarios remains a significant challenge (source: raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -95,3 +98,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations]]
 - [[source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys]]
 - [[mind-perception]]
+- [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]]
