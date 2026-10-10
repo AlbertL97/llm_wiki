@@ -3571,3 +3571,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-10 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_tell-robot-what-not-to-do-a-negation-understanding-perspective.md
+- raw/raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-tell-robot-what-not-to-do-a-negation-understanding-perspective.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
+- wiki/chatbots.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/agentic-knowledgeable-self-awareness.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Tell Robot What Not to Do: A Negation Understanding Perspective" and created summary page wiki/source-tell-robot-what-not-to-do-a-negation-understanding-perspective.md.
+- Ingested "Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents" and created summary page wiki/source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

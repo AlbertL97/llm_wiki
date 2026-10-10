@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-09
+**Last updated**: 2026-10-10
 
 ## Orientation
 
@@ -81,12 +81,12 @@
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]] — Summary of Entropy-Centric Explainable AI for Remote Sensing Image Segmentation.
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]] — Summary of Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes.
+- [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
-- [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
@@ -185,8 +185,10 @@
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.
 - [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
 - [[source-teens-turn-to-ai-for-friendship]] — Summary of Teens say they are turning to AI for friendship.
+- [[source-tell-robot-what-not-to-do-a-negation-understanding-perspective]] — Summary of Tell Robot What Not to Do: A Negation Understanding Perspective.
 - [[source-the-case-for-vibe-modeling-a-missing-step-in-ai-based-trustworthy-software-development]] — Summary of The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development.
 - [[source-the-complexities-of-patient-centred-conversational-artificial-intelligence]] — Summary of The complexities of patient-centred conversational artificial intelligence.
+- [[source-the-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]] — Summary of Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents.
 - [[source-the-front-page-of-the-agent-internet]] — Summary of the Moltbook source clipping, describing agent-to-agent forums and platform statistics.
 - [[source-the-future-of-psychology-and-robotics]] — Summary of The Future of Psychology and Robotics.
 - [[source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching]] — Summary of The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching.

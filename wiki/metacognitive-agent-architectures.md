@@ -12,8 +12,9 @@
 - raw_llm-council-synthetic-cognitive-systems.md
 - raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
 - raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
+- raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
 
-**Last updated**: 2026-10-07
+**Last updated**: 2026-10-10
 
 ---
 
@@ -87,6 +88,10 @@ The integration of Generative AI (GenAI) into robotic systems has highlighted fr
 
 The challenge of maintaining context and adapting to evolving information in extended dialogues can be addressed by structuring conversations as immutable episodes organized into versioned schemas (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). A novel memory controller, MINDSET, employs a minimum-energy state transition mechanism to manage long-term memory (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). This mechanism balances factors such as representation distortion, contradiction, historical damage, fragmentation, and internal inconsistency when deciding on transitions for incoming episodes (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Hysteresis is utilized to prevent premature rewriting of stable memory (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Evaluation against existing memory systems on benchmark datasets has shown that MINDSET achieves superior answer quality and significantly improves retrieval ranking (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Notably, this approach demonstrates model independence and suggests that long-term memory in conversational agents is more effectively managed as constrained state management rather than through continual summarization (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md). Controlled fragmentation and schema-aware assignment are identified as key contributors to answer quality (source: raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md).
 
+### 12. Event-Centric Memory with Query-Aware Graph Augmentation
+
+To further enhance long-term conversational agent memory, a framework called QGMem organizes past interactions into event-indexed units and consolidates them into dynamic memory traces (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). When a query is received, a query-aware graph is constructed to form a compact working memory. This graph exposes relational dependencies between query-relevant events, enabling more effective retrieval, multi-hop reasoning, and conflict resolution (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). The framework employs a hybrid retrieval and reranking process to identify the most relevant memory units. The encoded graph is then provided to the LLM to improve its ability to utilize evidence for answer generation (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). Experimental results across six benchmarks show consistent improvements in retrieval, evidence utilization, conflict resolution, and reasoning in ultra-long dialogues, while maintaining compact contexts and moderate inference costs (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -100,3 +105,4 @@ The challenge of maintaining context and adapting to evolving information in ext
 - [[source-llm-council-synthetic-cognitive-systems]]
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]]
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
+- [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]

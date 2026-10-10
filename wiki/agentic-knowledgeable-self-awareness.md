@@ -2,17 +2,20 @@
 
 **Summary**: A metacognitive faculty enabling AI agents to introspectively evaluate their knowledge state and dynamically select between fast, slow, or knowledge-augmented reasoning pathways.
 
-**Sources**:  
+**Sources**:
 - Agentic Knowledgeable Self-Awareness.md
 - Sheila Macrine_ An Agency Continuum_ From Carbon to Silicon, and Beyond (ECSU OIST).md
+- raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
 
-**Last updated**: 2026-06-05
+**Last updated**: 2026-10-10
 
 ---
 
 ## Main content
 
 **Agentic Knowledgeable Self-Awareness** represents a major shift from rigid behaviorist agentic planning by giving AI agents explicit control over *how* and *when* to execute different reasoning strategies (source: Agentic Knowledgeable Self-Awareness.md). Rather than always executing a fixed sequence, an agent with this faculty introspectively monitors its situational competence, evaluates its own uncertainty, and selects the most appropriate reasoning modality.
+
+This faculty is crucial for developing more sophisticated conversational agents that can maintain persistent and personalized interactions. Novel memory frameworks, such as QGMem, organize past interactions into event-indexed units and consolidate them into dynamic memory traces (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). These frameworks utilize query-aware graphs to form compact working memories, which enhance an agent's ability to retrieve relevant information, perform multi-hop reasoning, resolve conflicts, and generate answers, thereby creating more persistent and personalized conversational AI (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md).
 
 ### 1. Tripartite Reasoning Model (KnowSelf)
 Under the **KnowSelf** framework, reasoning is operationalized into three distinct pathways (source: Agentic Knowledgeable Self-Awareness.md):
@@ -24,12 +27,12 @@ To acquire this ability, agents are trained in two stages (source: Agentic Knowl
 1. **Supervised Fine-Tuning (SFT)**: Learning explicit mapping and state annotations using special situational self-awareness markers (tokens).
 2. **Reasoning Preference Optimization (RPO)**: Post-processing via a discriminative objective that teaches the model to prefer correct, self-aware outputs over its own reasoning failures.
 
-This selective invocation of external knowledge (typically only needed for 15–26% of tasks in benchmarks) drastically reduces inference costs while maintaining high decision accuracy.
+This selective invocation of external knowledge (typically only needed for 15–26% of tasks in benchmarks) drastically reduces inference costs while maintaining high decision accuracy. Conversational agents leveraging event-centric memory and query-aware graph augmentation have demonstrated consistent improvements in retrieval, multi-hop evidence composition, conflict resolution, and ultra-long dialogue reasoning, often with compact contexts and moderate inference costs (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md).
 
 ### 2. Formal Logical Foundations (ALPC)
 From a formal-logical perspective, self-awareness is modeled using **ALPC** (Awareness Logic with Partitions and Chains) (source: Agentic Knowledgeable Self-Awareness.md). This framework uses modal operators to distinguish between:
 - **Implicit Knowledge**: S5-style knowledge closed under logical consequence.
-- **Explicit Knowledge ($E_{(i)}\varphi$)**: Knowledge that is bounded by what the agent is actually aware of. 
+- **Explicit Knowledge ($E_{(i)}\varphi$)**: Knowledge that is bounded by what the agent is actually aware of.
 
 Formally, explicit knowledge is defined as the intersection of awareness and combined inductive knowledge (source: Agentic Knowledgeable Self-Awareness.md):
 $$E_{(i)}\varphi \leftrightarrow A_{(i)}\varphi \wedge C_{(i)}\varphi$$
@@ -73,3 +76,4 @@ Mapping different entities reveals distinct signatures across the nine dimension
 - [[measurement-tools]]
 - [[metacognitive-agent-architectures]]
 - [[source-agency-continuum]]
+- [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
