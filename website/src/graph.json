@@ -260,6 +260,20 @@
       "summary": ""
     },
     {
+      "id": "source-ai-companion-dementia-delay",
+      "name": "Could an AI Companion Help Delay Dementia?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-ai-companion-technology-psychology-pros-cons",
+      "name": "AI Companion Technology: AI Companions Psychology Pros and Cons",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-companions-and-teen-mental-health-risks",
       "name": "AI Companions and Teen Mental Health Risks",
       "val": 1.5,
@@ -2500,6 +2514,14 @@
       "target": "source-if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys"
     },
     {
+      "source": "ai-companions",
+      "target": "source-ai-companion-technology-psychology-pros-cons"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-ai-companion-dementia-delay"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2786,6 +2808,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-mind-perception-influences-perceived-ai-companionability"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-ai-companion-technology-psychology-pros-cons"
     },
     {
       "source": "chatbots",
@@ -5056,6 +5082,14 @@
       "target": "source-mind-perception-influences-perceived-ai-companionability"
     },
     {
+      "source": "mental-health",
+      "target": "source-ai-companion-technology-psychology-pros-cons"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-ai-companion-dementia-delay"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5598,6 +5632,18 @@
     {
       "source": "source-ai-chatbots-and-digital-companions-reshaping-emotional-connection",
       "target": "anthropomorphism"
+    },
+    {
+      "source": "source-ai-companion-dementia-delay",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-companion-dementia-delay",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-ai-companion-technology-psychology-pros-cons",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-ai-companions-and-teen-mental-health-risks",

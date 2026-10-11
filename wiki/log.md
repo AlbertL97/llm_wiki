@@ -3598,3 +3598,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-11 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-companion-technology-psychology-pros-cons.md
+- raw/raw_ai-companion-dementia-delay.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-companion-technology-psychology-pros-cons.md
+- wiki/ai-companions.md
+- wiki/anthropomorphism.md
+- wiki/mental-health.md
+- wiki/source-ai-companion-dementia-delay.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "AI Companion Technology AI Companions Psychology Pros and Cons" and created summary page wiki/source-ai-companion-technology-psychology-pros-cons.md.
+- Ingested "Could an AI Companion Help Delay Dementia?" and created summary page wiki/source-ai-companion-dementia-delay.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

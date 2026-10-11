@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ## Orientation
 
@@ -20,6 +20,8 @@
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
+- [[source-ai-companion-dementia-delay]] — Summary of Could an AI Companion Help Delay Dementia?.
+- [[source-ai-companion-technology-psychology-pros-cons]] — Summary of AI Companion Technology AI Companions Psychology Pros and Cons.
 - [[source-ai-companions-and-teen-mental-health-risks]] — Summary of AI Companions and Teen Mental Health Risks.
 - [[source-ai-companions-and-young-people-can-make-for-a-dangerous-mix]] — Summary of Why AI companions and young people can make for a dangerous mix.
 - [[source-ai-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]] — Summary of Does loving an AI companion sound crazy? You might be closer than you think. - The Atlanta Journal-Constitution.
