@@ -176,8 +176,9 @@
 - raw_could-llm-watermark-detection-be-public.md
 - raw_tell-robot-what-not-to-do-a-negation-understanding-perspective.md
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
+- raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
 
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-12
 
 ---
 
@@ -188,6 +189,12 @@
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
 
 Watermarking LLMs is a crucial technique for tracing AI-generated content and establishing accountability in human-AI interactions (source: raw_could-llm-watermark-detection-be-public.md). While watermarking helps track chatbot and agentic outputs, the accessibility of detection methods raises concerns about targeted attacks and potential exploits (source: raw_could-llm-watermark-detection-be-public.md). Research into public watermark detectors aims to quantify the risks associated with different access levels, balancing transparency with robust security by developing methods like split-key watermarking that allow for public detection while retaining private verification keys (source: raw_could-llm-watermark-detection-be-public.md). This research is relevant to understanding the mechanisms of trust and accountability in human-AI interactions, particularly concerning the reliability and origin of AI-generated content (source: raw_could-llm-watermark-detection-be-public.md).
+
+### Anthropomorphism and User Behavior Division
+
+User attitudes toward AI agents, particularly their tendency to anthropomorphize them, significantly influence interaction patterns and design preferences. A field study revealed that users who renamed their conversational assistant, an act of anthropomorphism, displayed distinct interaction styles (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). These users were more inclined to use greetings and engage in relational openings rather than issuing direct commands (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). This renaming behavior was associated with an introverted, task-only orientation, differentiating them from users who retained the default agent name (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md).
+
+These findings have direct implications for agent design. A revised agent design that prioritizes relational openings and direct task execution was found to be preferred by users who renamed the agent (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). Such users valued being treated as a person and having their affect received (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). The study also identified a significant gap in the agent's ability to handle "confiding" interactions, indicating an area for future development (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). Ultimately, this research underscores the importance of acknowledging and designing for user anthropomorphic attitudes to enhance satisfaction and create more effective human-AI collaborations, even in task-oriented contexts (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md).
 
 ### Long-Term Memory and Personalized Conversational Agents
 
@@ -1040,3 +1047,4 @@ Experimental results using NegaAlign on the NegaBench benchmark demonstrate sign
 - [[source-could-llm-watermark-detection-be-public]]
 - [[source-tell-robot-what-not-to-do-a-negation-understanding-perspective]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
+- [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]]

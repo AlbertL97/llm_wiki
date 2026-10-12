@@ -3622,3 +3622,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-12 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction.md
+- raw/raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/mind-perception.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction" and created summary page wiki/source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction.md.
+- Ingested "How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change" and created summary page wiki/source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

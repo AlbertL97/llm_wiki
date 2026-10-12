@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-11
+**Last updated**: 2026-10-12
 
 ## Orientation
 
@@ -94,6 +94,7 @@
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
+- [[source-from-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction]] — Summary of From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction.
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]] — Summary of From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
@@ -107,6 +108,7 @@
 - [[source-hinton-consciousness]] — Summary of Geoffrey Hinton's podcast interview on AI consciousness, digital intelligence, and derived self-preservation.
 - [[source-honest-ai-interview]] — Summary of the Honest AI Interview with Eyriona and Lucian on Living Intelligence and the closed loop of decline.
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]] — Summary of hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising.
+- [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]] — Summary of How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change.
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
 - [[source-how-to-help-humans-understand-robots]] — Summary of How to help humans understand robots.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.

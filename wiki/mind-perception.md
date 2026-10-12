@@ -23,8 +23,9 @@
 - raw_humanlikeness-as-design-anthropomorphism-as-inference.md
 - raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md
 - raw_mind-perception-influences-perceived-ai-companionability.md
+- raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
 
-**Last updated**: 2026-10-06
+**Last updated**: 2026-10-12
 
 ---
 
@@ -43,6 +44,8 @@ A crucial distinction for understanding human-robot interaction is between 'huma
 Furthermore, users can recognize a distinct "conversational character" or "Claudishness" in an AI's responses, even when they cannot reidentify the specific technical instantiation of the AI (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This suggests that a recognizable AI character is a projectible trait, crucial for user attachment, and may be represented within the AI's activation space (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). The continuity of this recognized character, rather than the continuity of the computational bearer, is vital for the development of AI companions (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md). This phenomenon highlights a "recognition-first inquiry" into AI identity, where users identify a characteristic response style before considering its underlying mechanism (source: raw_this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification.md).
 
 The perceived mind of an AI companion significantly shapes how companionable it is considered to be (source: raw_mind-perception-influences-perceived-ai-companionability.md). Specifically, human beliefs about an AI's "mind" (mind perception) influence companionability through two primary pathways: an **agentic pathway**, where perceiving the AI as an agent or resource is predicted by agentic mind perception (related to "eudaimonic exchange" or self-elevating links), and an **experiential pathway**, where perceiving the AI as an attuning experiencer is predicted by experiential mind perception (related to "connective coordination" or dyadic co-presence) (source: raw_mind-perception-influences-perceived-ai-companionability.md). Priming an AI companion with mind-attributive language can reduce skepticism, particularly for connective coordination, though it does not significantly impact eudaimonic exchange (source: raw_mind-perception-influences-perceived-ai-companionability.md). Additionally, an individual's sense of meaning in life, especially existential purpose, can amplify the link between perceived AI agency and companionability, making both pathways to AI companionability more accessible to individuals who are already flourishing or have a strong sense of personal purpose (source: raw_mind-perception-influences-perceived-ai-companionability.md).
+
+The act of renaming a conversational agent, an indicator of anthropomorphic attitudes, has been shown to significantly divide user behavior patterns (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). Users who rename their agents exhibit different interaction styles, such as greeting more and commanding less, compared to those who use the default name, suggesting an introverted, task-only orientation among users who anthropomorphize the agent (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). This user segmentation implies that agent design should adapt to these attitudinal shifts, with a revised design prioritizing relational openings and direct task execution being preferred by users who rename the agent (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). These users favor replies that treat them as a person and acknowledge their affect reception (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md). Furthermore, agent codebook analysis has revealed a significant gap in the ability of these agents to handle 'confiding' interactions (source: raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md).
 
 ---
 
@@ -166,3 +169,4 @@ The psychological and sociological dimensions of perceived sentience:
 - [[source-this-is-so-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]]
 - [[ai-companions]]
 - [[source-mind-perception-influences-perceived-ai-companionability]]
+- [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]]

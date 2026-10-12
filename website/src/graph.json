@@ -1051,6 +1051,13 @@
       "summary": ""
     },
     {
+      "id": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
+      "name": "How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
       "name": "Source Summary: How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs",
       "val": 1.5,
@@ -1389,6 +1396,13 @@
     {
       "id": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
       "name": "No One to Blame: A Framework of Constitutive AI Unaccountability",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction",
+      "name": "From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3270,6 +3284,10 @@
       "target": "source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents"
     },
     {
+      "source": "chatbots",
+      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4148,6 +4166,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
     },
     {
       "source": "human-robot-interaction",
@@ -5238,6 +5260,10 @@
       "target": "source-mind-perception-influences-perceived-ai-companionability"
     },
     {
+      "source": "mind-perception",
+      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
+    },
+    {
       "source": "persuasion-and-influence",
       "target": "source-a-better-future-with-technology"
     },
@@ -5384,6 +5410,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction"
     },
     {
       "source": "qualitative-methods",
@@ -6250,6 +6280,14 @@
       "target": "trust"
     },
     {
+      "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
+      "target": "human-robot-interaction"
+    },
+    {
       "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
       "target": "trust"
     },
@@ -6475,6 +6513,14 @@
     },
     {
       "source": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
+      "target": "trust"
+    },
+    {
+      "source": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction",
       "target": "trust"
     },
     {

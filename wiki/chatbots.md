@@ -106,8 +106,9 @@
 - raw_how-to-train-your-model-organism.md
 - raw_could-llm-watermark-detection-be-public.md
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
+- raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
 
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-12
 
 ---
 
@@ -526,3 +527,4 @@ The development and validation of AI "model organisms"—AI systems trained to e
 - [[source-how-to-train-your-model-organism]]
 - [[source-could-llm-watermark-detection-be-public]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
+- [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]]
