@@ -463,6 +463,13 @@
       "summary": ""
     },
     {
+      "id": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
+      "name": "BenCoDiC: A Large-Scale Contextual Cyberbullying Corpus for Bengali Political News Discourse",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
       "name": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
       "val": 1.5,
@@ -1508,6 +1515,13 @@
     {
       "id": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
       "name": "Source Summary: Prompt Design at Scale",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops",
+      "name": "Provenance-Aware Belief Updating in Human-AI Feedback Loops",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3288,6 +3302,10 @@
       "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
     },
     {
+      "source": "chatbots",
+      "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3466,6 +3484,10 @@
     {
       "source": "explainability",
       "target": "source-could-llm-watermark-detection-be-public"
+    },
+    {
+      "source": "explainability",
+      "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
     },
     {
       "source": "human-ai-interaction",
@@ -4170,6 +4192,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
     },
     {
       "source": "human-robot-interaction",
@@ -5152,6 +5178,10 @@
       "target": "source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents"
     },
     {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
+    },
+    {
       "source": "mind-perception",
       "target": "trust"
     },
@@ -5416,6 +5446,10 @@
       "target": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5554,6 +5588,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-two-sided-receptivity-conversational-ai-agents-online-dating"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -5866,6 +5904,10 @@
     {
       "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
       "target": "trust"
+    },
+    {
+      "source": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
+      "target": "human-ai-interaction"
     },
     {
       "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
@@ -6574,6 +6616,10 @@
     {
       "source": "source-prompt-design-at-scale-how-format-instruction-count-and-context-length-shape-instruction-adherence-and-hallucination-in-large-language-models",
       "target": "chatbots"
+    },
+    {
+      "source": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops",
+      "target": "trust"
     },
     {
       "source": "source-psychogenic-machine",

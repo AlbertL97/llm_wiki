@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-12
+**Last updated**: 2026-10-13
 
 ## Orientation
 
@@ -42,6 +42,7 @@
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
+- [[source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse]] — Summary of BenCoDiC: A Large-Scale Contextual Cyberbullying Corpus for Bengali Political News Discourse FULL VERSION.
 - [[source-beyond-personality-quantization-layer-wise-mbti-analysis-quantized-llms]] — Summary of When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs.
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]] — Summary of Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion.
@@ -158,6 +159,7 @@
 - [[source-plus-tips-on-getting-started-with-ai-safely]] — Summary of Plus tips on getting started with AI safely.
 - [[source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts]] — Summary of Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
+- [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]] — Summary of Provenance-Aware Belief Updating in Human-AI Feedback Loops.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychological-needs-predict-ai-acceptance]] — Summary of Your psychological needs predict whether you will accept an AI companion or therapist.

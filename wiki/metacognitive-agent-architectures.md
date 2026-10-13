@@ -13,8 +13,9 @@
 - raw_human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol.md
 - raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
+- raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md
 
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-13
 
 ---
 
@@ -92,6 +93,10 @@ The challenge of maintaining context and adapting to evolving information in ext
 
 To further enhance long-term conversational agent memory, a framework called QGMem organizes past interactions into event-indexed units and consolidates them into dynamic memory traces (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). When a query is received, a query-aware graph is constructed to form a compact working memory. This graph exposes relational dependencies between query-relevant events, enabling more effective retrieval, multi-hop reasoning, and conflict resolution (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). The framework employs a hybrid retrieval and reranking process to identify the most relevant memory units. The encoded graph is then provided to the LLM to improve its ability to utilize evidence for answer generation (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md). Experimental results across six benchmarks show consistent improvements in retrieval, evidence utilization, conflict resolution, and reasoning in ultra-long dialogues, while maintaining compact contexts and moderate inference costs (source: raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md).
 
+### 13. Provenance-Aware Belief Updating in Human-AI Feedback Loops
+
+In iterative human-AI interaction, ensuring that AI belief updates are driven by genuine new evidence rather than mere repetition is crucial for reliability. Latent Quotient Evidence Training (LQET) is a novel objective that enables AI models to utilize the **provenance** (origin and history) of information for belief updating, rather than just its frequency (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). This approach prevents AI from mistaking repeated information for independent corroboration, leading to more stable and evidence-based behavior (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). LQET has demonstrated significant reductions in belief update errors (41-44% RMSE reduction) and prediction drift over multiple interaction steps (89-91% reduction after eight relays) across various language model architectures (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). This contributes to more dynamic and trustworthy human-AI systems by grounding learning in actual insights (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -106,3 +111,4 @@ To further enhance long-term conversational agent memory, a framework called QGM
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]]
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
+- [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]]
