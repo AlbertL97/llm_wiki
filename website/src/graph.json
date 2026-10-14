@@ -589,6 +589,13 @@
       "summary": ""
     },
     {
+      "id": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling",
+      "name": "Communicating Uncertainty in AI-Supported Nurse Scheduling: Expert Co-Design and Evaluation of an Explainable AI Prototype",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-comparing-usability-measures",
       "name": "Source: Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System",
       "val": 1.5,
@@ -2094,6 +2101,13 @@
       "summary": "A ResearchGate discussion initiated by Alessandro Rugolo exploring trust breakdown, expectation misalignment, and the trajectory of human-AI relationships when system failures occur."
     },
     {
+      "id": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
+      "name": "Source Summary: What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-is-a-robot",
       "name": "Source: What is a Robot?",
       "val": 1.5,
@@ -3306,6 +3320,10 @@
       "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
     },
     {
+      "source": "chatbots",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3488,6 +3506,10 @@
     {
       "source": "explainability",
       "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
+    },
+    {
+      "source": "explainability",
+      "target": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling"
     },
     {
       "source": "human-ai-interaction",
@@ -4198,6 +4220,14 @@
       "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4480,6 +4510,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-tell-robot-what-not-to-do-a-negation-understanding-perspective"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
     },
     {
       "source": "introspective-awareness",
@@ -4790,6 +4824,10 @@
       "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4912,6 +4950,14 @@
     {
       "source": "medical-ai",
       "target": "source-how-to-train-your-model-organism"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling"
     },
     {
       "source": "mental-health",
@@ -5450,6 +5496,10 @@
       "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5540,6 +5590,14 @@
     {
       "source": "qualitative-methods",
       "target": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "medical-ai"
     },
     {
       "source": "social-media-and-online-communities",
@@ -5968,6 +6026,10 @@
     {
       "source": "source-co-creativity-table-adventure-ai",
       "target": "mind-perception"
+    },
+    {
+      "source": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling",
+      "target": "trust"
     },
     {
       "source": "source-comparing-usability-measures",
@@ -7092,6 +7154,10 @@
     {
       "source": "source-what-happens-trust-breaks",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
+      "target": "trust"
     },
     {
       "source": "source-what-is-a-robot",

@@ -66,14 +66,17 @@
 - raw_towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots.md
 - raw_how-to-train-your-model-organism.md
 - raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
+- raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
 
-**Last updated**: 2026-10-09
+**Last updated**: 2026-10-14
 
 ---
 
 ## Main content
 
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is also being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
+A new framework, **Residual Human States (RHS)**, is being introduced to analyze the lasting psychological and behavioral impacts of human-AI interaction beyond immediate task performance (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). RHS posits that AI interactions can lead to persistent changes in human users that affect their subsequent, unaided actions and cognition, impacting various aspects of cognition and behavior, depending on the interaction policy and temporal horizon (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). This trajectory-based model emphasizes that improvements in performance *during* AI assistance do not automatically imply positive or lasting changes in the human user's underlying capabilities or biases (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). Empirical evidence from diverse cases, including medical training, diagnostic learning, and generative AI tutoring, demonstrates how AI interactions can subtly alter decision-making, learning, and subsequent unaided performance (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). This research advocates for a more comprehensive evaluation of AI systems that considers their long-term influence on human users, beyond immediate utility (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
 
 Research has introduced the concept of "empty commitments" made by AI agents, which are promises for future actions that the agent's current configuration or tools are inherently incapable of fulfilling (source: raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md). These differ from broken promises in that their failure is predetermined by the agent's design (source: raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md). The study of empty commitments contributes to understanding trust in AI agents, as making such unfulfillable promises can lead to user frustration and an erosion of confidence (source: raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md). A measurement protocol has been proposed to study these phenomena, involving follow-up requests and varying degrees of environmental explicitness to observe different failure types and outcomes (source: raw_empty-commitments-when-agents-promise-what-their-runtime-cannot-deliver.md).
 
@@ -346,3 +349,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]]
 - [[source-how-to-train-your-model-organism]]
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]]
+- [[source-what-human-ai-interaction-leaves-behind-residual-human-states]]

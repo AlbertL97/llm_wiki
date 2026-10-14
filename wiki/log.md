@@ -3676,3 +3676,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-14 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
+- raw/raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-what-human-ai-interaction-leaves-behind-residual-human-states.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/persuasion-and-influence.md
+- wiki/medical-ai.md
+- wiki/chatbots.md
+- wiki/human-robot-interaction.md
+- wiki/source-communicating-uncertainty-in-ai-supported-nurse-scheduling.md
+- wiki/explainability.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis" and created summary page wiki/source-what-human-ai-interaction-leaves-behind-residual-human-states.md.
+- Ingested "Communicating Uncertainty in AI-Supported Nurse Scheduling: Expert Co-Design and Evaluation of an Explainable AI Prototype" and created summary page wiki/source-communicating-uncertainty-in-ai-supported-nurse-scheduling.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

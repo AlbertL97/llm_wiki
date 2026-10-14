@@ -178,8 +178,10 @@
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
 - raw_how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change.md
 - raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md
+- raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
+- raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-10-14
 
 ---
 
@@ -190,6 +192,22 @@
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
 
 Watermarking LLMs is a crucial technique for tracing AI-generated content and establishing accountability in human-AI interactions (source: raw_could-llm-watermark-detection-be-public.md). While watermarking helps track chatbot and agentic outputs, the accessibility of detection methods raises concerns about targeted attacks and potential exploits (source: raw_could-llm-watermark-detection-be-public.md). Research into public watermark detectors aims to quantify the risks associated with different access levels, balancing transparency with robust security by developing methods like split-key watermarking that allow for public detection while retaining private verification keys (source: raw_could-llm-watermark-detection-be-public.md). This research is relevant to understanding the mechanisms of trust and accountability in human-AI interactions, particularly concerning the reliability and origin of AI-generated content (source: raw_could-llm-watermark-detection-be-public.md).
+
+### Communicating Uncertainty in AI-Supported Healthcare Decision Making
+
+In AI-supported decision support systems for critical domains like healthcare, effectively communicating uncertainty is paramount for user trust and appropriate adoption. A study focused on nurse scheduling revealed that healthcare professionals often misinterpret the uncertainty conveyed by AI forecasts (source: raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md). This misinterpretation negatively affected users' confidence in their staffing decisions (source: raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md). While explanations of AI advice were generally well-received, they did not consistently improve decision confidence or increase the acceptance rate of AI recommendations (source: raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md). The research underscores the need for careful design considerations in how AI uncertainty is communicated to end-users, providing eight concrete design implications for creating more transparent and effective AI decision support tools in healthcare settings (source: raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md). This highlights a crucial intersection of [[explainability]], [[trust]], and [[medical-ai]] in human-AI interaction.
+
+### Residual Human States (RHS) and Long-Term Impacts
+
+A critical aspect of understanding human-AI interaction involves recognizing that these interactions can leave lasting psychological and behavioral imprints on users, extending beyond the immediate task context. The framework of **Residual Human States (RHS)** proposes that human-AI interactions can alter a user's subsequent cognitive and behavioral patterns, even when operating independently of the AI (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). This framework challenges the common practice of evaluating AI solely based on immediate performance improvements during AI assistance, arguing that such evaluations often overlook the longer-term implications (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
+
+The RHS framework is supported by four core propositions:
+*   **Multidimensionality**: Residual states can manifest across various cognitive and behavioral domains, not just task performance (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
+*   **Interaction-Policy Dependence**: The specific design and operational policy of an AI system significantly influence the nature and extent of these residual effects (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
+*   **Horizon Dissociation**: The impacts of AI interaction may not be immediately apparent but can emerge or persist over different time scales after the interaction concludes (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
+*   **Temporal Persistence**: These residual states are not ephemeral and can endure for significant periods (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md).
+
+Empirical analyses, drawing from medical training, diagnostic learning, generative AI tutoring, and personalized AI dialogue, illustrate how AI interactions can subtly reshape user decision-making, learning processes, and unaided performance (source: raw_what-human-ai-interaction-leaves-behind-residual-human-states.md). This research underscores the necessity of evaluating AI systems not just for their immediate utility but also for their enduring influence on human users, impacting areas such as [[trust]], [[measurement-tools]], and [[persuasion-and-influence]].
 
 ### Provenance-Aware Belief Updating in Human-AI Feedback Loops
 
@@ -1054,3 +1072,5 @@ Experimental results using NegaAlign on the NegaBench benchmark demonstrate sign
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
 - [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]]
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]]
+- [[source-what-human-ai-interaction-leaves-behind-residual-human-states]]
+- [[source-communicating-uncertainty-in-ai-supported-nurse-scheduling]]
