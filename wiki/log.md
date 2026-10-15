@@ -3706,3 +3706,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-15 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md
+- raw/raw_noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/mind-perception.md
+- wiki/social-media-and-online-communities.md
+- wiki/source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios" and created summary page wiki/source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md.
+- Ingested "Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization" and created summary page wiki/source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

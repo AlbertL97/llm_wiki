@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-14
+**Last updated**: 2026-10-15
 
 ## Orientation
 
@@ -149,9 +149,11 @@
 - [[source-new-research-highlights-heightened-dangers-ai-companion-use-teens]] — Summary of New research highlights the heightened dangers of AI companion use for teens.
 - [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]] — Summary of New research tells us a third of kids depend on AI for serious conversations..
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.
+- [[source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization]] — Summary of Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
+- [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]] — Summary of PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.
 - [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]] — Summary of PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance.
 - [[source-physics-informed-diffusion-biomechanically-plausible-3d-sign-language-generation]] — Summary of Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation.

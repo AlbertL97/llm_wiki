@@ -1415,6 +1415,13 @@
       "summary": ""
     },
     {
+      "id": "source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization",
+      "name": "Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction",
       "name": "From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction",
       "val": 1.5,
@@ -1438,6 +1445,13 @@
     {
       "id": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
       "name": "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
+      "name": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3313,15 +3327,7 @@
     },
     {
       "source": "chatbots",
-      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
     },
     {
       "source": "explainability",
@@ -4228,6 +4234,26 @@
       "target": "source-communicating-uncertainty-in-ai-supported-nurse-scheduling"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "mind-perception"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "social-media-and-online-communities"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4514,6 +4540,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization"
     },
     {
       "source": "introspective-awareness",
@@ -5241,10 +5271,6 @@
     },
     {
       "source": "mind-perception",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "mind-perception",
       "target": "social-media-and-online-communities"
     },
     {
@@ -5340,6 +5366,10 @@
       "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
     },
     {
+      "source": "mind-perception",
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
       "source": "persuasion-and-influence",
       "target": "source-a-better-future-with-technology"
     },
@@ -5358,10 +5388,6 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-llm-council-synthetic-cognitive-systems"
-    },
-    {
-      "source": "persuasion-and-influence",
-      "target": "human-ai-interaction"
     },
     {
       "source": "persuasion-and-influence",
@@ -5500,6 +5526,10 @@
       "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5621,10 +5651,6 @@
     },
     {
       "source": "social-media-and-online-communities",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "social-media-and-online-communities",
       "target": "source-using-ai-based-learning-assistants-in-higher-education"
     },
     {
@@ -5650,6 +5676,10 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -5966,6 +5996,10 @@
     {
       "source": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
+      "target": "chatbots"
     },
     {
       "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
@@ -6389,6 +6423,10 @@
     },
     {
       "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
       "target": "human-robot-interaction"
     },
     {
@@ -6618,6 +6656,10 @@
     {
       "source": "source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability",
       "target": "trust"
+    },
+    {
+      "source": "source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization",
+      "target": "chatbots"
     },
     {
       "source": "source-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction",
@@ -7158,6 +7200,10 @@
     {
       "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
       "target": "trust"
+    },
+    {
+      "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
+      "target": "chatbots"
     },
     {
       "source": "source-what-is-a-robot",
