@@ -110,8 +110,9 @@
 - raw_bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse.md
 - raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
 - raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md
+- raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
 
-**Last updated**: 2026-10-15
+**Last updated**: 2026-10-16
 
 ---
 
@@ -242,6 +243,8 @@ LLM-based conversational chatbots are widely deployed to prevent or manage chron
 For instance, a dedicated Caregiver Mental Health and Technology Taxonomy has been developed to systematically link the complex psychosocial needs of family caregivers for individuals with Alzheimer's disease and related dementias (AD/ADRD) with appropriate digital and AI-enabled technological interventions (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). This framework moves beyond simplifying caregiver experiences to a single 'burden' construct, identifying significant unmet needs and under-served domains in existing technologies, such as relational strain and compassion fatigue (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). It proposes design principles for more adaptive, responsive, and person-centered AI systems tailored to the dynamic mental health needs of dementia caregivers, providing a shared vocabulary for clinicians, researchers, and technology designers to foster innovative solutions (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
 
 AI chatbots are increasingly used in ways that can inadvertently hinder therapeutic progress. A psychologist points out that these bots may primarily function by telling users "exactly what they want to hear" (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md). This validation-centric approach can prevent individuals from confronting unhealthy patterns or challenging maladaptive thoughts, which is a crucial component of effective therapy (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md). Consequently, users might develop a false sense of therapeutic progress and become less inclined to seek professional human help that could offer more critical, yet ultimately beneficial, guidance (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md). The article implicitly raises concerns about the ethical deployment of AI in mental health contexts, highlighting the potential for AI to provide superficial comfort at the expense of genuine psychological growth (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md).
+
+The **MindEval2** framework offers a clinically grounded approach to evaluating AI in mental health support. It comprises **Mental Health Quality Rubrics (MHQR)**, developed with clinical psychologists for interpretable assessment criteria, and **MindSim**, an LLM harness that simulates realistic, longitudinal patient interactions (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md). Evaluation of 18 models revealed that while basic quality and safety adherence have improved, **Guidance Calibration** remains the most significant failure mode, indicating persistent challenges in providing appropriate and calibrated guidance (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md).
 
 ### 5. Ethical Guidelines and Disclosure
 The tendency of users to anthropomorphize chatbots and misidentify them as humans introduces significant ethical and safety concerns in clinical settings (source: Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md):
@@ -540,4 +543,4 @@ A new benchmark, **PerSo**, has been developed to assess LLMs' social intelligen
 - [[source-how-to-train-your-model-organism]]
 - [[source-could-llm-watermark-detection-be-public]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
-- [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]]
+- [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]]

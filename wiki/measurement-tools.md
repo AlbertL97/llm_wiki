@@ -67,8 +67,9 @@
 - raw_how-to-train-your-model-organism.md
 - raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
 - raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
+- raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
 
-**Last updated**: 2026-10-14
+**Last updated**: 2026-10-16
 
 ---
 
@@ -271,6 +272,9 @@ Research into LLM-mediated human-AI teaming (HAT) in complex tasks like search a
 ### 19. Inverted Evaluation of Robot Interactions by LLMs
 A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs to complete standardized interaction questionnaires from the robot's own perspective (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). LLMs have shown moderate to strong agreement with human ratings on engagement dimensions like satisfaction and enjoyment (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). However, a significant limitation emerges in the assessment of the "comfort/strangeness" dimension, where LLMs consistently invert human ratings, suggesting a failure to accurately gauge affective states or internal experiences (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md). This highlights that current LLMs may lack the necessary introspective or affective capabilities for comprehensive self-assessment in HRI and that supplementary data modalities (e.g., physiological signals, gaze, proxemics) are crucial for a complete understanding of robot interaction quality (source: raw_when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure.md).
 
+### 20. Evaluating LLMs for Mental Health Support
+The growing reliance on AI chatbots for mental health support necessitates robust evaluation methods, as existing benchmarks often feature unrealistic patient simulations and opaque metrics (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md). The **MindEval2** framework addresses this by introducing **Mental Health Quality Rubrics (MHQR)**, developed with clinical psychologists to provide explicit, actionable criteria for assessing AI responses (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md). Additionally, **MindSim**, an LLM harness, simulates realistic patient interactions with detailed profiles, tools, and memory components to model longitudinal care (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md). Evaluation of 18 language models using this framework revealed that while models have improved in basic quality and safety adherence, **guidance calibration** remains the most significant failure mode, accounting for the largest portion of the quality gap (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -350,3 +354,4 @@ A novel approach to HRI evaluation, termed "inverted evaluation," utilizes LLMs 
 - [[source-how-to-train-your-model-organism]]
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]]
 - [[source-what-human-ai-interaction-leaves-behind-residual-human-states]]
+- [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]]

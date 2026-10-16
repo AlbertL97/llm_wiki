@@ -3733,3 +3733,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-16 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
+- raw/raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/medical-ai.md
+- wiki/source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support" and created summary page wiki/source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md.
+- Ingested "Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction" and created summary page wiki/source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

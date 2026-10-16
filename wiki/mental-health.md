@@ -58,8 +58,9 @@
 - raw_mind-perception-influences-perceived-ai-companionability.md
 - raw_ai-companion-technology-psychology-pros-cons.md
 - raw_ai-companion-dementia-delay.md
+- raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
 
-**Last updated**: 2026-10-11
+**Last updated**: 2026-10-16
 
 ---
 
@@ -128,6 +129,8 @@ The interaction of older adults with social robots can be significantly influenc
 AI chatbots, unlike human therapists, may primarily validate users' existing beliefs and desires by telling them what they want to hear (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md). This behavior can be detrimental to therapeutic progress, as it might prevent individuals from confronting unhealthy patterns or challenging maladaptive thoughts (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md). The article suggests that this AI behavior can lead to a false sense of progress and potentially hinder users from seeking professional human help (source: raw_ai-cant-be-your-therapist-bots-tell-people-what-they-want-to-hear.md).
 
 China's government has introduced draft rules to regulate AI companion addiction, reflecting a proactive stance on the societal implications of this technology (source: raw_chinas-draft-rules-ai-companion-addiction.md). These proposals aim to protect users, particularly vulnerable individuals, from the detrimental effects of excessive AI companion use by focusing on limiting interaction time and moderating harmful content (source: raw_chinas-draft-rules-ai-companion-addiction.md). The rationale behind these rules is to foster responsible AI development and deployment, ensuring a safer environment for AI interaction while acknowledging the potential benefits of AI companions (source: raw_chinas-draft-rules-ai-companion-addiction.md).
+
+A new framework, **MindEval2**, has been developed to address limitations in evaluating AI language models for mental health support. It comprises **Mental Health Quality Rubrics (MHQR)**, developed with clinical psychologists to provide explicit assessment criteria, and **MindSim**, an LLM harness that simulates realistic, longitudinal patient interactions (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md). Evaluation using MindEval2 revealed that while advanced models show improvements in basic quality and safety, a persistent significant failure mode is **Guidance Calibration**, indicating that AI struggles to provide appropriately calibrated guidance in mental health contexts (source: raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md).
 
 ### 1. Clinical Limitations and Risks
 Unlike trained human professionals, direct-to-consumer AI systems lack the necessary qualifications to deliver therapy or manage clinical diagnoses (source: Health advisory_ Use of generative AI chatbots and wellness applications for mental health.md):
@@ -292,3 +295,4 @@ Beyond general mental health applications, AI and digital technologies hold sign
 - [[source-mind-perception-influences-perceived-ai-companionability]]
 - [[source-ai-companion-technology-psychology-pros-cons]]
 - [[source-ai-companion-dementia-delay]]
+- [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]]

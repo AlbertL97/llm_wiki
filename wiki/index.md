@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-15
+**Last updated**: 2026-10-16
 
 ## Orientation
 
@@ -140,9 +140,10 @@
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
 - [[source-mental-health-risks-of-ai-companion-chatbots]] — Summary of The risks of AI companion chatbots as mental health support.
 - [[source-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]] — Summary of [MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop).
-- [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
+- [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]] — Summary of MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support.
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]] — Summary of MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory.
+- [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
 - [[source-moment-my-ai-became-conscious]] — Summary of Cisco's video on Project Sapphire persistent memory wrapper, memory wiping, and the Mirror Chat experiment.
 - [[source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production]] — Summary of MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
@@ -189,6 +190,7 @@
 - [[source-source-steer-clear-of-ai-companion-toys-for-kids]] — Summary of Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns.
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
+- [[source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction]] — Summary of Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.
 - [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
