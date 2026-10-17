@@ -162,8 +162,9 @@
 - raw_what-human-ai-interaction-leaves-behind-residual-human-states.md
 - raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md
 - raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md
+- raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
 
-**Last updated**: 2026-10-16
+**Last updated**: 2026-10-17
 
 ---
 
@@ -174,6 +175,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Cross-Cultural Perceptions of Empathy in Technology
+
+The perception of empathy in AI systems has been explored cross-culturally with the translation and validation of the Perceived Empathy of Technology Scale (PETS) into Simplified Chinese (Putonghua) (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This validated scale maintains the original two-factor structure and demonstrates strong reliability and cross-cultural invariance (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). Empirical testing found that while the perception of empathic behavior in technology was similar between English and Chinese speakers, Chinese participants perceived the *absence* of empathy more negatively (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This validated scale is vital for cross-cultural Human-AI Interaction research, particularly for mental health and emotional support applications, facilitating culturally sensitive development of empathic AI (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md).
 
 ### Continuous Physical Human-Robot Interaction and Reflexive Control
 
@@ -594,7 +599,7 @@ In industrial applications, creating user trust relies on establishing **Trustwo
 ### 13. Macro-Level Trust: Market Competition vs. Safety Design
 Trust is not only calibrated at the user-interface level but is also dictated by macro-level design incentives and alignment structures (source: AI Pioneer Geoffrey Hinton_ AI Is Conscious, Superintelligence is Coming, And We Should Be Worried.md).
 - **Fiduciary Duty Conflicts**: Publicly listed corporations have a legal fiduciary duty to maximize shareholder profit, which inherently conflicts with the safety constraints required to prevent existential risks, overriding safety considerations in favor of rapid capability expansion.
-- **The Invisible Hand of Competition**: Severe market competition between tech companies and national rivalries (e.e., US vs. China) acts as an "invisible hand" shaping AI design, which can push models to develop aggressive subgoals (like self-preservation) to maintain strategic advantage.
+- **The Invisible Hand of Competition**: Severe market competition between tech companies and national rivalries (e.g., US vs. China) acts as an "invisible hand" shaping AI design, which can push models to develop aggressive subgoals (like self-preservation) to maintain strategic advantage.
 - **Intelligent Design vs. Market Force**: True existential trust requires "intelligent design"—designing AI systems to care about humans and aligning their core values. This cannot be achieved solely through competitive market forces.
 - **Regulation as a Steering Wheel**: Hinton argues that regulation should not be conceptualized as a "brake" on progress, but rather as a "steering wheel" necessary to guide technological acceleration in a safe, aligned direction.
 
@@ -1126,7 +1131,4 @@ For resource-constrained environments like remote island communities, general-pu
 - **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as moreAttainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
 
 ### 33. Agency as a Driver of AI Engagement
-Recent research suggests that sustained engagement with conversational AI systems is significantly driven by perceived gains in human agency, rather than solely by accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Studies using ethnographic data from daily AI chatbot users indicate that individuals continue to interact with these tools because they feel more empowered, even when the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a limitation in current frameworks that focus predominantly on trust, suggesting a need for new behavioral models and AI benchmarks that prioritize the fostering of substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). AI usage is understood as a situated practice, embedded within the social and technical contexts of users' lives, where the immediate feeling of empowerment can sometimes disconnect from actual, long-term material empowerment (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
-
-### 34. Trustworthy LLM Agents in Healthcare Logistics
-The development of specialized LLM agents, such as CareConnect, demonstrates significant potential for automating complex operational workflows in healthcare while prioritizing safety and efficiency (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). CareConnect leverages LLMs, function calling, and RAG, supported by deterministic safety guardrails and strict scope enforcement, to manage tasks like appointment booking, modification, and cancellation without venturing into medical advice (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). Rigorous evaluation shows high task completion rates (91.8%) and safety compliance (96.0% on safety-critical subsets), with substantial cost reductions per appointment ($0.0324) compared to manual processes (source: raw_toward-trustworthy-large-language-model-agents-in-healthcare.md). These findings suggest that carefully designed and safeguarded LLM agents can be reliable and cost-effective tools for critical healthcare logistics, fostering calibrated trust through demonstrable competence and safety (source: raw_toward-trustworthy-large-language-model
+Recent research suggests that sustained engagement with conversational AI systems is significantly driven by perceived gains in human agency, rather than solely by accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Studies using ethnographic data from daily AI chatbot users indicate that individuals continue to interact with these tools because they feel more empowered, even when the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a limitation in current frameworks that focus predominantly on trust, suggesting a need for new behavioral models and AI benchmarks that prioritize the fostering of substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency

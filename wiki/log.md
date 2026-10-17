@@ -3761,3 +3761,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-17 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md
+- raw/raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-dialfork-evaluating-procedural-hallucination-conversational-agents.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/explainability.md
+- wiki/source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/mental-health.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents" and created summary page wiki/source-dialfork-evaluating-procedural-hallucination-conversational-agents.md.
+- Ingested "A Systematic and Validated Translation of the Perceived Empathy of Technology Scale to Chinese" and created summary page wiki/source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

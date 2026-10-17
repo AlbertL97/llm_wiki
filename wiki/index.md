@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-16
+**Last updated**: 2026-10-17
 
 ## Orientation
 
@@ -11,6 +11,7 @@
 ## Source summaries
 
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
+- [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]] — Summary of A Systematic and Validated Translation of the Perceived Empathy of Technology Scale to Chinese.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
 - [[source-aero-hand-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
@@ -75,6 +76,7 @@
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]] — Summary of Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation.
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]] — Summary of Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction.
+- [[source-dialfork-evaluating-procedural-hallucination-conversational-agents]] — Summary of DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.

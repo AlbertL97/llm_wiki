@@ -69,8 +69,9 @@
 - raw_exploring-fear-in-human-robot-interaction-older-adults-social-robots.md
 - raw_mind-perception-influences-perceived-ai-companionability.md
 - raw_ai-companion-technology-psychology-pros-cons.md
+- raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
 
-**Last updated**: 2026-10-11
+**Last updated**: 2026-10-17
 
 ---
 
@@ -285,6 +286,10 @@ The perceived "mind" of an AI companion significantly influences how companionab
 -   **Priming Effects**: Describing an AI with mind-attributive language can reduce skepticism and enhance perceived companionability, particularly for the connective coordination pathway (source: raw_mind-perception-influences-perceived-ai-companionability.md).
 -   **Meaning in Life as a Moderator**: An individual's sense of existential purpose and meaning in life can amplify the link between perceived AI agency and overall companionability, making these pathways more accessible to individuals who are already flourishing (source: raw_mind-perception-influences-perceived-ai-companionability.md).
 
+### 31. Cross-Cultural Perceptions of Empathic Technology
+
+Research into the perception of technology's empathy has been advanced through cross-cultural validation of the Perceived Empathy of Technology Scale (PETS). A translated and validated Chinese version of the PETS demonstrates high reliability and cross-cultural invariance (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). Empirical testing revealed that while the perception of empathic behavior in technology was similar between English and Chinese speakers, Chinese participants perceived the *absence* of empathic behavior more negatively (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This finding is crucial for developing culturally sensitive empathic AI systems, particularly in applications for mental health and emotional support, as it highlights that the impact of perceived empathy (or lack thereof) can differ across cultures (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -366,3 +371,4 @@ The perceived "mind" of an AI companion significantly influences how companionab
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]]
 - [[source-mind-perception-influences-perceived-ai-companionability]]
 - [[source-ai-companion-technology-psychology-pros-cons]]
+- [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]

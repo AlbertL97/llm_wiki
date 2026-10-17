@@ -21,14 +21,17 @@
 - raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md
 - raw_fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation.md
 - raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md
+- raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md
 
-**Last updated**: 2026-10-14
+**Last updated**: 2026-10-17
 
 ---
 
 ## Main content
 
 Qualitative research methodologies are critical for capturing the nuanced, subjective, and context-dependent aspects of human-AI interaction. While quantitative benchmarks evaluate static accuracy or performance, qualitative methods explore user perceptions, emotional experiences, trust dynamics, and workflow integrations (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md). For instance, qualitative studies, such as those used to develop taxonomies of caregiver needs, are vital for uncovering complex psychosocial needs, enabling the design of adaptive and person-centered AI systems for vulnerable populations in sensitive domains like mental health (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). These methods are also crucial for understanding how users evaluate AI performance, the distinct and evolving roles of AI and humans in co-creative processes, the extent to which AI is anthropomorphized, and where AI is most or least effective within creative contexts (source: raw_co-creativity-table-adventure-ai.md).
+
+A critical, yet often overlooked, failure mode in conversational agents powered by LLMs is "procedural hallucination," where an agent generates fluent and factually plausible utterances that nonetheless deviate from the established conversational process or logic (source: raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md). To address this, the DialFork benchmark and evaluation metrics have been developed. DialFork comprises dialogues across various tasks and domains, created by introducing deviations into conformant dialogues and validated by human annotators (source: raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md). This benchmark supports evaluations to monitor deployed agents' adherence to procedure, assess individual dialogues' procedural deviation, and pinpoint the exact turn where a dialogue deviates for real-time error correction (source: raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md). Novel dialog-flow-aware metrics, FlowKL and FlowScore, have been proposed, demonstrating superior performance over existing baselines by evaluating dialogues based on their unfolding process rather than just semantic content (source: raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md).
 
 Research exploring children's interaction with AI-enabled toys reveals specific design and testing patterns among young users. Children aged 7-9 predominantly designed AI toys with socially positive and supportive personalities, emphasizing clear interpersonal rules (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). Their testing interactions focused on probing the AI's identity, knowledge, memory, and relationships, highlighting a desire to understand the AI's underlying capabilities and social dynamics (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). When the AI's behavior did not meet their expectations, children tended to respond by correcting the AI or retesting its capabilities, rather than modifying the AI's configuration (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md). This suggests that children, when given agency in AI design, focus on social attributes and expect consistency, underscoring the importance of coherence in child-facing generative AI applications (source: raw_if-my-toy-could-talk-how-young-children-imagine-design-and-test-ai-enabled-toys.md).
 
@@ -104,3 +107,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]]
 - [[source-communicating-uncertainty-in-ai-supported-nurse-scheduling]]
 - [[medical-ai]]
+- [[source-dialfork-evaluating-procedural-hallucination-conversational-agents]]
