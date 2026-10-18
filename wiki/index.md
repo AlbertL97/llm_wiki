@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-17
+**Last updated**: 2026-10-18
 
 ## Orientation
 
@@ -234,6 +234,7 @@
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]] — Summary of Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI.
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
+- [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]] — Summary of What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?.
 - [[source-what-human-ai-interaction-leaves-behind-residual-human-ai-interaction-leaves-behind-residual-human-states]] — Summary of What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis.
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]] — Summary of Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.

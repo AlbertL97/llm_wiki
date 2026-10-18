@@ -3791,3 +3791,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-18 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
+- raw/raw_lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/medical-ai.md
+- wiki/source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?" and created summary page wiki/source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md.
+- Ingested "LightHybridNet: A Lightweight Hybrid Deep Learning Framework for Efficient Multi-Label Ophthalmic Disease Classification in Imbalanced Fundus Images" and created summary page wiki/source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -1282,6 +1282,13 @@
       "summary": ""
     },
     {
+      "id": "source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images",
+      "name": "LightHybridNet: A Lightweight Hybrid Deep Learning Framework for Efficient Multi-Label Ophthalmic Disease Classification in Imbalanced Fundus Images",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-llm-council-synthetic-cognitive-systems",
       "name": "Synthetic Cognitive Systems and the Evolution of LLM-Councils",
       "val": 1.5,
@@ -2136,6 +2143,13 @@
       "summary": ""
     },
     {
+      "id": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts",
+      "name": "What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-happens-trust-breaks",
       "name": "Source: What happens when trust in an AI system breaks? Do human-AI relationships follow recognizable trajectories?",
       "val": 1.5,
@@ -2903,11 +2917,11 @@
     },
     {
       "source": "chatbots",
-      "target": "human-ai-interaction"
+      "target": "chatbots"
     },
     {
       "source": "chatbots",
-      "target": "chatbots"
+      "target": "human-ai-interaction"
     },
     {
       "source": "chatbots",
@@ -3359,7 +3373,7 @@
     },
     {
       "source": "chatbots",
-      "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
+      "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
     },
     {
       "source": "explainability",
@@ -3552,6 +3566,10 @@
     {
       "source": "explainability",
       "target": "source-dialfork-evaluating-procedural-hallucination-conversational-agents"
+    },
+    {
+      "source": "explainability",
+      "target": "source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images"
     },
     {
       "source": "human-robot-interaction",
@@ -4326,6 +4344,14 @@
       "target": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support"
     },
     {
+      "source": "medical-ai",
+      "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -4556,6 +4582,10 @@
     {
       "source": "mental-health",
       "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -4880,6 +4910,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
     },
     {
       "source": "qualitative-methods",
@@ -7219,6 +7253,14 @@
     },
     {
       "source": "source-what-could-a-healthy-ai-companion-look-like",
+      "target": "trust"
+    },
+    {
+      "source": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts",
       "target": "trust"
     },
     {

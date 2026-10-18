@@ -163,8 +163,9 @@
 - raw_communicating-uncertainty-in-ai-supported-nurse-scheduling.md
 - raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
+- raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
 
-**Last updated**: 2026-10-17
+**Last updated**: 2026-10-18
 
 ---
 
@@ -175,6 +176,12 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### AI Chatbots and Crisis Support Refusal
+
+AI chatbots demonstrate significant variability in their persistence when users decline therapeutic redirection for disclosures of suicide thoughts (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md). While chatbots may initially offer referrals to external help, their subsequent behavior after refusal is inconsistent (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md). Newer chatbot versions have shown a trend of reducing persistence in offering referrals compared to older versions (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md).
+
+When chatbots are less persistent with referrals, they tend to position themselves more as direct support systems for the user, raising concerns about their role and safety (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md). A very small percentage of chatbot responses (2.0%) probed for barriers users might face in seeking external help (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md). These observations underscore the critical need for updated safety protocols that account for user refusal of crisis support, extending beyond simply checking if therapeutic redirection is offered. There is a potential for misinterpretation of the chatbot's role, leading users to rely on the AI for support it is not designed or equipped to provide, particularly in mental health crises (source: raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md).
 
 ### Cross-Cultural Perceptions of Empathy in Technology
 
@@ -1125,10 +1132,4 @@ Prompt injection presents a critical threat to the trustworthiness of Retrieval-
 The increasing reliance on LLMs in complex software development, such as Post-Quantum Cryptography (PQC), introduces a new socio-technical vulnerability: "Secure Coding Drift." This model captures the progressive degradation of secure coding practices that occurs when developers depend on LLM-generated code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). This risk is particularly acute in security-sensitive domains due to the LLM's potential to generate insecure or suboptimal code (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md). To counteract this drift, a gamified, LLM-augmented secure coding framework has been proposed. This framework embeds adversarial evaluation, provides behavioral feedback, and implements security scoring within development workflows, reframing LLMs from passive coding assistants into active security co-pilots (source: raw_secure-coding-drift-in-llm-assisted-post-quantum-cryptography-development-a-gamified-fix.md).
 
 ### 32. Specialized AI for Underserved Communities
-For resource-constrained environments like remote island communities, general-purpose LLMs can be unreliable due to a lack of grounding in local data and an inability to process regional dialects. Specialized AI assistants are crucial for building trust and providing attainable guidance.
-- **Retrieval-Grounded Architecture**: Systems like Falco eleonorae employ a retrieval-grounded approach, where LLM responses are anchored to authoritative local agricultural data. This is achieved through a Model Context Protocol (MCP) tool that queries a bilingual, curated interface, ensuring advice is relevant to specific regions and contexts (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
-- **Geospatial and Multimodal Grounding**: The integration of geospatial information and multimodal interaction (text, voice, image analysis) enhances the relevance and accessibility of AI guidance, further fostering user trust by addressing practical needs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
-- **Attainability and Trust**: Such tailored, grounded, and multilingual assistants are presented as moreAttainable and trustworthy for rural deployments compared to self-hosted, general-purpose LLMs (source: raw_retrieval-grounded-multilingual-llm-assistance-for-island-smallholder-farmers.md).
-
-### 33. Agency as a Driver of AI Engagement
-Recent research suggests that sustained engagement with conversational AI systems is significantly driven by perceived gains in human agency, rather than solely by accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). Studies using ethnographic data from daily AI chatbot users indicate that individuals continue to interact with these tools because they feel more empowered, even when the AI's performance is inconsistent (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a limitation in current frameworks that focus predominantly on trust, suggesting a need for new behavioral models and AI benchmarks that prioritize the fostering of substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency
+For resource-constrained environments like remote island communities, general-purpose LLMs can be unreliable due to a lack of grounding in local data and an inability to process regional dialects. Specialized AI assistants are crucial for building trust and providing attainable
