@@ -114,14 +114,17 @@
 - raw_dialfork-evaluating-procedural-hallucination-conversational-agents.md
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
 - raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
+- raw_beyond-large-language-models-a-mental-world-model-framework.md
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-19
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+Beyond current LLMs, new frameworks are emerging to enhance AI's social cognition and general intelligence. The **Mental World Model (MWM)** and its implementation, the **Multi-Branch Mental Evolution Architecture (MMEA)**, are designed to construct subjective worlds, model the dynamic interplay between cognition and mental states, and simulate the continuous evolution of mental states based on historical experiences (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This framework moves AI beyond surface-level semantic representations to infer underlying mental states and simulate internal cognitive processes and their evolution, offering a foundation for enhanced [[human-ai-interaction]], causal reasoning, and progress towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). These advancements demonstrate improved performance on benchmarks for mental state and behavior prediction, outperforming existing LLMs and specialized Theory of Mind (ToM) methods (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
 
 A significant concern is the growing trend of children turning to AI for serious conversations, with an estimated one-third of children now relying on AI for such interactions (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This reliance suggests a potential gap in human interaction or support systems for children, leading them to seek emotional outlets and guidance from AI (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). The implications for children's social and emotional development are a point of concern, as AI may be filling a void previously met by human relationships (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This highlights a societal challenge where technology might be inadvertently substituting for human connection, with potential ramifications for mental health and overall well-being (source: raw_new-research-third-of-kids-depend-on-ai-for-serious-conversations.md). This reliance on AI for support also extends to the detection of harmful behaviors. For instance, existing Bengali cyberbullying corpora lack contextual information, scale, and transparency, hindering robust detection and analysis of harasser behaviors (source: raw_bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse.md). To address this, the BenCoDiC corpus has been introduced, a large-scale resource for Bengali political news discourse that preserves caption-comment-reply relationships, enabling context-aware cyberbullying detection and perpetrator-oriented behavioral analysis (source: raw_bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse.md).
 
@@ -554,4 +557,12 @@ The **Perceived Empathy of Technology Scale (PETS)** has been systematically tra
 - [[source-how-to-train-your-model-organism]]
 - [[source-could-llm-watermark-detection-be-public]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
+- [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]]
+- [[source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse]]
+- [[source-what-human-ai-interaction-leaves-behind-residual-human-states]]
+- [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]]
+- [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]]
+- [[source-dialfork-evaluating-procedural-hallucination-conversational-agents]]
+- [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]]
+- [[source-beyond-large-language-models-a-mental-world-model-framework]]

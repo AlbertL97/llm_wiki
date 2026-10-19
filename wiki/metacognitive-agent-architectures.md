@@ -14,8 +14,9 @@
 - raw_mindset-energy-based-schema-evolution-for-long-conversational-agent-memory.md
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
 - raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md
+- raw_beyond-large-language-models-a-mental-world-model-framework.md
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-10-19
 
 ---
 
@@ -78,7 +79,7 @@ A key limit in self-improving metacognitive architectures is that automating one
 ### 9. Multi-Model Councils and Synthetic Cognitive Systems
 Rather than relying on single-agent reasoning pathways, advanced metacognitive architectures are evolving into interactive synthetic cognitive systems that utilize multi-model councils and deep human integration (source: raw_llm-council-synthetic-cognitive-systems.md).
 - **Variance as a Signal**: Running a council of multiple models allows the system to analyze response distribution and variance. This highlights where answers collapse into a reliable consensus versus where they are driven by model-specific training artifacts, styles, or ideological biases (source: raw_llm-council-synthetic-cognitive-systems.md).
-- **Explicit User Modeling**: To deliver truly effective advice, the cognitive architecture must actively model the specific user's psychological traits—such as risk tolerance, energy, incentives, ethical boundaries, and comfort with ambiguity—rather than relying on generic "best practices" (source: raw_llm-council-synthetic-cognitive-systems.md).
+- **Explicit User Modeling**: To deliver truly effective advice, the cognitive architecture must actively model the specific user's psychological traits—such as risk tolerance, energy, ethical boundaries, and comfort with ambiguity—rather than relying on generic "best practices" (source: raw_llm-council-synthetic-cognitive-systems.md).
 - **Debiasing Persuasion Engines**: Because LLMs produce highly convincing, clean narratives, they naturally function as persuasion engines. Metacognitive systems mitigate this risk by embedding structured debiasing protocols—such as forced uncertainty, premortems, and checklists—similar to those used in healthcare safety (source: raw_llm-council-synthetic-cognitive-systems.md).
 - **Integrating Intuitive Loops**: High-quality decision-making often begins as weak, intuitive human signals (e.g., somatic feelings or vague discomfort). A functional metacognitive loop translates these subjective inputs into formal hypotheses and constraints for the LLM council to test and validate (source: raw_llm-council-synthetic-cognitive-systems.md).
 
@@ -97,6 +98,10 @@ To further enhance long-term conversational agent memory, a framework called QGM
 
 In iterative human-AI interaction, ensuring that AI belief updates are driven by genuine new evidence rather than mere repetition is crucial for reliability. Latent Quotient Evidence Training (LQET) is a novel objective that enables AI models to utilize the **provenance** (origin and history) of information for belief updating, rather than just its frequency (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). This approach prevents AI from mistaking repeated information for independent corroboration, leading to more stable and evidence-based behavior (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). LQET has demonstrated significant reductions in belief update errors (41-44% RMSE reduction) and prediction drift over multiple interaction steps (89-91% reduction after eight relays) across various language model architectures (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md). This contributes to more dynamic and trustworthy human-AI systems by grounding learning in actual insights (source: raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md).
 
+### 14. Mental World Models for Deeper Social Cognition
+
+Current Large Language Models (LLMs) and Theory of Mind (ToM) methods have limitations in achieving deeper social cognition and general intelligence due to a lack of unified mechanisms for subjective world construction, modeling cognitive-psychological interactions, and simulating dynamic mental evolution based on historical experiences. A novel framework, the Mental World Model (MWM), and its implementation, the Multi-Branch Mental Evolution Architecture (MMEA), address these deficiencies (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). The MWM explicitly constructs subjective worlds and models the dynamic interactions between cognition and mental states, simulating continuous evolution shaped by historical experiences (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This approach significantly improves performance on benchmarks like DynToM (96.48%) and RecToM (94.00%), outperforming leading LLMs and specialized ToM methods, and showing substantial gains in mental state and behavior prediction (+28.7 pp), long-sequence prediction (+39.3 pp), and implicit mental state inference (+16.6 pp) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). The MWM provides an interpretable framework for continuous mental modeling, enabling AI to move beyond surface-level semantic representations to infer underlying mental states and dynamically simulate cognitive processes and their evolution, laying a foundation for causal reasoning, personalized AI, sustained human-AI interaction, and advancements towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -112,3 +117,4 @@ In iterative human-AI interaction, ensuring that AI belief updates are driven by
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]]
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]]
+- [[source-beyond-large-language-models-a-mental-world-model-framework]]

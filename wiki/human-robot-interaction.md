@@ -70,8 +70,9 @@
 - raw_noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization.md
 - raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
+- raw_beyond-large-language-models-a-mental-world-model-framework.md
 
-**Last updated**: 2026-10-17
+**Last updated**: 2026-10-19
 
 ---
 
@@ -132,6 +133,11 @@ A new decision framework, **TRACE (Transparent Reasoning Architecture for Credib
 **Phonetic entrainment in L2 human-robot interaction** is being investigated, particularly focusing on children learning a second language. Research in this area compares how children with and without Autism Spectrum Disorder (ASD) adjust their speech patterns to match a robot's vocalizations during interaction (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md). This work provides insights into the social communication behaviors of children with ASD in HRI contexts and informs the design of robots that can better engage with diverse users, including potential applications in educational technology for language acquisition (source: raw_phonetic-entrainment-l2-human-robot-interaction-children-asd.md).
 
 A study examining how humans use touch to explore unfamiliar objects is offering valuable insights for Human-Robot Interaction (HRI) (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). By analyzing the systematic and learnable patterns in human tactile exploration—how people gather information about an object's shape, texture, and temperature—researchers are developing predictive models of human object interaction (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). These findings can inform the design of robots that can better anticipate human actions, provide more intuitive physical feedback, and enhance safety in human-robot environments (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md). Understanding these human approaches to novel objects can contribute to robots being perceived as more predictable and less threatening, thereby fostering greater trust and improving the overall user experience (source: raw_study-captures-how-humans-touch-unfamiliar-objects-offering-lessons-for-human-robot-interaction.md).
+
+**Beyond LLMs: Mental World Models for Social Cognition and General Intelligence**
+Current advancements in AI, particularly Large Language Models (LLMs), have shown impressive capabilities in processing and generating human-like text. However, they often lack a deeper understanding of subjective experiences, dynamic mental states, and the continuous evolution of cognition over time. To address these limitations, a novel framework called the Mental World Model (MWM) and its implementation, the Multi-Branch Mental Evolution Architecture (MMEA), have been introduced (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This framework aims to move AI beyond surface-level semantic representations towards a more profound social cognition and general intelligence by explicitly constructing subjective worlds and modeling the dynamic interactions between cognition and mental states (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
+
+The MWM and MMEA are designed to simulate the continuous evolution of mental states, shaped by historical experiences, enabling a more nuanced understanding of an agent's internal world (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This approach has demonstrated superior accuracy on benchmarks like DynToM (96.48%) and RecToM (94.00%), outperforming existing LLMs and specialized Theory of Mind (ToM) methods (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). Significant improvements have been observed in mental state and behavior prediction (+28.7 pp), long-sequence prediction (+39.3 pp), and implicit mental state inference (+16.6 pp) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This interpretable framework offers a foundation for causal reasoning, personalized AI, and sustained human-AI interaction, paving the way for advancements towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
 
 ### 1. HRI in Emergency and Disaster Response
 Emergency response (ER) and disaster recovery settings represent high-stress environments that stress-test human-robot cooperation:
@@ -327,3 +333,4 @@ Continuous physical human-robot interaction (pHRI) requires robots to adapt thei
 - [[source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization]]
 - [[source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction]]
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]
+- [[source-beyond-large-language-models-a-mental-world-model-framework]]

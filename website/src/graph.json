@@ -477,6 +477,13 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-large-language-models-a-mental-world-model-framework",
+      "name": "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
       "name": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
       "val": 1.5,
@@ -3373,7 +3380,39 @@
     },
     {
       "source": "chatbots",
+      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-dialfork-evaluating-procedural-hallucination-conversational-agents"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
+    },
+    {
+      "source": "chatbots",
       "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
       "source": "explainability",
@@ -3572,8 +3611,36 @@
       "target": "source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images"
     },
     {
-      "source": "human-robot-interaction",
+      "source": "explainability",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
+    },
+    {
+      "source": "human-ai-interaction",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "explainability"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "metacognitive-agent-architectures"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "mind-perception"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "human-robot-interaction"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
       "source": "human-robot-interaction",
@@ -3874,6 +3941,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
       "source": "introspective-awareness",
@@ -4632,6 +4703,10 @@
       "target": "source-provenance-aware-belief-updating-in-human-ai-feedback-loops"
     },
     {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
+    },
+    {
       "source": "mind-perception",
       "target": "trust"
     },
@@ -4642,10 +4717,6 @@
     {
       "source": "mind-perception",
       "target": "persuasion-and-influence"
-    },
-    {
-      "source": "mind-perception",
-      "target": "human-ai-interaction"
     },
     {
       "source": "mind-perception",
@@ -4746,6 +4817,10 @@
     {
       "source": "mind-perception",
       "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
+      "source": "mind-perception",
+      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
       "source": "persuasion-and-influence",
@@ -5476,8 +5551,8 @@
       "target": "human-ai-interaction"
     },
     {
-      "source": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
-      "target": "chatbots"
+      "source": "source-beyond-large-language-models-a-mental-world-model-framework",
+      "target": "trust"
     },
     {
       "source": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
@@ -5750,10 +5825,6 @@
     {
       "source": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults",
       "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-dialfork-evaluating-procedural-hallucination-conversational-agents",
-      "target": "chatbots"
     },
     {
       "source": "source-dialfork-evaluating-procedural-hallucination-conversational-agents",
@@ -6137,10 +6208,6 @@
     },
     {
       "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
-      "target": "chatbots"
-    },
-    {
-      "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
       "target": "human-robot-interaction"
     },
     {
@@ -6445,10 +6512,6 @@
     },
     {
       "source": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support",
-      "target": "chatbots"
-    },
-    {
-      "source": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support",
       "target": "human-ai-interaction"
     },
     {
@@ -6530,10 +6593,6 @@
     {
       "source": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
       "target": "human-ai-interaction"
-    },
-    {
-      "source": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
-      "target": "chatbots"
     },
     {
       "source": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
@@ -7282,10 +7341,6 @@
     {
       "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
       "target": "trust"
-    },
-    {
-      "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
-      "target": "chatbots"
     },
     {
       "source": "source-what-is-a-robot",

@@ -3819,3 +3819,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-19 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_beyond-large-language-models-a-mental-world-model-framework.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-beyond-large-language-models-a-mental-world-model-framework.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/mind-perception.md
+- wiki/chatbots.md
+- wiki/human-robot-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability" and created summary page wiki/source-beyond-large-language-models-a-mental-world-model-framework.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
