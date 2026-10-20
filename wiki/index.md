@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-20
 
 ## Orientation
 
@@ -14,6 +14,7 @@
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]] — Summary of A Systematic and Validated Translation of the Perceived Empathy of Technology Scale to Chinese.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
+- [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]] — Summary of Accountable partial understanding: securing the epistemic attack surface of agentic systems.
 - [[source-aero-hand-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]] — Summary of Affective Context Amplifies Sycophancy in LLM Responses.
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
@@ -196,6 +197,7 @@
 - [[source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction]] — Summary of Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.
+- [[source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware]] — Summary of Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware.
 - [[source-teach-llm-tutor-withhold-answer-supervisor-architecture]] — Summary of Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior.
 - [[source-teens-turn-to-ai-for-friendship]] — Summary of Teens say they are turning to AI for friendship.
 - [[source-tell-robot-what-not-to-do-a-negation-understanding-perspective]] — Summary of Tell Robot What Not to Do: A Negation Understanding Perspective.

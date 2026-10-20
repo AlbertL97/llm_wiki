@@ -3844,3 +3844,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
+- raw/raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
+- wiki/human-ai-interaction.md
+- wiki/explainability.md
+- wiki/human-robot-interaction.md
+- wiki/medical-ai.md
+- wiki/source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
+- wiki/anthropomorphism.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Accountable partial understanding: securing the epistemic attack surface of agentic systems" and created summary page wiki/source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md.
+- Ingested "Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware" and created summary page wiki/source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

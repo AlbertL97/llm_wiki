@@ -176,6 +176,13 @@
       "summary": "A compilation of accepted papers for AAAI 2026 in the Humans and AI track, highlighting adaptive human-centered ensembles, inter-dependencies in human-AI teaming, and cognitive value alignment."
     },
     {
+      "id": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems",
+      "name": "Accountable partial understanding: securing the epistemic attack surface of agentic systems",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-active-interaction-strategy",
       "name": "Source: Active interaction strategy generation for human-robot collaboration based on trust",
       "val": 1.5,
@@ -1842,6 +1849,13 @@
       "summary": ""
     },
     {
+      "id": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware",
+      "name": "Source Summary: Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy",
       "name": "Teacher Knows It Best: Spontaneous Symmetry Breaking and Tipping Points in Networked Langevin Dynamics AI Sycophancy",
       "val": 1.5,
@@ -2923,6 +2937,10 @@
       "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -3615,6 +3633,10 @@
       "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
+      "source": "explainability",
+      "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3641,6 +3663,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-beyond-large-language-models-a-mental-world-model-framework"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
     },
     {
       "source": "human-robot-interaction",
@@ -3945,6 +3971,14 @@
     {
       "source": "human-robot-interaction",
       "target": "source-beyond-large-language-models-a-mental-world-model-framework"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
     },
     {
       "source": "introspective-awareness",
@@ -4275,6 +4309,10 @@
       "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4421,6 +4459,10 @@
     {
       "source": "medical-ai",
       "target": "source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
     },
     {
       "source": "mental-health",
@@ -5181,6 +5223,10 @@
     {
       "source": "source-aaai-2026-cool-papers",
       "target": "human-robot-interaction"
+    },
+    {
+      "source": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems",
+      "target": "trust"
     },
     {
       "source": "source-active-interaction-strategy",

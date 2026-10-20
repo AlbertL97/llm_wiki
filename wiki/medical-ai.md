@@ -36,8 +36,9 @@
 - raw_mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support.md
 - raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
 - raw_lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images.md
+- raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-20
 
 ---
 
@@ -125,6 +126,7 @@ Integrating AI into clinical workflows introduces complex safety considerations 
   - *Deskilling*: The gradual erosion of human clinical skills due to cognitive outsourcing to automated systems.
 - **Advanced Safety Guardrails for Health Assistants**: Systems like ECHO incorporate sophisticated safety mechanisms, including a two-stage hybrid layer with rule-based and GNN-based components, to rapidly identify and classify crisis signals and boundary cases. This approach aims for high accuracy in intercepting unsafe queries, crucial for user privacy and regulatory compliance (source: raw_echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment.md).
 - **Responsible Deployment Principles for Low-Resource Settings**: In sub-Saharan Africa, the deployment of autonomous AI diagnostic agents necessitates a shift in governance. Key principles for responsible deployment include: **Agent-Aware Informed Consent**, ensuring patients are aware of AI's role in their diagnosis; **Human Override as a Structural Requirement**, mandating human intervention capabilities; and **Contextually Adapted Explainability**, tailoring explanations to patient literacy and local practices (source: raw_invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa.md).
+- **Accountable Partial Understanding (APU)**: As agentic AI systems become more integrated into healthcare, the gap between their complex behavior and human comprehension creates an "epistemic attack surface." This opacity is exploited by attackers, particularly when AI systems handle security-relevant actions. APU is a framework designed to manage these risks by ensuring security despite incomplete human understanding (source: raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md). APU is defined by six conditions: Bounded Scope, Inspectable Evidence, Assigned Responsibility, Visible Residual Unknowns, Actionability, and Temporal Maintenance (source: raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md). This approach emphasizes making the evidence used by AI transparent, assigning clear accountability, acknowledging unknowns, and ensuring human supervisors can act upon AI decisions (source: raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md). APU is distinct from concepts like risk acceptance, XAI, and human-in-the-loop systems due to its focus on accountability in the presence of inherent partial understanding (source: raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md). Design principles derived from APU include bounded delegation, decoupled evidence, assumption tracking, role-specific accountability views, and intervention-preserving design (source: raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md).
 
 ### 15. Telemedicine and Continuance Dynamics
 The clinical adoption and long-term viability of digital health tools depend on mobile health acceptance and telemedicine continuance usage models (source: Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design perspectives.md).
@@ -197,3 +199,4 @@ A paradigm shift is proposed for the design of soft wearable robots, moving from
 - [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]]
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]]
 - [[source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images]]
+- [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]]

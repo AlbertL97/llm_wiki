@@ -70,8 +70,9 @@
 - raw_mind-perception-influences-perceived-ai-companionability.md
 - raw_ai-companion-technology-psychology-pros-cons.md
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
+- raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
 
-**Last updated**: 2026-10-17
+**Last updated**: 2026-10-20
 
 ---
 
@@ -290,6 +291,10 @@ The perceived "mind" of an AI companion significantly influences how companionab
 
 Research into the perception of technology's empathy has been advanced through cross-cultural validation of the Perceived Empathy of Technology Scale (PETS). A translated and validated Chinese version of the PETS demonstrates high reliability and cross-cultural invariance (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). Empirical testing revealed that while the perception of empathic behavior in technology was similar between English and Chinese speakers, Chinese participants perceived the *absence* of empathic behavior more negatively (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This finding is crucial for developing culturally sensitive empathic AI systems, particularly in applications for mental health and emotional support, as it highlights that the impact of perceived empathy (or lack thereof) can differ across cultures (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md).
 
+### 32. Hand Morphology and Tactile Feedback in Robotic Manipulation
+
+Research into in-hand object rotation for robotic hands highlights the critical interplay between hand morphology and tactile sensing for achieving efficient manipulation. Studies comparing an anthropomorphic LEAP Hand with a symmetric LEAP Hand, both equipped with vision-based tactile sensors, reveal that richer tactile information dramatically enhances performance. For instance, full tactile sensor observations significantly improved in-hand object rotation in simulations, showing increases of 94.8% for the anthropomorphic hand and 66.9% for the symmetric hand (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md). The physical design of the hand also plays a crucial role; the symmetric hand demonstrated superior performance in hardware experiments, achieving a higher mean rotation count (32.0% more) and a higher aggregate rotation rate (25.8% more), while also distributing fingertip load more evenly (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md). These findings underscore that sophisticated robotic manipulation, which contributes to how human-like an AI system is perceived to be in its actions, is dependent not only on sensing but also on the geometric design of the manipulator itself for effective contact management and force distribution (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -372,3 +377,4 @@ Research into the perception of technology's empathy has been advanced through c
 - [[source-mind-perception-influences-perceived-ai-companionability]]
 - [[source-ai-companion-technology-psychology-pros-cons]]
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]
+- [[source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware]]
