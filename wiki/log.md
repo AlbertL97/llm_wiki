@@ -3871,3 +3871,27 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
+- raw/raw_a-digital-twin-to-improve-cyber-social-impact.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/social-media-and-online-communities.md
+- wiki/medical-ai.md
+- wiki/source-a-digital-twin-to-improve-cyber-social-impact.md
+
+**Summary of changes**:  
+- Ingested "The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation" and created summary page wiki/source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md.
+- Ingested "A Digital Twin to Improve Cyber-Social Impact" and created summary page wiki/source-a-digital-twin-to-improve-cyber-social-impact.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

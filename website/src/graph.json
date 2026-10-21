@@ -141,6 +141,13 @@
       "summary": "A summary page for the Center for Humane Technology (CHT) landing page, introducing their mission to expose the negative effects of persuasive technology and align tech industry incentives with human needs."
     },
     {
+      "id": "source-a-digital-twin-to-improve-cyber-social-impact",
+      "name": "A Digital Twin to Improve Cyber-Social Impact",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
       "name": "Source Summary: A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths",
       "val": 1.5,
@@ -1926,6 +1933,13 @@
       "summary": ""
     },
     {
+      "id": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation",
+      "name": "The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",
       "name": "The Model in the Middle: Toward AI-Native Real-Time Communication",
       "val": 1.5,
@@ -3669,6 +3683,14 @@
       "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-a-digital-twin-to-improve-cyber-social-impact"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4465,6 +4487,10 @@
       "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
     },
     {
+      "source": "medical-ai",
+      "target": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5191,6 +5217,26 @@
     {
       "source": "social-media-and-online-communities",
       "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "medical-ai"
+    },
+    {
+      "source": "source-a-digital-twin-to-improve-cyber-social-impact",
+      "target": "explainability"
+    },
+    {
+      "source": "source-a-digital-twin-to-improve-cyber-social-impact",
+      "target": "trust"
+    },
+    {
+      "source": "source-a-digital-twin-to-improve-cyber-social-impact",
+      "target": "measurement-tools"
     },
     {
       "source": "source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths",
@@ -7107,6 +7153,18 @@
     {
       "source": "source-the-innocent-courier-covert-exfiltration-through-legitimate-llm-web-fetching",
       "target": "trust"
+    },
+    {
+      "source": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation",
+      "target": "trust"
+    },
+    {
+      "source": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation",
+      "target": "mental-health"
+    },
+    {
+      "source": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation",
+      "target": "chatbots"
     },
     {
       "source": "source-the-model-in-the-middle-toward-ai-native-real-time-communication",

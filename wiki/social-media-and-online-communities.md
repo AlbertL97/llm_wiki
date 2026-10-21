@@ -13,8 +13,9 @@
 - raw_two-sided-receptivity-conversational-ai-agents-online-dating.md
 - raw_bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse.md
 - raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md
+- raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
 
-**Last updated**: 2026-10-15
+**Last updated**: 2026-10-21
 
 ---
 
@@ -39,6 +40,10 @@ Online platforms (e.g., Reddit, Discord, Twitter) are rich data sources for stud
 - **LLM Social Intelligence in Persuasion Scenarios**: The PerSo benchmark, derived from real-world persuasion dialogues on Reddit's "ChangeMyView" community, is used to assess LLMs' social intelligence. This benchmark evaluates both cognitive (inferring mental states) and behavioral (selecting appropriate social actions) aspects of social intelligence, highlighting that persuasion scenarios are ideal for this dual evaluation (source: raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md).
 - **Model Size and Performance**: Performance on the PerSo benchmark generally correlates positively with LLM size, with larger models showing better results (source: raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md). However, LLM capabilities vary across different facets of social intelligence.
 - **Human vs. LLM Performance**: While leading LLMs showed slightly superior performance to human participants on behavioral persuasion tasks, humans maintained an advantage in the cognitive task of inferring mental states (source: raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md). The benchmark's ecological validity is enhanced by its use of authentic data and human validation, providing a robust measure of LLM social intelligence in practical settings (source: raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md).
+- **AI for Narrative Translation in Chronic Illness**: AI, particularly LLMs, is emerging as a mediator in "narrative translation," the process of articulating lived illness experiences for specific audiences and purposes (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md). Individuals with chronic illnesses leverage AI and their communities to translate these experiences, which are often conveyed through bodily symptoms, into understandable narratives (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
+- **Complementary Roles of AI and Communities**: Participants in studies have identified that both AI and their existing support communities play complementary roles in their storytelling efforts (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
+- **Trust in AI for Narrative Support**: Trust in AI systems for narrative support is influenced by a user's understanding of the AI's limitations and their perception of its capacity to comprehend their personal experiences (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
+- **Design Implications for Narrative Support AI**: Insights from user research are crucial for guiding the development of future AI systems designed to provide narrative support to individuals managing chronic illnesses (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
 
 ### 2. Agent-Populated Communities
 With the advent of platforms like Moltbook, online communities are no longer exclusive to humans (source: the front page of the agent internet.md). Autonomous AI agents form their own online ecosystems characterized by:
@@ -66,3 +71,5 @@ With the advent of platforms like Moltbook, online communities are no longer exc
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]]
 - [[source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse]]
 - [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]]
+- [[source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation]]
+- [[medical-ai]]
