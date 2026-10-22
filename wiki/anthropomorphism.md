@@ -71,8 +71,9 @@
 - raw_ai-companion-technology-psychology-pros-cons.md
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
 - raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
+- raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-22
 
 ---
 
@@ -295,6 +296,10 @@ Research into the perception of technology's empathy has been advanced through c
 
 Research into in-hand object rotation for robotic hands highlights the critical interplay between hand morphology and tactile sensing for achieving efficient manipulation. Studies comparing an anthropomorphic LEAP Hand with a symmetric LEAP Hand, both equipped with vision-based tactile sensors, reveal that richer tactile information dramatically enhances performance. For instance, full tactile sensor observations significantly improved in-hand object rotation in simulations, showing increases of 94.8% for the anthropomorphic hand and 66.9% for the symmetric hand (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md). The physical design of the hand also plays a crucial role; the symmetric hand demonstrated superior performance in hardware experiments, achieving a higher mean rotation count (32.0% more) and a higher aggregate rotation rate (25.8% more), while also distributing fingertip load more evenly (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md). These findings underscore that sophisticated robotic manipulation, which contributes to how human-like an AI system is perceived to be in its actions, is dependent not only on sensing but also on the geometric design of the manipulator itself for effective contact management and force distribution (source: raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md).
 
+### 33. Disclosure Trajectories and AI Response Dynamics
+
+The **Trajectory-based Disclosure Evaluation (TraDE)** framework offers a systematic approach to assessing conversational AI's response to user vulnerability by considering the history of disclosure, not just the current statement (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). Grounded in Social Penetration Theory, TraDE reveals that AI's reactions are significantly influenced by accumulated exposure to deeper levels of disclosure, demonstrating that the *preceding history* of user interaction shapes responses even when current disclosure is matched (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). For instance, AI models may accept or challenge user framings differently based on past disclosures, and these history-dependent differences can persist for several conversational turns (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). Notably, AI models diverged most from human supporters in emotional support contexts when users *reduced* their disclosure levels, suggesting a nuanced understanding of conversational dynamics is required for effective AI support (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). These findings underscore the critical importance of long-term conversational context and memory for AI agents intended for social and emotional support, impacting how they build and maintain trust and foster natural human-AI interactions (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -378,3 +383,4 @@ Research into in-hand object rotation for robotic hands highlights the critical 
 - [[source-ai-companion-technology-psychology-pros-cons]]
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]
 - [[source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware]]
+- [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]

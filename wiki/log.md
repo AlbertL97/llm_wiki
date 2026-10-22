@@ -3895,3 +3895,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-22 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/anthropomorphism.md
+- wiki/ai-companions.md
+- wiki/qualitative-methods.md
+
+**Summary of changes**:  
+- Ingested "Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation" and created summary page wiki/source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

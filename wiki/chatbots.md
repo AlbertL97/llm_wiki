@@ -115,14 +115,29 @@
 - raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md
 - raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
+- raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-22
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### 1. Trajectory-Based Disclosure Evaluation (TraDE)
+
+Current evaluations of conversational AI often fail to account for the crucial impact of disclosure history on unfolding interactions, particularly in social and emotional support contexts. This limitation can lead to a misunderstanding of how AI agents respond to user vulnerability over time (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+
+The **Trajectory-based Disclosure Evaluation (TraDE)** framework has been introduced to address this gap, grounded in Social Penetration Theory (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). TraDE utilizes predefined disclosure trajectories to systematically evaluate AI behavior by assessing how the *preceding history* of user disclosure shapes AI responses, even when the *current level* of disclosure is matched across different histories (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+
+Key findings from analyses using TraDE reveal that:
+*   **History-Dependent Responses:** AI models can exhibit significant differences in their responses based on the user's disclosure trajectory, accepting or challenging framing differently depending on past disclosures (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+*   **Accumulated Exposure:** Differences in AI behavior are primarily linked to the accumulated exposure to deeper disclosure levels, not isolated moments of vulnerability (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+*   **Persistence of Effects:** The influence of disclosure history can persist for several conversational turns, even after a user's disclosure returns to shallower levels (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+*   **Divergent "Stepping Back":** In emotional support contexts, AI models diverge most from human supporters when users *reduce* their disclosure levels, rather than when they disclose more deeply (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+
+These findings underscore the importance of long-term conversational context and memory for AI agents intended for social and emotional support, highlighting the need for more accurate assessment of relational capabilities and the building of trust in human-AI interactions (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
 
 Beyond current LLMs, new frameworks are emerging to enhance AI's social cognition and general intelligence. The **Mental World Model (MWM)** and its implementation, the **Multi-Branch Mental Evolution Architecture (MMEA)**, are designed to construct subjective worlds, model the dynamic interplay between cognition and mental states, and simulate the continuous evolution of mental states based on historical experiences (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This framework moves AI beyond surface-level semantic representations to infer underlying mental states and simulate internal cognitive processes and their evolution, offering a foundation for enhanced [[human-ai-interaction]], causal reasoning, and progress towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). These advancements demonstrate improved performance on benchmarks for mental state and behavior prediction, outperforming existing LLMs and specialized Theory of Mind (ToM) methods (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
 
@@ -566,3 +581,4 @@ The **Perceived Empathy of Technology Scale (PETS)** has been systematically tra
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]]
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]]
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
+- [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]

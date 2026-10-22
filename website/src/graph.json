@@ -498,6 +498,13 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation",
+      "name": "Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
       "name": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
       "val": 1.5,
@@ -2655,6 +2662,10 @@
       "target": "source-ai-companion-dementia-delay"
     },
     {
+      "source": "ai-companions",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -2953,6 +2964,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
     },
     {
       "source": "chatbots",
@@ -3447,6 +3462,10 @@
       "target": "source-beyond-large-language-models-a-mental-world-model-framework"
     },
     {
+      "source": "chatbots",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3689,6 +3708,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-a-digital-twin-to-improve-cyber-social-impact"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
     },
     {
       "source": "human-robot-interaction",
@@ -4727,6 +4750,10 @@
       "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
     },
     {
+      "source": "mental-health",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5161,6 +5188,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-dialfork-evaluating-procedural-hallucination-conversational-agents"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
     },
     {
       "source": "social-media-and-online-communities",
@@ -5644,6 +5675,10 @@
     },
     {
       "source": "source-beyond-large-language-models-a-mental-world-model-framework",
+      "target": "trust"
+    },
+    {
+      "source": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation",
       "target": "trust"
     },
     {
