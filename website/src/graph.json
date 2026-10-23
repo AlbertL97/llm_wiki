@@ -1835,6 +1835,13 @@
       "summary": ""
     },
     {
+      "id": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning",
+      "name": "Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-sycophancy-pushback-loading",
       "name": "Source Summary: Sycophancy as Material Failure under Pushback Loading",
       "val": 1.5,
@@ -3466,6 +3473,10 @@
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
     },
     {
+      "source": "chatbots",
+      "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3712,6 +3723,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
     },
     {
       "source": "human-robot-interaction",
@@ -4752,6 +4767,10 @@
     {
       "source": "mental-health",
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -7096,6 +7115,10 @@
     {
       "source": "source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning",
+      "target": "trust"
     },
     {
       "source": "source-sycophancy-pushback-loading",

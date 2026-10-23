@@ -166,8 +166,9 @@
 - raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
+- raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-23
 
 ---
 
@@ -820,6 +821,10 @@ Watermarking LLMs is a crucial technique for identifying AI-generated content, b
 
 Current AI systems, including Large Language Models (LLMs), often struggle with deep social cognition and general intelligence due to limitations in modeling subjective experiences and the dynamic evolution of mental states. New research introduces the **Mental World Model (MWM)** and its implementation, the **Multi-Branch Mental Evolution Architecture (MMEA)**, to address these deficiencies (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This framework explicitly constructs subjective worlds, models the complex interactions between cognition and mental states, and simulates the continuous evolution of these states over time, informed by historical experiences (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). The MWM and MMEA demonstrate superior accuracy on benchmarks like DynToM (96.48%) and RecToM (94.00%), significantly outperforming leading LLMs and specialized Theory of Mind (ToM) methods (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). Key improvements include substantial gains in mental state and behavior prediction (+28.7 pp), long-sequence prediction (+39.3 pp), and implicit mental state inference (+16.6 pp) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This interpretable framework not only enables AI to infer underlying mental states and simulate cognitive evolution but also lays a foundation for causal reasoning, personalized AI, sustained human-AI interaction, and advancements towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
 
+### Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning
+
+A study investigating AI's role in undergraduate mathematics education found that while an AI chatbot improved homework scores, its extensive use was linked to lower exam performance and diminished self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). This suggests a potential for cognitive offloading, where students may rely on the chatbot to perform reasoning tasks, thereby hindering their own conceptual understanding and problem-solving skills. In contrast, a homework-feedback interface that required active submission did not show negative impacts on exam performance (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). These findings raise concerns about the design and implementation of AI tutors, advocating for integrated approaches within course activities rather than standalone chatbots to prevent detrimental effects on student learning and self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md).
+
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
 
@@ -1126,8 +1131,4 @@ Web search serves as a critical comparator, already functioning as a psychotechn
 - Blur source monitoring, making it harder to discern original information from AI-generated content (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
 - Transform initial defaults into established roles or beliefs (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
 
-Evidence suggests immediate influence on users, redistributed cognitive work during use, and some persistence of these effects beyond single interaction episodes (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). It is crucial to distinguish between AI's medium as a psychotechnology in development and its specific conversational capabilities (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-
-### 29. Measurement Artifacts in LLM Psychology
-A significant challenge in assessing LLMs with instruments designed for humans is the pervasive presence of measurement artifacts. Research indicates that the apparent psychological profiles of LLMs are often a result of how these instruments function, rather than inherent, stable traits of the models themselves (source: raw_apparent-psychological-profiles-of-large-language-models-are-largely-a-measurement-artifact.md).
-- **Directional Response Bias**: LLM response variations are heavily influenced by a directional response bias, where models tend to favor one end of a scale or a particular option. This bias accounts for a substantial portion of observed variation in LLMs (81-90%), far exceeding that in humans (9-16%) (source: raw_apparent-psych
+Evidence suggests immediate influence on users, redistributed cognitive work during use,

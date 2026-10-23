@@ -116,8 +116,9 @@
 - raw_what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts.md
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
+- raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
 
-**Last updated**: 2026-10-22
+**Last updated**: 2026-10-23
 
 ---
 
@@ -454,6 +455,10 @@ A new benchmark, **PerSo**, has been developed to assess LLMs' social intelligen
 
 The **Perceived Empathy of Technology Scale (PETS)** has been systematically translated and validated into Simplified Chinese (Putonghua) (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This validated scale maintains the original two-factor structure and demonstrates high reliability and cross-cultural invariance (configural, metric, and scalar) (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). Empirical testing with 400 participants revealed that while the perception of empathic behavior in technology was similar between English and Chinese speakers, Chinese participants perceived the *absence* of empathic behavior more negatively (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This culturally adapted and validated scale is crucial for cross-cultural research in Human-AI Interaction, particularly for applications in mental health and emotional support, enabling the development of more culturally sensitive and empathic AI (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md).
 
+## Supporting or Replacing Students' Reasoning?
+
+Research in an undergraduate mathematics course investigated the impact of AI support systems on student learning, specifically focusing on cognitive offloading. 153 students utilized an AI chatbot and a homework-feedback interface as part of their learning process (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). Findings indicated that while the AI chatbot initially improved homework scores, its extensive use was correlated with diminished exam performance and reduced self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). A mediation analysis suggested that lower self-efficacy led to greater chatbot utilization, which in turn negatively impacted exam outcomes, pointing to a risk of students offloading their reasoning processes to the AI (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). In contrast, a homework-feedback system that required active submission of student work did not yield similar negative performance outcomes (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). These results suggest a cautious approach towards using chatbots for AI tutoring and advocate for exploring AI tutors that are more deeply integrated into core course activities rather than offered as standalone conversational tools (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md).
+
 ## Related pages
 
 - [[chatbots]]
@@ -582,3 +587,4 @@ The **Perceived Empathy of Technology Scale (PETS)** has been systematically tra
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]]
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
 - [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]
+- [[source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning]]

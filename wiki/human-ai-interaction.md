@@ -192,8 +192,9 @@
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
 - raw_a-digital-twin-to-improve-cyber-social-impact.md
 - raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
+- raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
 
-**Last updated**: 2026-10-22
+**Last updated**: 2026-10-23
 
 ---
 
@@ -202,6 +203,10 @@
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### AI in Education and Cognitive Offloading
+
+A critical aspect of human-AI interaction is its impact on learning and cognitive processes. Research in an undergraduate mathematics course investigated students' use of AI chatbots and homework-feedback interfaces for proof learning. While AI chatbots initially improved homework scores, excessive use was correlated with lower exam performance and decreased self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). This suggests a potential for students to "offload" their reasoning processes onto the AI (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). Mediation analysis revealed that lower self-efficacy led to greater chatbot use, which in turn negatively impacted exam scores (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). In contrast, a homework-feedback system that required active submission did not yield negative performance outcomes, highlighting the importance of how AI is integrated into learning activities (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). These findings advocate for AI tutors that are integrated into course activities rather than standalone chatbots, emphasizing the need to support rather than replace students' reasoning (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md).
 
 Cross-cultural differences in how humans perceive and react to AI's communication are becoming increasingly important, especially as AI is deployed in sensitive areas like mental health and emotional support. A validated Chinese translation of the Perceived Empathy of Technology Scale (PETS) has been developed, demonstrating high reliability and cross-cultural invariance (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). Empirical testing revealed that while the perception of empathic AI behavior was similar across English and Chinese speakers, Chinese participants perceived the *absence* of empathic behavior more negatively (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md). This validated scale is crucial for culturally sensitive development of empathic AI in Human-AI Interaction (source: raw_a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese.md).
 
@@ -281,3 +286,4 @@ A novel framework has been introduced that integrates Digital Twin technology wi
 *   [[source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation]]
 *   [[source-a-digital-twin-to-improve-cyber-social-impact]]
 *   [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]
+*   [[source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning]]

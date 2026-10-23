@@ -3918,3 +3918,24 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-23 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/mental-health.md
+
+**Summary of changes**:  
+- Ingested "Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning" and created summary page wiki/source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
