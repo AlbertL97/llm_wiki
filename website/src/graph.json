@@ -1450,6 +1450,13 @@
       "summary": ""
     },
     {
+      "id": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes",
+      "name": "Navigating Human-Robot Interaction Challenges in Private and Residential Aged Care Homes",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens",
       "name": "New research highlights the heightened dangers of AI companion use for teens.",
       "val": 1.5,
@@ -2262,6 +2269,13 @@
       "summary": ""
     },
     {
+      "id": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration",
+      "name": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai",
       "name": "Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI",
       "val": 1.5,
@@ -2671,6 +2685,10 @@
     {
       "source": "ai-companions",
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
     },
     {
       "source": "anthropomorphism",
@@ -3477,6 +3495,10 @@
       "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
     },
     {
+      "source": "chatbots",
+      "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3727,6 +3749,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
     },
     {
       "source": "human-robot-interaction",
@@ -4039,6 +4069,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
     },
     {
       "source": "introspective-awareness",
@@ -4373,6 +4407,10 @@
       "target": "source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4527,6 +4565,10 @@
     {
       "source": "medical-ai",
       "target": "source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
     },
     {
       "source": "mental-health",
@@ -5103,6 +5145,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
     },
     {
       "source": "qualitative-methods",
@@ -6685,6 +6731,10 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes",
+      "target": "trust"
+    },
+    {
       "source": "source-new-research-highlights-heightened-dangers-ai-companion-use-teens",
       "target": "human-ai-interaction"
     },
@@ -7587,6 +7637,10 @@
     {
       "source": "source-where-ai-agents-build-worlds",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration",
+      "target": "trust"
     },
     {
       "source": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai",

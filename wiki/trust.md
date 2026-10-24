@@ -167,8 +167,10 @@
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
 - raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
+- raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md
+- raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 
-**Last updated**: 2026-10-23
+**Last updated**: 2026-10-24
 
 ---
 
@@ -179,6 +181,14 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Age Care Environments and Human-Robot Interaction
+
+The implementation of Human-Robot Interaction (HRI) in aged care settings, including residential aged care homes and private residences, presents significant challenges (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). These environments are characterized by their dynamic nature, diverse user needs, and limited technical support, often featuring cluttered layouts and varied resident requirements (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Robotic and ambient intelligence systems are being developed to support older adults in daily living, safety monitoring, and social engagement, frequently employing hybrid approaches that integrate sensors (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
+
+To ensure user-centered design for older adults, systems must prioritize accessibility for individuals with low digital literacy. This involves implementing intuitive interfaces, straightforward interactions, simple voice commands, minimal non-verbal cues, accessible companion interfaces, and safe object manipulation capabilities (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
+
+Crucially, building trust and ensuring privacy are paramount. Strategies such as on-device processing, data minimization, visible consent controls, and transparent data handling are essential for fostering user confidence and adhering to AI regulations (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Evaluation methods are geared towards real-world effectiveness, focusing on practical metrics like false alarm rates, fault recovery times, impact on staff workload, and long-term reliability (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). The ultimate goal is to achieve scalable, regulation-ready solutions that enhance the dignity, safety, and independence of older adults (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
 
 ### AI Chatbots and Crisis Support Refusal
 
@@ -1117,18 +1127,4 @@ Explanations are highly valued by users but introduce a **Persuasion Paradox**, 
 Because LLMs produce highly convincing, clean, and fluent narratives, they function inherently as persuasion engines (source: raw_llm-council-synthetic-cognitive-systems.md). Mitigating the risks of overreliance and systematic narrative persuasion requires structured debiasing protocols—such as forced uncertainty representation, premortems, and checklists—similar to the safety-critical operational protocols established in healthcare safety (source: raw_llm-council-synthetic-cognitive-systems.md).
 
 ### 28. Conversational AI as a Psychotechnology
-Conversational AI is developing into a "psychotechnology" not necessarily due to its intelligence, but because its conversational medium fundamentally reshapes human thinking and cognition (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). This is because the medium of conversational AI is structurally identical to self-directed thought, presented as addressed, contingent language (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-
-The paper proposes four criteria for a practice to be considered a psychotechnology:
-- **Repetition**: The practice is frequently engaged in.
-- **Redistribution of Cognitive Labor**: It offloads or alters cognitive tasks.
-- **Social Transmission/Institutional Stabilization**: It is passed on and integrated into social structures.
-- **Effects Outlasting Single Episodes**: Its influence extends beyond individual interactions (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-
-Web search serves as a critical comparator, already functioning as a psychotechnology for information retrieval and transactive memory (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md). Conversational AI's unique contribution lies in its medium, which can:
-- Accelerate trust formation (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-- Make error repair feel like consultation, potentially masking issues with trust calibration (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-- Blur source monitoring, making it harder to discern original information from AI-generated content (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-- Transform initial defaults into established roles or beliefs (source: raw_a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi.md).
-
-Evidence suggests immediate influence on users, redistributed cognitive work during use,
+Conversational AI is developing into a "psychotechnology" not necessarily due to its intelligence, but because its conversational medium fundamentally reshapes human thinking and cognition (source: raw_a-psychotechnology-

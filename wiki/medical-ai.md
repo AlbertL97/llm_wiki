@@ -38,8 +38,9 @@
 - raw_lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images.md
 - raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
+- raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-24
 
 ---
 
@@ -65,6 +66,7 @@ Medical AI systems are deployed across several key areas of healthcare (source: 
 - **AI for Narrative Translation in Chronic Illness**: Artificial intelligence, particularly large language models (LLMs), is emerging as a tool to assist individuals with chronic illnesses in translating their lived experiences into narratives (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md). These experiences, often conveyed through bodily symptoms, require articulation and influence how suffering is perceived and managed (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
 - **Synergy Between AI and Communities for Storytelling**: Individuals with chronic illnesses identify complementary roles for both AI and their established support communities in their storytelling efforts (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
 - **Trust in AI for Narrative Support**: Trust in AI systems for narrative translation is shaped by users' understanding of the AI's limitations and their perception of the AI's capacity to comprehend their experiences (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
+- **Human-Robot Interaction in Aged Care**: Implementing human-robot interaction (HRI) in aged care homes and private residences presents unique challenges due to dynamic environments, diverse user needs, and limited technical support (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Robotic and ambient intelligence systems are being developed for daily living assistance, safety monitoring, and social engagement, often utilizing hybrid sensor approaches (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Designs prioritize accessibility for older adults with low digital literacy through simple voice interfaces and companion interfaces, alongside safe object manipulation (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Critical concerns of privacy, trust, and acceptability are addressed through strategies such as on-device processing, data minimization, and transparent data handling, aligning with AI regulations (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Evaluation metrics focus on real-world effectiveness, including fault recovery times and staff workload, aiming for scalable, regulation-ready solutions that enhance dignity, safety, and independence (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -205,3 +207,4 @@ A paradigm shift is proposed for the design of soft wearable robots, moving from
 - [[source-lighthybridnet-a-lightweight-hybrid-deep-learning-framework-for-efficient-multi-label-ophthalmic-disease-classification-in-imbalanced-fundus-images]]
 - [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]]
 - [[source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation]]
+- [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]

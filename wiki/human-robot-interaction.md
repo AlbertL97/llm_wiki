@@ -73,8 +73,9 @@
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
 - raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
+- raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-24
 
 ---
 
@@ -257,6 +258,9 @@ A novel embodied control approach has been developed that enables anthropomorphi
 ### 20. Continuous Physical Human-Robot Interaction with Sub-Millisecond Reflexes
 Continuous physical human-robot interaction (pHRI) requires robots to adapt their control strategies rapidly without disrupting ongoing tasks or compromising safety. Traditional control architectures often introduce significant delays due to "stop-to-switch" mechanisms, hindering seamless adaptation. A novel open-source reflex engine has been developed, built upon an enhanced ROS 2-compatible multimode controller, which enables deterministic and rapid switching between control modalities with sub-millisecond responsiveness (source: raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md). This system integrates reflex behaviors to proactively mitigate potential hazards and kinematic limit violations, significantly improving the safety of human-robot collaboration (source: raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md). Experiments on a Franka Robotics manipulator showed switching delays under 0.1 ms, a substantial improvement over standard ros2_control implementations, ensuring continuous operation even during safety-critical events (source: raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md). This enhanced efficiency also led to a 3.5% reduction in execution time and a threefold decrease in peak trajectory jerk in a multi-stage manipulation task, indicating smoother and more efficient robot movement (source: raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md). The technical innovation lies in eliminating runtime middleware overhead through lock-free pointer operations for controller transitions, achieving reflex-level responsiveness within an open-source robotics ecosystem (source: raw_sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction.md).
 
+### 21. HRI in Aged Care Homes and Private Residences
+Implementing human-robot interaction (HRI) in aged care settings, including residential aged care (RAC) homes and private residences, presents significant challenges. These environments are characterized by their dynamic nature, the diverse needs of older adults, and often limited technical support infrastructure (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Robotic and ambient intelligence systems are being developed to assist older adults with daily living activities, enhance safety through monitoring, and promote social engagement (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Crucially, these systems emphasize user-centered design, with a strong focus on accessibility for individuals with low digital literacy. This involves prioritizing intuitive interfaces, simple voice commands, minimal non-verbal cues, accessible companion interfaces, and safe object manipulation capabilities (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Addressing concerns related to privacy, trust, and acceptability is paramount. Strategies such as on-device processing, data minimization, transparent data handling, and visible consent controls are proposed to build trust and ensure compliance with AI regulations (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Evaluation methods are geared towards real-world effectiveness, assessing metrics like false alarm rates, fault recovery times, the impact on staff workload, and long-term reliability, with the ultimate goal of achieving scalable, regulation-compliant solutions that enhance the dignity, safety, and independence of older adults (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -343,3 +347,4 @@ Continuous physical human-robot interaction (pHRI) requires robots to adapt thei
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
 - [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]]
 - [[source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware]]
+- [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]

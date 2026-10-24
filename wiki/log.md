@@ -3939,3 +3939,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-24 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md
+- raw/raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/measurement-tools.md
+- wiki/source-navigating-human-robot-interaction-challenges-in-aged-care-homes.md
+- wiki/human-robot-interaction.md
+- wiki/medical-ai.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration" and created summary page wiki/source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md.
+- Ingested "Navigating human-robot interaction challenges in private and residential aged care homes" and created summary page wiki/source-navigating-human-robot-interaction-challenges-in-aged-care-homes.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
