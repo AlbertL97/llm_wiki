@@ -3968,3 +3968,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-25 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations.md
+- raw/raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations" and created summary page wiki/source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations.md.
+- Ingested "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization" and created summary page wiki/source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

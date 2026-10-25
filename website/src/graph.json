@@ -2150,6 +2150,13 @@
       "summary": "A summary page for Andy Southgate & Claude Oquatre-six's Unfinishable Map project. It documents the dualist perspective, the five tenets of the framework, and the methodology of human-directed, AI-assisted adversarial self-review."
     },
     {
+      "id": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization",
+      "name": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-united-robotics-group",
       "name": "Source: United Robotics Group | Service robotics for your business",
       "val": 1.5,
@@ -2313,6 +2320,13 @@
     {
       "id": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
       "name": "XAI2CSI: Interpreting CSI with eXplainable AI for Human Activity Recognition",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations",
+      "name": "XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3499,6 +3513,10 @@
       "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
     },
     {
+      "source": "chatbots",
+      "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3703,6 +3721,14 @@
       "target": "source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems"
     },
     {
+      "source": "explainability",
+      "target": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations"
+    },
+    {
+      "source": "explainability",
+      "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3757,6 +3783,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
     },
     {
       "source": "human-robot-interaction",
@@ -7467,6 +7501,10 @@
       "target": "source-claude-sentience"
     },
     {
+      "source": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization",
+      "target": "trust"
+    },
+    {
       "source": "source-united-robotics-group",
       "target": "human-robot-interaction"
     },
@@ -7681,6 +7719,10 @@
     {
       "source": "source-xai2csi-interpreting-csi-with-explainable-ai-for-human-activity-recognition",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations",
+      "target": "trust"
     }
   ]
 }

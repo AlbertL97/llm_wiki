@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-24
+**Last updated**: 2026-10-25
 
 ## Orientation
 
@@ -243,6 +243,8 @@
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]] — Summary of Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
+- [[source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations]] — Summary of XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations.
+- [[source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization]] — Summary of UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization.
 - [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.
 - [[source-learning-social-robot-navigation-by-sensing-human-legs]] — Summary of Learning Social Robot Navigation By Sensing Human Legs.
 - [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]] — Summary of Challenges in Evaluating Explanation Methods for Static and Evolving Data.

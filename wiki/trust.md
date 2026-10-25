@@ -169,8 +169,10 @@
 - raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md
 - raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
+- raw_xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations.md
+- raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md
 
-**Last updated**: 2026-10-24
+**Last updated**: 2026-10-25
 
 ---
 
@@ -181,6 +183,10 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### AI Guardrails and Cross-Interface Safety Generalization
+
+A significant challenge for AI safety is ensuring that guardrails, designed to prevent harmful outputs, generalize effectively across different interaction formats. Traditional guardrails often fail when safety cases are presented in interfaces they were not explicitly trained on (source: raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md). To address this brittleness, the UniGuard framework has been developed. UniGuard employs a multi-view learning approach, training AI guardrails on semantically aligned representations of safety cases that span various interfaces, such as conversational prompts, agent trajectories, and multi-agent traces (source: raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md). This approach allows guardrails to learn interface-invariant safety representations, leading to significantly improved performance on unseen interfaces and a reduction in calibration error (source: raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md). Even small models trained with UniGuard can achieve competitive safety performance, indicating a promising direction for building more robust and trustworthy AI systems across diverse deployment contexts (source: raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md).
 
 ### Age Care Environments and Human-Robot Interaction
 
@@ -825,7 +831,7 @@ The "RealCompanion" benchmark and system aim to evaluate an AI companion's abili
 
 ### Could LLM Watermark Detection be Public?
 
-Watermarking LLMs is a crucial technique for identifying AI-generated content, but making watermark detection publicly accessible raises significant security considerations. While public detectors can enhance transparency and interoperability, they may also facilitate targeted attacks by adversaries seeking to tamper with or forge AI-generated text (source: raw_could-llm-watermark-detection-be-public.md). This research proposes a novel "split-key watermarking" method that balances public transparency with robust security. In this approach, one key for detection is made public, while a second, private key is retained for verification (source: raw_could-llm-watermark-detection-be-public.md). This allows attackers to manipulate the public signal, but an imbalance between public and private scores, identified through a statistical test, reveals tampering and forgery attempts (source: raw_could-llm-watermark-detection-be-public.md). The study concludes that public detectors offer minimal gains for watermark removal but are effective in detecting forgery attacks, thereby mitigating provider liability and potentially obviating the need for fully private detectors (source: raw_could-llm-watermark-detection-be-public.md). This work has implications for trust and accountability in human-AI interactions, particularly in discerning the authenticity and origin of AI-generated content in sensitive domains.
+Watermarking LLMs is a crucial technique for identifying AI-generated content, but making watermark detection publicly accessible raises significant security considerations. While public detectors can enhance transparency and interoperability, they may also facilitate targeted attacks by adversaries seeking to tamper with or forge AI-generated text (source: raw_could-llm-watermark-detection-be-public.md). This research proposes a novel "split-key watermarking" method that balances public transparency with robust security. In this approach, one key for detection is made public, while a second, private key is retained for verification (source: raw_could-llm-watermark-detection-be-public.md). This allows attackers to manipulate the public signal, but an imbalance between public and private scores, identified through a statistical test, reveals tampering and forgery attempts (source: raw_could-llm-watermark-detection-be-public.md). This work has implications for trust and accountability in human-AI interactions, particularly in discerning the authenticity and origin of AI-generated content in sensitive domains.
 
 ### Beyond Large Language Models: Advancing Social Cognition with Mental World Models
 
@@ -1119,12 +1125,4 @@ Visual cues drive trust formation and calibration in digital avatars and robots:
 - **Duchenne Smiles**: Incorporating eye-crinkling Duchenne micro-smiles into avatars significantly increases user-perceived warmth and trust compared to standard smiles (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 - **Anthropomorphism Control**: For domestic/helper robots, abstract or absent eye designs are often preferred as they reduce the uncanny valley effect and make the robot less threatening (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 
-**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This framework highlights that while designers can aim for humanlikeness, the user's inference of human traits is a separate cognitive mechanism that significantly influences trust and interaction dynamics (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Understanding this divergence is vital for designing robots that effectively manage user trust and engagement (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md).
-
-### 27. The Persuasion Paradox and AI as Persuasion Engines
-Explanations are highly valued by users but introduce a **Persuasion Paradox**, where fluent explanations decouple user confidence from objective accuracy, masking system errors and suppressing error recovery (source: The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md). For a detailed analysis of this phenomenon and its task-dependence, see [Explainability](file:///c:/Users/lukas/Desktop/Agents_workflow/Gemini/llm_wiki/wiki/explainability.md).
-
-Because LLMs produce highly convincing, clean, and fluent narratives, they function inherently as persuasion engines (source: raw_llm-council-synthetic-cognitive-systems.md). Mitigating the risks of overreliance and systematic narrative persuasion requires structured debiasing protocols—such as forced uncertainty representation, premortems, and checklists—similar to the safety-critical operational protocols established in healthcare safety (source: raw_llm-council-synthetic-cognitive-systems.md).
-
-### 28. Conversational AI as a Psychotechnology
-Conversational AI is developing into a "psychotechnology" not necessarily due to its intelligence, but because its conversational medium fundamentally reshapes human thinking and cognition (source: raw_a-psychotechnology-
+**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This framework highlights that while designers can aim for humanlikeness, the user's inference of human traits is a separate cognitive mechanism that significantly influences trust and interaction dynamics (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Understanding this divergence is vital for designing robots that effectively manage user trust and engagement (source: raw
