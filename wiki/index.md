@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ## Orientation
 
@@ -115,6 +115,7 @@
 - [[source-hobits-a-profile-aware-retrieval-augmented-chatbot-for-university-academic-advising]] — Summary of hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising.
 - [[source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change]] — Summary of How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change.
 - [[source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms]] — Summary of How Developers Experience Debugging Unfamiliar Codebases with Code Tours Generated and Evaluated by Local LLMs.
+- [[source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models]] — Summary of How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models.
 - [[source-how-to-help-humans-understand-robots]] — Summary of How to help humans understand robots.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
@@ -230,6 +231,7 @@
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-understanding-and-resolving-failures-in-human-robot-interaction]] — Summary of Understanding and Resolving Failures in Human-Robot Interaction: Literature Review and Model Development.
+- [[source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization]] — Summary of UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
 - [[source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels]] — Summary of "I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels.
 - [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.
@@ -240,6 +242,7 @@
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]] — Summary of What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?.
 - [[source-what-human-ai-interaction-leaves-behind-residual-human-ai-interaction-leaves-behind-residual-human-states]] — Summary of What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis.
+- [[source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots]] — Summary of When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots.
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]] — Summary of Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.

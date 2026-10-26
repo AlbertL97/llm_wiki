@@ -171,8 +171,10 @@
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 - raw_xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations.md
 - raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md
+- raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
+- raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 
-**Last updated**: 2026-10-25
+**Last updated**: 2026-10-26
 
 ---
 
@@ -1125,4 +1127,4 @@ Visual cues drive trust formation and calibration in digital avatars and robots:
 - **Duchenne Smiles**: Incorporating eye-crinkling Duchenne micro-smiles into avatars significantly increases user-perceived warmth and trust compared to standard smiles (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 - **Anthropomorphism Control**: For domestic/helper robots, abstract or absent eye designs are often preferred as they reduce the uncanny valley effect and make the robot less threatening (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
 
-**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This framework highlights that while designers can aim for humanlikeness, the user's inference of human traits is a separate cognitive mechanism that significantly influences trust and interaction dynamics (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). Understanding this divergence is vital for designing robots that effectively manage user trust and engagement (source: raw
+**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This

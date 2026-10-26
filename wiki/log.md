@@ -3993,3 +3993,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-26 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
+- raw/raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/trust.md
+- wiki/explainability.md
+- wiki/medical-ai.md
+- wiki/qualitative-methods.md
+- wiki/source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots" and created summary page wiki/source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md.
+- Ingested "How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models" and created summary page wiki/source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -39,8 +39,9 @@
 - raw_accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems.md
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
+- raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
 
-**Last updated**: 2026-10-24
+**Last updated**: 2026-10-26
 
 ---
 
@@ -165,6 +166,9 @@ A 30-year review of human-machine trust in medicine documents a shift from *trus
 ### 21. Human-Centric Embodied Intelligence for Soft Wearable Robotics
 A paradigm shift is proposed for the design of soft wearable robots, moving from actuator-first approaches to a human-centric model. This involves recognizing intelligence as an emergent property of the coupled human-robot system, driven by their interaction. This concept, termed Human-Centric Embodied Intelligence (HCEI), considers the interplay of morphology, sensing, cognition, actuation, and wearer adaptation (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The proposed Perception-Cognition-Actuation-Augmentation (PCAA) framework prioritizes human perception and cognition as the primary drivers for robot design (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md). The ultimate goal is to develop soft wearable robots that users can comfortably wear, trust, and benefit from over extended periods, facilitating applications in rehabilitation, assistance, and augmentation. This approach aims to accelerate the development and real-world deployment of personalized, predictive, and human-centric wearable intelligence (source: raw_human-centric-embodied-intelligence-for-soft-wearable-robotics.md).
 
+### 22. Factuality Indicators and Trust in LLM Chatbots
+The design and evaluation of factuality indicators for Large Language Model (LLM)-based chatbots are crucial for fostering calibrated trust in AI-assisted information retrieval. These indicators, such as confidence levels and provided sources, significantly influence users' initial perceptions of trust and accuracy (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). However, users interpret AI confidence ambiguously, and concerns persist regarding the reliability of provided sources and the effort required for verification (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). The study found that the impact of these indicators diminishes once users are aware of the factual correctness of an AI response (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). Notably, medical queries consistently generate skepticism, irrespective of the presence or type of factuality indicators displayed (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). This research underscores the need for improved AI interface design to help users better understand model confidence and effectively utilize source information to build calibrated trust (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md).
+
 ## Related pages
 
 - [[source-healthcare-human-ai-interaction]]
@@ -208,3 +212,4 @@ A paradigm shift is proposed for the design of soft wearable robots, moving from
 - [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]]
 - [[source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation]]
 - [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]
+- [[source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots]]

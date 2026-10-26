@@ -1121,6 +1121,13 @@
       "summary": ""
     },
     {
+      "id": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
+      "name": "How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-how-to-help-humans-understand-robots",
       "name": "How to help humans understand robots",
       "val": 1.5,
@@ -2269,6 +2276,13 @@
       "summary": ""
     },
     {
+      "id": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots",
+      "name": "When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-where-ai-agents-build-worlds",
       "name": "Where AI Agents Build Worlds",
       "val": 1.5,
@@ -3009,6 +3023,10 @@
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -3517,6 +3535,14 @@
       "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
     },
     {
+      "source": "chatbots",
+      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3729,6 +3755,10 @@
       "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
     },
     {
+      "source": "explainability",
+      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3791,6 +3821,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
     },
     {
       "source": "human-robot-interaction",
@@ -4605,6 +4643,10 @@
       "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
     },
     {
+      "source": "medical-ai",
+      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5185,6 +5227,10 @@
       "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -5291,6 +5337,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
     },
     {
       "source": "social-media-and-online-communities",
@@ -6446,6 +6496,14 @@
     },
     {
       "source": "source-how-developers-experience-debugging-unfamiliar-codebases-with-code-tours-generated-and-evaluated-by-local-llms",
+      "target": "explainability"
+    },
+    {
+      "source": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
+      "target": "trust"
+    },
+    {
+      "source": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
       "target": "explainability"
     },
     {
@@ -7671,6 +7729,10 @@
     {
       "source": "source-when-robots-rate-their-own-interactions-engagement-validity-and-the-strangeness-failure",
       "target": "chatbots"
+    },
+    {
+      "source": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots",
+      "target": "trust"
     },
     {
       "source": "source-where-ai-agents-build-worlds",
