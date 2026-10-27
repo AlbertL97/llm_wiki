@@ -4022,3 +4022,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-27 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
+- raw/raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
+- wiki/ai-companions.md
+- wiki/trust.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md
+- wiki/explainability.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI" and created summary page wiki/source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md.
+- Ingested "Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies" and created summary page wiki/source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -925,6 +925,13 @@
       "summary": ""
     },
     {
+      "id": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies",
+      "name": "Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",
       "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
       "val": 1.5,
@@ -1996,6 +2003,13 @@
       "summary": ""
     },
     {
+      "id": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai",
+      "name": "The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-therapy-should-be-hard-why-ai-cant-replace-it",
       "name": "Therapy Should Be Hard. That’s Why AI Can’t Replace It",
       "val": 1.5,
@@ -2717,6 +2731,10 @@
     {
       "source": "ai-companions",
       "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
     },
     {
       "source": "anthropomorphism",
@@ -3759,6 +3777,10 @@
       "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
     },
     {
+      "source": "explainability",
+      "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3829,6 +3851,18 @@
     {
       "source": "human-ai-interaction",
       "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "mental-health"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
     },
     {
       "source": "human-robot-interaction",
@@ -4145,6 +4179,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-navigating-human-robot-interaction-challenges-in-aged-care-homes"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
     },
     {
       "source": "introspective-awareness",
@@ -4647,16 +4685,16 @@
       "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
     },
     {
+      "source": "medical-ai",
+      "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
     {
       "source": "mental-health",
       "target": "trust"
-    },
-    {
-      "source": "mental-health",
-      "target": "human-ai-interaction"
     },
     {
       "source": "mental-health",
@@ -4889,6 +4927,14 @@
     {
       "source": "mental-health",
       "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -7396,6 +7442,10 @@
     },
     {
       "source": "source-the-role-of-frustration-in-human-robot-interaction",
+      "target": "trust"
+    },
+    {
+      "source": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai",
       "target": "trust"
     },
     {

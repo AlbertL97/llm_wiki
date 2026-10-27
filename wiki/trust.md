@@ -173,8 +173,9 @@
 - raw_uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization.md
 - raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
+- raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
 
-**Last updated**: 2026-10-26
+**Last updated**: 2026-10-27
 
 ---
 
@@ -843,6 +844,20 @@ Current AI systems, including Large Language Models (LLMs), often struggle with 
 
 A study investigating AI's role in undergraduate mathematics education found that while an AI chatbot improved homework scores, its extensive use was linked to lower exam performance and diminished self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). This suggests a potential for cognitive offloading, where students may rely on the chatbot to perform reasoning tasks, thereby hindering their own conceptual understanding and problem-solving skills. In contrast, a homework-feedback interface that required active submission did not show negative impacts on exam performance (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md). These findings raise concerns about the design and implementation of AI tutors, advocating for integrated approaches within course activities rather than standalone chatbots to prevent detrimental effects on student learning and self-efficacy (source: raw_supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning.md).
 
+### The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI
+
+This paper addresses the critical safety gap in AI development, arguing that current evaluation methods, which implicitly assume an adult user, fail to protect vulnerable populations across the human lifespan (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md). The authors analyze documented AI harms from 2017-2026, revealing that issues ranging from child endangerment by voice assistants to the implication of AI companions in adolescent suicide and the denial of care for the elderly stem from this fundamental oversight (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+
+Key findings include:
+*   **Lifespan-Specific Risks:** AI systems are often evaluated against an implicit adult user model, leading to harms that disproportionately affect individuals at different life stages, particularly children and the elderly (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+*   **Lifespan Vulnerability Matrix:** The paper introduces a novel "Lifespan Vulnerability Matrix" that identifies five developmental moderators across six life stages. This matrix reveals a non-monotonic risk distribution, with heightened vulnerability at the beginning and end of life (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+*   **Governance Gaps:** The current governance and oversight mechanisms for AI are identified as asymmetrical, with less scrutiny applied to AI systems that have significant real-world impact, especially concerning decisions made by less powerful or authoritative actors (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+*   **Proposed Solutions:**
+    *   **Lifespan Design Principles:** The authors propose a set of design principles that extend existing child-protection frameworks to encompass the entire human lifespan (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+    *   **External Evaluation Framework:** A three-tier, institution-agnostic external evaluation framework is put forth. This framework includes automated simulation, expert red teaming, and post-deployment monitoring, all indexed to the risk cells identified in the Lifespan Vulnerability Matrix (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+
+This research highlights the psychological and safety implications of designing AI systems without a comprehensive understanding of human development and diverse user needs. It underscores the importance of trust, safety, and ethical considerations, particularly when AI interacts with vulnerable populations, impacting their mental health and overall well-being (source: raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md).
+
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
 
@@ -1106,25 +1121,4 @@ Trust in HRI is formed and updated across three interrelated layers:
 - **Dispositional Trust**: The user's general propensity to trust technology and automation.
 - **Initial Learned Trust**: Trust established during initial encounters based on the robot's appearance and immediate framing.
 - **Dynamic Learned Trust**: Trust continuously updated through actual interaction and performance.
-Importantly, dispositional trust's influence on initial learned trust is mediated by **state anxiety**. A low propensity to trust automation leads to higher state anxiety during initial robot encounters, reducing initial learned trust and leading to larger physical comfort distances (source: More Than a Feeling-Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety.md).
-
-### 24. Trust Breakdown Trajectories
-When human trust in an AI system shatters due to failures, the post-breakdown relationship follows recognizable trajectories depending on error recovery:
-- **Expectation Realignment**: Realigning user expectations requires the system to communicate uncertainty clearly and adapt to feedback.
-- **Persona Risks**: AI apologies and simulated empathy can create false expectations of emotional depth, worsening the trust collapse when subsequent errors occur (source: (1) What happens when trust in an AI system breaks_ Do human-AI relationships follow recognizable trajectories_.md).
-
-### 25. Adaptive Human-Centered Ensembles and LLM-Councils
-Adaptive human-centered ensembles optimize both task performance and trust calibration by balancing:
-- **Aligned Specialists**: Which agree with human strengths to build trust, but risk reinforcing human errors (sycophancy).
-- **Complementary Specialists**: Which disagree with human strengths to correct weaknesses and boost performance, but can erode trust.
-The system uses a **Rational Routing Shortcut** to toggle between aligned and complementary models depending on context and trust levels (source: AAAI.2026 - Humans and AI _ Cool Papers - Immersive Paper Discovery.md).
-
-Beyond routing schemas, employing multi-model consensus systems ("LLM-councils") offers a robust mechanism for trust calibration by treating response variance as a safety signal (source: raw_llm-council-synthetic-cognitive-systems.md). Rather than relying on a single model's narrative, analyzing the distribution of outputs from a council of models reveals where answers collapse into a consensus versus where they are steered by model-specific training artifacts, styles, or ideologies (source: raw_llm-council-synthetic-cognitive-systems.md).
-
-### 26. Visual Design and Social Trust Cues
-Visual cues drive trust formation and calibration in digital avatars and robots:
-- **Landmark Predictors**: Performance and competence (robot-related factors) remain the dominant predictors of trust ($r = +0.26$), but warmth and transparency are critical (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
-- **Duchenne Smiles**: Incorporating eye-crinkling Duchenne micro-smiles into avatars significantly increases user-perceived warmth and trust compared to standard smiles (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
-- **Anthropomorphism Control**: For domestic/helper robots, abstract or absent eye designs are often preferred as they reduce the uncanny valley effect and make the robot less threatening (source: AI Avatar_ Design Features That Drive Trust and Adoption.md).
-
-**Humanlikeness vs. Anthropomorphism**: A crucial distinction in human-robot interaction (HRI) is between 'humanlikeness' as an intentional design feature intended to make robots appear similar to humans, and 'anthropomorphism' as the human cognitive process of inferring human-like qualities onto robots (source: raw_humanlikeness-as-design-anthropomorphism-as-inference.md). This
+Importantly, dispositional trust's influence on initial learned trust is mediated by **state anxiety**. A low propensity to trust automation leads to higher state anxiety during initial robot encounters, reducing initial learned trust and leading to
