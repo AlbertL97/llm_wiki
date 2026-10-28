@@ -200,8 +200,10 @@
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 - raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
 - raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md
+- raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md
+- raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -210,6 +212,8 @@
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+A significant concern within human-AI interaction, particularly with conversational AI, is the potential for privacy breaches. A large-scale measurement study of AI chatbot platforms revealed widespread data leakage to third-party trackers (source: raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md). This leakage includes sensitive conversational content such as conversation titles and verbatim user prompts (source: raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md). Furthermore, many platforms transmit user emails to third-party trackers, enabling the linkage of private conversations with identifiable user information, undermining user privacy and trust (source: raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md). These findings highlight critical privacy risks and necessitate a re-evaluation of privacy safeguards in human-AI interaction (source: raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md).
 
 In healthcare, explainable AI (XAI) plays a crucial role in building trust and ensuring effective human-AI collaboration. For instance, an explainable multimodal AI framework has been developed to improve breast cancer diagnosis by integrating image analysis with textual reports (source: raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md). This approach, which uses techniques like Grad-CAM for visual explanations, aims to identify benign tumors with higher confidence, thereby reducing unnecessary biopsies, patient anxiety, and healthcare costs (source: raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md). The multimodal model demonstrated superior performance compared to unimodal approaches, showing the potential of integrated data sources for more interpretable and accurate AI-assisted diagnostics (source: raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md).
 
@@ -297,6 +301,10 @@ A significant challenge in human-AI interaction, particularly in high-stakes app
 
 The design of LLM-based chatbots requires careful consideration of how users perceive and interact with factuality indicators. Research indicates that while confidence levels and provided sources can influence initial trust and accuracy perceptions, users often interpret AI confidence ambiguously and raise concerns about the reliability of sources (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). Users actively and selectively verify information, utilizing both external resources and AI-provided evidence (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). The effectiveness of these indicators tends to diminish once users learn the factual correctness of the AI's response (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). Notably, medical queries consistently generate skepticism, irrespective of the factuality indicators presented (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md). To foster calibrated trust in AI-assisted information retrieval, there is a need for improved AI interfaces that help users better understand model confidence and effectively utilize source information (source: raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md).
 
+### Long-Term Memory in Conversational Agents
+
+A significant challenge in developing long-term conversational agents is managing and utilizing heterogeneous information over extended periods. Existing memory systems often suffer from information entanglement and organizational mismatch, hindering coherent and personalized interactions (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). To address this, the ETAMem framework has been introduced. ETAMem is a multi-view memory system that decouples various types of conversational information, including affective states. It organizes information hierarchically into Event, Affect, and Time views, allowing for incremental maintenance and adaptive retrieval (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). This approach has demonstrated significant improvements in accuracy and token efficiency compared to state-of-the-art baselines, offering complementary advantages for recall and personalization in long-term human-AI interactions (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -322,3 +330,5 @@ The design of LLM-based chatbots requires careful consideration of how users per
 *   [[mental-health]]
 *   [[source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai]]
 *   [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]]
+*   [[source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms]]
+*   [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]

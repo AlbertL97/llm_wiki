@@ -15,8 +15,9 @@
 - raw_event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents.md
 - raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
+- raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
 
-**Last updated**: 2026-10-19
+**Last updated**: 2026-10-28
 
 ---
 
@@ -102,6 +103,10 @@ In iterative human-AI interaction, ensuring that AI belief updates are driven by
 
 Current Large Language Models (LLMs) and Theory of Mind (ToM) methods have limitations in achieving deeper social cognition and general intelligence due to a lack of unified mechanisms for subjective world construction, modeling cognitive-psychological interactions, and simulating dynamic mental evolution based on historical experiences. A novel framework, the Mental World Model (MWM), and its implementation, the Multi-Branch Mental Evolution Architecture (MMEA), address these deficiencies (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). The MWM explicitly constructs subjective worlds and models the dynamic interactions between cognition and mental states, simulating continuous evolution shaped by historical experiences (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). This approach significantly improves performance on benchmarks like DynToM (96.48%) and RecToM (94.00%), outperforming leading LLMs and specialized ToM methods, and showing substantial gains in mental state and behavior prediction (+28.7 pp), long-sequence prediction (+39.3 pp), and implicit mental state inference (+16.6 pp) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md). The MWM provides an interpretable framework for continuous mental modeling, enabling AI to move beyond surface-level semantic representations to infer underlying mental states and dynamically simulate cognitive processes and their evolution, laying a foundation for causal reasoning, personalized AI, sustained human-AI interaction, and advancements towards Artificial General Intelligence (AGI) (source: raw_beyond-large-language-models-a-mental-world-model-framework.md).
 
+### 15. Heterogeneous Memory Decoupling for Conversational Agents
+
+Existing long-term memory systems for conversational agents often suffer from information entanglement and organizational mismatches, primarily relying on semantic similarity for retrieval (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). This limits coherent and personalized long-term interactions. ETAMem proposes a multi-view memory framework that decouples heterogeneous conversational information by extracting atomic memory units and identifying affective information. It organizes this information into three hierarchical, complementary views: Event, Affect, and Time (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). The system maintains memory structures incrementally with adaptive thresholds and utilizes entropy-based retrieval, which allocates query-specific budgets across views for hierarchical search (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). ETAMem has demonstrated significant improvements over state-of-the-art baselines on benchmark datasets, achieving relative accuracy gains and maintaining token efficiency, with its distinct memory views offering complementary advantages for conversational recall and personalization (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -118,3 +123,4 @@ Current Large Language Models (LLMs) and Theory of Mind (ToM) methods have limit
 - [[source-event-centric-memory-with-query-aware-graph-augmentation-for-long-term-conversational-agents]]
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]]
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
+- [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]

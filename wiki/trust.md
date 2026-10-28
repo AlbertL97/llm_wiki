@@ -174,8 +174,9 @@
 - raw_when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots.md
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 - raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
+- raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -1121,4 +1122,4 @@ Trust in HRI is formed and updated across three interrelated layers:
 - **Dispositional Trust**: The user's general propensity to trust technology and automation.
 - **Initial Learned Trust**: Trust established during initial encounters based on the robot's appearance and immediate framing.
 - **Dynamic Learned Trust**: Trust continuously updated through actual interaction and performance.
-Importantly, dispositional trust's influence on initial learned trust is mediated by **state anxiety**. A low propensity to trust automation leads to higher state anxiety during initial robot encounters, reducing initial learned trust and leading to
+Importantly, dispositional trust'

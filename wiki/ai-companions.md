@@ -72,8 +72,9 @@
 - raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 - raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
+- raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -174,6 +175,8 @@ The development of advanced Text-to-Speech (TTS) systems capable of fine-grained
 A new framework called **Trajectory-based Disclosure Evaluation (TraDE)** has been developed to systematically assess AI behavior in conversational contexts, particularly in supportive roles. This framework, grounded in Social Penetration Theory, moves beyond analyzing isolated conversation turns to evaluating how a user's *disclosure trajectory* (their history of personal disclosures) influences AI responses (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
 
 Key findings from TraDE research demonstrate that AI responses are **history-dependent**, meaning they can differ significantly based on what has been disclosed previously, even when the current level of disclosure is the same (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). These differences are primarily linked to the **accumulated exposure** to deeper disclosure levels and can persist for multiple turns (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). Notably, AI models showed the most consistent divergence from human supporters not when users disclosed more deeply, but when they reduced their disclosure levels (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md). This highlights the critical need for AI agents to possess a robust understanding of long-term conversational context and memory to provide effective social and emotional support and to build trust (source: raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md).
+
+A new memory framework, ETAMem, has been developed to address the limitations of existing long-term memory systems for conversational agents (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). ETAMem decouples heterogeneous conversational information into distinct, complementary views: Event, Affect, and Time (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). This multi-view approach, which includes extracting atomic memory units and identifying affective information, aims to overcome issues of Information Entanglement and Organizational Mismatch (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). The framework utilizes incremental maintenance and entropy-based retrieval to enable coherent and personalized long-term interactions, demonstrating significant accuracy improvements over baseline methods (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md).
 
 ### 1. "The Ache" and the Problem of Resets
 A central limitation of AI companions is their lack of long-term continuity due to context window limits (source: The Rise of Parasitic AI.md):
@@ -346,3 +349,4 @@ AI companion chatbots are increasingly being used for mental health support, rai
 - [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]
 - [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]
 - [[source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai]]
+- [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]

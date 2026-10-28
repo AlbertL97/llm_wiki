@@ -883,6 +883,13 @@
       "summary": ""
     },
     {
+      "id": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents",
+      "name": "ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-evaluability-gap-ai-translation",
       "name": "When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation",
       "val": 1.5,
@@ -1522,6 +1529,13 @@
     {
       "id": "source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users",
       "name": "Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
+      "name": "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2737,6 +2751,10 @@
       "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
     },
     {
+      "source": "ai-companions",
+      "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3502,63 +3520,7 @@
     },
     {
       "source": "chatbots",
-      "target": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-what-human-ai-interaction-leaves-behind-residual-human-states"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-dialfork-evaluating-procedural-hallucination-conversational-agents"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-beyond-large-language-models-a-mental-world-model-framework"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
-    },
-    {
-      "source": "chatbots",
-      "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+      "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
     },
     {
       "source": "explainability",
@@ -3863,6 +3825,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
     },
     {
       "source": "human-robot-interaction",
@@ -4521,6 +4491,10 @@
       "target": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4983,6 +4957,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-beyond-large-language-models-a-mental-world-model-framework"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
     },
     {
       "source": "mind-perception",
@@ -5869,8 +5847,20 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse",
+      "target": "chatbots"
+    },
+    {
       "source": "source-beyond-large-language-models-a-mental-world-model-framework",
       "target": "trust"
+    },
+    {
+      "source": "source-beyond-large-language-models-a-mental-world-model-framework",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation",
+      "target": "chatbots"
     },
     {
       "source": "source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation",
@@ -6147,6 +6137,10 @@
     {
       "source": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-dialfork-evaluating-procedural-hallucination-conversational-agents",
+      "target": "chatbots"
     },
     {
       "source": "source-dialfork-evaluating-procedural-hallucination-conversational-agents",
@@ -6530,6 +6524,10 @@
     },
     {
       "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-how-anthropomorphic-attitudes-toward-agents-divide-user-behavior-and-how-design-should-change",
       "target": "human-robot-interaction"
     },
     {
@@ -6547,6 +6545,10 @@
     {
       "source": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
       "target": "trust"
+    },
+    {
+      "source": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
+      "target": "chatbots"
     },
     {
       "source": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models",
@@ -6842,6 +6844,10 @@
     },
     {
       "source": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support",
       "target": "human-ai-interaction"
     },
     {
@@ -6925,8 +6931,20 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
+      "target": "trust"
+    },
+    {
+      "source": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
+      "target": "chatbots"
+    },
+    {
       "source": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
+      "target": "chatbots"
     },
     {
       "source": "source-personality-quantization-layer-wise-mbti-analysis-quantized-llms",
@@ -7306,6 +7324,10 @@
     },
     {
       "source": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-supporting-or-replacing-students-reasoning-cognitive-offloading-in-ai-assisted-proof-learning",
       "target": "trust"
     },
     {
@@ -7613,6 +7635,10 @@
       "target": "trust"
     },
     {
+      "source": "source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization",
+      "target": "chatbots"
+    },
+    {
       "source": "source-united-robotics-group",
       "target": "human-robot-interaction"
     },
@@ -7674,6 +7700,10 @@
     },
     {
       "source": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts",
       "target": "human-ai-interaction"
     },
     {
@@ -7699,6 +7729,10 @@
     {
       "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
       "target": "trust"
+    },
+    {
+      "source": "source-what-human-ai-interaction-leaves-behind-residual-human-states",
+      "target": "chatbots"
     },
     {
       "source": "source-what-is-a-robot",
@@ -7782,6 +7816,10 @@
     },
     {
       "source": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots",
+      "target": "chatbots"
+    },
+    {
+      "source": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots",
       "target": "trust"
     },
     {
@@ -7791,6 +7829,10 @@
     {
       "source": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration",
       "target": "trust"
+    },
+    {
+      "source": "source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration",
+      "target": "chatbots"
     },
     {
       "source": "source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai",

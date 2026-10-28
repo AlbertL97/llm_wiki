@@ -4050,3 +4050,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-28 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md
+- raw/raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
+- wiki/ai-companions.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms" and created summary page wiki/source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md.
+- Ingested "ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents" and created summary page wiki/source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

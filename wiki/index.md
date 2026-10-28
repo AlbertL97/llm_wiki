@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ## Orientation
 
@@ -15,12 +15,11 @@
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
 - [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]] — Summary of Accountable partial understanding: securing the epistemic attack surface of agentic systems.
-- [[source-aero-hand-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
+- [[source-aero-hand-open-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
 - [[source-affective-context-amplifies-sycophancy-in-llm-responses]] — Summary of Affective Context Amplifies Sycophancy in LLM Responses.
 - [[source-affective-tools-for-thought-towards-shared-attention-and-affective-reorienting-in-ai-supported-thinking]] — Summary of Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking.
 - [[source-agibot]] — Summary of Agibot, a robotic surgery assistant.
 - [[source-ai-avatars-human-avatars]] — Summary of study comparing danmaku user interactions between AI-Avatars and Human-Avatars in live streaming.
-- [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-builds-itself]] — Summary of Anthropic's "When AI builds itself" article on recursive self-improvement metrics, 8x engineering velocity, automated code reviews, and pause verification policy proposals.
 - [[source-ai-companion-dementia-delay]] — Summary of Could an AI Companion Help Delay Dementia?.
 - [[source-ai-companion-technology-psychology-pros-cons]] — Summary of AI Companion Technology AI Companions Psychology Pros and Cons.
@@ -45,10 +44,10 @@
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
 - [[source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse]] — Summary of BenCoDiC: A Large-Scale Contextual Cyberbullying Corpus for Bengali Political News Discourse FULL VERSION.
+- [[source-beyond-large-language-models-a-mental-world-model-framework]] — Summary of Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability.
 - [[source-beyond-personality-quantization-layer-wise-mbti-analysis-quantized-llms]] — Summary of When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs.
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]] — Summary of Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion.
-- [[source-beyond-large-language-models-a-mental-world-model-framework]] — Summary of Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability.
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-blue-pale-signal]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.
@@ -88,16 +87,17 @@
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]] — Summary of Entropy-Centric Explainable AI for Remote Sensing Image Segmentation.
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]] — Summary of Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes.
+- [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]] — Summary of ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
+- [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]] — Summary of Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
-- [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]] — Summary of Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies.
-- [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
+- [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
 - [[source-from-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction]] — Summary of From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction.
@@ -161,6 +161,7 @@
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
+- [[source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms]] — Summary of Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms.
 - [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]] — Summary of PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.
 - [[source-persuarl-reinforcement-learning-driven-multi-expert-selection-for-persuasive-dialogue-generation-in-insurance]] — Summary of PersuaRL: Reinforcement Learning-Driven Multi-Expert Selection for Persuasive Dialogue Generation in Insurance.
@@ -249,13 +250,6 @@
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations]] — Summary of XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations.
-- [[source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization]] — Summary of UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization.
-- [[source-classifier-chain-based-pathological-test-recommendation]] — Summary of Classifier Chain-based Pathological Test Recommendation.
-- [[source-learning-social-robot-navigation-by-sensing-human-legs]] — Summary of Learning Social Robot Navigation By Sensing Human Legs.
-- [[source-challenges-in-evaluating-explanation-methods-for-static-and-evolving-data]] — Summary of Challenges in Evaluating Explanation Methods for Static and Evolving Data.
-- [[source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents]] — Summary of Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents.
-- [[source-teens-turn-to-ai-for-friendship]] — Summary of Teens say they are turning to AI for friendship.
-- [[source-the-future-of-psychology-and-robotics]] — Summary of The Future of Psychology and Robotics.
 
 ## Core theoretical frameworks
 
