@@ -16,8 +16,9 @@
 - raw_provenance-aware-belief-updating-in-human-ai-feedback-loops.md
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
+- raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-10-30
 
 ---
 
@@ -107,6 +108,10 @@ Current Large Language Models (LLMs) and Theory of Mind (ToM) methods have limit
 
 Existing long-term memory systems for conversational agents often suffer from information entanglement and organizational mismatches, primarily relying on semantic similarity for retrieval (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). This limits coherent and personalized long-term interactions. ETAMem proposes a multi-view memory framework that decouples heterogeneous conversational information by extracting atomic memory units and identifying affective information. It organizes this information into three hierarchical, complementary views: Event, Affect, and Time (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). The system maintains memory structures incrementally with adaptive thresholds and utilizes entropy-based retrieval, which allocates query-specific budgets across views for hierarchical search (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md). ETAMem has demonstrated significant improvements over state-of-the-art baselines on benchmark datasets, achieving relative accuracy gains and maintaining token efficiency, with its distinct memory views offering complementary advantages for conversational recall and personalization (source: raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md).
 
+### 16. Human-AI Interactions as First-Class Data
+
+Current models of human-AI collaboration often treat interactions as transient exchanges, limiting reproducibility, explainability, and behavioral analysis. The Human-AI Interaction Description Language (HAIDL) and its implementation, HAIDL-X, propose treating human-AI interactions as a formal, first-class data product (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). HAIDL captures rich interaction details, including context, requests, responses, feedback, and metadata, enabling durable data products for deeper analysis (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). The HAIDL-X middleware manages interaction state, prompt construction, AI interfacing, feedback collection, and data storage within environments like JupyterLab (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). This approach integrates a learning layer to derive quantitative metrics of user behavior, such as engagement, performance, and help-seeking, from interaction data, thereby enhancing reproducibility and explainability of AI collaboration (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -124,3 +129,4 @@ Existing long-term memory systems for conversational agents often suffer from in
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]]
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
 - [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]
+- [[source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration]]

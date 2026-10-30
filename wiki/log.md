@@ -4077,3 +4077,33 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-30 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_training-language-models-in-simulation-for-psychiatric-intake.md
+- raw/raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-training-language-models-in-simulation-for-psychiatric-intake.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/trust.md
+- wiki/measurement-tools.md
+- wiki/source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
+- wiki/explainability.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Training language models in simulation for psychiatric intake" and created summary page wiki/source-training-language-models-in-simulation-for-psychiatric-intake.md.
+- Ingested "Human--AI Interactions as First-Class Data: A Formal Interaction Model and Runtime for Explainable AI Collaboration" and created summary page wiki/source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

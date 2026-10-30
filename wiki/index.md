@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-10-30
 
 ## Orientation
 

@@ -1170,6 +1170,13 @@
       "summary": ""
     },
     {
+      "id": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration",
+      "name": "Source Summary: Human--AI Interactions as First-Class Data: A Formal Interaction Model and Runtime for Explainable AI Collaboration",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-human-artificial-intelligence-interaction",
       "name": "Source: On the “Human” in Human-Artificial Intelligence Interaction",
       "val": 1.5,
@@ -2101,6 +2108,13 @@
       "summary": ""
     },
     {
+      "id": "source-training-language-models-in-simulation-for-psychiatric-intake",
+      "name": "Training language models in simulation for psychiatric intake",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-trajectory-observatory",
       "name": "Source: Trajectory Observatory",
       "val": 1.5,
@@ -2753,6 +2767,10 @@
     {
       "source": "ai-companions",
       "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
     },
     {
       "source": "anthropomorphism",
@@ -3523,6 +3541,14 @@
       "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
     },
     {
+      "source": "chatbots",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3743,6 +3769,10 @@
       "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
     },
     {
+      "source": "explainability",
+      "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3833,6 +3863,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
       "source": "human-robot-interaction",
@@ -4495,6 +4533,14 @@
       "target": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4661,6 +4707,10 @@
     {
       "source": "medical-ai",
       "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
     },
     {
       "source": "mental-health",
@@ -4911,6 +4961,10 @@
       "target": "source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies"
     },
     {
+      "source": "mental-health",
+      "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -4961,6 +5015,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
       "source": "mind-perception",
@@ -7552,6 +7610,10 @@
     },
     {
       "source": "source-traceable-spectral-inference-via-influence-functions-efficient-data-attribution-and-error-proxies-for-the-ariel-mission",
+      "target": "trust"
+    },
+    {
+      "source": "source-training-language-models-in-simulation-for-psychiatric-intake",
       "target": "trust"
     },
     {
