@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-10-31
 
 ## Orientation
 
@@ -35,6 +35,7 @@
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
 - [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]] — Summary of Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults.
+- [[source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation]] — Summary of Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation.
 - [[source-attachment-to-robots]] — Summary of AP article on emotional attachment to social machines, Jibo lobotomy, Opportunity Rover, and Milo child limits.
 - [[source-attitudes-social-robots-scale]] — Summary of the development of the Attitudes towards Social Robots Scale (ASRS) with RoHeA and RoEqP subscales.
 - [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]] — Summary of Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses.
@@ -219,6 +220,7 @@
 - [[source-they-looked-inside-claude-s-ai-s-mind-it-got-weird]] — Summary of They Looked Inside Claude’s AI's Mind. It Got Weird.
 - [[source-this-is-claude-towards-a-theory-of-the-recognition-of-ai-character-without-reidentification]] — Summary of "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification.
 - [[source-this-is-openclaw-on-steroids-1]] — Summary of This is OpenClaw On Steroids.
+- [[source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents]] — Summary of TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents.
 - [[source-towards-an-extensible-benchmark-for-spoken-dialogue-with-social-robots]] — Summary of Towards an Extensible Benchmark for Spoken Dialogue with Social Robots.
 - [[source-towards-developing-a-multimodal-chat-assistant-for-university-stakeholders-rag-based-approach]] — Summary of Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach.
 - [[source-towards-industry-5.0-human-robot-interaction-and-collaboration]] — Summary of Towards Industry 5.0: Human-robot interaction and collaboration.

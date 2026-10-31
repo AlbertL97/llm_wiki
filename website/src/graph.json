@@ -407,6 +407,13 @@
       "summary": "A summary page for the article introducing the Machine-Integrated Relational Adaptation (MIRA) model, outlining the relational partner vs. mediator distinction, psychosocial foundations, and the four core principles of human-AI relational psychology."
     },
     {
+      "id": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation",
+      "name": "Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots",
       "name": "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults",
       "val": 1.5,
@@ -2059,6 +2066,13 @@
       "summary": ""
     },
     {
+      "id": "source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents",
+      "name": "TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-toward-personalized-social-robots-for-child-well-being-data-requirement-principles-from-a-recommender-system-perspective",
       "name": "Source Summary: Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective",
       "val": 1.5,
@@ -2771,6 +2785,14 @@
     {
       "source": "ai-companions",
       "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
       "source": "anthropomorphism",
@@ -3549,6 +3571,14 @@
       "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
+      "source": "chatbots",
+      "target": "source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3871,6 +3901,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
       "source": "human-robot-interaction",
@@ -4541,6 +4579,14 @@
       "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4963,6 +5009,10 @@
     {
       "source": "mental-health",
       "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -5794,6 +5844,10 @@
     },
     {
       "source": "source-artificial-intelligence-and-psychology",
+      "target": "trust"
+    },
+    {
+      "source": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation",
       "target": "trust"
     },
     {

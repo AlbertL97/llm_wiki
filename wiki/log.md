@@ -4107,3 +4107,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-10-31 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents.md
+- raw/raw_assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/ai-companions.md
+- wiki/source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
+- wiki/mental-health.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents" and created summary page wiki/source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents.md.
+- Ingested "Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation" and created summary page wiki/source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
