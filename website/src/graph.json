@@ -904,6 +904,13 @@
       "summary": ""
     },
     {
+      "id": "source-evaluating-conversational-explainability-in-healthcare",
+      "name": "Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-evaluating-explainable-ai-methods-for-geoscientific-regression",
       "name": "Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System",
       "val": 1.5,
@@ -3579,6 +3586,10 @@
       "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
+      "source": "chatbots",
+      "target": "source-evaluating-conversational-explainability-in-healthcare"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3803,6 +3814,10 @@
       "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
+      "source": "explainability",
+      "target": "source-evaluating-conversational-explainability-in-healthcare"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3909,6 +3924,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-evaluating-conversational-explainability-in-healthcare"
     },
     {
       "source": "human-robot-interaction",
@@ -4587,6 +4606,10 @@
       "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-evaluating-conversational-explainability-in-healthcare"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -4757,6 +4780,10 @@
     {
       "source": "medical-ai",
       "target": "source-training-language-models-in-simulation-for-psychiatric-intake"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-evaluating-conversational-explainability-in-healthcare"
     },
     {
       "source": "mental-health",

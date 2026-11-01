@@ -4134,3 +4134,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-01 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_evaluating-conversational-explainability-in-healthcare.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-evaluating-conversational-explainability-in-healthcare.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/medical-ai.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard" and created summary page wiki/source-evaluating-conversational-explainability-in-healthcare.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

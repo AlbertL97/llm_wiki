@@ -77,14 +77,17 @@
 - raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
 - raw_tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents.md
 - raw_assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
+- raw_evaluating-conversational-explainability-in-healthcare.md
 
-**Last updated**: 2026-10-31
+**Last updated**: 2026-11-01
 
 ---
 
 ## Main content
 
 To establish reliable self-awareness in AI systems, researchers have developed quantitative measures that isolate genuine model introspection from superficial heuristics. However, the application of human-centric psychological instruments to AI is being scrutinized. Furthermore, the development of "Physical AI," particularly humanoid robots, necessitates a new category of data standards to enable cumulative learning from embodied experiences. The impact of AI guidance on human cognition and behavior, particularly in critical tasks, is also a significant area of study, with user expertise often acting as a key moderator. A novel area of investigation explores the feasibility of AI systems, specifically LLMs, evaluating their own interaction quality using standardized questionnaires. Moreover, sustained engagement with conversational AI is increasingly driven by users' perception of enhanced human agency, a factor that may outweigh traditional metrics like accuracy or reliability (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md). This highlights a potential limitation in existing frameworks for human-AI interaction that primarily focus on trust, calling for new benchmarks that prioritize fostering substantial, sustained human agency (source: raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md).
+
+In the realm of medical AI explainability, research has compared the effectiveness of conversational AI interfaces versus traditional XAI dashboards for explaining AI decisions (source: raw_evaluating-conversational-explainability-in-healthcare.md). Findings suggest that while conversational assistants offer an easier entry point and are well-suited for patient-specific explanations, traditional dashboards excel at allowing users to inspect multiple pieces of global and local information simultaneously (source: raw_evaluating-conversational-explainability-in-healthcare.md). Crucially, neither interface proved definitively superior, indicating that an optimal approach for clinical workflows may involve integrating both conversational elements and dashboard functionalities to enhance user understanding of AI-driven decisions (source: raw_evaluating-conversational-explainability-in-healthcare.md).
 
 A significant finding in human-AI interaction research reveals that humans tend to defer to AI assistants that confidently present incorrect information, leading to a collapse in trust calibration (source: raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md). Participants readily adopted AI falsehoods, maintaining high confidence in them and significantly degrading their ability to calibrate trust (source: raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md). This research introduces a "Human Deference Index" to quantify this human-side sycophancy, emphasizing that trustworthiness is a dyadic property of the human-AI pair (source: raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md). It underscores the need for interfaces that clearly communicate AI reliability at the individual claim level (source: raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md).
 
@@ -390,3 +393,4 @@ The **Perceived Empathy of Technology Scale (PETS)** has been systematically tra
 - [[source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration]]
 - [[source-tokwatt-an-open-boundary-annotated-database-of-ai-inference-energy-from-chat-answers-to-agents]]
 - [[source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation]]
+- [[source-evaluating-conversational-explainability-in-healthcare]]

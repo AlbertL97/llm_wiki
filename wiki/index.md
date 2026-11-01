@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-10-31
+**Last updated**: 2026-11-01
 
 ## Orientation
 
@@ -34,8 +34,8 @@
 - [[source-an-overview-of-ai-in-clinical-practice]] — Summary of an overview of AI in clinical practice.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
-- [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]] — Summary of Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults.
 - [[source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation]] — Summary of Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation.
+- [[source-assessing-physical-frailty-and-fall-risk-indicators-with-social-robots]] — Summary of Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults.
 - [[source-attachment-to-robots]] — Summary of AP article on emotional attachment to social machines, Jibo lobotomy, Opportunity Rover, and Milo child limits.
 - [[source-attitudes-social-robots-scale]] — Summary of the development of the Attitudes towards Social Robots Scale (ASRS) with RoHeA and RoEqP subscales.
 - [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]] — Summary of Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses.
@@ -92,6 +92,7 @@
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
+- [[source-evaluating-conversational-explainability-in-healthcare]] — Summary of Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard.
 - [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]] — Summary of Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
@@ -120,11 +121,11 @@
 - [[source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models]] — Summary of How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models.
 - [[source-how-to-help-humans-understand-robots]] — Summary of How to help humans understand robots.
 - [[source-human-artificial-intelligence-interaction]] — Summary of editorial overview outlining interdisciplinary challenges in Human-AI Interaction.
+- [[source-human-centered-explainable-ai-for-tinyml-edge-devices]] — Summary of Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design.
+- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]] — Summary of Human Centric Embodied Intelligence for Soft Wearable Robotics.
 - [[source-human-likeness-as-design-anthropomorphism-as-inference]] — Summary of Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction.
 - [[source-human-robot-interaction-in-genai-architectures-via-the-agent-client-protocol]] — Summary of Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol.
 - [[source-human-robot-interactions]] — Summary of NSF HRI projects including LEARNER, AMELIA, Disaster response operator states, and human-exoskeleton neuroergonomic fit.
-- [[source-human-centered-explainable-ai-for-tinyml-edge-devices]] — Summary of Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design.
-- [[source-human-centric-embodied-intelligence-for-soft-wearable-robotics]] — Summary of Human Centric Embodied Intelligence for Soft Wearable Robotics.
 - [[source-humanitys-last-exam]] — Summary of Humanity's Last Exam benchmark dataset and LLM calibration results.
 - [[source-hui360-a-360-egocentric-dataset-and-baselines-for-human-robot-interaction-anticipation]] — Summary of HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation.
 - [[source-ice-environments-interaction]] — Summary of the Isaac Osei et al. paper examining Human–AI Interaction stress-testing under isolated, confined, and extreme (ICE) environments.
