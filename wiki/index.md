@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-02
 
 ## Orientation
 
@@ -188,10 +188,12 @@
 - [[source-robots-avatars-chatbots-dynamics]] — Summary of the Albert Łukasik & Arkadiusz Gut paper analyzing socio-cognitive stances and companionship development quality across robots, avatars, and chatbots.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 - [[source-sanctuary-ai-phoenix]] — Summary of Sanctuary AI's 7th-gen Phoenix humanoid touch sensors, hand focus, and blind picking capabilities.
+- [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]] — Summary of Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice.
 - [[source-scientists-proved-emotions]] — Summary of the AI Nexus video covering functional emotions, Berkeley/UCSC peer preservation, Figure 03, Roadrunner, Agibot, Peking surgery robot, and Bristol artificial muscle.
 - [[source-seeking-help-in-the-digital-age-a-cross-platform-analysis-of-online-support-systems-for-technology-facilitated-abuse-victims]] — Summary of Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims.
 - [[source-sejnowski-consciousness]] — Summary of Terry Sejnowski's Eye on AI interview on Boltzmann machines, cortex-only LLMs, and lack of self-generating activity.
 - [[source-shape-ai-healthcare]] — Summary of medRxiv preprint on the development and validation of the SHAPE-AI clinical survey.
+- [[source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai]] — Summary of SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI.
 - [[source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design]] — Summary of SocialRL: Refining LLMs' Social Intelligence through Multi-turn Reinforcement Learning and Reward Design.
 - [[source-softbank-robotics-home]] — Summary of SoftBank Robotics Home landing page discussing cobotics service integration and employee—customer experience.
 - [[source-source-agentic-knowledgeable-self-awareness]] — Summary of the article on agentic self-awareness, KnowSelf framework, ALPC logic, and metacognitive feedback loops.

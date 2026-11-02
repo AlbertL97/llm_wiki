@@ -1800,6 +1800,13 @@
       "summary": "A summary page for the review article analyzing how different designs of artificial agents—robots, avatars, and chatbots—influence social-cognitive processes, mental state attribution, emotional bonding, and the uncanny valley."
     },
     {
+      "id": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice",
+      "name": "Source Summary: Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-sanctuary-ai-phoenix",
       "name": "Source: Sanctuary AI adds tactile sensors to Phoenix humanoid robots",
       "val": 1.5,
@@ -1854,6 +1861,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "Expert validation of the SHAPE-AI survey instrument, designed to evaluate human-AI performance and clinical decision-support systems in healthcare."
+    },
+    {
+      "id": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai",
+      "name": "SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-socialrl-refining-llms-social-intelligence-through-multi-turn-reinforcement-learning-and-reward-design",
@@ -3590,6 +3604,14 @@
       "target": "source-evaluating-conversational-explainability-in-healthcare"
     },
     {
+      "source": "chatbots",
+      "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3818,6 +3840,10 @@
       "target": "source-evaluating-conversational-explainability-in-healthcare"
     },
     {
+      "source": "explainability",
+      "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3928,6 +3954,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-evaluating-conversational-explainability-in-healthcare"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
     },
     {
       "source": "human-robot-interaction",
@@ -4786,6 +4820,10 @@
       "target": "source-evaluating-conversational-explainability-in-healthcare"
     },
     {
+      "source": "medical-ai",
+      "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5040,6 +5078,10 @@
     {
       "source": "mental-health",
       "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -5388,6 +5430,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
     },
     {
       "source": "qualitative-methods",
@@ -7358,6 +7404,10 @@
       "target": "human-ai-interaction"
     },
     {
+      "source": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice",
+      "target": "trust"
+    },
+    {
       "source": "source-sanctuary-ai-phoenix",
       "target": "human-ai-interaction"
     },
@@ -8019,6 +8069,14 @@
     },
     {
       "source": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations",
+      "target": "trust"
+    },
+    {
+      "source": "trust",
+      "target": "chatbots"
+    },
+    {
+      "source": "trust",
       "target": "trust"
     }
   ]

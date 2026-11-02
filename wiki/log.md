@@ -4157,3 +4157,31 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-02 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
+- raw/raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/medical-ai.md
+- wiki/mental-health.md
+- wiki/persuasion-and-influence.md
+- wiki/trust.md
+- wiki/source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md
+- wiki/explainability.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice" and created summary page wiki/source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md.
+- Ingested "SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI" and created summary page wiki/source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

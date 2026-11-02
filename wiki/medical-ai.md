@@ -2,7 +2,7 @@
 
 **Summary**: A system page outlining the applications, design challenges, human-factors engineering, and regulatory landscapes of Artificial Intelligence deployed in clinical, diagnostic, and healthcare contexts.
 
-**Sources**:  
+**Sources**:
 - Examining human-AI interaction in real-world healthcare beyond the laboratory.md
 - Human–AI Interaction in isolated, confined, and extreme environments_ psychological, ethical, and design challenges.md
 - SHAPE-AI_ Development and Expert Validation of a Survey for Human-AI Performance Evaluation in Healthcare.md
@@ -43,8 +43,9 @@
 - raw_explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies.md
 - raw_training-language-models-in-simulation-for-psychiatric-intake.md
 - raw_evaluating-conversational-explainability-in-healthcare.md
+- raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 
-**Last updated**: 2026-11-01
+**Last updated**: 2026-11-02
 
 ---
 
@@ -75,6 +76,9 @@ Medical AI systems are deployed across several key areas of healthcare (source: 
 
 ### 1.1. Training Language Models for Psychiatric Intake
 Multi-turn reinforcement learning (RL) in simulation environments has shown significant promise in enhancing language model (LM) performance for structured psychiatric intake interviews (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md). These trained agents demonstrate improved capabilities in history-taking, differential diagnosis, and initial management planning (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md). In rigorous evaluations, an RL-trained agent significantly outperformed its base model, showing substantial gains in an adapted clinical-examination rubric ($d_z = 0.77$) and superior patient-centered communication (82.0% vs. 65.2%) (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md). Furthermore, the trained agent exhibited a notable improvement in differential diagnosis appropriateness (68.3% vs. 33.3%) (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md). Crucially, training in simulation environments more than halved the under-triage of acute safety risks (12.9% vs. 30.5%), highlighting the potential for these models to improve conversational safety in mental health contexts (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md). Simulation environments are thus emerging as valuable testbeds for training and stress-testing psychiatric conversational agents, with performance gains that have shown to transfer to real-world scenarios, although residual gaps still necessitate safeguards and clinician oversight (source: raw_training-language-models-in-simulation-for-psychiatric-intake.md).
+
+### 1.2. Persona-Dependent Variation in LLM Health Advice
+Large Language Models (LLMs) exhibit persona-dependent variation in their health advice, meaning the advice provided can differ based on the user's self-described characteristics. In the context of smoking cessation advice, research has shown that LLMs deliver different recommendations depending on the user's persona, such as age group and stated expertise (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). For instance, teen personas received less frequent mention of FDA-approved prescription cessation medications compared to adult personas across several LLMs (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). Furthermore, models often provided fewer factual details to personas claiming healthcare expertise than to those claiming no expertise (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). An intervention using system prompts to enforce a minimum "factual floor" has shown potential in reducing these persona-driven differences, although its effectiveness varied across LLMs and must consider clinical nuances, such as not recommending pharmacotherapy for minors (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). This highlights a critical area for ensuring consistent and appropriate health information delivery by AI.
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -226,3 +230,4 @@ The design and evaluation of factuality indicators for Large Language Model (LLM
 - [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]]
 - [[source-training-language-models-in-simulation-for-psychiatric-intake]]
 - [[source-evaluating-conversational-explainability-in-healthcare]]
+- [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]

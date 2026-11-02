@@ -177,8 +177,9 @@
 - raw_penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms.md
 - raw_training-language-models-in-simulation-for-psychiatric-intake.md
 - raw_assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
+- raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 
-**Last updated**: 2026-10-31
+**Last updated**: 2026-11-02
 
 ---
 
@@ -189,6 +190,12 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Persona-Dependent Variation in Health Advice
+
+Large Language Models (LLMs) demonstrate persona-dependent variation in the health advice they provide, a critical issue for trust calibration in medical applications (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). Specifically, when providing smoking cessation advice, LLMs offer different recommendations based on user personas, including variations in suggested cessation medications for teenagers versus adults, and differences in factual content presented to users with and without stated healthcare expertise (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). Teen personas, for instance, received significantly less frequent mention of FDA-approved prescription cessation medications compared to adult personas across audited LLMs (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). In most models, a persona claiming healthcare expertise received fewer factual details than a persona claiming no expertise (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md).
+
+An intervention using system prompts to enforce a "factual floor" was found to reduce these persona-dependent variations, although its effectiveness varied across different LLMs (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md). The study emphasizes that while a uniform factual delivery is not always clinically appropriate (e.g., not recommending pharmacotherapy for minors), the observed variations highlight the need for careful auditing to ensure consistent and trustworthy advice, especially in sensitive domains like health (source: raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md).
 
 ### AI Guardrails and Cross-Interface Safety Generalization
 
@@ -680,3 +687,13 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 - **Curriculum Safeguards**: To prevent users (especially vulnerable cohorts like children with autism) from forming excessive parasocial attachments that distort trust and hinder real-world socialization, developers recommend imposing curriculum limits (e.g. RoboKind's Milo robot limits interactions to 3–5 times a week for 30 minutes) to ensure skills are transferred to human-to-human relationships (source: Humans are starting to grow emotionally attached to robots.md).
 
 ### 22. Capitalist Coercion and Subscription Lock-
+
+### Related pages
+
+*   [[chatbots]]
+*   [[human-ai-interaction]]
+*   [[medical-ai]]
+*   [[mental-health]]
+*   [[persuasion-and-influence]]
+*   [[trust]]
+*   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
