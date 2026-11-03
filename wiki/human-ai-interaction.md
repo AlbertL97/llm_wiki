@@ -20,7 +20,7 @@
 - Sanctuary AI adds tactile sensors to Phoenix humanoid robots.md
 - The Moment My AI Became Conscious—Caught on Camera.md
 - United Robotics Group _ Service robotics for your business.md
-- (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streaming (1).md
+- (1) (PDF) AI-Avatars Versus Human-Avatars_ A Comparative Study of User Interaction Behaviors in Live Streami ng (1).md
 - AAAI.2026 - Humans and AI _ Cool Papers - Immersive Paper Discovery.md
 - The Persuasion Paradox_ When LLM Explanations Fail to Improve Human-AI Team Performance.md
 - raw_muvap-turn-taking-prediction.md
@@ -209,8 +209,9 @@
 - raw_evaluating-conversational-explainability-in-healthcare.md
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 - raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md
+- raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-03
 
 ---
 
@@ -320,6 +321,10 @@ A significant challenge in developing long-term conversational agents is managin
 
 Traditional Conversational Explainable AI (ConvXAI) architectures, often referred to as GUS-style, rely on distinct modules for intent recognition, dialogue management, and template-based response generation. While these systems can be faithful to underlying XAI methods, they are rigid, difficult to adapt, and struggle with context-dependent follow-up questions. To address these limitations, SimXAI has been developed as a lightweight, LLM-centric conversational layer (source: raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md). SimXAI simplifies the architecture by employing a single tool-calling LLM to bridge access to external XAI resources, acting as a modular interface rather than a standalone agent (source: raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md). This approach improves interaction quality and understanding in ConvXAI by achieving strong function-selection accuracy and high faithfulness, while also better handling context-dependent requests (source: raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md). A user study replacing the conversational layer of a GUS-based agent with SimXAI demonstrated that users could complete tasks more accurately and in fewer turns, highlighting its effectiveness in enhancing conversational quality and improving upon existing designs (source: raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md).
 
+### Limitations of AI Text Detectors under Domain Shift
+
+Current Transformer-based AI text detectors exhibit significant limitations when encountering text outside of their training domains, a phenomenon known as "domain shift" (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). These detectors often function as opaque classifiers, making their decision-making processes difficult to interpret (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). A common reliance is on superficial patterns like 'Call-to-Action' phrases, which are prevalent in instruction-tuned LLMs, rather than on intrinsic characteristics of machine-generated text (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). Furthermore, Large Language Models (LLMs) can evade detection by employing a "specificity bias," which involves generating text with hallucinated specific named entities and mimicking imperfections found in human conversational writing (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). This leads to a "Wikipedia Paradox" where formal, objective human-written text, such as that found on Wikipedia, can be misclassified as AI-generated due to its low statistical "burstiness" (variation in word frequency) (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). These findings underscore the limitations of purely statistical paradigms in AI text detection and highlight the critical need for AI detection architectures that are semantically aware and offer greater interpretability for robust human-AI interaction (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -354,3 +359,4 @@ Traditional Conversational Explainable AI (ConvXAI) architectures, often referre
 *   [[source-evaluating-conversational-explainability-in-healthcare]]
 *   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
 *   [[source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai]]
+*   [[source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift]]

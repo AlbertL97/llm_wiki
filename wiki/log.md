@@ -4185,3 +4185,25 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-03 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain Shift" and created summary page wiki/source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

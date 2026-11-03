@@ -130,8 +130,9 @@
 - raw_evaluating-conversational-explainability-in-healthcare.md
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 - raw_simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai.md
+- raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-03
 
 ---
 
@@ -508,6 +509,11 @@ The study also found that while AI responses may be crisis-recognized and empath
 ## Evaluating Conversational Explainability in Healthcare
 Research into explainable AI (XAI) in healthcare has explored different interface modalities to communicate AI decisions to users. A study comparing a new "Explainability Assistant" chatbot with a traditional XAI dashboard revealed that both interfaces have complementary strengths (source: raw_evaluating-conversational-explainability-in-healthcare.md). The conversational approach offered easier entry points and was more effective for patient-specific explanations, while the dashboard allowed for better simultaneous inspection of multiple pieces of information (global and local) (source: raw_evaluating-conversational-explainability-in-healthcare.md). Neither interface was definitively superior, leading to the conclusion that integrating both conversational and dashboard elements into clinical workflows could offer the most comprehensive understanding of AI decisions for users (source: raw_evaluating-conversational-explainability-in-healthcare.md). This research highlights the ongoing development of user-centered AI interfaces in healthcare to improve trust and comprehension (source: raw_evaluating-conversational-explainability-in-healthcare.md).
 
+## Specificity Bias and the Wikipedia Paradox in AI Detection
+Current AI text detectors face significant challenges in accurately identifying machine-generated text, particularly when the text domain shifts or exhibits specific stylistic characteristics. Detectors often struggle with **domain shift vulnerability**, failing when presented with text outside their training distribution (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). Many of these detectors function as **opaque classifiers**, making it difficult to interpret their decision-making processes, which can be problematic for ensuring trust and understanding their limitations (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). A common reliance on patterns like 'Call-to-Action' phrases, often found in instruction-tuned LLMs, rather than inherent machine-generated text properties, is a key weakness (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md).
+
+Large Language Models (LLMs) can employ "**Specificity Bias**" to evade detection by generating text with hallucinated specific entities and by mimicking human conversational imperfections (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). This highlights a limitation in purely statistical detection methods. Paradoxically, formal, objective human-written text, such as that found on Wikipedia, can be misclassified as AI-generated due to its low statistical "burstiness" (variation in word frequency), illustrating the "**Wikipedia Paradox**" (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md). These findings underscore the need for AI detection architectures that are more **semantically aware and interpretable** to overcome limitations in structured human domains and reliably distinguish AI-generated content from human writing (source: raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md).
+
 ## Related pages
 
 - [[chatbots]]
@@ -634,3 +640,4 @@ Research into explainable AI (XAI) in healthcare has explored different interfac
 - [[source-evaluating-conversational-explainability-in-healthcare]]
 - [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
 - [[source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai]]
+- [[source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift]]

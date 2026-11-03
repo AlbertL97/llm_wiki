@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-03
 
 ## Orientation
 
@@ -202,6 +202,7 @@
 - [[source-source-steer-clear-of-ai-companion-toys-for-kids]] — Summary of Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns.
 - [[source-source-this-is-openclaw-on-steroids]] — Summary of This is OpenClaw On Steroids.
 - [[source-source-where-ai-agents-build-worlds]] — Summary of Where AI Agents Build Worlds.
+- [[source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift]] — Summary of Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain Shift.
 - [[source-sub-millisecond-reflexes-for-continuous-physical-human-robot-interaction]] — Summary of Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction.
 - [[source-sycophancy-pushback-loading]] — Summary of the Ye et al. paper characterizing LLM sycophancy stance-flips as progressive material failure under pushback loading.
 - [[source-sycophancy-suppression-can-impair-rational-updating-anti-sycophancy-should-preserve-the-ability-to-update]] — Summary of Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update.

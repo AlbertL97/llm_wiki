@@ -1884,6 +1884,13 @@
       "summary": "A summary page for the SoftBank Robotics landing page discussing commercial service robotics adoption, cobotics adoption programs, and employee/customer experience enhancements in hospitality."
     },
     {
+      "id": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift",
+      "name": "Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain Shift",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-steer-clear-of-ai-companion-toys-for-kids",
       "name": "Steer Clear of AI Companion Toys for Kids, Another Advocacy Group Warns",
       "val": 1.5,
@@ -2816,6 +2823,10 @@
       "target": "source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation"
     },
     {
+      "source": "ai-companions",
+      "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3612,6 +3623,10 @@
       "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
     },
     {
+      "source": "chatbots",
+      "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3844,6 +3859,10 @@
       "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
     },
     {
+      "source": "explainability",
+      "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3962,6 +3981,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-simxai-a-simple-drop-in-layer-increases-interaction-quality-and-understanding-in-conversational-xai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
     },
     {
       "source": "human-robot-interaction",
