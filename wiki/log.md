@@ -4207,3 +4207,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-04 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
+- raw/raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/measurement-tools.md
+- wiki/chatbots.md
+- wiki/source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
+- wiki/human-robot-interaction.md
+- wiki/ai-companions.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics" and created summary page wiki/source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md.
+- Ingested "Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting" and created summary page wiki/source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

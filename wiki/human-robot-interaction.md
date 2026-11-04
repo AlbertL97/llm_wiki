@@ -75,8 +75,9 @@
 - raw_tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware.md
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 - raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
+- raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-04
 
 ---
 
@@ -262,6 +263,9 @@ Continuous physical human-robot interaction (pHRI) requires robots to adapt thei
 ### 21. HRI in Aged Care Homes and Private Residences
 Implementing human-robot interaction (HRI) in aged care settings, including residential aged care (RAC) homes and private residences, presents significant challenges. These environments are characterized by their dynamic nature, the diverse needs of older adults, and often limited technical support infrastructure (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Robotic and ambient intelligence systems are being developed to assist older adults with daily living activities, enhance safety through monitoring, and promote social engagement (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Crucially, these systems emphasize user-centered design, with a strong focus on accessibility for individuals with low digital literacy. This involves prioritizing intuitive interfaces, simple voice commands, minimal non-verbal cues, accessible companion interfaces, and safe object manipulation capabilities (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Addressing concerns related to privacy, trust, and acceptability is paramount. Strategies such as on-device processing, data minimization, transparent data handling, and visible consent controls are proposed to build trust and ensure compliance with AI regulations (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md). Evaluation methods are geared towards real-world effectiveness, assessing metrics like false alarm rates, fault recovery times, the impact on staff workload, and long-term reliability, with the ultimate goal of achieving scalable, regulation-compliant solutions that enhance the dignity, safety, and independence of older adults (source: raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md).
 
+### 22. Discreet Human-Agent Interaction in Shared Games
+The study "Just Between Us?" explores a novel approach to enable private communication between a human and an AI agent within a shared social context, specifically a game setting (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). Researchers developed and tested a wearable-mediated channel that combines in-ear audio messages with distinct head movements (rightward tilts) to facilitate discreet information exchange (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). In a card game scenario, this channel was found to be effective for strategic decision-making, with wearers reporting low stress and ease of use immediately after gameplay (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). However, non-wearers exhibited mixed perceptions regarding their awareness of the private interaction and differing views on gameplay fairness (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). The research highlights the potential of wearable technology for private human-agent communication and emphasizes the need to address user perceptions of awareness and fairness in system design (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -350,3 +354,4 @@ Implementing human-robot interaction (HRI) in aged care settings, including resi
 - [[source-tactile-in-hand-object-rotation-a-comparative-study-of-hand-morphology-in-simulation-and-hardware]]
 - [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]
 - [[source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai]]
+- [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]

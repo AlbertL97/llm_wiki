@@ -17,8 +17,9 @@
 - raw_beyond-large-language-models-a-mental-world-model-framework.md
 - raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
 - raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
+- raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
 
-**Last updated**: 2026-10-30
+**Last updated**: 2026-11-04
 
 ---
 
@@ -112,6 +113,10 @@ Existing long-term memory systems for conversational agents often suffer from in
 
 Current models of human-AI collaboration often treat interactions as transient exchanges, limiting reproducibility, explainability, and behavioral analysis. The Human-AI Interaction Description Language (HAIDL) and its implementation, HAIDL-X, propose treating human-AI interactions as a formal, first-class data product (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). HAIDL captures rich interaction details, including context, requests, responses, feedback, and metadata, enabling durable data products for deeper analysis (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). The HAIDL-X middleware manages interaction state, prompt construction, AI interfacing, feedback collection, and data storage within environments like JupyterLab (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md). This approach integrates a learning layer to derive quantitative metrics of user behavior, such as engagement, performance, and help-seeking, from interaction data, thereby enhancing reproducibility and explainability of AI collaboration (source: raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md).
 
+### 17. Extracting System Prompts in Complex Agentic Settings
+
+The critical intellectual property residing in LLM system prompts, especially those in complex agentic settings, necessitates robust extraction techniques. Traditional prompt extraction methods are becoming less effective due to increasingly complex prompts and system-level constraints, which often limit observable outputs to final post-processed actions rather than raw textual responses (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). A novel approach, **ExtraHerO** (Extraction with Hierarchical Optimization), addresses these challenges by employing hierarchical reconstruction using pre-defined structural prompt templates. It iteratively updates adversarial queries based on feedback-template differences and monitors information gain for efficiency control (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). This method has demonstrated significant improvements in fidelity, functionality, and adversarial utility, particularly for agents (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). Furthermore, the research highlights the inadequacy of existing prompt fidelity metrics and proposes improved evaluation metrics that incorporate global textual similarity, structural keyword prioritization, and adversarial utility (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -130,3 +135,4 @@ Current models of human-AI collaboration often treat interactions as transient e
 - [[source-beyond-large-language-models-a-mental-world-model-framework]]
 - [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]
 - [[source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration]]
+- [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-03
+**Last updated**: 2026-11-04
 
 ## Orientation
 
@@ -90,14 +90,15 @@
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]] — Summary of Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes.
 - [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]] — Summary of ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.
 - [[source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset]] — Summary of EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset.
+- [[source-evaluating-conversational-explainability-in-healthcare]] — Summary of Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
-- [[source-evaluating-conversational-explainability-in-healthcare]] — Summary of Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard.
 - [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]] — Summary of Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
+- [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]] — Summary of Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
@@ -135,6 +136,7 @@
 - [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]] — Summary of In a lonely world, widespread AI chatbots and ‘companions’ pose unique psychological risks.
 - [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]] — Summary of Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa.
 - [[source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations]] — Summary of IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations.
+- [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]] — Summary of Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]] — Summary of A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.

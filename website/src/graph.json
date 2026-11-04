@@ -974,6 +974,13 @@
       "summary": ""
     },
     {
+      "id": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics",
+      "name": "Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance",
       "name": "Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance",
       "val": 1.5,
@@ -1319,6 +1326,13 @@
     {
       "id": "source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction",
       "name": "Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting",
+      "name": "Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -2827,6 +2841,10 @@
       "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
     },
     {
+      "source": "ai-companions",
+      "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3627,6 +3645,10 @@
       "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
     },
     {
+      "source": "chatbots",
+      "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -3863,6 +3885,10 @@
       "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
     },
     {
+      "source": "explainability",
+      "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -3985,6 +4011,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
       "source": "human-robot-interaction",
@@ -4305,6 +4339,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
       "source": "introspective-awareness",
@@ -4665,6 +4703,10 @@
     {
       "source": "measurement-tools",
       "target": "source-evaluating-conversational-explainability-in-healthcare"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
     },
     {
       "source": "medical-ai",
@@ -5163,6 +5205,10 @@
       "target": "source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration"
     },
     {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
+    },
+    {
       "source": "mind-perception",
       "target": "trust"
     },
@@ -5569,6 +5615,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
       "source": "social-media-and-online-communities",
