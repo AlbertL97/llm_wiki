@@ -358,6 +358,13 @@
       "summary": ""
     },
     {
+      "id": "source-alignment-myopia-in-generative-ai",
+      "name": "Source Summary: Alignment Myopia in Generative AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-already-conscious",
       "name": "Source: What If AI Is Already Conscious and We Just Can't Tell?",
       "val": 1.5,
@@ -4021,6 +4028,10 @@
       "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-alignment-myopia-in-generative-ai"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -5149,6 +5160,10 @@
       "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
     },
     {
+      "source": "mental-health",
+      "target": "source-alignment-myopia-in-generative-ai"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5503,6 +5518,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-alignment-myopia-in-generative-ai"
     },
     {
       "source": "qualitative-methods",

@@ -4236,3 +4236,24 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-05 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_alignment-myopia-in-generative-ai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-alignment-myopia-in-generative-ai.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/persuasion-and-influence.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Alignment Myopia in Generative AI" and created summary page wiki/source-alignment-myopia-in-generative-ai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

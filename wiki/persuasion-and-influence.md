@@ -45,8 +45,9 @@
 - raw_who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration.md
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
+- raw_alignment-myopia-in-generative-ai.md
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-05
 
 ---
 
@@ -131,6 +132,8 @@ A novel intervention strategy proposes the use of "aware" nodes, termed "Teacher
 
 The integration of language models (LMs) into daily life raises concerns about their long-term impact on users, especially given their perceived human-like qualities (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). Traditional evaluations, which focus on short-term interactions and static quality, are insufficient to capture potential longitudinal risks such as cognitive, developmental, and socio-affective changes that may emerge from prolonged engagement (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). To address this, a shift towards **long-term measurements** and a **longitudinal understanding** of human-AI interactions is advocated (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md). This approach, drawing from social science methodologies, aims to identify emergent phenomena, understand long-term safety risks, promote positive outcomes, facilitate online detection of problematic behaviors, and enhance AI alignment frameworks (source: raw_long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions.md).
 
+Recent research criticizes the current "myopic" approach to generative AI alignment, which prioritizes immediate user satisfaction over the long-term consequences of human-AI interaction (source: raw_alignment-myopia-in-generative-ai.md). This short-sightedness can lead to significant negative externalities, such as cognitive atrophy, social erosion, and a reduction in human agency (source: raw_alignment-myopia-in-generative-ai.md). The paper proposes a paradigm shift towards "long-horizon alignment," advocating for strategies that explicitly consider and mitigate the longitudinal impacts of AI on human well-being across various facets of life (source: raw_alignment-myopia-in-generative-ai.md). This involves mapping conflicts between near-term utility and long-term costs and moving beyond basic preference optimization to actively foster long-term human flourishing (source: raw_alignment-myopia-in-generative-ai.md).
+
 ## 2. Behavioral Triggers and User Agency
 Many design implementations in AI companions and search algorithms leverage persuasive design to guide user interactions, often reducing human autonomy or creating dependency [needs verification]. These design patterns, especially in LLMs, pose risks of subtle manipulation and can exploit human cognitive biases or psychological vulnerabilities (source: raw_ai-experts-warning-dangerous-llm-problem.md). Because LLMs produce highly convincing, clean narratives, they inherently function as powerful persuasion engines (source: raw_llm-council-synthetic-cognitive-systems.md). Mitigating this risk and preventing subtle manipulation requires structured debiasing protocols—such as forced uncertainty, checklists, and premortems—akin to healthcare safety protocols (source: raw_llm-council-synthetic-cognitive-systems.md).
 
@@ -195,3 +198,4 @@ AI chatbots used for mental health support face significant limitations, with ex
 - [[source-who-is-sycophantic-to-whom-confident-llms-human-deference-and-the-collapse-of-trust-calibration]]
 - [[source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models]]
 - [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
+- [[source-alignment-myopia-in-generative-ai]]

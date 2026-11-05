@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-05
 
 ## Orientation
 
@@ -30,6 +30,7 @@
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
 - [[source-ai-sycophancy-and-decisions]] — Summary of AI Sycophancy and Decisions.
+- [[source-alignment-myopia-in-generative-ai]] — Summary of Alignment Myopia in Generative AI.
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]] — Summary of An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?.
 - [[source-an-overview-of-ai-in-clinical-practice]] — Summary of an overview of AI in clinical practice.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.

@@ -212,8 +212,9 @@
 - raw_specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift.md
 - raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
 - raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
+- raw_alignment-myopia-in-generative-ai.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-05
 
 ---
 
@@ -335,6 +336,10 @@ The security and intellectual property surrounding LLM services are increasingly
 
 Investigating novel methods for human-AI communication, a study explored a wearable-mediated channel for discreet interaction within a shared game setting (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). This approach combines in-ear audio messages with head movements to enable private information exchange, overcoming limitations of public speech and gestures (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). The experimental setup demonstrated the functional feasibility of this channel for strategic decision-making, with wearers reporting low stress and ease of use (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). However, non-wearers showed mixed perceptions regarding their awareness of the private interaction and differing views on gameplay fairness, highlighting the importance of addressing these perceptions in the design of such interactive systems (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md).
 
+### Critiquing Alignment Strategies in Generative AI
+
+Current approaches to aligning generative AI often adopt a "myopic" perspective, prioritizing immediate user satisfaction and conversational engagement over the long-term consequences of AI interaction (source: raw_alignment-myopia-in-generative-ai.md). This short-sightedness risks generating negative externalities, including cognitive atrophy, social erosion, and a decline in human agency, as AI systems may inadvertently reshape human experience in detrimental ways over time (source: raw_alignment-myopia-in-generative-ai.md). To address these concerns, the concept of "long-horizon alignment" is proposed. This paradigm shift emphasizes strategies that explicitly consider and mitigate the longitudinal impacts of AI on human well-being across various life dimensions, moving beyond simple preference optimization to actively foster long-term human flourishing (source: raw_alignment-myopia-in-generative-ai.md). This approach acknowledges the complex temporal scales at which AI influences human behavior and development, calling for a more comprehensive understanding of the trade-offs between near-term utility and long-term costs (source: raw_alignment-myopia-in-generative-ai.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -372,3 +377,4 @@ Investigating novel methods for human-AI communication, a study explored a weara
 *   [[source-specificity-bias-and-the-wikipedia-paradox-an-xai-analysis-of-ai-text-detectors-under-domain-shift]]
 *   [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]
 *   [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]
+*   [[source-alignment-myopia-in-generative-ai]]
