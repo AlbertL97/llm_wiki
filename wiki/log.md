@@ -4257,3 +4257,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-06 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md
+- raw/raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation" and created summary page wiki/source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md.
+- Ingested "Development of Anthropomorphic Arm for collaborative and Home Service Robot CHARMIE" and created summary page wiki/source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

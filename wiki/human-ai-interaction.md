@@ -213,8 +213,9 @@
 - raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
 - raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
 - raw_alignment-myopia-in-generative-ai.md
+- raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md
 
-**Last updated**: 2026-11-05
+**Last updated**: 2026-11-06
 
 ---
 
@@ -340,6 +341,10 @@ Investigating novel methods for human-AI communication, a study explored a weara
 
 Current approaches to aligning generative AI often adopt a "myopic" perspective, prioritizing immediate user satisfaction and conversational engagement over the long-term consequences of AI interaction (source: raw_alignment-myopia-in-generative-ai.md). This short-sightedness risks generating negative externalities, including cognitive atrophy, social erosion, and a decline in human agency, as AI systems may inadvertently reshape human experience in detrimental ways over time (source: raw_alignment-myopia-in-generative-ai.md). To address these concerns, the concept of "long-horizon alignment" is proposed. This paradigm shift emphasizes strategies that explicitly consider and mitigate the longitudinal impacts of AI on human well-being across various life dimensions, moving beyond simple preference optimization to actively foster long-term human flourishing (source: raw_alignment-myopia-in-generative-ai.md). This approach acknowledges the complex temporal scales at which AI influences human behavior and development, calling for a more comprehensive understanding of the trade-offs between near-term utility and long-term costs (source: raw_alignment-myopia-in-generative-ai.md).
 
+### Benchmarking LLMs on Biomedical and Cognitive Knowledge Graphs
+
+The performance of Large Language Models (LLMs) on complex reasoning tasks involving heterogeneous knowledge graphs (KGs) is a critical area of research for human-AI interaction, particularly in domains like medicine and neuroscience. Studies evaluating general-purpose LLMs such as GPT-5.1 and Gemini 2.0 Pro have found that they often outperform domain-specific models in multi-hop reasoning over these KGs (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). A key finding is that integrating LLMs with explicit KG data, known as KG grounding, significantly reduces hallucination rates across all tested models (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). However, the performance of all LLMs declines as the complexity of reasoning queries increases (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). These results highlight the importance of hybrid approaches that combine the broad capabilities of LLMs with structured domain knowledge for more reliable and explainable AI systems (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). The application areas are vast, including personalized medicine and the diagnosis of cognitive disorders (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -378,3 +383,4 @@ Current approaches to aligning generative AI often adopt a "myopic" perspective,
 *   [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]
 *   [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]
 *   [[source-alignment-myopia-in-generative-ai]]
+*   [[source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs]]

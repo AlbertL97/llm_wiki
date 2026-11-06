@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-05
+**Last updated**: 2026-11-06
 
 ## Orientation
 
@@ -76,6 +76,7 @@
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]] — Summary of Designing Social Robots for Social-Cognition Training with Autistic Adults.
+- [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]] — Summary of Development of Anthropomorphic Arm for collaborative and Home Service Robot CHARMIE.
 - [[source-directional-ai-advice-experimental-evidence-from-healthcare]] — Summary of Directional AI Advice: Experimental Evidence from Healthcare.
 - [[source-diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation]] — Summary of Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation.
 - [[source-diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction]] — Summary of Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction.

@@ -76,8 +76,9 @@
 - raw_navigating-human-robot-interaction-challenges-in-aged-care-homes.md
 - raw_the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai.md
 - raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
+- raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-06
 
 ---
 
@@ -266,6 +267,9 @@ Implementing human-robot interaction (HRI) in aged care settings, including resi
 ### 22. Discreet Human-Agent Interaction in Shared Games
 The study "Just Between Us?" explores a novel approach to enable private communication between a human and an AI agent within a shared social context, specifically a game setting (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). Researchers developed and tested a wearable-mediated channel that combines in-ear audio messages with distinct head movements (rightward tilts) to facilitate discreet information exchange (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). In a card game scenario, this channel was found to be effective for strategic decision-making, with wearers reporting low stress and ease of use immediately after gameplay (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). However, non-wearers exhibited mixed perceptions regarding their awareness of the private interaction and differing views on gameplay fairness (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md). The research highlights the potential of wearable technology for private human-agent communication and emphasizes the need to address user perceptions of awareness and fairness in system design (source: raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md).
 
+### 23. Anthropomorphic Arms for Collaborative and Home Service Robots
+The development of anthropomorphic arms is crucial for enhancing the capabilities of robots intended for close human-robot collaboration, particularly in domestic settings. Recent work presents the creation of an open-source, 3D-printed anthropomorphic arm designed for integration into collaborative and home service robots (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). This project implements two distinct control methodologies: teleoperation using machine learning-based hand pose estimation and kinematic control via the Denavit-Hartenberg method to manage spatial positioning (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). The open-source nature of this development facilitates further research and development in creating robots capable of direct interaction and assistance in human environments (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -355,3 +359,4 @@ The study "Just Between Us?" explores a novel approach to enable private communi
 - [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]]
 - [[source-the-watchtower-imperative-lifespan-calibrated-evaluation-for-frontier-ai]]
 - [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]
+- [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]]

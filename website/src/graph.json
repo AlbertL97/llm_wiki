@@ -491,6 +491,13 @@
       "summary": ""
     },
     {
+      "id": "source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs",
+      "name": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
       "name": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
       "val": 1.5,
@@ -752,6 +759,13 @@
     {
       "id": "source-designing-social-robots-for-social-cognition-training-with-autistic-adults",
       "name": "Designing Social Robots for Social-Cognition Training with Autistic Adults",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie",
+      "name": "Development of Anthropomorphic Arm for collaborative and Home Service Robot CHARMIE",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3160,6 +3174,10 @@
       "target": "source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -3896,6 +3914,10 @@
       "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
     },
     {
+      "source": "explainability",
+      "target": "source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4030,6 +4052,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-alignment-myopia-in-generative-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs"
     },
     {
       "source": "human-robot-interaction",
@@ -4354,6 +4380,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie"
     },
     {
       "source": "introspective-awareness",
@@ -6110,6 +6140,10 @@
     {
       "source": "source-behavioral-signatures-large-language-models",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs",
+      "target": "medical-ai"
     },
     {
       "source": "source-benchmarking-the-benchmarks-evaluating-benchmarks-for-conversational-agents",
