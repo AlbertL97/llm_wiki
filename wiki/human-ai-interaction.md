@@ -214,8 +214,9 @@
 - raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
 - raw_alignment-myopia-in-generative-ai.md
 - raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md
+- raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
 
-**Last updated**: 2026-11-06
+**Last updated**: 2026-11-07
 
 ---
 
@@ -345,6 +346,8 @@ Current approaches to aligning generative AI often adopt a "myopic" perspective,
 
 The performance of Large Language Models (LLMs) on complex reasoning tasks involving heterogeneous knowledge graphs (KGs) is a critical area of research for human-AI interaction, particularly in domains like medicine and neuroscience. Studies evaluating general-purpose LLMs such as GPT-5.1 and Gemini 2.0 Pro have found that they often outperform domain-specific models in multi-hop reasoning over these KGs (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). A key finding is that integrating LLMs with explicit KG data, known as KG grounding, significantly reduces hallucination rates across all tested models (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). However, the performance of all LLMs declines as the complexity of reasoning queries increases (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). These results highlight the importance of hybrid approaches that combine the broad capabilities of LLMs with structured domain knowledge for more reliable and explainable AI systems (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md). The application areas are vast, including personalized medicine and the diagnosis of cognitive disorders (source: raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md).
 
+A new study introduces and evaluates a persistent retrieval subagent designed to enhance the efficiency of conversational agents (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This architecture maintains retrieval history across conversational turns, leading to significant improvements in token usage, API costs, and response times compared to traditional methods (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). By providing raw evidence directly to the main agent for evaluation, this approach optimizes the interaction dynamics between the agent's core logic and its information retrieval capabilities (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The findings demonstrate substantial reductions in token consumption and API costs, alongside a notable decrease in average response times, particularly for follow-up questions (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The study proposes a shift from subagents synthesizing responses to them managing retrieval state and supplying direct evidence, with effectiveness assessed across different retrieval designs and conversational turn dependencies (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -384,3 +387,4 @@ The performance of Large Language Models (LLMs) on complex reasoning tasks invol
 *   [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]
 *   [[source-alignment-myopia-in-generative-ai]]
 *   [[source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs]]
+*   [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]

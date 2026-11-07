@@ -18,8 +18,9 @@
 - raw_etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents.md
 - raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
 - raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
+- raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
 
-**Last updated**: 2026-11-04
+**Last updated**: 2026-11-07
 
 ---
 
@@ -117,6 +118,10 @@ Current models of human-AI collaboration often treat interactions as transient e
 
 The critical intellectual property residing in LLM system prompts, especially those in complex agentic settings, necessitates robust extraction techniques. Traditional prompt extraction methods are becoming less effective due to increasingly complex prompts and system-level constraints, which often limit observable outputs to final post-processed actions rather than raw textual responses (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). A novel approach, **ExtraHerO** (Extraction with Hierarchical Optimization), addresses these challenges by employing hierarchical reconstruction using pre-defined structural prompt templates. It iteratively updates adversarial queries based on feedback-template differences and monitors information gain for efficiency control (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). This method has demonstrated significant improvements in fidelity, functionality, and adversarial utility, particularly for agents (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md). Furthermore, the research highlights the inadequacy of existing prompt fidelity metrics and proposes improved evaluation metrics that incorporate global textual similarity, structural keyword prioritization, and adversarial utility (source: raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md).
 
+### 18. Persistent Retrieval for Enhanced Conversational Efficiency
+
+A new architectural approach for conversational agents involves a persistent retrieval subagent designed to maintain retrieval history across conversational turns (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This method significantly optimizes token usage, API costs, and response times compared to traditional skill-based or non-persistent retrieval strategies (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The core innovation lies in shifting the subagent's role from synthesizing responses to managing retrieval state and directly supplying raw evidence to the main agent for evaluation, thereby improving interaction dynamics (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This architectural shift has been shown to lead to faster responses, especially for follow-up questions, and offers a more efficient way to manage information retrieval in conversational contexts (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -136,3 +141,4 @@ The critical intellectual property residing in LLM system prompts, especially th
 - [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]]
 - [[source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration]]
 - [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]
+- [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]

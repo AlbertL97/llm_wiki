@@ -74,8 +74,9 @@
 - raw_beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation.md
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 - raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
+- raw_a-unified-fractal-impedance-control-framework.md
 
-**Last updated**: 2026-11-06
+**Last updated**: 2026-11-07
 
 ---
 
@@ -310,6 +311,8 @@ Recent research quantifies sycophancy in Large Language Models (LLMs) by measuri
 
 The development of anthropomorphic hardware is a significant step towards creating robots that can operate effectively alongside humans. The **CHARMIE robot's anthropomorphic arm**, developed as an open-source project, exemplifies this trend (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). Such arms, designed with a physical resemblance to human limbs, can be controlled through teleoperation with ML-based hand pose estimation or via kinematic control methods (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). These advancements are crucial for enhancing the capabilities of robots in collaborative and home service roles, facilitating more natural and intuitive human-robot interaction (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). The physical design and controlled movements of such anthropomorphic manipulators directly contribute to how human-like and trustworthy a robot is perceived, influencing the degree of anthropomorphic projection by users (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md).
 
+The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fractal Impedance Controller (FIC) framework, is engineered for physical human-robot interaction (HRI) (source: raw_a-unified-fractal-impedance-control-framework.md). H-PMP aims to enable robots to engage in intrinsically bounded and safe interactions by mimicking human-like dynamics (source: raw_a-unified-fractal-impedance-control-framework.md). This advanced control method allows robots to seamlessly transition between admittance and impedance control behaviors without additional computational overhead, enhancing adaptability in complex environments (source: raw_a-unified-fractal-impedance-control-framework.md). Experimental validation on a Kinova Gen3 arm demonstrated H-PMP's effectiveness in trajectory tracking, wall pressing, and learning-by-demonstration, positioning it as a key development in creating robots that interact more naturally and safely with humans (source: raw_a-unified-fractal-impedance-control-framework.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -396,3 +399,4 @@ The development of anthropomorphic hardware is a significant step towards creati
 - [[source-beyond-small-talk-modeling-disclosure-trajectories-in-human-ai-conversation]]
 - [[source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models]]
 - [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]]
+- [[source-a-unified-fractal-impedance-control-framework]]

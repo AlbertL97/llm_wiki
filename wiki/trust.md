@@ -178,8 +178,9 @@
 - raw_training-language-models-in-simulation-for-psychiatric-intake.md
 - raw_assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
+- raw_a-unified-fractal-impedance-control-framework.md
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-07
 
 ---
 
@@ -632,6 +633,10 @@ In human-robot interaction (HRI), trust calibration is analyzed along two separa
 
 A novel approach to robot crowd navigation, Planning Diffusion Policy Optimization (PDPO), enhances safety and efficiency by leveraging diffusion policies to generate short-horizon action chunks (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). Unlike traditional methods that focus on single-timestep actions, PDPO produces sequences of actions (e.g., five steps) that represent more sophisticated avoidance strategies (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). This framework, pretrained on collision-avoidance demonstrations and fine-tuned online, allows robots to plan and execute complex maneuvers in dense and dynamic environments (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). Experimental results demonstrate improved success rates, with ablation studies highlighting the specific benefit of action chunks, particularly in benchmark settings with boundary constraints that simulate more realistic agent behavior (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md). This advancement can lead to robots that are perceived as more competent and less intrusive, fostering greater trust in their navigational capabilities within human-robot interaction scenarios (source: raw_diffusion-policies-for-short-horizon-planning-in-robot-crowd-navigation.md).
 
+### **Harmonic-Passive Motion Paradigm (H-PMP) for Human-Robot Interaction**
+
+The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fractal Impedance Controller (FIC) framework, represents a significant advancement in physical human-robot interaction (pHRI) (source: raw_a-unified-fractal-impedance-control-framework.md). Engineered for safe and human-like interactions, H-PMP aims to ensure robots engage with their environment in a bounded, intrinsically safe manner while mimicking human interaction dynamics (source: raw_a-unified-fractal-impedance-control-framework.md). A key achievement of H-PMP is its seamless transition between admittance and impedance control behaviors without additional computational cost, allowing for dynamic adaptation of interaction stiffness and compliance (source: raw_a-unified-fractal-impedance-control-framework.md). This fluid mode switching makes H-PMP particularly suitable for complex, unpredictable, and unstructured environments (source: raw_a-unified-fractal-impedance-control-framework.md). Experimental validation on a Kinova Gen3 arm, including trajectory tracking, wall pressing, and learning-by-demonstration tasks, demonstrated the effectiveness and advantages of H-PMP over prior FIC architectures (source: raw_a-unified-fractal-impedance-control-framework.md). The provision of a unified framework and open-source software suite for FICs further facilitates their deployment in pHRI scenarios, contributing to more reliable and trustworthy robot behaviors (source: raw_a-unified-fractal-impedance-control-framework.md).
+
 ### 12. Corporate Frameworks: Trustworthy AI and Safety Infrastructure
 In industrial applications, creating user trust relies on establishing **Trustworthy AI** systems built upon three technical pillars: Security, Safety, and Privacy (source: Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md).
 - **Security Infrastructure**: Governed by the principles of **secure by design, secure by default, and secure operations** (such as Microsoft's Secure Future Initiative). This involves implementing foundational controls to block prompt injections and verify query transparency (source: Microsoft Trustworthy AI_ Unlocking human potential starts with trust.md).
@@ -697,3 +702,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[persuasion-and-influence]]
 *   [[trust]]
 *   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
+*   [[source-a-unified-fractal-impedance-control-framework]]

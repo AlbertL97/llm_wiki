@@ -176,6 +176,13 @@
       "summary": ""
     },
     {
+      "id": "source-a-unified-fractal-impedance-control-framework",
+      "name": "A Unified Fractal Impedance Control Framework",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-aaai-2026-cool-papers",
       "name": "Source: AAAI.2026 - Humans and AI | Cool Papers - Immersive Paper Discovery",
       "val": 1.5,
@@ -1592,6 +1599,13 @@
     {
       "id": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
       "name": "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency",
+      "name": "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3178,6 +3192,10 @@
       "target": "source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-a-unified-fractal-impedance-control-framework"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -3674,6 +3692,10 @@
       "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
     },
     {
+      "source": "chatbots",
+      "target": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4058,6 +4080,10 @@
       "target": "source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4384,6 +4410,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-a-unified-fractal-impedance-control-framework"
     },
     {
       "source": "introspective-awareness",
@@ -5254,6 +5284,10 @@
       "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
     },
     {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency"
+    },
+    {
       "source": "mind-perception",
       "target": "trust"
     },
@@ -5760,6 +5794,10 @@
     {
       "source": "source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-a-unified-fractal-impedance-control-framework",
+      "target": "trust"
     },
     {
       "source": "source-aaai-2026-cool-papers",

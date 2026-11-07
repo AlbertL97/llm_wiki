@@ -4282,3 +4282,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-07 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_a-unified-fractal-impedance-control-framework.md
+- raw/raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-a-unified-fractal-impedance-control-framework.md
+- wiki/human-robot-interaction.md
+- wiki/trust.md
+- wiki/anthropomorphism.md
+- wiki/source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
+- wiki/chatbots.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/human-ai-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "A Unified Fractal Impedance Control Framework" and created summary page wiki/source-a-unified-fractal-impedance-control-framework.md.
+- Ingested "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency" and created summary page wiki/source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

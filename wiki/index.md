@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-06
+**Last updated**: 2026-11-07
 
 ## Orientation
 
@@ -13,6 +13,7 @@
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]] — Summary of A Systematic and Validated Translation of the Perceived Empathy of Technology Scale to Chinese.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
+- [[source-a-unified-fractal-impedance-control-framework]] — Summary of A Unified Fractal Impedance Control Framework.
 - [[source-aaai-2026-cool-papers]] — Summary of AAAI 2026, Humans and AI track accepted papers covering adaptive ensembles and teaming cooperation.
 - [[source-accountable-partial-understanding-securing-epistemic-attack-surface-agentic-systems]] — Summary of Accountable partial understanding: securing the epistemic attack surface of agentic systems.
 - [[source-aero-hand-open-open-simulation-ready-tendon-driven-hand]] — Summary of Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning.
@@ -175,6 +176,7 @@
 - [[source-physiological-sensing-situational-awareness]] — Summary of review examining physiological sensing (EEG, ECG, eye-tracking) for situational awareness estimation in human-autonomy teaming.
 - [[source-plus-tips-on-getting-started-with-ai-safely]] — Summary of Plus tips on getting started with AI safely.
 - [[source-poli-bias-understanding-and-measuring-large-language-model-biases-in-international-political-conflicts]] — Summary of Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts.
+- [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]] — Summary of Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency.
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]] — Summary of Provenance-Aware Belief Updating in Human-AI Feedback Loops.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
