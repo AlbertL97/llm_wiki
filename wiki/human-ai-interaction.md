@@ -215,8 +215,10 @@
 - raw_alignment-myopia-in-generative-ai.md
 - raw_benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs.md
 - raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
+- raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md
+- raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
 
-**Last updated**: 2026-11-07
+**Last updated**: 2026-11-08
 
 ---
 
@@ -348,6 +350,14 @@ The performance of Large Language Models (LLMs) on complex reasoning tasks invol
 
 A new study introduces and evaluates a persistent retrieval subagent designed to enhance the efficiency of conversational agents (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This architecture maintains retrieval history across conversational turns, leading to significant improvements in token usage, API costs, and response times compared to traditional methods (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). By providing raw evidence directly to the main agent for evaluation, this approach optimizes the interaction dynamics between the agent's core logic and its information retrieval capabilities (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The findings demonstrate substantial reductions in token consumption and API costs, alongside a notable decrease in average response times, particularly for follow-up questions (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The study proposes a shift from subagents synthesizing responses to them managing retrieval state and supplying direct evidence, with effectiveness assessed across different retrieval designs and conversational turn dependencies (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md).
 
+### Advancing Affordance Grounding for Embodied Agents
+
+For embodied agents, particularly in human-robot interaction (HRI), the ability to accurately ground affordances – identifying specific object parts for particular operations – is crucial. Traditional methods often rely on "System Two" cognitive paradigms, involving extensive chain-of-thought reasoning. These methods are computationally expensive, offer limited control over the precision of the final output, and make error correction difficult due to their opaque reasoning processes (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). A new approach, AffordJEV, adopts a "System One" paradigm, focusing on rapid, intuitive perceptual judgments. AffordJEV employs a hierarchical inference framework where candidate regions are proposed by frozen segmenters and then confirmed iteratively. Crucially, it utilizes bidirectional evidence passing between hierarchical levels to enable mutual correction and refinement of decisions (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This framework is powered by a specialized System One model trained to judge all candidates within a level simultaneously and directly from request structures, avoiding text generation (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). AffordJEV demonstrates superior performance and generalization compared to traditional chain-of-thought methods and other System One models, while also being more computationally efficient (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This advancement is significant for HRI as it enables robots to understand and respond more accurately to instructions related to object manipulation, leading to more natural and less error-prone collaboration (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md).
+
+### AI in Medical Diagnosis and Explainability
+
+In the realm of medical diagnosis, AI is increasingly being employed to enhance precision and efficiency. A study on Magnetic Resonance Imaging (MRI) for brain tumor detection demonstrates the integration of deep learning, specifically Convolutional Neural Networks (CNNs), with explainable AI (SHAP) (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). This research highlights the synergy of multi-feature analysis, including Local Binary Patterns (LBP), Gabor filters, Discrete Wavelet Transform (DWT), Fast Fourier Transform (FFT), and Gray-Level Run Length Matrix (GLRLM), revealing that the LBP feature space, when combined with Support Vector Classifier (SVC) and CNN, yields high specificity and accuracy (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). CNN, in particular, achieved 98.9% accuracy on a large benchmark dataset, showcasing its generalization power for automated, high-precision tumor diagnosis (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). The application of SHAP analysis provides crucial insights into the AI's decision-making by identifying the most influential features, contributing to a better understanding of the AI's reasoning process (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). This transparency is vital for building trust and facilitating effective human-AI interaction in high-stakes medical domains, where clinicians can better collaborate with and accept AI-driven diagnostic tools (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -388,3 +398,6 @@ A new study introduces and evaluates a persistent retrieval subagent designed to
 *   [[source-alignment-myopia-in-generative-ai]]
 *   [[source-benchmarking-large-language-models-on-heterogeneous-cognitive-and-biomedical-knowledge-graphs]]
 *   [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]
+*   [[source-affordjev-affordance-grounding-by-confirming-candidate-regions]]
+*   [[source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis]]
+*   [[medical-ai]]

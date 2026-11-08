@@ -4309,3 +4309,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-08 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md
+- raw/raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-affordjev-affordance-grounding-by-confirming-candidate-regions.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
+- wiki/explainability.md
+- wiki/medical-ai.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "AffordJEV: Affordance Grounding by Confirming Candidate Regions" and created summary page wiki/source-affordjev-affordance-grounding-by-confirming-candidate-regions.md.
+- Ingested "Enhanced MRI brain tumor detection using deep learning in conjunction with explainable AI SHAP based diverse and multi feature analysis" and created summary page wiki/source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

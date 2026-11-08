@@ -78,8 +78,9 @@
 - raw_just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting.md
 - raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
 - raw_a-unified-fractal-impedance-control-framework.md
+- raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md
 
-**Last updated**: 2026-11-07
+**Last updated**: 2026-11-08
 
 ---
 
@@ -271,6 +272,8 @@ The study "Just Between Us?" explores a novel approach to enable private communi
 ### 23. Anthropomorphic Arms for Collaborative and Home Service Robots
 The development of anthropomorphic arms is crucial for enhancing the capabilities of robots intended for close human-robot collaboration, particularly in domestic settings. Recent work presents the creation of an open-source, 3D-printed anthropomorphic arm designed for integration into collaborative and home service robots (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). This project implements two distinct control methodologies: teleoperation using machine learning-based hand pose estimation and kinematic control via the Denavit-Hartenberg method to manage spatial positioning (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md). The open-source nature of this development facilitates further research and development in creating robots capable of direct interaction and assistance in human environments (source: raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md).
 
+**Affordance Grounding for Enhanced HRI**: A critical capability for embodied agents in HRI is affordance grounding, which involves identifying specific object parts for operations. Traditional methods often rely on slow, computationally expensive "System Two" reasoning. The **AffordJEV framework** addresses this by adopting a rapid, intuitive "System One" cognitive paradigm (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). AffordJEV uses a hierarchical inference approach, proposing candidate regions with frozen segmenters and iteratively confirming them through bidirectional evidence passing between object levels (whole object, parts, sub-parts) (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This framework utilizes a specialized System One model that judges all candidates simultaneously and learns directly from request structures, avoiding text generation (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). AffordJEV demonstrates superior performance and efficiency compared to chain-of-thought methods, shows strong zero-shot transfer to unseen datasets, and is claimed to be the first to successfully apply System One models to affordance grounding (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This advancement enables robots to more quickly and accurately understand object manipulation instructions, leading to more natural and efficient collaboration (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -362,3 +365,4 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 - [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]]
 - [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]]
 - [[source-a-unified-fractal-impedance-control-framework]]
+- [[source-affordjev-affordance-grounding-by-confirming-candidate-regions]]

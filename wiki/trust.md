@@ -179,8 +179,9 @@
 - raw_assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation.md
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 - raw_a-unified-fractal-impedance-control-framework.md
+- raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
 
-**Last updated**: 2026-11-07
+**Last updated**: 2026-11-08
 
 ---
 
@@ -495,6 +496,10 @@ In the context of intelligent control of District Heating Systems, interpretabil
 
 A novel approach, DictXAI, enhances Explainable AI (XAI) by defining interpretable concepts directly in the input space using a "dictionary" of predefined elements (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). This makes explanations more transparent and model-agnostic, unlike methods relying on internal model representations or specific input features (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). DictXAI computes a sparse code of the input and attributes predictions to relevant dictionary elements, improving human-AI alignment, particularly in complex domains like biomedical signal analysis (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md). This method is versatile, functioning with various dictionaries including learned bases, analytical waveforms, and experimental elements, and is superior to existing techniques for diagnosing AI malfunctions and understanding spurious correlations (source: raw_revisiting-explainable-ai-through-model-independent-concept-dictionaries.md).
 
+### Enhanced MRI Brain Tumor Detection with Explainable AI
+
+Recent research leverages deep learning, specifically Convolutional Neural Networks (CNNs), in conjunction with explainable AI (SHAP) for improved brain tumor detection from MRI scans (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). This study explores the synergy of various feature representation schemes like Local Binary Patterns (LBP), Gabor filters, and Fast Fourier Transform (FFT) (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). Empirical results show that the LBP feature space, combined with Support Vector Classifier (SVC) and CNN, yields high accuracy and specificity (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). CNN demonstrated superior generalization power, achieving 98.9% accuracy on a larger dataset, making it effective for high-precision automated diagnosis (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). The integration of SHAP analysis provides transparency into the AI's decision-making by identifying influential features, which is crucial for building trust and enhancing collaboration in healthcare settings (source: raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md). This work underscores how explainability in medical AI can inform clinicians about the AI's reasoning, thereby increasing acceptance and trust.
+
 ### 2. Communicating Uncertainty to Foster Trust
 To build calibrated trust, architectures must employ explicit self-monitoring to strategically communicate uncertainty to the user (source: Agentic Knowledgeable Self-Awareness.md).
 - Metacognitive techniques, such as **SCAO (Semantic Compression by Answering in One Word)**, force models to output direct scalar confidence representations that correlate with knowledge possession (source: Agentic Knowledgeable Self-Awareness.md).
@@ -703,3 +708,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[trust]]
 *   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
 *   [[source-a-unified-fractal-impedance-control-framework]]
+*   [[source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis]]
