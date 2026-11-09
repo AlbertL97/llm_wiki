@@ -19,8 +19,9 @@
 - raw_human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration.md
 - raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
 - raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
+- raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
 
-**Last updated**: 2026-11-07
+**Last updated**: 2026-11-09
 
 ---
 
@@ -122,6 +123,10 @@ The critical intellectual property residing in LLM system prompts, especially th
 
 A new architectural approach for conversational agents involves a persistent retrieval subagent designed to maintain retrieval history across conversational turns (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This method significantly optimizes token usage, API costs, and response times compared to traditional skill-based or non-persistent retrieval strategies (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). The core innovation lies in shifting the subagent's role from synthesizing responses to managing retrieval state and directly supplying raw evidence to the main agent for evaluation, thereby improving interaction dynamics (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md). This architectural shift has been shown to lead to faster responses, especially for follow-up questions, and offers a more efficient way to manage information retrieval in conversational contexts (source: raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md).
 
+### 19. Compaction-Based Memory for Conversational Agents
+
+A novel conversational memory system utilizes a **compaction** strategy, where each conversational turn is compressed into atomic facts, as an alternative to traditional Retrieval-Augmented Generation (RAG) which retains full transcripts (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). This compaction method demonstrated a statistically significant advantage in accuracy over RAG for factual recall, particularly for specific values, achieving a 6.8 point lead with 34% fewer prompt tokens (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). However, the benefits of compaction diminished when answers required verbatim phrasing or in adversarial contexts, suggesting its strength lies in concise factual assertion rather than nuanced textual reproduction (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). This approach highlights that memory management in conversational agents can be optimized by prioritizing core assertions over exact wording for specific types of queries (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -142,3 +147,4 @@ A new architectural approach for conversational agents involves a persistent ret
 - [[source-human-ai-interactions-as-first-class-data-a-formal-interaction-model-and-runtime-for-explainable-ai-collaboration]]
 - [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]
 - [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]
+- [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]

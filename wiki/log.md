@@ -4335,3 +4335,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-09 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl.md
+- raw/raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+- wiki/source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL" and created summary page wiki/source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl.md.
+- Ingested "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation" and created summary page wiki/source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

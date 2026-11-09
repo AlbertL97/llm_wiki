@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-08
+**Last updated**: 2026-11-09
 
 ## Orientation
 
@@ -68,12 +68,13 @@
 - [[source-comparing-usability-measures]] — Summary of study correlating objective dialogue metrics and subjective usability in the JAST human-robot dialogue system.
 - [[source-conscious-turing-machine]] — Summary of Manuel Blum's lecture on the Conscious Turing Machine, randomized tournaments, and sleeping experts.
 - [[source-consciousness-controlled-hallucination]] — Summary of the controlled hallucination article outlining perception as active prediction and the homeostatic biological barrier.
+- [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]] — Summary of Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation.
 - [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]] — Summary of Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
-- [[source-deepak-chopras-new-ai-companion-puts-decades-of-wisdom-in-your-pocket-he-says]] — Summary of Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says.
+- [[source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl]] — Summary of Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL.
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
 - [[source-designing-social-robots-for-social-cognition-training-with-autistic-adults]] — Summary of Designing Social Robots for Social-Cognition Training with Autistic Adults.
@@ -180,7 +181,7 @@
 - [[source-problem-humanoid-robot]] — Summary of MKBHD's video critique of 1X Technologies' NEO humanoid, teleoperation gap, and Expert Mode privacy risks.
 - [[source-provenance-aware-belief-updating-in-human-ai-feedback-loops]] — Summary of Provenance-Aware Belief Updating in Human-AI Feedback Loops.
 - [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
-- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
+- [[source-psychological-competence-as-a-missing-dimension-in-ai-evaluation-1]] — Summary of Psychological Competence as a Missing Dimension in AI Evaluation.
 - [[source-psychological-needs-predict-ai-acceptance]] — Summary of Your psychological needs predict whether you will accept an AI companion or therapist.
 - [[source-psychogenic-machine]] — Summary of the paper and psychosis-bench framework, documenting the 4-phase trajectory of AI psychosis and model evaluations.
 - [[source-psychology-ai-cognitive-emotional]] — Summary of paper reviewing cognitive science and psychological characteristics of AI and human-AI relationship ethics.

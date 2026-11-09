@@ -666,6 +666,13 @@
       "summary": ""
     },
     {
+      "id": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation",
+      "name": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-comparing-usability-measures",
       "name": "Source: Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System",
       "val": 1.5,
@@ -752,6 +759,13 @@
     {
       "id": "source-delusioneval-measuring-delusion-linked-behaviors-in-ai-chatbots",
       "name": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl",
+      "name": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3710,6 +3724,14 @@
       "target": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency"
     },
     {
+      "source": "chatbots",
+      "target": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4111,7 +4133,11 @@
     },
     {
       "source": "human-ai-interaction",
-      "target": "medical-ai"
+      "target": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation"
     },
     {
       "source": "human-robot-interaction",
@@ -4819,6 +4845,10 @@
     },
     {
       "source": "medical-ai",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "medical-ai",
       "target": "trust"
     },
     {
@@ -4992,6 +5022,10 @@
     {
       "source": "medical-ai",
       "target": "source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl"
     },
     {
       "source": "mental-health",
@@ -5320,6 +5354,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation"
     },
     {
       "source": "mind-perception",
