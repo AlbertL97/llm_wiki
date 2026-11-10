@@ -4360,3 +4360,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-10 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md
+- raw/raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+- wiki/source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients" and created summary page wiki/source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md.
+- Ingested "Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL" and created summary page wiki/source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

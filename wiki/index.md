@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-10
 
 ## Orientation
 
@@ -71,6 +71,7 @@
 - [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]] — Summary of Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation.
 - [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]] — Summary of Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
+- [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]] — Summary of Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
@@ -261,6 +262,7 @@
 - [[source-when-should-i-trust-this-designing-and-evaluating-factuality-indicators-for-llm-based-chatbots]] — Summary of When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots.
 - [[source-who-thinks-first-designing-productive-friction-with-engage-to-unlock-genai]] — Summary of Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI.
 - [[source-why-ai-will-replace-your-therapist]] — Summary of HealthyGamerGG clinical panel comparing human psychotherapeutic diagnostics against ChatGPT's validation.
+- [[source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl]] — Summary of Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL.
 - [[source-wise-machines-metacognition]] — Summary of the wise machines paper detailing the smartness vs. wisdom framework, input-seeking, and outcome-monitoring.
 - [[source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations]] — Summary of XALIGN: A Human-centric Visual Analytics Approach to Understanding AI Explanations.
 

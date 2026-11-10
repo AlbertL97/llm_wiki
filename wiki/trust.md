@@ -180,8 +180,9 @@
 - raw_same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice.md
 - raw_a-unified-fractal-impedance-control-framework.md
 - raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
+- raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md
 
-**Last updated**: 2026-11-08
+**Last updated**: 2026-11-10
 
 ---
 
@@ -435,6 +436,16 @@ A novel three-agent workflow has been developed that integrates conversational d
 ### Aero Hand Open: Dexterous Manipulation and Simulation-to-Real Transfer
 
 The Aero Hand Open represents a significant advancement in creating anthropomorphic and affordable robotic hands for dexterous manipulation learning (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). A key contribution is its simulation-ready architecture, which directly addresses the challenges of accurately modeling underactuated, tendon-driven mechanisms (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). By providing a robust simulation model, an identified actuation map for real-world transfer, and a dedicated reinforcement learning package, the system enables policies to be trained entirely in simulation (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). This streamlined simulation-to-real transfer without extensive fine-tuning suggests increased predictability and reliability in the robot's physical actions (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). Such advancements in achieving dexterous manipulation through reliable simulation can foster greater trust in human-robot collaboration, as robots are expected to perform complex physical tasks with greater consistency and less need for human intervention (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md). The inherent anthropomorphic design also contributes to a more natural human perception of the robot (source: raw_aero-hand-open-simulation-ready-tendon-driven-hand.md).
+
+### **Verification of AI-Written RTL for Hardware Design**
+
+The increasing adoption of AI, particularly Large Language Models (LLMs), in Register-Transfer Level (RTL) hardware development necessitates robust verification methodologies to maintain trust in AI-driven design workflows (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md). The **SVApshot** framework has been introduced to automate the verification of AI-written RTL (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md). This fully automated system uses LLMs to generate and iteratively correct SystemVerilog Assertions (SVA) for RTL modules, aiming to remove human involvement from the assertion generation process (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
+
+Key features of SVApshot include:
+*   A **Snapshot Methodology** that captures the current state of an RTL design by generating a comprehensive set of formal assertions, which then serve as a regression suite for future changes (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
+*   Automated verification processes such as duplicate detection, assertion set expansion, and iterative repair of failing assertions using LLM-guided debugging with formal verification feedback (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
+
+Experimental evaluations demonstrated SVApshot's effectiveness in achieving high coverage, identifying bugs (both manual and AI-introduced), and generating formal testbenches (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md). This research directly addresses concerns about the reliability and predictability of AI collaborators in complex technical domains, which is crucial for establishing trust and enabling widespread AI adoption in professional workflows (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -709,3 +720,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
 *   [[source-a-unified-fractal-impedance-control-framework]]
 *   [[source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis]]
+*   [[source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl]]

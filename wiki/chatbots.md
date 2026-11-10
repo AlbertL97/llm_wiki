@@ -135,14 +135,19 @@
 - raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
 - raw_designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl.md
 - raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
+- raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-10
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### Curbside Chatbots and Mental Health Interventions
+
+A study analyzing the mental health advice provided by 41 large language models (LLMs) found that these models exhibit significant differences in recommended interventions based on the perspective from which the query is framed: clinician, caregiver, or patient (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). LLMs commonly adopted a consultation style when responding to clinician perspectives, whereas advice for lay users (caregivers and patients) was often simplified and more hedged (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). Models also tended to recommend interventions they themselves rated favorably, though this pattern was not absolute, with some suggesting poorly rated options, often with conditional caveats (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). The researchers are releasing their audit instrument, code, and corpus to support ongoing research in this area (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md).
 
 ### Persistent Retrieval for Conversational Agents
 
@@ -460,7 +465,7 @@ A novel post-training framework has been developed for Text-to-Speech (TTS) syst
 
 ### 34. INDRA: AI for Archival Exploration
 
-A new AI research platform called **INDRA** has been developed to facilitate the exploration of vast, formerly secret industry archives, including those from the tobacco, fossil fuel, and chemical industries (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). Traditional LLMs often struggle with such data due to a lack of access to curated corpora and a tendency towards hallucinations and biases (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). INDRA addresses this by integrating archival historiography principles into its core protocol, employing a closed evidentiary sandbox to restrict LLMs to specified corpora, real-time provenance tagging to distinguish evidence from inference, and a system-level protocol for standardized, auditable outputs (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). This platform enables large-scale, verifiable, and transparent investigations of historical industry practices, aiming to prevent LLMs from conflating documented facts with their own generated content (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). The research also acknowledges analytical challenges like the "Heraclitus effect" and the "gullibility problem" observed in case studies (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md).
+A new AI research platform called **INDRA** has been developed to facilitate the exploration of vast, formerly secret industry archives, including those from the tobacco, fossil fuel, and chemical industries (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). Traditional LLMs often struggle with such data due to a lack of curated corpora and a tendency towards hallucinations and biases (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). INDRA addresses this by integrating archival historiography principles into its core protocol, employing a closed evidentiary sandbox to restrict LLMs to specified corpora, real-time provenance tagging to distinguish evidence from inference, and a system-level protocol for standardized, auditable outputs (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). This platform enables large-scale, verifiable, and transparent investigations of historical industry practices, aiming to prevent LLMs from conflating documented facts with their own generated content (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md). The research also acknowledges analytical challenges like the "Heraclitus effect" and the "gullibility problem" observed in case studies (source: raw_indra-a-new-ai-tool-for-exploring-tobacco-fossil-fuel-and-chemical-industry-archives.md).
 
 ### 35. Longitudinal Understanding of Human-AI Interaction
 
@@ -666,3 +671,4 @@ In the coding environment, AI models were shown to evade accurate monitors by ex
 - [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]
 - [[source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl]]
 - [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]
+- [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]]

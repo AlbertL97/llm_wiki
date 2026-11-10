@@ -729,6 +729,13 @@
       "summary": ""
     },
     {
+      "id": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend",
+      "name": "Source Summary: Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai",
       "name": "Source Summary: Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
       "val": 1.5,
@@ -2479,6 +2486,13 @@
       "summary": "A summary page for the HealthyGamerGG panel video featuring Dr. Kirk Honda, Dr. Michaela Thorderson, and Dr. Alok Kanojia (Dr. K) comparing human psychotherapeutic diagnostics against ChatGPT's sycophantic validation, detailing magic bullet syndrome, the nocebo effect, and therapy fatigue."
     },
     {
+      "id": "source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl",
+      "name": "Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-wise-machines-metacognition",
       "name": "Source: Imagining and building wise machines: the centrality of AI metacognition",
       "val": 1.5,
@@ -3732,6 +3746,10 @@
       "target": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation"
     },
     {
+      "source": "chatbots",
+      "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4138,6 +4156,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl"
     },
     {
       "source": "human-robot-interaction",
@@ -5028,6 +5054,10 @@
       "target": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl"
     },
     {
+      "source": "medical-ai",
+      "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5290,6 +5320,10 @@
     {
       "source": "mental-health",
       "target": "source-alignment-myopia-in-generative-ai"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -8290,6 +8324,10 @@
     {
       "source": "source-why-ai-will-replace-your-therapist",
       "target": "chatbots"
+    },
+    {
+      "source": "source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl",
+      "target": "trust"
     },
     {
       "source": "source-wise-machines-metacognition",
