@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-10
+**Last updated**: 2026-11-11
 
 ## Orientation
 
@@ -29,6 +29,7 @@
 - [[source-ai-does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think]] — Summary of Does loving an AI companion sound crazy? You might be closer than you think. - The Atlanta Journal-Constitution.
 - [[source-ai-experts-humanity-last-exam]] — Summary of Reuters report on CAIS and Scale AI's 'Humanity's Last Exam' benchmark.
 - [[source-ai-experts-warning-dangerous-llm-problem]] — Summary of AI Experts Are Warning About a Dangerous New Problem With LLMs.
+- [[source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models]] — Summary of AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models.
 - [[source-ai-overly-affirms]] — Summary of Stanford study in Science on LLM sycophancy in social and personal advice and teen AI companion dependency.
 - [[source-ai-sycophancy-and-decisions]] — Summary of AI Sycophancy and Decisions.
 - [[source-alignment-myopia-in-generative-ai]] — Summary of Alignment Myopia in Generative AI.
@@ -42,6 +43,7 @@
 - [[source-attitudes-social-robots-scale]] — Summary of the development of the Attitudes towards Social Robots Scale (ASRS) with RoHeA and RoEqP subscales.
 - [[source-aura-dynamic-intra-turn-emotion-aware-adaptation-of-large-language-model-responses]] — Summary of Aura: Dynamic Intra-Turn Emotion-Aware Adaptation of Large Language Model Responses.
 - [[source-augmented-reality]] — Summary of Augmented Reality.
+- [[source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark]] — Summary of AVCC: Audio-Visual Conversation Corpus for Turn-Taking Prediction with a Human Benchmark.
 - [[source-avatar-video-robot-trust]] — Summary of the Ye Pan & Anthony Steed paper comparing trust formation across avatar, video, and robot media representations.
 - [[source-automated-metrics-human-evaluation]] — Summary of guide comparing automated rule-based metrics and human evaluations in AI system validation.
 - [[source-bees-chatgpt-consciousness]] — Summary of the ScienceDaily article and trends in cognitive sciences on bees, ChatGPT, and structural indicators of consciousness.

@@ -79,8 +79,9 @@
 - raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
 - raw_a-unified-fractal-impedance-control-framework.md
 - raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md
+- raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
 
-**Last updated**: 2026-11-08
+**Last updated**: 2026-11-11
 
 ---
 
@@ -188,7 +189,7 @@ Task-based collaborative HRI (such as wooden toy building using the JAST robot d
 - **Dialogue Length**: Total dialogue turns correlate positively with satisfaction, showing that users do not mind longer, highly interactive sessions if the collaboration is productive (source: (1) (PDF) Comparing Objective and Subjective Measures of Usability in a Human-Robot Dialogue System.md).
 
 ### 7. Multimodal Multiparty Turn-Taking Prediction (MuVAP)
-Achieving fluid and psychologically comfortable human-robot interaction in group settings requires sophisticated turn-taking prediction:
+Achieving fluid and psychologically comfortable human-robot interaction in group settings requires sophisticated turn-taking prediction. A new corpus, AVCC, provides a 31-hour audio-visual dataset of two- and three-person online conversations, using a single static camera and microphone setup suitable for robotic applications (source: raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md). This dataset is designed to serve as a benchmark for next-speaker prediction (NSP) tasks and includes a human performance benchmark for direct comparison with AI models (source: raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md). The AVCC benchmark features speaker-disjoint partitions for hold and shift events, along with word-level transcripts (source: raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md). This research contributes to making AI and robots better conversational partners by enabling them to predict conversational turns more accurately and naturally (source: raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md).
 - **Efficient Multimodal Prediction (MuVAP)**: MuVAP is a causal framework that improves turn-taking prediction in multiparty conversations, using minimal sensor requirements like monaural audio and single-camera video for real-time operation (source: raw_muvap-turn-taking-prediction.md). This reduces hardware complexity, making it practical for real-world HRI applications (source: raw_muvap-turn-taking-prediction.md).
 - **Speaker-Aware Grounding**: The framework grounds acoustic predictions in face tracks, enabling speaker-specific turn-taking decisions essential for natural group dynamics (source: raw_muvap-turn-taking-prediction.md).
 - **Role-Relative Projection**: To simplify the combinatorial complexity of multiparty interactions, MuVAP maps N-speaker dynamics onto a fixed 'current vs. next floor-holder' state (source: raw_muvap-turn-taking-prediction.md).
@@ -366,3 +367,4 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 - [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]]
 - [[source-a-unified-fractal-impedance-control-framework]]
 - [[source-affordjev-affordance-grounding-by-confirming-candidate-regions]]
+- [[source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark]]

@@ -181,8 +181,9 @@
 - raw_a-unified-fractal-impedance-control-framework.md
 - raw_enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis.md
 - raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md
+- raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md
 
-**Last updated**: 2026-11-10
+**Last updated**: 2026-11-11
 
 ---
 
@@ -446,6 +447,10 @@ Key features of SVApshot include:
 *   Automated verification processes such as duplicate detection, assertion set expansion, and iterative repair of failing assertions using LLM-guided debugging with formal verification feedback (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
 
 Experimental evaluations demonstrated SVApshot's effectiveness in achieving high coverage, identifying bugs (both manual and AI-introduced), and generating formal testbenches (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md). This research directly addresses concerns about the reliability and predictability of AI collaborators in complex technical domains, which is crucial for establishing trust and enabling widespread AI adoption in professional workflows (source: raw_will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl.md).
+
+### Rising Standards in Human Evaluation of LLMs
+
+A common perception is that AI assistants, particularly LLMs, are declining in quality. However, research analyzing over a million user votes on the Chatbot Arena platform provides evidence that this perceived degradation is not due to AI becoming dumber, but rather due to **rising human standards and expectations** (source: raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md). This phenomenon, termed 'evaluation drift,' suggests that as technology progresses, human thresholds for acceptable performance naturally increase (source: raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md). Key findings include a consistent monthly increase in "Both Are Bad" votes across diverse models and languages, while relative LLM rankings remained stable, indicating users can still differentiate between models despite their elevated standards (source: raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md). This has implications for AI development and evaluation, as user feedback loops may be influenced by these shifting expectations rather than solely by absolute AI performance (source: raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -721,3 +726,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-a-unified-fractal-impedance-control-framework]]
 *   [[source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis]]
 *   [[source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl]]
+*   [[source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models]]

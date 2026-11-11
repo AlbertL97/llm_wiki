@@ -344,6 +344,13 @@
       "summary": ""
     },
     {
+      "id": "source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models",
+      "name": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-overly-affirms",
       "name": "Source: AI overly affirms users asking for personal advice",
       "val": 1.5,
@@ -489,6 +496,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the research article comparing trust development and advice-seeking behaviors across video-, avatar-, and robot-mediated communication channels, exploring how media representation affects a user's ability to identify expertise."
+    },
+    {
+      "id": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark",
+      "name": "AVCC: Audio-Visual Conversation Corpus for Turn-Taking Prediction with a Human Benchmark",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-bees-chatgpt-consciousness",
@@ -2922,6 +2936,10 @@
       "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
+      "source": "ai-companions",
+      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3750,6 +3768,14 @@
       "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
     },
     {
+      "source": "chatbots",
+      "target": "source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4166,6 +4192,10 @@
       "target": "source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4500,6 +4530,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-affordjev-affordance-grounding-by-confirming-candidate-regions"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
     },
     {
       "source": "introspective-awareness",
@@ -4864,6 +4898,14 @@
     {
       "source": "measurement-tools",
       "target": "source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
     },
     {
       "source": "medical-ai",
@@ -6099,6 +6141,14 @@
     },
     {
       "source": "source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns",
+      "target": "trust"
+    },
+    {
+      "source": "source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models",
       "target": "trust"
     },
     {

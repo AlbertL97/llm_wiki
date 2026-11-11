@@ -4386,3 +4386,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-11 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md
+- raw/raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/trust.md
+- wiki/source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
+- wiki/human-robot-interaction.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models" and created summary page wiki/source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md.
+- Ingested "AVCC: Audio-Visual Conversation Corpus for Turn-Taking Prediction with a Human Benchmark" and created summary page wiki/source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
