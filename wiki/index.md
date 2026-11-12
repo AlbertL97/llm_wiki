@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-11
+**Last updated**: 2026-11-12
 
 ## Orientation
 
@@ -50,6 +50,8 @@
 - [[source-behavioral-signatures-large-language-models]] — Summary of article outlining how Large Language Models exhibit unique, reproducible tendencies in communication style.
 - [[source-bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse]] — Summary of BenCoDiC: A Large-Scale Contextual Cyberbullying Corpus for Bengali Political News Discourse FULL VERSION.
 - [[source-beyond-large-language-models-a-mental-world-model-framework]] — Summary of Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability.
+- [[source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation]] — Summary of Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation.
+- [[source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions]] — Summary of Beyond Fluent Responses: Finding User Dissatisfaction in Human-AI Interactions.
 - [[source-beyond-personality-quantization-layer-wise-mbti-analysis-quantized-llms]] — Summary of When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs.
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]] — Summary of Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion.

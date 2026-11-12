@@ -540,8 +540,22 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions",
+      "name": "Source Summary: Beyond Fluent Responses: Finding User Dissatisfaction in Human-AI Interactions",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-large-language-models-a-mental-world-model-framework",
       "name": "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation",
+      "name": "Source Summary: Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3776,6 +3790,10 @@
       "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
     },
     {
+      "source": "chatbots",
+      "target": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4024,6 +4042,10 @@
       "target": "source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis"
     },
     {
+      "source": "explainability",
+      "target": "source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4193,7 +4215,11 @@
     },
     {
       "source": "human-ai-interaction",
-      "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
+      "target": "source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions"
     },
     {
       "source": "human-robot-interaction",
@@ -4906,6 +4932,14 @@
     {
       "source": "measurement-tools",
       "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions"
     },
     {
       "source": "medical-ai",
@@ -5852,6 +5886,10 @@
       "target": "source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting"
     },
     {
+      "source": "qualitative-methods",
+      "target": "source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation"
+    },
+    {
       "source": "social-media-and-online-communities",
       "target": "source-the-front-page-of-the-agent-internet"
     },
@@ -6313,6 +6351,10 @@
     },
     {
       "source": "source-avatar-video-robot-trust",
+      "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark",
       "target": "human-ai-interaction"
     },
     {

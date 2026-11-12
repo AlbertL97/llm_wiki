@@ -4413,3 +4413,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-12 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md
+- raw/raw_beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions.md
+- wiki/chatbots.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation" and created summary page wiki/source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md.
+- Ingested "Beyond Fluent Responses: Finding User Dissatisfaction in Human-AI Interactions" and created summary page wiki/source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
