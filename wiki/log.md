@@ -4439,3 +4439,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-13 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_heir-harness-egocentric-intent-for-human-robot-interactions.md
+- raw/raw_neural-representations-as-new-modes-of-interactivity.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-heir-harness-egocentric-intent-for-human-robot-interactions.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/qualitative-methods.md
+- wiki/source-neural-representations-as-new-modes-of-interactivity.md
+- wiki/explainability.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "HEIR: Harness Egocentric Intent for Human-Robot Interactions" and created summary page wiki/source-heir-harness-egocentric-intent-for-human-robot-interactions.md.
+- Ingested "Neural Representations as New Modes of Interactivity" and created summary page wiki/source-neural-representations-as-new-modes-of-interactivity.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

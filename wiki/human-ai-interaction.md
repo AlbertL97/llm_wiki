@@ -225,8 +225,10 @@
 - raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
 - raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md
 - raw_beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions.md
+- raw_heir-harness-egocentric-intent-for-human-robot-interactions.md
+- raw_neural-representations-as-new-modes-of-interactivity.md
 
-**Last updated**: 2026-11-12
+**Last updated**: 2026-11-13
 
 ---
 
@@ -382,6 +384,14 @@ The increasing adoption of Artificial Intelligence (AI), particularly Large Lang
 
 The long-standing challenge in Explainable AI (XAI) of effectively evaluating explanation techniques has been addressed by exploring the potential of Multimodal Large Language Models (MLLMs) to act as automated human surrogates (source: raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md). Traditional evaluation methods, relying on indirect proxy metrics or resource-intensive human evaluations, have proven insufficient due to their limited insight into actual utility or scalability and reproducibility issues. A novel "purpose-grounded" evaluation framework has been proposed, utilizing metrics applicable to both MLLMs and humans to provide a consistent basis for comparison (source: raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md). Empirical validation across fourteen MLLMs showed promising trends, with OpenAI and Qwen models demonstrating higher alignment with human evaluation standards, making them recommended for practical application (source: raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md). This approach is positioned to complement, rather than replace, traditional user testing, helping the field move beyond heavy reliance on proxy metrics (source: raw_beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation.md).
 
+### HEIR: Harnessing Egocentric Intent for Human-Robot Interactions
+
+The HEIR (Harness Egocentric Intent for Human-Robot Interactions) resource has been introduced to advance research in human-robot interaction (HRI). This resource comprises a dataset and a framework that integrates multimodal human cues—speech, gaze, and egocentric video—with robot observations and teleoperated actions (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). HEIR is structured to capture complete interaction episodes, where complex human requests are broken down into multiple subtasks for the robot to execute (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). This facilitates in-depth research into crucial HRI aspects such as understanding human intent, planning robot actions, and successfully completing long-horizon tasks (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). The data is collected in naturalistic household environments, enhancing the applicability of findings to real-world robot assistance and collaboration scenarios (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). The authors have demonstrated HEIR's utility through offline experiments highlighting the benefits of human-centric context in AI models and real-robot experiments validating task completion capabilities, serving as a valuable tool for developing more user-centric robot interaction systems (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md).
+
+### Neural Representations as New Modes of Interactivity
+
+A novel paradigm, Neural Representation Interaction (NRI), is proposed to transcend the limitations of current human-AI interactions, which are often confined to opaque prompts and outputs (source: raw_neural-representations-as-new-modes-of-interactivity.md). NRI aims to foster richer and more transparent engagement by enabling users to directly interact with the internal representations of neural networks (source: raw_neural-representations-as-new-modes-of-interactivity.md). This framework treats these internal states as manipulable material, allowing users to inspect, steer, and even edit the AI's internal workings (source: raw_neural-representations-as-new-modes-of-interactivity.md). The paper argues that the concepts and algorithms encoded within neural networks offer unique "representational affordances" for designing more intuitive and effective interactions (source: raw_neural-representations-as-new-modes-of-interactivity.md). A design space for NRI is constructed using General Morphological Analysis, focusing on dimensions like Interaction, Target, Referent, and Purpose, with an emphasis on developing tools for a broader user base beyond just experts (source: raw_neural-representations-as-new-modes-of-interactivity.md). Potential applications are envisioned in areas such as education, personalized user modeling, and auditing processes, while also acknowledging the sociotechnical implications and risks (source: raw_neural-representations-as-new-modes-of-interactivity.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -428,5 +438,9 @@ The long-standing challenge in Explainable AI (XAI) of effectively evaluating ex
 *   [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]
 *   [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]]
 *   [[source-will-ai-mess-my-rtl-a-snapshot-based-approach-to-verifying-ai-written-rtl]]
+*   [[source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models]]
+*   [[source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark]]
 *   [[source-beyond-proxy-metrics-mllms-as-human-surrogates-for-explainable-ai-evaluation]]
 *   [[source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions]]
+*   [[source-heir-harness-egocentric-intent-for-human-robot-interactions]]
+*   [[source-neural-representations-as-new-modes-of-interactivity]]

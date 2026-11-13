@@ -1,0 +1,9 @@
+Authors: T. D. V. N. Bach, H. S. H. N. T. H. K. L. K. G. G. R. P. P. D. N. L. M. Nguyen, S. C. O. J. J. J. R. V. P. H. C. L. L. M. V. D. Pham, C. A. H. G. J. G. T. L. Nguyen, S. E. H. J. M. D. D. T. H. K. L. K. G. G. R. P. P. D. N. L. M. Nguyen
+Date: 2026-11-13
+Summary: The paper "HEIR: Harness Egocentric Intent for Human-Robot Interactions" presents HEIR, a novel resource for studying human-robot interaction (HRI). HEIR comprises a dataset and a framework that pairs human speech, measured gaze, and egocentric video with robot observations and teleoperated navigation-manipulation trajectories. The dataset is structured to preserve successive episodes, where each human request is fulfilled through multiple execution subtasks. This setup supports research into key HRI areas such as intent grounding, execution planning, and task completion within a unified interaction setting. The authors demonstrate the utility of HEIR through extensive offline experiments evaluating model performance with additional human-centric context and real-robot experiments assessing task completion. HEIR is positioned as a valuable resource for studying user-centric robot interaction in naturalistic household environments, with the demo and dataset available online.
+Key aspects:
+- **HEIR Dataset**: Pairs human multimodal cues (speech, gaze, egocentric video) with robot observations and actions.
+- **Structured Episodes**: Preserves successive episodes with requests broken down into subtasks for execution.
+- **Research Focus**: Supports study of intent grounding, execution planning, and task completion in HRI.
+- **Demonstrated Value**: Offline and real-robot experiments show benefits of human-centric context.
+- **Application Domain**: Naturalistic household environments for robot assistance and collaboration.

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-12
+**Last updated**: 2026-11-13
 
 ## Orientation
 
@@ -119,6 +119,7 @@
 - [[source-gendered-anthropomorphism-in-human-robot-interaction]] — Summary of Gendered anthropomorphism in human–robot interaction: the role of robot gender in human motivation in task contexts.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
 - [[source-handroid-bridging-dexterous-hand-and-humanoid]] — Summary of Handroid: Bridging Dexterous Hand and Humanoid.
+- [[source-heir-harness-egocentric-intent-for-human-robot-interactions]] — Summary of HEIR: Harness Egocentric Intent for Human-Robot Interactions.
 - [[source-health-advisory-mental-health]] — Summary of the APA Health Advisory documenting classification of digital mental health tools, risks, and recommendations.
 - [[source-healthy-gamer-ai-brain]] — Summary of the HealthyGamerGG video on AI-induced psychological destabilisation, bidirectional belief amplification, and the 10-point psychogenic risk questionnaire.
 - [[source-healthy-gamer-replace-therapist]] — Summary of the HealthyGamerGG panel video comparing human psychotherapeutic diagnostics and CBT/DBT friction against ChatGPT's automated validation.
@@ -167,6 +168,7 @@
 - [[source-moonwalk-mediating-operations-with-intent-evidence-action-alignment-across-junior-supervisor-review-workflows-in-animation-vfx-pre-production]] — Summary of MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production.
 - [[source-muvap-turn-taking-prediction]] — Summary of MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild.
 - [[source-navigating-human-robot-interaction-challenges-in-aged-care-homes]] — Summary of Navigating human-robot interaction challenges in private and residential aged care homes.
+- [[source-neural-representations-as-new-modes-of-interactivity]] — Summary of Neural Representations as New Modes of Interactivity.
 - [[source-new-research-highlights-heightened-dangers-ai-companion-use-teens]] — Summary of New research highlights the heightened dangers of AI companion use for teens.
 - [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]] — Summary of New research tells us a third of kids depend on AI for serious conversations..
 - [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.

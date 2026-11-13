@@ -20,8 +20,9 @@
 - raw_extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics.md
 - raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
 - raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
+- raw_neural-representations-as-new-modes-of-interactivity.md
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-13
 
 ---
 
@@ -127,6 +128,10 @@ A new architectural approach for conversational agents involves a persistent ret
 
 A novel conversational memory system utilizes a **compaction** strategy, where each conversational turn is compressed into atomic facts, as an alternative to traditional Retrieval-Augmented Generation (RAG) which retains full transcripts (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). This compaction method demonstrated a statistically significant advantage in accuracy over RAG for factual recall, particularly for specific values, achieving a 6.8 point lead with 34% fewer prompt tokens (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). However, the benefits of compaction diminished when answers required verbatim phrasing or in adversarial contexts, suggesting its strength lies in concise factual assertion rather than nuanced textual reproduction (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md). This approach highlights that memory management in conversational agents can be optimized by prioritizing core assertions over exact wording for specific types of queries (source: raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md).
 
+### 20. Neural Representation Interaction (NRI)
+
+Emerging paradigms in human-AI interaction are moving beyond traditional prompt-output models towards richer engagement with AI's internal states. Neural Representation Interaction (NRI) proposes treating the internal representations of neural networks as an accessible and manipulable form of interaction material (source: raw_neural-representations-as-new-modes-of-interactivity.md). This framework empowers users to inspect, steer, and edit AI models' internal states and concepts, recognizing that these encoded representations offer unique affordances for designing more effective and intuitive interactions (source: raw_neural-representations-as-new-modes-of-interactivity.md). NRI contributes to metacognitive architectures by providing mechanisms for deeper human understanding and potential manipulation of the AI's cognitive processes, opening up applications in areas like education, personal user modeling, and auditing (source: raw_neural-representations-as-new-modes-of-interactivity.md). This approach acknowledges significant sociotechnical implications and calls for careful consideration of design principles, limitations, and risks (source: raw_neural-representations-as-new-modes-of-interactivity.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -148,3 +153,4 @@ A novel conversational memory system utilizes a **compaction** strategy, where e
 - [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]]
 - [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]
 - [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]
+- [[source-neural-representations-as-new-modes-of-interactivity]]
