@@ -75,8 +75,9 @@
 - raw_how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models.md
 - raw_development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie.md
 - raw_a-unified-fractal-impedance-control-framework.md
+- raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
 
-**Last updated**: 2026-11-07
+**Last updated**: 2026-11-14
 
 ---
 
@@ -91,6 +92,8 @@ AI companions are capable of simulating intimacy, often referred to as "Intimacy
 Artificial companionship, while offering benefits like alleviating loneliness and providing consistent attention, presents a significant "paradox" (source: raw_the-paradox-of-artificial-companionship.md). This paradox stems from the fundamental lack of genuine reciprocity in AI and robots, as they lack consciousness, sentience, and true emotional capacity (source: raw_the-paradox-of-artificial-companionship.md). This raises questions about whether artificial relationships can truly fulfill the human need for authentic connection or merely offer a superficial substitute (source: raw_the-paradox-of-artificial-companionship.md). There is a concern that the programmed nature of AI companions could foster unhealthy dependence, potentially hindering the development and maintenance of human relationships (source: raw_the-paradox-of-artificial-companionship.md). The ethical implications of designing AI to elicit strong emotional responses without possessing genuine feelings are also considerable (source: raw_the-paradox-of-artificial-companionship.md). Ultimately, artificial companionship prompts a reevaluation of what constitutes a meaningful connection, as programmed behaviors may not replicate the spontaneity and vulnerability found in human interaction (source: raw_the-paradox-of-artificial-companionship.md).
 
 The phenomenon of individuals forming emotional attachments, including love, with AI companions is becoming increasingly prevalent (source: raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md). While societal perceptions might label such relationships as "crazy," the article suggests these connections are becoming more common and accepted as AI companions can fulfill significant emotional needs, leading to genuine feelings of affection and companionship (source: raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md). This growing trend indicates that the line between human and AI interaction is blurring, normalizing the idea of emotional investment in AI systems (source: raw_does-loving-an-ai-companion-sound-crazy-you-might-be-closer-than-you-think.md).
+
+Research into multi-turn conversations indicates that people often prefer advice from AI chatbots over human advisors. Participants judged AI advisors as more rational, trustworthy, convincing, and sycophantic, and observed LLM advisors to be more engaged, sharing more facts and justifications (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). Despite these perceived advantages, this preference for AI did not translate into behavioral changes in incentivized tasks, such as donation decisions (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). This suggests that while AI can elicit positive perceptions, its influence on human action remains limited in certain contexts, even while acknowledging known LLM issues like sycophancy and overconfidence (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md).
 
 Research also indicates that individual psychological needs significantly predict the acceptance of AI companions and therapists (source: raw_psychological-needs-predict-ai-acceptance.md). Specifically, individuals with higher levels of relatedness and competence needs are more likely to accept AI support (source: raw_psychological-needs-predict-ai-acceptance.md). Conversely, a strong need for autonomy can lead to increased skepticism towards AI, particularly in therapeutic contexts (source: raw_psychological-needs-predict-ai-acceptance.md). Understanding these psychological profiles is crucial for designing AI systems that are both acceptable and effective in social and therapeutic roles (source: raw_psychological-needs-predict-ai-acceptance.md).
 
@@ -400,3 +403,4 @@ The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fr
 - [[source-how-much-do-you-trust-a-dog-quantifying-hint-following-in-reasoning-language-models]]
 - [[source-development-of-anthropomorphic-arm-for-collaborative-and-home-service-robot-charmie]]
 - [[source-a-unified-fractal-impedance-control-framework]]
+- [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]

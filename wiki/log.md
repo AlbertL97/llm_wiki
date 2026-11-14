@@ -4466,3 +4466,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-14 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
+- raw/raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/persuasion-and-influence.md
+- wiki/source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks" and created summary page wiki/source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md.
+- Ingested "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour" and created summary page wiki/source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

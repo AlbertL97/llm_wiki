@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-13
+**Last updated**: 2026-11-14
 
 ## Orientation
 
@@ -161,6 +161,7 @@
 - [[source-mental-health-risks-of-ai-companion-chatbots]] — Summary of The risks of AI companion chatbots as mental health support.
 - [[source-mental-models-in-human-ai-interaction-methods-and-challenges-in-the-generative-and-agentic-ai-era-workshop]] — Summary of [MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop).
 - [[source-mindeval2-clinically-grounded-patients-and-rubrics-for-evaluating-language-models-in-mental-health-support]] — Summary of MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support.
+- [[source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks]] — Summary of Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks.
 - [[source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement]] — Summary of Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement.
 - [[source-mindset-energy-based-schema-evolution-for-long-conversational-agent-memory]] — Summary of MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory.
 - [[source-microsoft-trustworthy-ai]] — Summary of Microsoft's Trustworthy AI capabilities, covering Azure safety evaluations, groundedness correction, and confidential VMs.
@@ -176,6 +177,7 @@
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
+- [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]] — Summary of People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour.
 - [[source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms]] — Summary of Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms.
 - [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]] — Summary of PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios.
 - [[source-persuasion-paradox-explanations]] — Summary of study identifying the Persuasion Paradox where fluent LLM explanations mask errors and suppress error recovery.

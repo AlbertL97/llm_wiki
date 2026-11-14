@@ -1555,6 +1555,13 @@
       "summary": ""
     },
     {
+      "id": "source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks",
+      "name": "Source Summary: Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
       "name": "Source Summary: Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement",
       "val": 1.5,
@@ -1676,6 +1683,13 @@
     {
       "id": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
       "name": "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour",
+      "name": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3284,6 +3298,10 @@
       "target": "source-a-unified-fractal-impedance-control-framework"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -3808,6 +3826,18 @@
       "target": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions"
     },
     {
+      "source": "chatbots",
+      "target": "source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks"
+    },
+    {
+      "source": "chatbots",
+      "target": "trust"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4254,6 +4284,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-neural-representations-as-new-modes-of-interactivity"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
     },
     {
       "source": "human-robot-interaction",
@@ -5814,6 +5852,14 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-alignment-myopia-in-generative-ai"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
     },
     {
       "source": "qualitative-methods",
@@ -7432,6 +7478,10 @@
       "target": "trust"
     },
     {
+      "source": "source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks",
+      "target": "trust"
+    },
+    {
       "source": "source-mind-the-context-continual-learning-of-socially-appropriate-robot-actions-via-environmental-social-disentanglement",
       "target": "human-ai-interaction"
     },
@@ -7538,6 +7588,10 @@
     {
       "source": "source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms",
       "target": "chatbots"
+    },
+    {
+      "source": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour",
+      "target": "trust"
     },
     {
       "source": "source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios",
@@ -8490,10 +8544,6 @@
     {
       "source": "source-xalign-a-human-centric-visual-analytics-approach-to-understanding-ai-explanations",
       "target": "trust"
-    },
-    {
-      "source": "trust",
-      "target": "chatbots"
     },
     {
       "source": "trust",
