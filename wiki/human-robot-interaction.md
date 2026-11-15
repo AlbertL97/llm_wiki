@@ -81,8 +81,9 @@
 - raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md
 - raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
 - raw_heir-harness-egocentric-intent-for-human-robot-interactions.md
+- raw_robots-that-talk-too-much-and-dont-listen-enough.md
 
-**Last updated**: 2026-11-13
+**Last updated**: 2026-11-15
 
 ---
 
@@ -198,6 +199,7 @@ Achieving fluid and psychologically comfortable human-robot interaction in group
 - **Role-Relative Projection**: To simplify the combinatorial complexity of multiparty interactions, MuVAP maps N-speaker dynamics onto a fixed 'current vs. next floor-holder' state (source: raw_muvap-turn-taking-prediction.md).
 - **Improved Performance**: MuVAP significantly outperforms existing baselines in predicting shift-hold and next-speaker turns in both two- and three-speaker conversations (source: raw_muvap-turn-taking-prediction.md).
 - **Psychological Implications**: Robots and AI companions capable of seamless turn-taking are perceived as more intelligent, socially competent, and trustworthy, which enhances interaction quality and reduces user frustration (source: raw_muvap-turn-taking-prediction.md). A new Audio-Visual Conversation Corpus, a 31-hour dataset, supports training and evaluating these causal models (source: raw_muvap-turn-taking-prediction.md).
+Despite advancements in speech recognition, spoken human-robot interaction still faces significant challenges with turn-taking and conversational misunderstandings (source: raw_robots-that-talk-too-much-and-dont-listen-enough.md). Historical methods for improving these aspects have been reviewed, with a strong argument made for the adoption of multimodal bidirectional streaming as a key solution to achieve more natural conversational flow and mitigate interaction breakdowns (source: raw_robots-that-talk-too-much-and-dont-listen-enough.md).
 
 ### 8. Physiological Workload and Situational Awareness Sensing
 Continuous physiological monitoring helps adjust robot autonomy to the operator's mental and physical states without disruptive manual questionnaires:
@@ -372,3 +374,4 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 - [[source-affordjev-affordance-grounding-by-confirming-candidate-regions]]
 - [[source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark]]
 - [[source-heir-harness-egocentric-intent-for-human-robot-interactions]]
+- [[source-robots-that-talk-too-much-and-dont-listen-enough]]

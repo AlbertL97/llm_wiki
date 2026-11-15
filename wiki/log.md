@@ -4492,3 +4492,28 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-15 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_robots-that-talk-too-much-and-dont-listen-enough.md
+- raw/raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-robots-that-talk-too-much-and-dont-listen-enough.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/source-a-reliability-study-of-explainable-ai-for-freight-mode-classification.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Robots That Talk Too Much and Don't Listen Enough" and created summary page wiki/source-robots-that-talk-too-much-and-dont-listen-enough.md.
+- Ingested "A Reliability Study of Explainable AI for Freight Mode Classification" and created summary page wiki/source-a-reliability-study-of-explainable-ai-for-freight-mode-classification.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

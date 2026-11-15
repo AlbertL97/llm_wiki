@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-14
+**Last updated**: 2026-11-15
 
 ## Orientation
 
@@ -11,6 +11,7 @@
 ## Source summaries
 
 - [[source-a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths]] — Summary of A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths.
+- [[source-a-reliability-study-of-explainable-ai-for-freight-mode-classification]] — Summary of A Reliability Study of Explainable AI for Freight Mode Classification.
 - [[source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese]] — Summary of A Systematic and Validated Translation of the Perceived Empathy of Technology Scale to Chinese.
 - [[source-a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers]] — Summary of A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers.
 - [[source-a-unified-fractal-impedance-control-framework]] — Summary of A Unified Fractal Impedance Control Framework.
@@ -70,9 +71,9 @@
 - [[source-co-creativity-table-adventure-ai]] — Summary of Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI".
 - [[source-comfortable-with-ai-doctors]] — Summary of Comfortable with AI Doctors.
 - [[source-comparing-usability-measures]] — Summary of study correlating objective dialogue metrics and subjective usability in the JAST human-robot dialogue system.
+- [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]] — Summary of Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation.
 - [[source-conscious-turing-machine]] — Summary of Manuel Blum's lecture on the Conscious Turing Machine, randomized tournaments, and sleeping experts.
 - [[source-consciousness-controlled-hallucination]] — Summary of the controlled hallucination article outlining perception as active prediction and the homeostatic biological barrier.
-- [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]] — Summary of Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation.
 - [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]] — Summary of Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]] — Summary of Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients.
@@ -202,6 +203,7 @@
 - [[source-revisiting-explainable-ai-through-model-independent-concept-dictionaries]] — Summary of Revisiting Explainable AI through Model-Independent Concept Dictionaries.
 - [[source-robot-learning-human-demonstrations-handwritten-alphabet-trajectories-human-likeness-evaluation]] — Summary of Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation.
 - [[source-robots-avatars-chatbots-dynamics]] — Summary of the Albert Łukasik & Arkadiusz Gut paper analyzing socio-cognitive stances and companionship development quality across robots, avatars, and chatbots.
+- [[source-robots-that-talk-too-much-and-dont-listen-enough]] — Summary of Robots That Talk Too Much and Don't Listen Enough.
 - [[source-rise-of-para-therapy-companions]] — Summary of the news/web synthesis detailing the rise of Character.AI/Replika para-therapy, teen companionship, emotional manipulation app designs, and APA safety advisories.
 - [[source-sanctuary-ai-phoenix]] — Summary of Sanctuary AI's 7th-gen Phoenix humanoid touch sensors, hand focus, and blind picking capabilities.
 - [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]] — Summary of Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice.

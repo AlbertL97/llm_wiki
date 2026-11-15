@@ -162,6 +162,13 @@
       "summary": ""
     },
     {
+      "id": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification",
+      "name": "Source Summary: A Reliability Study of Explainable AI for Freight Mode Classification",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-a-systematic-and-validated-translation-of-the-perceived-empathy-of-technology-scale-to-chinese",
       "name": "Perceived Empathy of Technology Scale (PETS) - Chinese Translation",
       "val": 1.5,
@@ -1938,6 +1945,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for the review article analyzing how different designs of artificial agents—robots, avatars, and chatbots—influence social-cognitive processes, mental state attribution, emotional bonding, and the uncanny valley."
+    },
+    {
+      "id": "source-robots-that-talk-too-much-and-dont-listen-enough",
+      "name": "Robots That Talk Too Much and Don't Listen Enough",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice",
@@ -4094,6 +4108,10 @@
       "target": "source-neural-representations-as-new-modes-of-interactivity"
     },
     {
+      "source": "explainability",
+      "target": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4292,6 +4310,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-robots-that-talk-too-much-and-dont-listen-enough"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification"
     },
     {
       "source": "human-robot-interaction",
@@ -4636,6 +4662,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-heir-harness-egocentric-intent-for-human-robot-interactions"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-robots-that-talk-too-much-and-dont-listen-enough"
     },
     {
       "source": "introspective-awareness",
@@ -6071,6 +6101,10 @@
     },
     {
       "source": "source-a-psychotechnology-in-the-making-why-conversational-ai-reorganizes-thinking-regardless-of-agi",
+      "target": "trust"
+    },
+    {
+      "source": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification",
       "target": "trust"
     },
     {
@@ -8548,6 +8582,10 @@
     {
       "source": "trust",
       "target": "trust"
+    },
+    {
+      "source": "trust",
+      "target": "explainability"
     }
   ]
 }

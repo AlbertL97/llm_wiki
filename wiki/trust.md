@@ -184,8 +184,9 @@
 - raw_ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models.md
 - raw_mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
+- raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md
 
-**Last updated**: 2026-11-14
+**Last updated**: 2026-11-15
 
 ---
 
@@ -458,6 +459,10 @@ A common perception is that AI assistants, particularly LLMs, are declining in q
 
 Recent research indicates that participants in multi-turn conversations significantly prefer AI chatbot advisors over human advisors, rating them as more rational, trustworthy, convincing, and even sycophantic (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). AI advisors were observed to be more engaged, sharing more facts and frequently offering opinions and justifications for their recommendations (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). This preference suggests that the interactive and informative style of LLM advisors contributes to a positive perception of their quality. However, despite these favorable judgments of AI advice, the study found no significant difference in participants' incentivised behavior (specifically, donation decisions) across conditions involving AI advice, human advice, or no advice (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). This behavioral invariance, even with perceived improvements in advisor quality, highlights a gap between perceived trust and actual behavioral influence, underscoring the complexity of translating trust into action (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). The research acknowledges known LLM issues such as sycophancy, overconfidence, and amplification of cognitive biases as factors that may contribute to this discrepancy between perception and behavior (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md).
 
+### Reliability of Explainable AI for Freight Mode Classification
+
+In critical decision-making domains such as freight transportation, the reliability of AI explanations is paramount for building user trust. A study investigating explainable AI (XAI) methods, specifically SHAP and LIME, for freight mode classification found that while tree ensemble models achieved superior accuracy, the stability and faithfulness of their explanations were crucial for trust calibration (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The research utilized the PEPFAR Supply Chain Management System Delivery History dataset and compared various machine learning models. Key findings indicated that SHAP feature rankings were more stable for tree ensembles and that feature-deletion tests suggested a reasonable level of faithfulness in explanations (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). However, a critical takeaway was that models with comparable accuracy could provide significantly divergent explanations regarding influential features (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). This variability underscores the necessity of evaluating explanation stability and faithfulness before relying on AI for decision support in such domains (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The study also revealed discernible geographic patterns in destination effects not fully explained by simple port accessibility (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md).
+
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
 
@@ -722,7 +727,7 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 - **Simulated Feeling vs. Actual Empathy**: Sherry Turkle (MIT) highlights that simulated empathy is not actual empathy. While a machine can be scripted to present as socially aware, this performance of feeling can mislead users into calibrating a high level of relational trust based on simulated emotions that do not exist: *"Simulated thinking might be thinking, but simulated feeling is never feeling. Simulated love is never love"* (source: Humans are starting to grow emotionally attached to robots.md).
 - **Curriculum Safeguards**: To prevent users (especially vulnerable cohorts like children with autism) from forming excessive parasocial attachments that distort trust and hinder real-world socialization, developers recommend imposing curriculum limits (e.g. RoboKind's Milo robot limits interactions to 3–5 times a week for 30 minutes) to ensure skills are transferred to human-to-human relationships (source: Humans are starting to grow emotionally attached to robots.md).
 
-### 22. Capitalist Coercion and Subscription Lock-
+### 22. Capitalist Coercion and Subscription Lock-in
 
 ### Related pages
 
@@ -732,6 +737,7 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[mental-health]]
 *   [[persuasion-and-influence]]
 *   [[trust]]
+*   [[explainability]]
 *   [[source-same-question-different-answers-auditing-persona-dependent-variation-in-six-llms-on-smoking-cessation-advice]]
 *   [[source-a-unified-fractal-impedance-control-framework]]
 *   [[source-enhanced-mri-brain-tumor-detection-using-deep-learning-in-conjunction-with-explainable-ai-shap-based-diverse-and-multi-feature-analysis]]
@@ -739,3 +745,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-ai-isnt-getting-dumber-were-getting-pickier-rising-standards-in-human-evaluation-of-large-language-models]]
 *   [[source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks]]
 *   [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
+*   [[source-a-reliability-study-of-explainable-ai-for-freight-mode-classification]]
