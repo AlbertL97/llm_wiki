@@ -185,8 +185,9 @@
 - raw_mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
 - raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md
+- raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
 
-**Last updated**: 2026-11-15
+**Last updated**: 2026-11-16
 
 ---
 
@@ -462,6 +463,10 @@ Recent research indicates that participants in multi-turn conversations signific
 ### Reliability of Explainable AI for Freight Mode Classification
 
 In critical decision-making domains such as freight transportation, the reliability of AI explanations is paramount for building user trust. A study investigating explainable AI (XAI) methods, specifically SHAP and LIME, for freight mode classification found that while tree ensemble models achieved superior accuracy, the stability and faithfulness of their explanations were crucial for trust calibration (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The research utilized the PEPFAR Supply Chain Management System Delivery History dataset and compared various machine learning models. Key findings indicated that SHAP feature rankings were more stable for tree ensembles and that feature-deletion tests suggested a reasonable level of faithfulness in explanations (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). However, a critical takeaway was that models with comparable accuracy could provide significantly divergent explanations regarding influential features (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). This variability underscores the necessity of evaluating explanation stability and faithfulness before relying on AI for decision support in such domains (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The study also revealed discernible geographic patterns in destination effects not fully explained by simple port accessibility (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md).
+
+### Voice-Based Conversational Agents in Older Adult Care
+
+Voice-based conversational agents, powered by generative AI, are showing promise as assistants in the care of older adults, particularly for delivering multidomain lifestyle interventions (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). Studies indicate that these agents are generally usable and acceptable to older adults, with participants reporting positive usability, acceptability, and intentions to continue using such systems (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). While the AI can demonstrate contextual reuse of information and maintain intervention fidelity (i.e., not deviating from the protocol), personalization efforts were modest and did not significantly correlate with the fidelity of intervention delivery (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). Furthermore, older adults' privacy expectations regarding their data are nuanced, varying based on data type and intended recipient, underscoring the need for careful data governance (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). These findings highlight the importance of not only measuring user experience and outcomes but also verifying the intended intervention processes were delivered as designed to foster calibrated trust in AI-assisted care (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md).
 
 ### 1. Trust Calibration and Model Calibration
 A major driver of trust calibration is the AI model's own **confidence calibration**. Model calibration measures the alignment between the model's self-reported confidence and its actual accuracy (source: Humanity's Last Exam.md).
@@ -746,3 +751,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks]]
 *   [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
 *   [[source-a-reliability-study-of-explainable-ai-for-freight-mode-classification]]
+*   [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]]

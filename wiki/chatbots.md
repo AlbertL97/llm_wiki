@@ -141,14 +141,17 @@
 - raw_beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions.md
 - raw_mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
+- raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
 
-**Last updated**: 2026-11-14
+**Last updated**: 2026-11-16
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+Voice-based conversational agents, powered by generative AI, are emerging as valuable assistants in elder care, particularly for delivering lifestyle interventions (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). Studies indicate that these agents are generally usable and acceptable to older adults, with participants reporting positive sentiments regarding usability, acceptability, and intentions for future use (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). However, while these systems can achieve domain-level contextual reuse, personalization efforts show modest impact on fidelity of intervention delivery. Fidelity issues often manifest as incomplete intervention component delivery rather than AI deviating from the intended protocol (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). Furthermore, older adults exhibit varied privacy expectations regarding data usage and sharing, emphasizing the complexity of data governance in AI-assisted care (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md). These findings highlight the importance of rigorous evaluation that complements user experience and outcome measures with evidence of delivered intervention processes, crucial for designing and deploying longitudinal AI health interventions (source: raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md).
 
 ### The Accuracy-Approval Gap in Sycophantic AI
 
@@ -568,9 +571,9 @@ This paper explores how people perceive advice given by AI chatbots versus human
 ## Related pages
 
 - [[chatbots]]
+- [[medical-ai]]
 - [[human-ai-interaction]]
-- [[anthropomorphism]]
-- [[ai-companions]]
+- [[trust]]
 - [[mental-health]]
 - [[source-health-advisory-mental-health]]
 - [[source-robots-avatars-chatbots-dynamics]]
@@ -605,7 +608,6 @@ This paper explores how people perceive advice given by AI chatbots versus human
 - [[source-hallucinations-in-organization-backed-ai-advisors-skepticism-verification-reliance]]
 - [[source-ai-chatbots-and-digital-companions-reshaping-emotional-connection]]
 - [[source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions]]
-- [[medical-ai]]
 - [[source-ai-healthcare-chatbots-as-information-infrastructure-a-large-scale-study-of-user-reported-breakdowns]]
 - [[source-ai-usage-patterns-shaped-by-perceived-gains-in-human-agency]]
 - [[source-using-ai-based-learning-assistants-in-higher-education]]
@@ -703,3 +705,4 @@ This paper explores how people perceive advice given by AI chatbots versus human
 - [[source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks]]
 - [[trust]]
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
+- [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]]

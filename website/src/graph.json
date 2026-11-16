@@ -2444,6 +2444,13 @@
       "summary": ""
     },
     {
+      "id": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care",
+      "name": "Source Summary: Voice-Based Conversational Agents as AI Care Assistants",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-could-a-healthy-ai-companion-look-like",
       "name": "What Could a Healthy AI Companion Look Like?",
       "val": 1.5,
@@ -3321,7 +3328,15 @@
     },
     {
       "source": "chatbots",
+      "target": "medical-ai"
+    },
+    {
+      "source": "chatbots",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "chatbots",
+      "target": "trust"
     },
     {
       "source": "chatbots",
@@ -3458,10 +3473,6 @@
     {
       "source": "chatbots",
       "target": "source-auditing-framing-sensitive-behavioral-instability-in-llms-for-mental-health-interactions"
-    },
-    {
-      "source": "chatbots",
-      "target": "medical-ai"
     },
     {
       "source": "chatbots",
@@ -3845,11 +3856,11 @@
     },
     {
       "source": "chatbots",
-      "target": "trust"
+      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
     },
     {
       "source": "chatbots",
-      "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+      "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
     },
     {
       "source": "explainability",
@@ -4318,6 +4329,10 @@
     {
       "source": "human-ai-interaction",
       "target": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
     },
     {
       "source": "human-robot-interaction",
@@ -5244,6 +5259,10 @@
       "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
     },
     {
+      "source": "medical-ai",
+      "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5510,6 +5529,10 @@
     {
       "source": "mental-health",
       "target": "source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -8386,6 +8409,10 @@
     {
       "source": "source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care",
+      "target": "trust"
     },
     {
       "source": "source-what-could-a-healthy-ai-companion-look-like",

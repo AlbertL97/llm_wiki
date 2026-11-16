@@ -1,0 +1,15 @@
+Authors: Daniel M. Kaplan, Sarah E. Wiegreffe, Rahul G. Krishnan, Jina Yoo, Andrew M. Jones, Meliha Ayvaz, Shriyana Bhatt, Adam J. London, Michael Terry, Jessica W. Li, Aditi R. Patel, Yoram S. Gal, Jessica M. Fann, Anya L. Johnson, Keren Ben-Yehuda, Rahul Sharma, Jonathan Grudin, Sean Mcgarry, Andrew M. Smith, Xiaomeng Jin, Jiasi Gao, Jennifer Golbeck, Sarah E. Pinkerton, S. Trent Taylor, Anne Marie T. Paquet, J. D. Smith, Michael J. Terry, John Tang, Adam J. London
+Date: 2026-11-16
+
+Title: Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care
+
+Abstract:
+Generative AI enables voice-based conversational agents to play more active roles in older adults' care, including personalizing support and operating alongside clinicians and care partners. This shift creates two challenges: how to personalize support while faithfully delivering evidence-based interventions, and how to manage personal-data use and sharing across AI and care stakeholders. We designed and evaluated ARC, a voice-based conversational agent that operationalizes multidomain lifestyle intervention through sessions with predefined goals, participant context, and evidence-based components. In a 3-day remote study, 80 older adults completed 473 sessions across six session types (9,183 turns; averaging 19.4 turns and 6 minutes per session). Participants reported favorable usability, acceptability, and use intentions. System-level analyses showed strong domain-level but modest participant-specific contextual reuse, no significant personalization-fidelity association, and fidelity limitations centered on incomplete delivery of intervention components rather than off-protocol drift. Within care relationships, expectations for personal-data use and sharing varied by data type and recipient. Our findings support feasibility of conversational delivery of multidomain lifestyle intervention, offer methods and system-design insights for longitudinal evaluation, and motivate an evaluation agenda for generative AI health interventions: user-experience and outcome measures should be complemented by evidence of whether intended intervention processes were delivered as designed.
+
+Key Findings:
+- Voice-based conversational AI (ARC) can be used to deliver multidomain lifestyle interventions to older adults.
+- Participants reported positive usability, acceptability, and intentions to use the AI assistant.
+- Personalization of support showed modest participant-specific contextual reuse, with no significant association between personalization and intervention fidelity.
+- Fidelity limitations were primarily due to incomplete delivery of intervention components, not deviations from the protocol.
+- Expectations regarding personal data use and sharing varied significantly among older adults depending on the data type and the recipient of the data.
+- The study provides insights into designing and evaluating AI health interventions, emphasizing the need to assess the fidelity of intervention processes alongside user experience and outcomes.

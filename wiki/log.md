@@ -4517,3 +4517,26 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-16 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
+- wiki/chatbots.md
+- wiki/medical-ai.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/mental-health.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care" and created summary page wiki/source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
