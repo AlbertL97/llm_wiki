@@ -4540,3 +4540,32 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-17 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md
+- raw/raw_voice-design-confirmation-bias-ai-self-diagnosis.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md
+- wiki/human-ai-interaction.md
+- wiki/chatbots.md
+- wiki/ai-companions.md
+- wiki/source-voice-design-confirmation-bias-ai-self-diagnosis.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/anthropomorphism.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI" and created summary page wiki/source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md.
+- Ingested "What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output" and created summary page wiki/source-voice-design-confirmation-bias-ai-self-diagnosis.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

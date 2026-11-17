@@ -547,6 +547,13 @@
       "summary": ""
     },
     {
+      "id": "source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai",
+      "name": "Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-beyond-fluent-responses-finding-user-dissatisfaction-in-human-ai-interactions",
       "name": "Source Summary: Beyond Fluent Responses: Finding User Dissatisfaction in Human-AI Interactions",
       "val": 1.5,
@@ -2451,6 +2458,13 @@
       "summary": ""
     },
     {
+      "id": "source-voice-design-confirmation-bias-ai-self-diagnosis",
+      "name": "What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-what-could-a-healthy-ai-companion-look-like",
       "name": "What Could a Healthy AI Companion Look Like?",
       "val": 1.5,
@@ -3003,6 +3017,10 @@
       "target": "source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark"
     },
     {
+      "source": "ai-companions",
+      "target": "source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3321,6 +3339,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
     },
     {
       "source": "chatbots",
@@ -3863,6 +3885,14 @@
       "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
     },
     {
+      "source": "chatbots",
+      "target": "source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4333,6 +4363,22 @@
     {
       "source": "human-ai-interaction",
       "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "persuasion-and-influence"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "medical-ai"
     },
     {
       "source": "human-robot-interaction",
@@ -5072,10 +5118,6 @@
     },
     {
       "source": "medical-ai",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "medical-ai",
       "target": "trust"
     },
     {
@@ -5261,6 +5303,10 @@
     {
       "source": "medical-ai",
       "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
     },
     {
       "source": "mental-health",
@@ -5535,6 +5581,10 @@
       "target": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care"
     },
     {
+      "source": "mental-health",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5744,10 +5794,6 @@
     },
     {
       "source": "persuasion-and-influence",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "persuasion-and-influence",
       "target": "trust"
     },
     {
@@ -5913,6 +5959,10 @@
     {
       "source": "persuasion-and-influence",
       "target": "source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour"
+    },
+    {
+      "source": "persuasion-and-influence",
+      "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
     },
     {
       "source": "qualitative-methods",
@@ -8412,6 +8462,10 @@
     },
     {
       "source": "source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care",
+      "target": "trust"
+    },
+    {
+      "source": "source-voice-design-confirmation-bias-ai-self-diagnosis",
       "target": "trust"
     },
     {

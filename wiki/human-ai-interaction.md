@@ -232,8 +232,10 @@
 - raw_robots-that-talk-too-much-and-dont-listen-enough.md
 - raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md
 - raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
+- raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md
+- raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-17
 
 ---
 
@@ -409,6 +411,14 @@ A novel paradigm, Neural Representation Interaction (NRI), is proposed to transc
 
 The reliability of explainable AI (XAI) methods is a critical factor for their adoption in high-stakes domains. A study investigating XAI for freight mode classification found that while tree ensemble models demonstrated superior accuracy, their explanation stability and faithfulness were key determinants of trust (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The research highlighted that even models with similar predictive accuracy can offer significantly different feature explanations, underscoring the necessity of rigorously evaluating explanation stability and faithfulness before deploying AI for decision support in areas like logistics and transportation (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). The study employed SHAP and LIME to assess explanations and found that SHAP feature rankings were more stable for tree ensembles, while feature-deletion tests suggested reasonable faithfulness for both methods (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md). Furthermore, discernible geographic patterns in destination effects were observed, suggesting that XAI can reveal insights beyond simple accessibility metrics (source: raw_a-reliability-study-of-explainable-ai-for-freight-mode-classification.md).
 
+### Multilingual Interaction with Conversational AI
+
+In diverse linguistic environments, the ability of conversational AI to accommodate natural multilingual behavior is crucial for effective human-AI interaction. Research conducted in Curaçao and Aruba, regions where Dutch, English, Spanish, and Papiamentu/o are commonly used, explored how individuals engage in code-switching when interacting with a chatbot (source: raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md). Participants primarily switched languages between turns rather than within a single message (source: raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md). English was the most frequently used language overall, but the frequency of language switching, including the use of Papiamentu/o and Spanish, increased during conversations about local food and culture (source: raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md). Participants reported comfort levels with AI language switching comparable to switching with human interlocutors (source: raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md). These findings underscore the need for conversational agents to support turn-by-turn language shifts and to provide robust capabilities for low-resource languages (source: raw_beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai.md).
+
+### Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis
+
+Research into AI-assisted self-diagnosis reveals that while users clearly distinguish between anthropomorphic (human-like) and machine-like AI voices, the voice design itself does not significantly impact confirmation bias (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). The primary driver of confirmation bias is the directional nature of the AI's recommendation. Participants were much more likely to adjust their self-diagnosis when the AI contradicted their initial choice (45.7% of trials) compared to when it confirmed it (1.2% of trials) (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). User confidence in their diagnosis increased when the AI's recommendation aligned with their initial assessment, but showed minimal change when it contradicted it (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). Decision latency also increased after receiving a contradictory recommendation (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). This indicates that the content and direction of AI feedback are more influential than the style of its voice in shaping cognitive biases within diagnostic contexts (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -466,3 +476,9 @@ The reliability of explainable AI (XAI) methods is a critical factor for their a
 *   [[source-robots-that-talk-too-much-and-dont-listen-enough]]
 *   [[source-a-reliability-study-of-explainable-ai-for-freight-mode-classification]]
 *   [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]]
+*   [[source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai]]
+*   [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
+*   [[persuasion-and-influence]]
+*   [[anthropomorphism]]
+*   [[medical-ai]]
+*   [[source-voice-design-confirmation-bias-ai-self-diagnosis]]

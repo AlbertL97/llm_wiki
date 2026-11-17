@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-17
 
 ## Orientation
 
@@ -56,6 +56,7 @@
 - [[source-beyond-personality-quantization-layer-wise-mbti-analysis-quantized-llms]] — Summary of When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs.
 - [[source-beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning]] — Summary of Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning.
 - [[source-beyond-the-editing-canvas-evidence-divergence-in-ooxml-to-llm-ingestion]] — Summary of Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion.
+- [[source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai]] — Summary of Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI.
 - [[source-bidirectional-tutoring-for-developmental-motor-learning-in-robots]] — Summary of Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning.
 - [[source-biotic-and-anthropomorphic-ai]] — Summary of Biotic and Anthropomorphic AI.
 - [[source-blue-pale-signal]] — Summary of the Blue Pale Signal video transcript on AE Studio's inward attention experiments, mechanistic deception suppression, and the philosophical debate on AI consciousness.
@@ -265,7 +266,7 @@
 - [[source-virtual-human-embodiment]] — Summary of Virtual Human Embodiment.
 - [[source-virtual-human-interaction]] — Summary of Virtual Human Interaction.
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
-- [[source-vision-language-models-for-egocentric-video-from-hand-object-interaction-to-embodied-ai]] — Summary of Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI.
+- [[source-voice-design-confirmation-bias-ai-self-diagnosis]] — Summary of What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output.
 - [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]] — Summary of Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care.
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]] — Summary of What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?.
