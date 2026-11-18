@@ -330,6 +330,13 @@
       "summary": ""
     },
     {
+      "id": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation",
+      "name": "AI Companions for Young Adult Caregivers: Practical Advice, Emotional Depth, and the Limits of Metric Evaluation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-ai-experts-humanity-last-exam",
       "name": "Source: AI experts ready 'Humanity's Last Exam' to stump powerful tech",
       "val": 1.5,
@@ -1410,6 +1417,13 @@
     {
       "id": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation",
       "name": "Intimacy on Autopilot: Why AI Companions Demand Urgent Regulation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns",
+      "name": "\"I Just Don't Want to Be a Burden\": Investigating AI Chatbot Emotional Support Among People with Suicidal Ideation and Other Mental Health Concerns",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3021,6 +3035,14 @@
       "target": "source-beyond-bilingual-studying-quadrilingual-code-switching-with-conversational-ai"
     },
     {
+      "source": "ai-companions",
+      "target": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns"
+    },
+    {
+      "source": "ai-companions",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3893,6 +3915,14 @@
       "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
     },
     {
+      "source": "chatbots",
+      "target": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4379,6 +4409,14 @@
     {
       "source": "human-ai-interaction",
       "target": "medical-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
       "source": "human-robot-interaction",
@@ -5113,6 +5151,10 @@
       "target": "source-heir-harness-egocentric-intent-for-human-robot-interactions"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -5583,6 +5625,14 @@
     {
       "source": "mental-health",
       "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns"
+    },
+    {
+      "source": "mental-health",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -6087,6 +6137,14 @@
     {
       "source": "qualitative-methods",
       "target": "source-heir-harness-egocentric-intent-for-human-robot-interactions"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
       "source": "social-media-and-online-communities",
@@ -7430,6 +7488,10 @@
     },
     {
       "source": "source-intimacy-on-autopilot-why-ai-companions-demand-urgent-regulation",
+      "target": "trust"
+    },
+    {
+      "source": "source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns",
       "target": "trust"
     },
     {

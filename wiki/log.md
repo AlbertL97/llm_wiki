@@ -4569,3 +4569,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-18 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
+- raw/raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
+- wiki/chatbots.md
+- wiki/mental-health.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/ai-companions.md
+- wiki/qualitative-methods.md
+- wiki/source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
+- wiki/measurement-tools.md
+
+**Summary of changes**:  
+- Ingested ""I Just Don't Want to Be a Burden": Investigating AI Chatbot Emotional Support Among People with Suicidal Ideation and Other Mental Health Concerns" and created summary page wiki/source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md.
+- Ingested "AI Companions for Young Adult Caregivers: Practical Advice, Emotional Depth, and the Limits of Metric Evaluation" and created summary page wiki/source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
