@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-19
 
 ## Orientation
 
@@ -97,6 +97,7 @@
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
 - [[source-embarrassed-that-you-cant-remember-many-older-folks-are-ai-is-glad-to-help]] — Summary of Embarrassed that you can't remember? Many older folks are. AI is glad to help..
 - [[source-emergent-introspective-awareness]] — Summary of Anthropic paper on activation steering, injected thoughts, prefill detection, and activation control.
+- [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]] — Summary of Emo-H2A: Driving a Facial Robot Directly from LLM Hidden States at Token Rate.
 - [[source-entropy-centric-explainable-ai-for-remote-sensing-image-segmentation]] — Summary of Entropy-Centric Explainable AI for Remote Sensing Image Segmentation.
 - [[source-ensuring-safe-physical-ai-in-urban-mobility-via-hazard-informed-synthesized-envelopes]] — Summary of Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes.
 - [[source-etame-decoupling-and-aligning-heterogeneous-memory-for-long-term-conversational-agents]] — Summary of ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents.
@@ -148,8 +149,8 @@
 - [[source-in-a-lonely-world-widespread-ai-chatbots-and-companions-pose-unique-psychological-risks]] — Summary of In a lonely world, widespread AI chatbots and ‘companions’ pose unique psychological risks.
 - [[source-invisible-agents-uninformed-patients-towards-responsible-deployment-of-autonomous-ai-diagnostic-agents-in-sub-saharan-africa]] — Summary of Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa.
 - [[source-irwoz-2-0-llm-driven-dialogue-dataset-industrial-robot-conversations]] — Summary of IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations.
-- [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]] — Summary of Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting.
 - [[source-joint-decoupled-iterative-cbct-reconstruction-with-hybrid-scatter-estimation-and-voxel-adaptive-beam-hardening-correction]] — Summary of Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction.
+- [[source-just-between-us-exploring-a-wearable-mediated-channel-for-discreet-human-agent-interaction-in-a-shared-game-setting]] — Summary of Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting.
 - [[source-knowledge-guided-agentic-framework-mitigating-patient-context-ambiguity-health-queries]] — Summary of A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries.
 - [[source-language-assumes-consciousness]] — Summary of Gerad Meilan's video transcript on non-dual SVO syntax, Hopi process grammar, E-Prime, geocentric orientations, Sphoṭa theory, and conscious realism.
 - [[source-layered-security-framework-against-prompt-injection-in-rag-based-chatbots]] — Summary of A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots.
@@ -178,6 +179,7 @@
 - [[source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization]] — Summary of Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
+- [[source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai]] — Summary of Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]] — Summary of People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour.
 - [[source-penny-for-your-prompts-a-measurement-study-of-contextual-leakage-in-ai-chat-platforms]] — Summary of Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms.

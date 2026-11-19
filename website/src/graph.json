@@ -946,6 +946,13 @@
       "summary": "A summary page for the Anthropic paper \"Emergent Introspective Awareness in Large Language Models\" by Jack Lindsey. The study uses activation steering (concept injection) to causally demonstrate that language models possess functional awareness and control of their own internal representations."
     },
     {
+      "id": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate",
+      "name": "Source Summary: Emo-H2A: Driving a Facial Robot Directly from LLM Hidden States at Token Rate",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-emotional-attachment-robots-future",
       "name": "Source: On What Emotional Attachment to Robots Might Mean for the Future",
       "val": 1.5,
@@ -1697,6 +1704,13 @@
     {
       "id": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
       "name": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai",
+      "name": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3043,6 +3057,10 @@
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
+      "source": "ai-companions",
+      "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
+    },
+    {
       "source": "anthropomorphism",
       "target": "source-the-rise-of-parasitic-ai"
     },
@@ -3365,6 +3383,10 @@
     {
       "source": "anthropomorphism",
       "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
+      "source": "anthropomorphism",
+      "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
     },
     {
       "source": "chatbots",
@@ -4183,6 +4205,10 @@
       "target": "source-a-reliability-study-of-explainable-ai-for-freight-mode-classification"
     },
     {
+      "source": "explainability",
+      "target": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4417,6 +4443,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
     },
     {
       "source": "human-robot-interaction",
@@ -4765,6 +4799,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-robots-that-talk-too-much-and-dont-listen-enough"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
     },
     {
       "source": "introspective-awareness",
@@ -7744,6 +7782,10 @@
     },
     {
       "source": "source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl",
+      "target": "trust"
+    },
+    {
+      "source": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai",
       "target": "trust"
     },
     {

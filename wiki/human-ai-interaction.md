@@ -236,8 +236,10 @@
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 - raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
 - raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
+- raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md
+- raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-19
 
 ---
 
@@ -246,6 +248,10 @@
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### Enhancing Expressiveness in Human-Robot Interaction
+
+The dynamic and synchronized expression of emotions in robots is crucial for natural and engaging human-robot interaction. The Emo-H2A paradigm introduces a method to directly drive a facial robot's expressions using the internal hidden states of Large Language Models (LLMs) during speech generation (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This approach, implemented as EmoManifold, bypasses the need for explicit emotion labels by extracting Valence-Arousal-Dominance (VAD) coordinates from LLM hidden states and projecting them to control facial movements at the token granularity (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This results in significantly lower latency and more synchronized expressions, achieving an 87.5% success rate in matching valence transitions and updating expressions in approximately 0.96 seconds, a vast improvement over traditional methods (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). Such advancements aim to make human-robot interactions more natural, engaging, and anthropomorphic (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md).
 
 Research into AI companions for young adult caregivers (YACs) highlights a critical gap between expert evaluations and user experience. While fine-tuned models like Carebot were favored by experts and LLM judges for perceived warmth and tailored advice, YACs found the responses overly practical and brief, lacking sufficient emotional depth (source: raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md). Conversely, the base LLM, though less practical, was perceived as more emotionally oriented by users (source: raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md). This discrepancy underscores the limitations of current metric-based evaluations in capturing the true helpfulness and emotional resonance of AI companions for vulnerable user groups (source: raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md).
 
@@ -425,6 +431,10 @@ In diverse linguistic environments, the ability of conversational AI to accommod
 
 Research into AI-assisted self-diagnosis reveals that while users clearly distinguish between anthropomorphic (human-like) and machine-like AI voices, the voice design itself does not significantly impact confirmation bias (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). The primary driver of confirmation bias is the directional nature of the AI's recommendation. Participants were much more likely to adjust their self-diagnosis when the AI contradicted their initial choice (45.7% of trials) compared to when it confirmed it (1.2% of trials) (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). User confidence in their diagnosis increased when the AI's recommendation aligned with their initial assessment, but showed minimal change when it contradicted it (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). Decision latency also increased after receiving a contradictory recommendation (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md). This indicates that the content and direction of AI feedback are more influential than the style of its voice in shaping cognitive biases within diagnostic contexts (source: raw_voice-design-confirmation-bias-ai-self-diagnosis.md).
 
+### Prototypes as a Missing Piece in Tabular XAI
+
+Current methods for Explainable AI (XAI) in tabular data often rely on feature attribution, which can impose a significant cognitive load on users by presenting numerous isolated features (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). Research suggests that prototypes, particularly "prototypical parts" (defined as bounded subspaces grouping related features into semantic units), are a crucial but underutilized component for improving XAI (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). By embodying human-understandable concepts and aligning with cognitive processes like categorization and intuitive thinking (linked to theories of Rosch and Kahneman), prototypes can reduce cognitive load and enhance comprehension (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). A novel framework, the Geometric Validity Triad, is proposed for conceptualizing the validation of data manifolds through prototypes, advocating for composite explanation pipelines that blend prototype-based reasoning with feature-level analysis for more effective human-AI interaction (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -490,3 +500,5 @@ Research into AI-assisted self-diagnosis reveals that while users clearly distin
 *   [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
 *   [[source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns]]
 *   [[source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation]]
+*   [[source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai]]
+*   [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]

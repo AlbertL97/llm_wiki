@@ -82,8 +82,9 @@
 - raw_avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark.md
 - raw_heir-harness-egocentric-intent-for-human-robot-interactions.md
 - raw_robots-that-talk-too-much-and-dont-listen-enough.md
+- raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
 
-**Last updated**: 2026-11-15
+**Last updated**: 2026-11-19
 
 ---
 
@@ -280,6 +281,9 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 
 **Affordance Grounding for Enhanced HRI**: A critical capability for embodied agents in HRI is affordance grounding, which involves identifying specific object parts for operations. Traditional methods often rely on slow, computationally expensive "System Two" reasoning. The **AffordJEV framework** addresses this by adopting a rapid, intuitive "System One" cognitive paradigm (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). AffordJEV uses a hierarchical inference approach, proposing candidate regions with frozen segmenters and iteratively confirming them through bidirectional evidence passing between object levels (whole object, parts, sub-parts) (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This framework utilizes a specialized System One model that judges all candidates simultaneously and learns directly from request structures, avoiding text generation (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). AffordJEV demonstrates superior performance and efficiency compared to chain-of-thought methods, shows strong zero-shot transfer to unseen datasets, and is claimed to be the first to successfully apply System One models to affordance grounding (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md). This advancement enables robots to more quickly and accurately understand object manipulation instructions, leading to more natural and efficient collaboration (source: raw_affordjev-affordance-grounding-by-confirming-candidate-regions.md).
 
+**Emo-H2A: Enhancing Robot Expressiveness with LLM Dynamics**
+The **Emo-H2A (hidden-to-actuation)** paradigm revolutionizes how facial robots express emotions by directly leveraging the internal hidden states of Large Language Models (LLMs) during speech generation (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This approach bypasses the need for discrete, turn-level emotion labels, enabling more fluid and contextually appropriate facial expressions. The implementation, **EmoManifold**, extracts Valence-Arousal-Dominance (VAD) coordinates from LLM hidden states and maps them to facial movements at a token granularity, achieving remarkably low latency (approximately 0.96 seconds for expression updates) (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This real-time synchronization significantly enhances the dynamism and responsiveness of robot faces, aiming to make human-robot interactions more natural, engaging, and anthropomorphic (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). The system has demonstrated a high success rate in matching valence transitions within conversations, drastically reducing the communication gap between AI-generated content and robot embodiment (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md).
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -375,3 +379,4 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 - [[source-avcc-audio-visual-conversation-corpus-for-turn-taking-prediction-with-a-human-benchmark]]
 - [[source-heir-harness-egocentric-intent-for-human-robot-interactions]]
 - [[source-robots-that-talk-too-much-and-dont-listen-enough]]
+- [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]

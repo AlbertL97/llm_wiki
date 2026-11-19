@@ -77,8 +77,9 @@
 - raw_a-unified-fractal-impedance-control-framework.md
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
+- raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-19
 
 ---
 
@@ -321,6 +322,9 @@ The development of anthropomorphic hardware is a significant step towards creati
 
 The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fractal Impedance Controller (FIC) framework, is engineered for physical human-robot interaction (HRI) (source: raw_a-unified-fractal-impedance-control-framework.md). H-PMP aims to enable robots to engage in intrinsically bounded and safe interactions by mimicking human-like dynamics (source: raw_a-unified-fractal-impedance-control-framework.md). This advanced control method allows robots to seamlessly transition between admittance and impedance control behaviors without additional computational overhead, enhancing adaptability in complex environments (source: raw_a-unified-fractal-impedance-control-framework.md). Experimental validation on a Kinova Gen3 arm demonstrated H-PMP's effectiveness in trajectory tracking, wall pressing, and learning-by-demonstration, positioning it as a key development in creating robots that interact more naturally and safely with humans (source: raw_a-unified-fractal-impedance-control-framework.md).
 
+### Real-time Facial Expressions in Human-Robot Interaction
+The direct synchronization of robot facial expressions with conversational content, driven by LLM hidden states, represents a significant advancement in anthropomorphic design for human-robot interaction (HRI). The Emo-H2A paradigm, implemented through EmoManifold, bypasses traditional static emotion labels to achieve dynamic, token-level facial control (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This method extracts Valence-Arousal-Dominance (VAD) coordinates from LLM hidden states to drive facial movements, resulting in significantly improved synchronicity and responsiveness. Emo-H2A has demonstrated a high success rate in matching valence transitions (87.5%) and drastically reduces expression update latency to approximately 0.96 seconds, compared to traditional methods that can take over 10-26 seconds (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). By enabling continuous, context-sensitive, and low-latency facial expressions, this approach aims to make human-robot interactions more natural, engaging, and ultimately, more anthropomorphic (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -410,3 +414,4 @@ The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fr
 - [[source-a-unified-fractal-impedance-control-framework]]
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
+- [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]

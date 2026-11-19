@@ -4596,3 +4596,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-19 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md
+- raw/raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md
+- wiki/explainability.md
+- wiki/human-ai-interaction.md
+- wiki/source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
+- wiki/human-robot-interaction.md
+- wiki/anthropomorphism.md
+- wiki/ai-companions.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI" and created summary page wiki/source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md.
+- Ingested "Emo-H2A: Driving a Facial Robot Directly from LLM Hidden States at Token Rate" and created summary page wiki/source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.
