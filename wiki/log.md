@@ -4622,3 +4622,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-20 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_fluid-flexible-evidence-grounded-situated-task-guidance.md
+- raw/raw_context-as-a-resource.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-fluid-flexible-evidence-grounded-situated-task-guidance.md
+- wiki/human-ai-interaction.md
+- wiki/human-robot-interaction.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/source-context-as-a-resource.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "FLUID: Flexible, Evidence-Grounded Situated Task Guidance" and created summary page wiki/source-fluid-flexible-evidence-grounded-situated-task-guidance.md.
+- Ingested "Context as a Resource" and created summary page wiki/source-context-as-a-resource.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -146,14 +146,24 @@
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 - raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
 - raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
+- raw_fluid-flexible-evidence-grounded-situated-task-guidance.md
+- raw_context-as-a-resource.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-20
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### ClonAct: Routerless Architecture for Concurrent Task Handling
+
+Personal AI agents face challenges in efficiently managing concurrent tasks, often leading to human attention exhaustion and system inefficiencies like constraint bleed and stalling. The **ClonAct** architecture has been developed to address these issues by employing a routerless approach that directly virtualizes context blocks (source: raw_context-as-a-resource.md). Key components include a Context MMU and an isolated trial merge gate, which significantly improve conflict resolution, with success rates for true-conflict merges increasing from 33.3% to 63.3% in multi-stream benchmarks (source: raw_context-as-a-resource.md). ClonAct enhances efficiency by using substantially fewer prompt tokens (45.9% less) compared to prior methods and demonstrates robustness by preventing collapse in compact models and minimizing wait times (source: raw_context-as-a-resource.md). This architecture, featuring a Synaptic Bus with an isolated trial merge gate and a Shared Trunk, contributes to more effective [[human-ai-interaction]] and [[metacognitive-agent-architectures]] by enabling personal AI agents to handle multiple tasks concurrently without sacrificing performance or user experience (source: raw_context-as-a-resource.md).
+
+### Flexible, Evidence-Grounded Situated Task Guidance (FLUID)
+
+Current task guidance systems and benchmarks often lack the flexibility needed for real-time, adaptive interactions. The **FLUID (Flexible, Evidence-Grounded Situated Task Guidance)** framework has been developed to address these limitations (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). FLUID enables systems to model, evaluate, and deliver adaptive multimodal task guidance by grounding interventions in evidence, necessity, and timing flexibility (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). This framework utilizes naturally occurring human-human guidance data from datasets like WTaG and HoloAssist to inform its understanding of flexible interventions, allowing for multiple appropriate responses and timings, and recognizing when silence is the optimal intervention (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). An agent built with the FLUID framework has demonstrated superior performance across various metrics, including response correctness, intervention precision, timely guidance, and reduced response latency, compared to other systems (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). This research contributes to fostering more natural and adaptive [[human-ai-interaction]] by enabling situated task guidance systems to be more responsive to user needs and context (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md).
 
 ### AI Companions for Young Adult Caregivers: Balancing Practicality and Emotional Depth
 
@@ -730,3 +740,5 @@ This paper explores how people perceive advice given by AI chatbots versus human
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
 - [[source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns]]
 - [[source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation]]
+- [[source-fluid-flexible-evidence-grounded-situated-task-guidance]]
+- [[source-context-as-a-resource]]

@@ -750,6 +750,13 @@
       "summary": "A summary page for Sumi's wildscience article explaining the theory of consciousness as a \"controlled hallucination,\" detailing the biological necessity of bodily homeostatic regulation, the difference between human embodied language and AI statistical autocomplete, and the societal dangers of treating chatbots as conscious agents."
     },
     {
+      "id": "source-context-as-a-resource",
+      "name": "Source Summary: Context as a Resource",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-conversational-agentic-interface-physics-based-household-digital-twins",
       "name": "Source Summary: A Conversational Agentic Interface to Physics-Based Household Digital Twins for Residential Energy Decision Support",
       "val": 1.5,
@@ -1109,6 +1116,13 @@
     {
       "id": "source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation",
       "name": "Source Summary: Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-fluid-flexible-evidence-grounded-situated-task-guidance",
+      "name": "FLUID: Flexible, Evidence-Grounded Situated Task Guidance",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3945,6 +3959,14 @@
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
+      "source": "chatbots",
+      "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-context-as-a-resource"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4453,6 +4475,14 @@
       "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-context-as-a-resource"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4803,6 +4833,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
     },
     {
       "source": "introspective-awareness",
@@ -5191,6 +5225,10 @@
     {
       "source": "measurement-tools",
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
     },
     {
       "source": "medical-ai",
@@ -5743,6 +5781,14 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-neural-representations-as-new-modes-of-interactivity"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-context-as-a-resource"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "metacognitive-agent-architectures"
     },
     {
       "source": "mind-perception",

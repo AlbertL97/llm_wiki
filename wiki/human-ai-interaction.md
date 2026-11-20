@@ -238,8 +238,10 @@
 - raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
 - raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md
 - raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
+- raw_fluid-flexible-evidence-grounded-situated-task-guidance.md
+- raw_context-as-a-resource.md
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-20
 
 ---
 
@@ -248,6 +250,8 @@
 **Human-AI Interaction** is a multidisciplinary domain examining how humans communicate, collaborate, and co-exist with AI systems. Rather than viewing AI strictly as an autonomous agent, contemporary design frameworks emphasize **Human-Centered AI (HCAI)**—an approach that puts human needs, values, and capabilities at the center of system design and operation, ensuring AI augments human abilities rather than diminishing or replacing them (source: What Is Human-Centered AI (HCAI)_.md). For beginners, it is recommended to approach AI as a sophisticated tool with specific functions rather than a human-like entity to manage expectations and interactions effectively (source: raw_plus-tips-on-getting-started-with-ai-safely.md).
 
 The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dimensions of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+A critical area of advancement in human-AI interaction involves improving the efficiency and management of concurrent tasks handled by personal AI agents. Traditional architectures often struggle with human attention limitations and the inefficiencies of linear processing, leading to issues like context bleed and session stalling (source: raw_context-as-a-resource.md). The **ClonAct** architecture offers a solution by directly virtualizing context blocks, enabling routerless operation and significantly enhancing how AI agents manage multiple tasks simultaneously (source: raw_context-as-a-resource.md). This approach has demonstrated improved conflict resolution, with an isolated trial merge gate boosting success rates from 33.3% to 63.3% in multi-stream benchmarks (source: raw_context-as-a-resource.md). Furthermore, ClonAct achieves superior efficiency, using 45.9% fewer prompt tokens than previous methods, while maintaining robust performance and minimizing wait times (source: raw_context-as-a-resource.md). This innovation in agent architecture contributes to more seamless and effective human-AI collaboration by reducing the cognitive load on users and improving the AI's ability to handle complex, concurrent interactions (source: raw_context-as-a-resource.md).
 
 ### Enhancing Expressiveness in Human-Robot Interaction
 
@@ -435,6 +439,10 @@ Research into AI-assisted self-diagnosis reveals that while users clearly distin
 
 Current methods for Explainable AI (XAI) in tabular data often rely on feature attribution, which can impose a significant cognitive load on users by presenting numerous isolated features (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). Research suggests that prototypes, particularly "prototypical parts" (defined as bounded subspaces grouping related features into semantic units), are a crucial but underutilized component for improving XAI (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). By embodying human-understandable concepts and aligning with cognitive processes like categorization and intuitive thinking (linked to theories of Rosch and Kahneman), prototypes can reduce cognitive load and enhance comprehension (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md). A novel framework, the Geometric Validity Triad, is proposed for conceptualizing the validation of data manifolds through prototypes, advocating for composite explanation pipelines that blend prototype-based reasoning with feature-level analysis for more effective human-AI interaction (source: raw_overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai.md).
 
+### Flexible, Evidence-Grounded Situated Task Guidance
+
+Current task guidance systems and benchmarks often struggle with the inherent flexibility required for real-time guidance. Rigid systems treat synthesized dialogues as fixed targets, failing to adapt to dynamic user needs and contexts. The **FLUID** framework has been developed to address these limitations by modeling, evaluating, and enabling more adaptive and natural multimodal task guidance (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). FLUID emphasizes grounding interventions in evidence, necessity, and timing flexibility, allowing for multiple appropriate responses and timings, and recognizing when silence is the optimal intervention (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). Utilizing naturally occurring human-human guidance data from the WTaG and HoloAssist datasets, FLUID moves beyond simple reference matching to evaluate guidance based on these flexible criteria (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). An agent built using the FLUID framework demonstrated superior performance across various metrics, including response correctness, intervention precision, timely guidance, and response latency, compared to other evaluated systems (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). While effective, the research acknowledges that further improvements are needed, particularly in minimizing speech overlap between the agent and the user (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md). This work contributes to more natural and responsive human-AI interactions by enhancing the flexibility and context-awareness of situated task guidance systems (source: raw_fluid-flexible-evidence-grounded-situated-task-guidance.md).
+
 ## Related pages
 
 *   [[human-ai-interaction]]
@@ -502,3 +510,5 @@ Current methods for Explainable AI (XAI) in tabular data often rely on feature a
 *   [[source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation]]
 *   [[source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai]]
 *   [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]
+*   [[source-fluid-flexible-evidence-grounded-situated-task-guidance]]
+*   [[source-context-as-a-resource]]

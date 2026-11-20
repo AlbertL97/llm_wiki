@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-20
 
 ## Orientation
 
@@ -78,6 +78,7 @@
 - [[source-conversational-recommendation-over-live-e-commerce-catalogues-with-self-refreshing-retrieval]] — Summary of Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval.
 - [[source-correct-yourself-keep-my-trust-how-self-correction-and-social-connection-shape-credibility-in-social-chatbots]] — Summary of Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots.
 - [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]] — Summary of Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients.
+- [[source-context-as-a-resource]] — Summary of Context as a Resource.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
@@ -113,6 +114,7 @@
 - [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]] — Summary of Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
+- [[source-fluid-flexible-evidence-grounded-situated-task-guidance]] — Summary of FLUID: Flexible, Evidence-Grounded Situated Task Guidance.
 - [[source-free-energy-gated-plasticity-for-real-time-online-motor-learning-in-physical-human-robot-interaction]] — Summary of Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction.
 - [[source-from-interpretability-methods-to-interpretable-models]] — Summary of From Interpretability Methods to Interpretable Models.
 - [[source-from-observation-to-intervention-identifiability-of-latent-user-bias-in-human-ai-interaction]] — Summary of From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction.

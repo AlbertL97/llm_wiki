@@ -21,8 +21,9 @@
 - raw_persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency.md
 - raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
 - raw_neural-representations-as-new-modes-of-interactivity.md
+- raw_context-as-a-resource.md
 
-**Last updated**: 2026-11-13
+**Last updated**: 2026-11-20
 
 ---
 
@@ -132,6 +133,10 @@ A novel conversational memory system utilizes a **compaction** strategy, where e
 
 Emerging paradigms in human-AI interaction are moving beyond traditional prompt-output models towards richer engagement with AI's internal states. Neural Representation Interaction (NRI) proposes treating the internal representations of neural networks as an accessible and manipulable form of interaction material (source: raw_neural-representations-as-new-modes-of-interactivity.md). This framework empowers users to inspect, steer, and edit AI models' internal states and concepts, recognizing that these encoded representations offer unique affordances for designing more effective and intuitive interactions (source: raw_neural-representations-as-new-modes-of-interactivity.md). NRI contributes to metacognitive architectures by providing mechanisms for deeper human understanding and potential manipulation of the AI's cognitive processes, opening up applications in areas like education, personal user modeling, and auditing (source: raw_neural-representations-as-new-modes-of-interactivity.md). This approach acknowledges significant sociotechnical implications and calls for careful consideration of design principles, limitations, and risks (source: raw_neural-representations-as-new-modes-of-interactivity.md).
 
+### 21. Efficient Multi-Task Handling with Context Virtualization
+
+The **ClonAct** architecture offers a routerless approach to personal AI agents, enhancing efficiency and effectiveness when handling concurrent tasks and mitigating issues like constraint bleed and stalling caused by linear session processing or human attention exhaustion (source: raw_context-as-a-resource.md). By virtualizing context blocks through components like a Context MMU and an isolated trial merge gate, ClonAct avoids the inefficiencies of traditional router-ticket hierarchies (source: raw_context-as-a-resource.md). This architecture demonstrably improves conflict resolution, boosting success rates for true-conflict merges from 33.3% to 63.3% in multi-stream benchmarks (source: raw_context-as-a-resource.md). Furthermore, ClonAct achieves high performance with substantially fewer prompt tokens (45.9% less) than previous methods, maintains robust completion rates (95.0%) under continuous surge streams, and minimizes wait times and timeouts (source: raw_context-as-a-resource.md). Key components include a pluggable Context MMU, in-place Context Cells, a Synaptic Bus with an isolated trial merge gate, and a Shared Trunk (source: raw_context-as-a-resource.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -154,3 +159,7 @@ Emerging paradigms in human-AI interaction are moving beyond traditional prompt-
 - [[source-persistent-retrieval-for-conversational-agents-a-study-of-retrieval-efficiency]]
 - [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]
 - [[source-neural-representations-as-new-modes-of-interactivity]]
+- [[source-context-as-a-resource]]
+- [[human-ai-interaction]]
+- [[metacognitive-agent-architectures]]
+- [[chatbots]]
