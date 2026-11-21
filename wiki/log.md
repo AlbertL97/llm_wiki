@@ -4648,3 +4648,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-21 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md
+- raw/raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
+- wiki/chatbots.md
+- wiki/measurement-tools.md
+- wiki/medical-ai.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Explainable AI for Solar PV Power Forecasting: From Model Selection to Trustworthy, Reproducible Deployment" and created summary page wiki/source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md.
+- Ingested "Design and Evaluation of Epira: An Automated Interview System for Case Investigation and Contact Tracing" and created summary page wiki/source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

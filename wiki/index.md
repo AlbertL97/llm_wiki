@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-21
 
 ## Orientation
 
@@ -81,7 +81,7 @@
 - [[source-context-as-a-resource]] — Summary of Context as a Resource.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
 - [[source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai-1]] — Summary of Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI.
-- [[source-delegating-or-doing-understanding-user-behavior-in-hybrid-human-agent-interfaces]] — Summary of Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces.
+- [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]] — Summary of Design and Evaluation of Epira: An Automated Interview System for Case Investigation and Contact Tracing.
 - [[source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl]] — Summary of Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL.
 - [[source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness]] — Summary of Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness.
 - [[source-designing-social-robots-for-inclusive-child-wellbeing-assessment]] — Summary of Designing Social Robots for Inclusive Child Wellbeing Assessment: Insights from Communities Supporting Developmental Language Disorder and Forced Migration.
@@ -106,6 +106,7 @@
 - [[source-evaluating-conversational-explainability-in-healthcare]] — Summary of Evaluating Conversational Explainability in Healthcare: Comparing the Explainability Assistant and a Traditional XAI Dashboard.
 - [[source-evaluating-explainable-ai-methods-for-geoscientific-regression]] — Summary of Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System.
 - [[source-evaluating-re-practices-for-explainability-synthesizing-insights-from-daimler-truck-into-an-explainable-re-framework-proposal]] — Summary of Evaluating RE Practices for Explainability: Synthesizing Insights from Daimler Truck into an Explainable RE Framework Proposal.
+- [[source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment]] — Summary of Explainable AI for Solar PV Power Forecasting: From Model Selection to Trustworthy, Reproducible Deployment.
 - [[source-explainable-multimodal-ai-approach-to-reduce-unnecessary-breast-biopsies]] — Summary of Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies.
 - [[source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers]] — Summary of Explainable Reinforcement Learning for assisting Air Traffic Controllers.
 - [[source-explainability-to-trust]] — Summary of Explainability to Trust.

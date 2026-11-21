@@ -188,8 +188,10 @@
 - raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 - raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
+- raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md
+- raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
 
-**Last updated**: 2026-11-18
+**Last updated**: 2026-11-21
 
 ---
 
@@ -200,6 +202,23 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Epira: An Automated Interview System for Public Health
+
+Epira is an innovative automated interview system designed to enhance case investigation and contact tracing by leveraging a protocol-controlled Large Language Model (LLM) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). This approach aims to provide a more natural conversational experience while ensuring adherence to established protocols, overcoming limitations of traditional web forms (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+
+Key findings from the evaluation of Epira indicate:
+*   **Improved Data Completeness:** Epira demonstrated superior performance in capturing required data fields and identifying ground-truth contacts compared to open-ended interviewers in simulated case investigations (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Protocol Control Efficacy:** The study underscored the critical importance of enforcing a structured protocol within the LLM interaction, finding it more impactful for data completeness than the choice of LLM backend (local vs. cloud) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Positive User Experience:** In a study with human volunteers, Epira achieved 100% completion rates and garnered high ratings for usability (mean SUS of 82.95) and trust (mean trust of 3.85) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Privacy-Preserving Capabilities:** The system's comparable performance with both local and cloud LLM deployments suggests potential for privacy-preserving applications utilizing local models (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Adaptable Disease Support:** Epira can be readily adapted to new diseases by simply updating its questionnaires, making it a flexible tool for public health initiatives (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+
+The design of Epira, which integrates LLM dialogue with a rule-based controller for protocol enforcement, safety handoffs, and record structuring, offers a promising avenue for more efficient and trustworthy data collection in public health contexts (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+
+### Explainable AI for Solar PV Power Forecasting
+
+Building trust and enabling reproducible comparisons in machine learning (ML) models for solar PV power forecasting is a significant challenge, as current practices often lack transparency (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md). A novel workflow integrating automated model selection with Explainable AI (XAI) techniques has been proposed and evaluated to enhance the trustworthiness of AI in this domain, making predictions more understandable and verifiable (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md). Experiments on real-world data revealed that the choice of input features had a greater impact on forecast accuracy than the selection among advanced algorithms, with the best models achieving a normalized RMSE of 11.6% (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md). Conformal calibration was also found to significantly improve the accuracy of prediction intervals, ensuring they better reflect observed variability (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md). Importantly, SHAP values, a common XAI technique, were observed to be stable under model retraining but sensitive to input feature correlations, indicating that model explanations should be interpreted as properties of the *model* itself rather than intrinsic properties of the physical system (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md). This research offers practical lessons for deploying and understanding AI models in energy forecasting, highlighting the need for transparency to foster trust (source: raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md).
 
 ### Persona-Dependent Variation in Health Advice
 
@@ -764,3 +783,5 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]]
 *   [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
 *   [[source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns]]
+*   [[source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment]]
+*   [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]

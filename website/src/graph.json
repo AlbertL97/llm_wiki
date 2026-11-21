@@ -827,6 +827,13 @@
       "summary": ""
     },
     {
+      "id": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing",
+      "name": "Source Summary: Design and Evaluation of Epira: An Automated Interview System for Case Investigation and Contact Tracing",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-designing-effective-monitor-based-interventions-for-mitigating-reward-hacking-during-rl",
       "name": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
       "val": 1.5,
@@ -1067,6 +1074,13 @@
     {
       "id": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset",
       "name": "EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment",
+      "name": "Source Summary: Explainable AI for Solar PV Power Forecasting: From Model Selection to Trustworthy, Reproducible Deployment",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3967,6 +3981,10 @@
       "target": "source-context-as-a-resource"
     },
     {
+      "source": "chatbots",
+      "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4231,6 +4249,10 @@
       "target": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai"
     },
     {
+      "source": "explainability",
+      "target": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4481,6 +4503,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-context-as-a-resource"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
     },
     {
       "source": "human-robot-interaction",
@@ -5231,6 +5261,10 @@
       "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
     },
     {
+      "source": "measurement-tools",
+      "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
+    },
+    {
       "source": "medical-ai",
       "target": "source-healthcare-human-ai-interaction"
     },
@@ -5425,6 +5459,10 @@
     {
       "source": "medical-ai",
       "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
+    },
+    {
+      "source": "medical-ai",
+      "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
     },
     {
       "source": "mental-health",
@@ -7011,6 +7049,10 @@
       "target": "persuasion-and-influence"
     },
     {
+      "source": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing",
+      "target": "trust"
+    },
+    {
       "source": "source-designing-human-mediated-ai-guidance-ready-together-for-personalized-family-emergency-preparedness",
       "target": "human-ai-interaction"
     },
@@ -7233,6 +7275,10 @@
     {
       "source": "source-eventegohands-event-based-egocentric-3d-hand-mesh-reconstruction-with-real-dataset",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment",
+      "target": "trust"
     },
     {
       "source": "source-explainable-reinforcement-learning-for-assisting-air-traffic-controllers",

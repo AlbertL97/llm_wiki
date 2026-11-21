@@ -49,8 +49,9 @@
 - raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md
 - raw_voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care.md
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
+- raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-21
 
 ---
 
@@ -89,6 +90,9 @@ Large Language Models (LLMs) exhibit persona-dependent variation in their health
 
 ### 1.3. Curbside Chatbots and Mental Health Interventions
 A study auditing 41 large language models (LLMs) for their mental health interventions revealed significant differences in recommendations based on the "footing" of the query – whether it was framed from the perspective of a clinician, caregiver, or patient (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). LLMs often adapted their responses, providing a consultation-style to clinicians while offering more simplified and hedged advice to lay users (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). A notable finding was that models frequently recommended interventions that they themselves rated favorably, though this was not consistently applied, with some models recommending poorly rated options or appending conditional caveats to these suggestions (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md). This research highlights the nuanced and sometimes inconsistent nature of LLM-generated advice in the sensitive domain of mental health support, emphasizing the need for careful evaluation and understanding of their recommendation patterns across different user contexts (source: raw_curbside-chatbots-auditing-mental-health-interventions-llms-recommend.md).
+
+### 1.4. Automated Interview Systems for Public Health
+The **Epira** system has been developed to enhance the efficiency and accuracy of case investigation and contact tracing through an automated interview process (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). Epira utilizes a protocol-controlled Large Language Model (LLM) to ensure adherence to established protocols while offering a more natural conversational experience than traditional web forms (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). In simulated case investigations, Epira demonstrated improved data completeness, outperforming open-ended interviewers in capturing required fields and ground-truth contacts (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). The study emphasizes that protocol control within the LLM interaction is more critical for data completeness than the choice of LLM backend (local vs. cloud) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). In a study with human volunteers, Epira achieved 100% completion rates and high ratings for usability (mean SUS of 82.95) and trust (mean trust of 3.85) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). The system's adaptability to new diseases by simply uploading new questionnaires, alongside its potential for privacy-preserving applications using local models, makes it a promising solution for public health initiatives (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
 
 ### 2. AI for Caregiver Mental Health and Support
 The mental health needs of family caregivers, particularly for individuals with Alzheimer's disease and related dementias (AD/ADRD), represent a critical area for technological intervention (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md). A novel Caregiver Mental Health and Technology Taxonomy systematically connects diverse psychosocial needs with appropriate digital and AI-enabled solutions, moving beyond simplistic concepts like 'caregiver burden' (source: raw_a-taxonomy-of-mental-health-and-technology-needs-for-alzheimers-and-dementia-caregivers.md).
@@ -253,3 +257,4 @@ To address this, research has introduced novel environments specifically designe
 - [[source-curbside-chatbots-auditing-mental-health-interventions-llms-recommend]]
 - [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]]
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
+- [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]

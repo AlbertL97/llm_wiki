@@ -148,14 +148,27 @@
 - raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
 - raw_fluid-flexible-evidence-grounded-situated-task-guidance.md
 - raw_context-as-a-resource.md
+- raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-21
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### Epira: Automated Interview System for Case Investigation and Contact Tracing
+
+**Epira** is an automated interview system designed to enhance the efficiency and accuracy of case investigation and contact tracing, particularly in public health scenarios. It combines the conversational capabilities of Large Language Models (LLMs) with a protocol-controlled structure to ensure adherence to essential investigative procedures (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md). This approach addresses the limitations of traditional methods like web forms by offering a more natural conversational experience while maintaining strict protocol adherence (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+
+Key findings from studies on Epira include:
+*   **Improved Data Completeness:** Epira significantly outperformed open-ended interviewers in recovering required fields and ground-truth contacts in simulated case investigations (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Protocol Control's Primacy:** The system's design emphasizes that enforcing a structured protocol within the LLM interaction is paramount for achieving high data completeness, more so than the choice of LLM backend (local vs. cloud) (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **User Acceptance:** In volunteer studies, Epira demonstrated high usability, achieving 100% completion rates and receiving high usability (mean SUS of 82.95) and trust (mean trust of 3.85) scores (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+*   **Privacy and Adaptability:** Epira shows potential for privacy-preserving applications, performing comparably with both local and cloud LLM deployments. It is also adaptable to new diseases by simply uploading new questionnaires (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
+
+Epira's architecture combines LLM dialogue with a rule-based controller to manage safety handoffs and structure case records, making it a promising tool for public health initiatives requiring efficient and reliable data collection (source: raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md).
 
 ### ClonAct: Routerless Architecture for Concurrent Task Handling
 
@@ -742,3 +755,4 @@ This paper explores how people perceive advice given by AI chatbots versus human
 - [[source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation]]
 - [[source-fluid-flexible-evidence-grounded-situated-task-guidance]]
 - [[source-context-as-a-resource]]
+- [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]
