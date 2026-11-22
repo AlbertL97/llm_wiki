@@ -1184,6 +1184,13 @@
       "summary": "A summary page for Furhat Robotics' flagship social robot and developer platform, detailing its back-projected 3D face customization engine, multi-user tracking capabilities, SDK tools, and conversational AI creator."
     },
     {
+      "id": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study",
+      "name": "GenAI-DBT: Evaluating a DBT-Informed Generative AI Platform for Mindfulness Skills Training: A Pilot Randomized Study",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-gendered-anthropomorphism-in-human-robot-interaction",
       "name": "Gendered Anthropomorphism in Human-Robot Interaction",
       "val": 1.5,
@@ -1543,6 +1550,13 @@
     {
       "id": "source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation",
       "name": "LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-lm-based-personalized-travel-planner",
+      "name": "LM-based Personalized Travel Planner",
       "val": 1.5,
       "group": 2,
       "summary": ""
@@ -3985,6 +3999,14 @@
       "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
     },
     {
+      "source": "chatbots",
+      "target": "source-lm-based-personalized-travel-planner"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4511,6 +4533,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-lm-based-personalized-travel-planner"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
     },
     {
       "source": "human-robot-interaction",
@@ -5465,6 +5495,10 @@
       "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
     },
     {
+      "source": "medical-ai",
+      "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
+    },
+    {
       "source": "mental-health",
       "target": "source-health-advisory-mental-health"
     },
@@ -5749,6 +5783,10 @@
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
     },
     {
+      "source": "mental-health",
+      "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
+    },
+    {
       "source": "metacognitive-agent-architectures",
       "target": "source-agentic-knowledgeable-self-awareness"
     },
@@ -5823,6 +5861,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-context-as-a-resource"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-lm-based-personalized-travel-planner"
     },
     {
       "source": "metacognitive-agent-architectures",
@@ -6267,6 +6309,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
     },
     {
       "source": "social-media-and-online-communities",
@@ -7339,6 +7385,10 @@
     {
       "source": "source-furhat-robotics",
       "target": "human-ai-interaction"
+    },
+    {
+      "source": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study",
+      "target": "measurement-tools"
     },
     {
       "source": "source-gendered-anthropomorphism-in-human-robot-interaction",

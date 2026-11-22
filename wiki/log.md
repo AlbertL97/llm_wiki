@@ -4675,3 +4675,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-22 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_lm-based-personalized-travel-planner.md
+- raw/raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-lm-based-personalized-travel-planner.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md
+- wiki/mental-health.md
+- wiki/medical-ai.md
+- wiki/qualitative-methods.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "LM-based Personalized Travel Planner" and created summary page wiki/source-lm-based-personalized-travel-planner.md.
+- Ingested "GenAI-DBT: Evaluating a DBT-Informed Generative AI Platform for Mindfulness Skills Training: A Pilot Randomized Study" and created summary page wiki/source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -22,8 +22,9 @@
 - raw_compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation.md
 - raw_neural-representations-as-new-modes-of-interactivity.md
 - raw_context-as-a-resource.md
+- raw_lm-based-personalized-travel-planner.md
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-22
 
 ---
 
@@ -137,6 +138,10 @@ Emerging paradigms in human-AI interaction are moving beyond traditional prompt-
 
 The **ClonAct** architecture offers a routerless approach to personal AI agents, enhancing efficiency and effectiveness when handling concurrent tasks and mitigating issues like constraint bleed and stalling caused by linear session processing or human attention exhaustion (source: raw_context-as-a-resource.md). By virtualizing context blocks through components like a Context MMU and an isolated trial merge gate, ClonAct avoids the inefficiencies of traditional router-ticket hierarchies (source: raw_context-as-a-resource.md). This architecture demonstrably improves conflict resolution, boosting success rates for true-conflict merges from 33.3% to 63.3% in multi-stream benchmarks (source: raw_context-as-a-resource.md). Furthermore, ClonAct achieves high performance with substantially fewer prompt tokens (45.9% less) than previous methods, maintains robust completion rates (95.0%) under continuous surge streams, and minimizes wait times and timeouts (source: raw_context-as-a-resource.md). Key components include a pluggable Context MMU, in-place Context Cells, a Synaptic Bus with an isolated trial merge gate, and a Shared Trunk (source: raw_context-as-a-resource.md).
 
+### 22. Hierarchical Multi-Agent Framework for Personalized Planning
+
+Metacognitive architectures are being advanced through hierarchical multi-agent systems that break down complex tasks into specialized roles. A novel framework for LLM-based personalized travel planning employs a supervising chatbot agent to coordinate specialized agents responsible for schedule validation, user query formulation, real-time data retrieval, and constraint-aware itinerary generation (source: raw_lm-based-personalized-travel-planner.md). This system integrates LLM reasoning with external APIs and iterative refinement, utilizing a deterministic, multi-dimensional scoring mechanism for plan evaluation and improvement (source: raw_lm-based-personalized-travel-planner.md). Evaluations on the TravelPlanner benchmark show significant improvements over the ReAct baseline, with a 10% gain in budget constraint planning, a 25% gain in wider constraint set-based planning, and a substantial 45% improvement in personalized planning results, demonstrating enhanced adaptability, efficiency, and personalization (source: raw_lm-based-personalized-travel-planner.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -160,6 +165,7 @@ The **ClonAct** architecture offers a routerless approach to personal AI agents,
 - [[source-compaction-decay-and-reinforcement-in-a-two-tier-conversational-memory-a-paired-evaluation-against-retrieval-augmented-generation]]
 - [[source-neural-representations-as-new-modes-of-interactivity]]
 - [[source-context-as-a-resource]]
+- [[source-lm-based-personalized-travel-planner]]
 - [[human-ai-interaction]]
 - [[metacognitive-agent-architectures]]
 - [[chatbots]]

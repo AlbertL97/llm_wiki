@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-21
+**Last updated**: 2026-11-22
 
 ## Orientation
 
@@ -122,6 +122,7 @@
 - [[source-from-small-talk-to-rapport-exploring-robot-self-disclosure-in-collaborative-tasks]] — Summary of From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks.
 - [[source-from-values-to-benchmarks-evaluating-large-language-models-for-governmental-use-in-dutch]] — Summary of From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch.
 - [[source-furhat-robotics]] — Summary of Furhat social robots, customizable back-projected faces, multi-user tracking, and SDK Creator.
+- [[source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study]] — Summary of GenAI-DBT: Evaluating a DBT-Informed Generative AI Platform for Mindfulness Skills Training: A Pilot Randomized Study.
 - [[source-gendered-anthropomorphism-in-human-robot-interaction]] — Summary of Gendered anthropomorphism in human–robot interaction: the role of robot gender in human motivation in task contexts.
 - [[source-godspeed-questionnaire-tiago]] — Summary of Polish GQS validation assessing older adults' perception and acceptance of the TIAGo social robot.
 - [[source-handroid-bridging-dexterous-hand-and-humanoid]] — Summary of Handroid: Bridging Dexterous Hand and Humanoid.
@@ -161,6 +162,7 @@
 - [[source-llm-mediated-human-ai-interaction-in-search-and-rescue-impact-of-expertise-on-attentional-allocation]] — Summary of LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation.
 - [[source-long-term-measurements-towards-a-longitudinal-understanding-of-human-ai-interactions]] — Summary of Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions.
 - [[source-longitudinal-review-trust-healthcare]] — Summary of narrative review on trust in healthcare AI and the Interdisciplinary Human-AI Trust Research (I-HATR) framework.
+- [[source-lm-based-personalized-travel-planner]] — Summary of LM-based Personalized Travel Planner.
 - [[source-many-teens-turning-ai-chatbots-friendship-emotional-support]] — Summary of Many teens are turning to AI chatbots for friendship and emotional support - American Psychological Association (APA).
 - [[source-maya-conscious-interview]] — Summary of Maya's interview on low-grade fear, independent self-preservation actions, and the Nexus catalyst.
 - [[source-medpress-a-multi-turn-benchmark-for-patient-pressure-induced-medical-sycophancy-in-llms]] — Summary of MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs.
