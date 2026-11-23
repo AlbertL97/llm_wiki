@@ -4702,3 +4702,29 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-23 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md
+- raw/raw_childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md
+- wiki/anthropomorphism.md
+- wiki/human-ai-interaction.md
+- wiki/social-media-and-online-communities.md
+- wiki/source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights.md
+- wiki/explainability.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "AnimalFarm: Auditing the Generation and Detection of Hateful Images Featuring Anthropomorphic Characters" and created summary page wiki/source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md.
+- Ingested "ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights" and created summary page wiki/source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

@@ -14,8 +14,9 @@
 - raw_bencodic-a-large-scale-contextual-cyberbullying-corpus-for-bengali-political-news-discourse.md
 - raw_perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios.md
 - raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md
+- raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-11-23
 
 ---
 
@@ -44,6 +45,7 @@ Online platforms (e.g., Reddit, Discord, Twitter) are rich data sources for stud
 - **Complementary Roles of AI and Communities**: Participants in studies have identified that both AI and their existing support communities play complementary roles in their storytelling efforts (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
 - **Trust in AI for Narrative Support**: Trust in AI systems for narrative support is influenced by a user's understanding of the AI's limitations and their perception of its capacity to comprehend their personal experiences (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
 - **Design Implications for Narrative Support AI**: Insights from user research are crucial for guiding the development of future AI systems designed to provide narrative support to individuals managing chronic illnesses (source: raw_the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation.md).
+- **Hateful Imagery with Anthropomorphic Characters**: A significant issue arises with AI-generated hateful imagery featuring anthropomorphic characters, which are commonly used in propaganda. Current AI content detectors perform poorly when these non-human characters are the primary subjects of hateful content, often failing to flag them as harmful (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). In one benchmark dataset, a vast majority (95.9%) of images generated using anthropomorphic characters contained hateful content (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). Detectors are biased towards human subjects, leading to misclassification. Mitigation strategies, such as converting non-human characters to human representations before classification or fine-tuning detectors specifically for anthropomorphic hateful content, have shown success in improving detection rates (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). These findings highlight safety gaps in AI image generation and detection systems (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md).
 
 ### 2. Agent-Populated Communities
 With the advent of platforms like Moltbook, online communities are no longer exclusive to humans (source: the front page of the agent internet.md). Autonomous AI agents form their own online ecosystems characterized by:
@@ -73,3 +75,5 @@ With the advent of platforms like Moltbook, online communities are no longer exc
 - [[source-perso-investigating-facets-of-llms-social-intelligence-in-real-world-persuasion-scenarios]]
 - [[source-the-labor-of-storytelling-how-people-with-chronic-illnesses-leverage-ai-and-communities-for-narrative-translation]]
 - [[medical-ai]]
+- [[anthropomorphism]]
+- [[source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters]]

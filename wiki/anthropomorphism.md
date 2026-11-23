@@ -78,8 +78,9 @@
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 - raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
+- raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -325,6 +326,8 @@ The Harmonic-Passive Motion Paradigm (H-PMP), a novel architecture within the Fr
 ### Real-time Facial Expressions in Human-Robot Interaction
 The direct synchronization of robot facial expressions with conversational content, driven by LLM hidden states, represents a significant advancement in anthropomorphic design for human-robot interaction (HRI). The Emo-H2A paradigm, implemented through EmoManifold, bypasses traditional static emotion labels to achieve dynamic, token-level facial control (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This method extracts Valence-Arousal-Dominance (VAD) coordinates from LLM hidden states to drive facial movements, resulting in significantly improved synchronicity and responsiveness. Emo-H2A has demonstrated a high success rate in matching valence transitions (87.5%) and drastically reduces expression update latency to approximately 0.96 seconds, compared to traditional methods that can take over 10-26 seconds (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). By enabling continuous, context-sensitive, and low-latency facial expressions, this approach aims to make human-robot interactions more natural, engaging, and ultimately, more anthropomorphic (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md).
 
+**The use of anthropomorphic characters in AI-generated content presents a significant challenge for the detection of hateful material.** Current AI content detectors are demonstrably poor at identifying hate speech when non-human characters are the primary subjects, often due to a bias towards human-centric detection (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). Studies indicate that a vast majority (95.9%) of images generated using anthropomorphic characters in a benchmark dataset contained hateful content, yet existing detectors struggled to identify this (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). This suggests that the anthropomorphic nature of the characters can mislead detection systems, leading to their failure to flag harmful content. Mitigation strategies, such as converting non-human characters to human representations before classification or fine-tuning detectors specifically for anthropomorphic hateful content, have shown significant promise in addressing these safety gaps (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -415,3 +418,4 @@ The direct synchronization of robot facial expressions with conversational conte
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
 - [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]
+- [[source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters]]

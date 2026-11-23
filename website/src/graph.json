@@ -421,6 +421,13 @@
       "summary": ""
     },
     {
+      "id": "source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters",
+      "name": "AnimalFarm: Auditing the Generation and Detection of Hateful Images Featuring Anthropomorphic Characters",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-antigravity-sdk-building-digital-simulated-world",
       "name": "Antigravity SDK: Building a digital simulated world",
       "val": 1.5,
@@ -664,6 +671,13 @@
       "val": 1.5,
       "group": 2,
       "summary": "A summary page for a news segment outlining Chengdu's first real-world pilot program for intelligent robots, covering offline edge traffic humanoids, holographic guides at Wu Hou Shrine, safety bots, and patrolling robot dogs."
+    },
+    {
+      "id": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights",
+      "name": "ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
     },
     {
       "id": "source-chinas-draft-rules-ai-companion-addiction",
@@ -3431,6 +3445,10 @@
       "target": "source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -4275,6 +4293,10 @@
       "target": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment"
     },
     {
+      "source": "explainability",
+      "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
+    },
+    {
       "source": "human-ai-interaction",
       "target": "human-ai-interaction"
     },
@@ -4541,6 +4563,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
     },
     {
       "source": "human-robot-interaction",
@@ -5293,6 +5323,10 @@
     {
       "source": "measurement-tools",
       "target": "source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
     },
     {
       "source": "medical-ai",
@@ -6377,6 +6411,14 @@
     {
       "source": "social-media-and-online-communities",
       "target": "medical-ai"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "anthropomorphism"
+    },
+    {
+      "source": "social-media-and-online-communities",
+      "target": "source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters"
     },
     {
       "source": "source-a-digital-twin-to-improve-cyber-social-impact",

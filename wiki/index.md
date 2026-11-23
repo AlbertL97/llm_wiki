@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-23
 
 ## Orientation
 
@@ -36,6 +36,7 @@
 - [[source-alignment-myopia-in-generative-ai]] — Summary of Alignment Myopia in Generative AI.
 - [[source-an-echo-chamber-of-one-should-ai-psychosis-be-a-distinct-clinical-entity]] — Summary of An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?.
 - [[source-an-overview-of-ai-in-clinical-practice]] — Summary of an overview of AI in clinical practice.
+- [[source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters]] — Summary of AnimalFarm: Auditing the Generation and Detection of Hateful Images Featuring Anthropomorphic Characters.
 - [[source-antigravity-sdk-building-digital-simulated-world]] — Summary of Antigravity SDK: Building a digital simulated world.
 - [[source-artificial-intelligence-and-psychology]] — Summary of the Ryan L. Boyd & David M. Markowitz paper introducing the Machine-Integrated Relational Adaptation (MIRA) model and dual roles of AI.
 - [[source-assessing-ai-companion-chatbot-safety-for-vulnerable-users-a-crisis-stage-multi-platform-evaluation]] — Summary of Assessing AI Companion Chatbot Safety for Vulnerable Users: A Crisis-Stage Multi-Platform Evaluation.
@@ -67,6 +68,7 @@
 - [[source-catch-throw-repeat-planning-for-human-robot-partner-juggling]] — Summary of Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling.
 - [[source-chinas-next-ai-breakthrough]] — Summary of Bloomberg's report on China's Physical AI market dominance, state venture funds, and consumer humanoid developments.
 - [[source-chengdu-robots]] — Summary of Chengdu's pilot program integrating offline edge traffic humanoids, holographic museum guides, Xiao Zha safety bots, and patrolling robot dogs.
+- [[source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights]] — Summary of ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights.
 - [[source-circuitreason-1k-benchmarking-long-horizon-visual-to-symbolic-reasoning-in-electrical-circuits]] — Summary of CircuitReason-1k: Benchmarking Long-Horizon Visual-to-Symbolic Reasoning in Electrical Circuits.
 - [[source-claude-sentience]] — Summary of the daveshap repository clippings on prompt-engineered styling guidelines and phenomenal consciousness system prompts.
 - [[source-co-creativity-table-adventure-ai]] — Summary of Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI".
