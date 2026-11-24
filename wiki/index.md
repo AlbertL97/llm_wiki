@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-24
 
 ## Orientation
 
@@ -182,7 +182,7 @@
 - [[source-neural-representations-as-new-modes-of-interactivity]] — Summary of Neural Representations as New Modes of Interactivity.
 - [[source-new-research-highlights-heightened-dangers-ai-companion-use-teens]] — Summary of New research highlights the heightened dangers of AI companion use for teens.
 - [[source-new-research-third-of-kids-depend-on-ai-for-serious-conversations]] — Summary of New research tells us a third of kids depend on AI for serious conversations..
-- [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of Constitutive AI Unaccountability.
+- [[source-no-one-to-blame-a-framework-of-constitutive-ai-unaccountability]] — Summary of No One to Blame: A Framework of<bos> Constitutive AI Unaccountability.
 - [[source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization]] — Summary of Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
@@ -266,10 +266,12 @@
 - [[source-trusting-ai-in-competitive-markets]] — Summary of Trusting AI in Competitive Markets.
 - [[source-two-sided-receptivity-conversational-ai-agents-online-dating]] — Summary of Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love.
 - [[source-unboxing-diffusion-models-for-the-arts-interactive-model-bending-and-practice-based-explainability]] — Summary of Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability.
+- [[source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai]] — Summary of Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI.
 - [[source-unfinishable-map]] — Summary of Andy Southgate & Claude Oquatre-six's project outlining a dualist perspective on AI sentience.
 - [[source-understanding-and-resolving-failures-in-human-robot-interaction]] — Summary of Understanding and Resolving Failures in Human-Robot Interaction: Literature Review and Model Development.
 - [[source-uniguard-multi-view-guardrail-learning-for-cross-interface-safety-generalization]] — Summary of UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization.
 - [[source-united-robotics-group]] — Summary of URG service robotics solutions across labs, healthcare, logistics, retail, and hospitality.
+- [[source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents]] — Summary of Useful but Unwieldy: How Software Engineers Perceive the Design of Chain-of-Thought Explanations in Coding Agents.
 - [[source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels]] — Summary of "I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels.
 - [[source-using-ai-based-learning-assistants-in-higher-education]] — Summary of Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis.
 - [[source-virtual-human-embodiment]] — Summary of Virtual Human Embodiment.

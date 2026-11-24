@@ -4728,3 +4728,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-24 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
+- raw/raw_unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
+- wiki/explainability.md
+- wiki/trust.md
+- wiki/human-ai-interaction.md
+- wiki/qualitative-methods.md
+- wiki/chatbots.md
+- wiki/source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai.md
+- wiki/measurement-tools.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Useful but Unwieldy: How Software Engineers Perceive the Design of Chain-of-Thought Explanations in Coding Agents" and created summary page wiki/source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md.
+- Ingested "Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI" and created summary page wiki/source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

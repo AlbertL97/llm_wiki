@@ -2507,6 +2507,20 @@
       "summary": ""
     },
     {
+      "id": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai",
+      "name": "Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
+      "id": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents",
+      "name": "Source Summary: Useful but Unwieldy: How Software Engineers Perceive the Design of Chain-of-Thought Explanations in Coding Agents",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-user-perception-of-digital-product-advisors-adapting-to-their-knowledge-levels",
       "name": "User Perception of Digital Product Advisors Adapting to Their Knowledge Levels",
       "val": 1.5,
@@ -4025,6 +4039,10 @@
       "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
     },
     {
+      "source": "chatbots",
+      "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4295,6 +4313,14 @@
     {
       "source": "explainability",
       "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
+    },
+    {
+      "source": "explainability",
+      "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
+    },
+    {
+      "source": "explainability",
+      "target": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai"
     },
     {
       "source": "human-ai-interaction",
@@ -4571,6 +4597,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai"
     },
     {
       "source": "human-robot-interaction",
@@ -5327,6 +5361,10 @@
     {
       "source": "measurement-tools",
       "target": "source-childai-gov-an-evidence-linked-ai-system-for-assessing-edtech-policies-against-childrens-digital-rights"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai"
     },
     {
       "source": "medical-ai",
@@ -6347,6 +6385,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
     },
     {
       "source": "social-media-and-online-communities",
@@ -8710,6 +8752,10 @@
     },
     {
       "source": "source-unlearning-to-protect-a-distilled-reinforcement-learning-framework-with-privacy-preserving-feature-unlearning-and-xai-for-iot-security",
+      "target": "trust"
+    },
+    {
+      "source": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents",
       "target": "trust"
     },
     {

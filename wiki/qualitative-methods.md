@@ -30,8 +30,9 @@
 - raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
 - raw_ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation.md
 - raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md
+- raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
 
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
@@ -84,6 +85,8 @@ A novel approach to facilitate private communication between a human and an AI a
 A new resource, HEIR (Harness Egocentric Intent for Human-Robot Interactions), has been introduced to advance human-robot interaction (HRI) research (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). HEIR comprises a dataset and framework that integrates multimodal human cues such as speech, gaze, and egocentric video with robot observations and teleoperated actions. This resource is structured to capture complete interaction episodes, enabling the study of how individual human requests can be decomposed into multiple subtasks for robot execution (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). The goal is to facilitate in-depth research into understanding human intent, planning robot actions, and successfully completing complex, long-horizon tasks in naturalistic household environments (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md). Extensive offline experiments and real-robot demonstrations have highlighted the benefits of incorporating human-centric context into AI models for more user-centric and effective robot interaction systems (source: raw_heir-harness-egocentric-intent-for-human-robot-interactions.md).
 
 The evaluation of generative AI for mental health skills training, such as Dialectical Behavior Therapy (DBT) mindfulness, shows promise for feasibility and acceptability. A DBT-informed generative AI platform (GenAI-DBT) demonstrated higher adherence rates (71.4%) and a greater positive change in linguistic valence compared to a general chatbot and a static web resource in a pilot randomized study (source: raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md). While clinical outcomes like mindfulness and emotion regulation scores did not significantly differ across groups, qualitative feedback indicated that participants valued contextualized, scenario-based AI practice, but noted issues with response latency, repetition, and personalization as areas for improvement (source: raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md). This suggests that conversational AI is a viable tool for mental health skills training, with ongoing research aiming to refine its effectiveness through qualitative insights (source: raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md).
+
+Software engineers perceive Chain-of-Thought (CoT) explanations from coding agents (CAs) as crucial for transparency, scrutability, and trust in human-AI interaction (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). However, practical implementations often suffer from issues such as excessive verbosity, a mismatch in technical jargon, and a detached conversational style, leading to comprehension difficulties (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). These usability challenges result in engineers selectively using or abandoning CoT features, highlighting a need for improved CoT design mechanisms to better meet user explainability needs (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md).
 
 ### 1. Traditional Qualitative Methodologies
 - **User Interviews**: In-depth, semi-structured conversations designed to capture the user's mental models, expectations, and lived experiences with AI systems (source: Examining human-AI interaction in real-world healthcare beyond the laboratory.md).
@@ -140,3 +143,4 @@ Modern platforms leverage specialized AI to process unstructured audio and textu
 - [[source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns]]
 - [[source-ai-companions-young-adult-caregivers-practical-advice-emotional-depth-limits-metric-evaluation]]
 - [[source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study]]
+- [[source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents]]

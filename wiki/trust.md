@@ -190,8 +190,9 @@
 - raw_investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns.md
 - raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md
 - raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
+- raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
 
-**Last updated**: 2026-11-21
+**Last updated**: 2026-11-24
 
 ---
 
@@ -637,6 +638,10 @@ Key findings from TAHI include:
 
 The TAHI methodology involves integrating user interaction data into the agent's context and weights, alongside an "evolving rubric module" that refines evaluation criteria over time (source: raw_efficient-test-time-adaptation-through-human-ai-interaction.md). This work highlights the value of continuous human-AI collaboration for achieving high-performance, personalized AI systems and offers a practical framework for tailoring AI to individual expertise, thereby potentially fostering greater calibrated trust through enhanced utility and reliability (source: raw_efficient-test-time-adaptation-through-human-ai-interaction.md).
 
+### Chain-of-Thought Explanations in Coding Agents
+
+Chain-of-Thought (CoT) explanations are recognized as crucial for fostering transparency, scrutability, and trust in the interactions between software engineers and coding agents (CAs) (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). However, practical implementations of CoT messages often present significant usability challenges for software engineers. These challenges include excessive verbosity, a mismatch in the technical jargon and detail level relative to the engineer's expertise, and a perceived "detached" conversational style where the explanations feel like internal monologues rather than direct communication (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). Consequently, engineers may experience difficulties in comprehension, leading them to selectively use or abandon CoT features altogether (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). Research based on surveys and interviews with software engineers aims to inform the design of more effective CoT mechanisms that better align with user explainability needs, thereby supporting more trustworthy human-AI collaboration in software development (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md).
+
 ### 4. Human-Centered AI and Trust
 Implementing HCAI design principles is essential for cultivating trust and long-term user acceptance (source: What Is Human-Centered AI (HCAI)_.md).
 - **Transparency and Explainability**: When users understand the reasoning behind AI conclusions, it alleviates concerns regarding "black box" algorithms and builds user confidence (source: What Is Human-Centered AI (HCAI)_.md). The Workshop on eXplainable AI for the Arts (XAIxArts 4) highlights the critical role of Explainable AI (XAI) in artistic applications, aiming to make opaque AI models more understandable. This focus on transparency is fundamental to Human-Centred AI and aligns with HCI techniques that enhance user understanding and, by extension, trust (source: raw_proceedings-of-the-fourth-international-workshop-on-explainable-ai-for-the-arts-xaixarts-4.md). Furthermore, research in AI-assisted code review demonstrates that providing detailed explanations for AI-generated reviews significantly increases developer trust and agreement with AI recommendations (source: raw_evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md). While moderate explanations led to the highest agreement, full explanations resulted in the highest perceived trust (source: raw_evaluating-the-impact-of-explainable-ai-on-trust-in-ai-assisted-code-review.md).
@@ -785,3 +790,4 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-investigating-ai-chatbot-emotional-support-among-people-with-mental-health-concerns]]
 *   [[source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment]]
 *   [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]
+*   [[source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents]]

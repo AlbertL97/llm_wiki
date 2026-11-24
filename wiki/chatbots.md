@@ -151,14 +151,19 @@
 - raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
 - raw_lm-based-personalized-travel-planner.md
 - raw_genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study.md
+- raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
 
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-24
 
 ---
 
 ## Main content
 
 **Chatbots** (or conversational agents) are software applications engineered to simulate human-like conversations using natural language processing (NLP), speech synthesis, and Large Language Models (LLMs) (sources: From robots to chatbots_ unveiling the dynamics of human-AI interaction.md; Message Humanness as a Predictor of AI’s Perception as Human_ Secondary Data Analysis of the HeartBot Study.md). As these systems transition from simple, rule-based information retrieval engines into advanced, generative dialogue systems, they are increasingly integrated into customer service, education, mental health support, and clinical care. The scope of human-AI interaction extends beyond physical robots to include conversational agents like chatbots (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Understanding the psychological dynamics of these interactions is essential due to AI's growing integration into everyday life (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md). Factors influencing user perception and trust in AI include perceived intelligence and human-like conversational abilities (source: raw_from-robots-to-chatbots-unveiling-the-dynamics-of-human-ai-interaction.md).
+
+### Chain-of-Thought (CoT) Explanations in Coding Agents
+
+Research into the perception of coding agents (CAs) by software engineers reveals that Chain-of-Thought (CoT) explanations are highly valued for enhancing transparency, scrutability, and trust (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). However, current implementations of CoT messages often present usability challenges. These include excessive verbosity, a technical jargon mismatch between the agent and the user, and a conversational style that can feel detached, as if the agent is communicating internally rather than directly with the user (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). These difficulties can lead to comprehension issues and cause engineers to selectively use or abandon the CoT feature (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md). Consequently, insights from this research are being used to inform the design of more effective CoT mechanisms that better meet user explainability needs in human-AI interaction (source: raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md).
 
 ### LM-based Personalized Travel Planner Framework
 
@@ -765,3 +770,4 @@ This paper explores how people perceive advice given by AI chatbots versus human
 - [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]
 - [[source-lm-based-personalized-travel-planner]]
 - [[source-genai-dbt-evaluating-a-dbt-informed-generative-ai-platform-for-mindfulness-skills-training-a-pilot-randomized-study]]
+- [[source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents]]
