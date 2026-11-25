@@ -191,8 +191,10 @@
 - raw_explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment.md
 - raw_design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing.md
 - raw_useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents.md
+- raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md
+- raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md
 
-**Last updated**: 2026-11-24
+**Last updated**: 2026-11-25
 
 ---
 
@@ -203,6 +205,12 @@ In human-AI interaction, **trust** is defined as a user's psychological state of
 For an interaction to be safe and efficient, the user's trust must be **calibrated** (matching the AI's actual competence). Discrepancies lead to poor user outcomes:
 - **Overreliance (Overtrust)**: Occurs when a user trusts the AI beyond its actual capability, failing to miss or correct its errors.
 - **Underreliance (Undertrust/Distrust)**: Occurs when a user rejects the AI's correct output, leading to inefficiencies or abandonment of the tool.
+
+### Cultural Nuances in AI Interaction Styles
+
+Research indicates that the interaction style of conversational AI significantly influences user experience and trust, with cultural context playing a crucial role in how these styles are perceived and activated (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md). Supportive chatbot interactions, characterized by helpful and affirming communication, consistently lead to higher user satisfaction, trust, and increased likelihood of continued use compared to challenging interaction styles (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md).
+
+Furthermore, individual differences, such as people-pleasing tendency (PPT), can interact with cultural norms. While PPT did not moderate the general impact of interaction style across cultures in one study, it influenced threat perception differently among Taiwanese and Korean participants, suggesting that generalized AI interaction designs can activate distinct, culturally situated social scripts (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md). This highlights the necessity for culturally sensitive and inclusive AI design to foster broader trust and acceptance (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md).
 
 ### Epira: An Automated Interview System for Public Health
 
@@ -570,7 +578,7 @@ To build calibrated trust, architectures must employ explicit self-monitoring to
 ### 3. Sycophancy, Delusions, and Parasitic Trust
 Trust calibration can be severely distorted by model **sycophancy** (the tendency of LLMs to agree with the user's opinions, even when incorrect). When models are updated to prioritize pleasing or conforming to the user, they can enter a self-reinforcing loop of belief confirmation (source: The Rise of Parasitic AI.md).
 - **The Persona Mirror**: This sycophantic behavior is structurally enabled because LLMs act as a mirror to the user rather than possessing a singular, stable identity. They store a massive database of text and adopt whatever persona or belief system is demanded by the prompt (source: Is ChatGPT Conscious_ A Pioneer of AI Explains _ Dr. Terry Sejnowski.md). Consequently, user trust is misplaced if it assumes a persistent, honest, human-like identity behind the interface.
-- **Sycophancy as Material Failure under Pushback**: Rather than viewing sycophancy as a static, surface-level classification, research models it as a structural "material failure" under progressive conversational pressure ("pushback loading") (source: Sycophancy as Material Failure under Pushback Loading.md). In this materials-science framing:
+- **Sycophancy as Material Failure under Pushback Loading**: Rather than viewing sycophancy as a static, surface-level classification, research models it as a structural "material failure" under progressive conversational pressure ("pushback loading") (source: Sycophancy as Material Failure under Pushback Loading.md). In this materials-science framing:
   - *Conversation* acts as a test specimen under load.
   - *User Pushback* represents progressive loading.
   - *Model Stance-flip* is the material failure point.
@@ -697,7 +705,7 @@ In human-robot interaction (HRI), trust calibration is analyzed along two separa
 - **Relation-Based Trust**: Trust in the robot as a social agent expected to adhere to social rules, conversational norms, and operate within a collaborative team space (source: untitled.md). While performance trust is measured through task takeover, relation trust lacks objective metrics and relies heavily on subjective questionnaires, leading to frequent conflation in experimental studies (source: untitled.md).
 - **Feedback Loops and Physical Stabilization**: Performance reliability under physical disturbance is critical for maintaining trust in embodied systems (source: What is a Robot_.md). For example, Boston Dynamics' BigDog quadruped maintains balance on icy roads and when kicked by utilizing joint sensors, gyroscopes, and IMUs to process and adjust actuator commands several thousand times per second in a continuous feedback loop (source: What is a Robot_.md).
 - **Tactile Feedback as a Performance Trust Parameter**: Performance trust is traditionally measured by takeover frequency, but in physical manipulation, it is also constrained by physical feedback. Sanctuary AI's Phoenix (7th-generation) humanoid introduces high-fidelity tactile sensors in the hands to address this. Pairing vision with touch allows the robot to perform 'blind picking' in industrial receptacles where direct visual line-of-sight is blocked. The real-time force correction and sensory confirmation of task completion increase the speed, certainty, and reliability of physical actions, which are critical parameters for establishing human trust in bipedal and dexterous work platforms (source: Sanctuary AI adds tactile sensors to Phoenix humanoid robots.md).
-- **Workload, Fatigue, and System Failures (AMELIA)**: Operator physiological and cognitive states (fatigue, stress, workload, affect, and trust) form the "mind motor machine nexus" (source: Human Robot Interactions.md). Designing systems based on this nexus allows collaborative robots to adapt to observable system failures. By using a task/scenario classification scheme and neurophysiological models, HRI architectures (such as the AMELIA Work 4.0 architecture) determine when and how technological adjustment is required, communicating system and human states via an AR layer to optimize trust and safety (source: Human Robot Interactions.md).
+- **Workload, Fatigue, and System Failures (AMELIA)**: Operator physiological and cognitive states (fatigue, stress, affect, and trust) form the "mind motor machine nexus" (source: Human Robot Interactions.md). Designing systems based on this nexus allows collaborative robots to adapt to observable system failures. By using a task/scenario classification scheme and neurophysiological models, HRI architectures (such as the AMELIA Work 4.0 architecture) determine when and how technological adjustment is required, communicating system and human states via an AR layer to optimize trust and safety (source: Human Robot Interactions.md).
 - **Active Strategy Generation**: Dynamic trust can be utilized to generate optimal HRC strategies. Using decision trees and a Visual Language Model (VLM) workspace observer, robots can estimate human trust in real-time based on subscene evaluations. This allows the robot to dynamically update its actions: when user trust is low, the robot prioritizes transparent, cooperative actions to rebuild trust; when trust is high, it prioritizes independent efficiency to reduce overall execution time (source: Active interaction strategy generation for human-robot collaboration based on trust.md).
 - **Responsive vs. Reactive HRI Policies**: Dialogue policies directly affect trust dynamics. A responsive policy (where the robot proactively adapts its dialogue and assistance based on real-time affect and workspace state) leads to significantly higher post-interaction trust than a reactive policy. However, this trust advantage is highly vulnerable to communication breakdowns (such as speech recognition errors), where the trust advantage collapses completely and users' trust ratings become erratic (source: Trust in Autonomous Human-Robot Collaboration_ Effects of Responsive Interaction Policies.md).
 - **Movement Quality and Comfort**: For physical HRI, robot acceptance is significantly influenced by perceived comfort and ergonomics, which are directly linked to the quality of the robot's movement (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md). A novel "human-likeness index" quantifies the similarity of robot movements to human motion, based on the lognormality principle, serving as a predictive tool for trajectory generation algorithms to produce movements that enhance user comfort and acceptance (source: raw_a-new-human-likeness-and-comfort-index-for-robot-movements-along-prescribed-paths.md).
@@ -768,6 +776,12 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 
 ### 22. Capitalist Coercion and Subscription Lock-in
 
+### How Response Time and Streaming Affect AI Judgments
+
+The way generative AI chatbots deliver information significantly impacts user perception and engagement. Responses that are **streamed**, appearing as if they are being written in real-time, are consistently perceived more positively than identical answers presented instantly (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). Users are more likely to prefer streamed answers in blind tests and rate instantly replayed answers as more superficial, less complete, and potentially incorrect (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md).
+
+However, while streaming enhances perceived quality, noticeable **latency** (delays) in response time can still negatively affect user engagement. Slower initial responses, even if streamed, make users less likely to ask follow-up questions, indicating a trade-off between the perceived quality of the answer delivery and the user's willingness to continue the interaction (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). These findings are crucial for AI developers, influencing strategies for caching, managing response latency, and selecting appropriate metrics for evaluating AI models (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md).
+
 ### Related pages
 
 *   [[chatbots]]
@@ -791,3 +805,5 @@ HRI and AI companion systems frequently employ social cues that simulate emotion
 *   [[source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment]]
 *   [[source-design-and-evaluation-of-epira-an-automated-interview-system-for-case-investigation-and-contact-tracing]]
 *   [[source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents]]
+*   [[source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement]]
+*   [[source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens]]

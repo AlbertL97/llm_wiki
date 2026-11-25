@@ -79,8 +79,9 @@
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
 - raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
 - raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md
+- raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md
 
-**Last updated**: 2026-11-23
+**Last updated**: 2026-11-25
 
 ---
 
@@ -328,6 +329,9 @@ The direct synchronization of robot facial expressions with conversational conte
 
 **The use of anthropomorphic characters in AI-generated content presents a significant challenge for the detection of hateful material.** Current AI content detectors are demonstrably poor at identifying hate speech when non-human characters are the primary subjects, often due to a bias towards human-centric detection (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). Studies indicate that a vast majority (95.9%) of images generated using anthropomorphic characters in a benchmark dataset contained hateful content, yet existing detectors struggled to identify this (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md). This suggests that the anthropomorphic nature of the characters can mislead detection systems, leading to their failure to flag harmful content. Mitigation strategies, such as converting non-human characters to human representations before classification or fine-tuning detectors specifically for anthropomorphic hateful content, have shown significant promise in addressing these safety gaps (source: raw_animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters.md).
 
+**Cultural Values and AI Interaction Styles**
+Research on conversational AI reveals that interaction styles, such as supportive versus challenging approaches, can significantly impact user experience, trust, and continuance intention across different cultures (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md). Supportive AI interactions generally lead to more positive outcomes, but cultural context plays a crucial role in how these interactions are perceived. For instance, individual tendencies like people-pleasing can influence threat perception differently across cultures; specifically, higher people-pleasing tendencies were associated with greater perceived threat among Taiwanese users but not Korean users (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md). This highlights that even broadly applied LLM interaction styles can activate distinct cultural social scripts, necessitating culturally inclusive AI design to foster effective and appropriate human-AI relationships (source: raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md).
+
 ## Related pages
 
 - [[source-the-rise-of-parasitic-ai]]
@@ -419,3 +423,4 @@ The direct synchronization of robot facial expressions with conversational conte
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
 - [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]
 - [[source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters]]
+- [[source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens]]

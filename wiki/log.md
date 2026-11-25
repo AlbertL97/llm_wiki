@@ -4755,3 +4755,30 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-25 — Cloud Automation Ingestion Ingested 2 Source(s)
+
+**Source(s)**:  
+- raw/raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md
+- raw/raw_one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md
+- wiki/chatbots.md
+- wiki/human-ai-interaction.md
+- wiki/trust.md
+- wiki/persuasion-and-influence.md
+- wiki/qualitative-methods.md
+- wiki/source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md
+- wiki/anthropomorphism.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement" and created summary page wiki/source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md.
+- Ingested "One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens" and created summary page wiki/source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

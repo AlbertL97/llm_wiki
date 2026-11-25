@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-24
+**Last updated**: 2026-11-25
 
 ## Orientation
 
@@ -186,6 +186,7 @@
 - [[source-noise-aware-lombard-speech-synthesis-via-flow-grpo-for-intelligibility-optimization]] — Summary of Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization.
 - [[source-on-the-global-feature-importance-for-interpretable-and-trustworthy-heat-demand-forecasting]] — Summary of On the global feature importance for interpretable and trustworthy heat demand forecasting.
 - [[source-one-frozen-simulator-is-not-enough-simulator-collapse-in-multi-agent-rl]] — Summary of One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL.
+- [[source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens]] — Summary of One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens.
 - [[source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai]] — Summary of Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI.
 - [[source-pathways-of-long-term-ai-virtual-companion-app-use-on-users-attachment-emotions-a-case-study-of-chinese-users]] — Summary of Pathways of long-term AI virtual companion app use on users' attachment emotions: a case study of Chinese users.
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]] — Summary of People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour.
@@ -279,6 +280,7 @@
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]] — Summary of What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output.
 - [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]] — Summary of Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care.
+- [[source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement]] — Summary of Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement.
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]] — Summary of What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?.
 - [[source-what-human-ai-interaction-leaves-behind-residual-human-ai-interaction-leaves-behind-residual-human-states]] — Summary of What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis.

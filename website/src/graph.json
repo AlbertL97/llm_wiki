@@ -1765,6 +1765,13 @@
       "summary": ""
     },
     {
+      "id": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens",
+      "name": "One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai",
       "name": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
       "val": 1.5,
@@ -2689,6 +2696,13 @@
       "summary": "A summary page for the Cell Trends in Cognitive Sciences article by Samuel G.B. Johnson et al. defining the difference between AI \"smartness\" and \"wisdom\" in solving intractable problems, and proposing object-level heuristics managed by metacognitive reasoning strategies (such as intellectual humility, perspective-taking, and context adaptability)."
     },
     {
+      "id": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement",
+      "name": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations",
       "name": "XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations",
       "val": 1.5,
@@ -3463,6 +3477,10 @@
       "target": "source-animalfarm-auditing-generation-detection-hateful-images-anthropomorphic-characters"
     },
     {
+      "source": "anthropomorphism",
+      "target": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens"
+    },
+    {
       "source": "chatbots",
       "target": "chatbots"
     },
@@ -4043,6 +4061,14 @@
       "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
     },
     {
+      "source": "chatbots",
+      "target": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement"
+    },
+    {
+      "source": "chatbots",
+      "target": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens"
+    },
+    {
       "source": "explainability",
       "target": "source-ai-experts-warning-dangerous-llm-problem"
     },
@@ -4605,6 +4631,14 @@
     {
       "source": "human-ai-interaction",
       "target": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens"
     },
     {
       "source": "human-robot-interaction",
@@ -6251,6 +6285,10 @@
       "target": "source-voice-design-confirmation-bias-ai-self-diagnosis"
     },
     {
+      "source": "persuasion-and-influence",
+      "target": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement"
+    },
+    {
       "source": "qualitative-methods",
       "target": "source-qualitati"
     },
@@ -6389,6 +6427,10 @@
     {
       "source": "qualitative-methods",
       "target": "source-useful-but-unwieldy-how-software-engineers-perceive-the-design-of-chain-of-thought-explanations-in-coding-agents"
+    },
+    {
+      "source": "qualitative-methods",
+      "target": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement"
     },
     {
       "source": "social-media-and-online-communities",
@@ -8011,6 +8053,10 @@
       "target": "trust"
     },
     {
+      "source": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens",
+      "target": "trust"
+    },
+    {
       "source": "source-overlooked-and-underutilized-prototypes-are-the-missing-piece-in-tabular-xai",
       "target": "trust"
     },
@@ -8973,6 +9019,10 @@
     {
       "source": "source-wise-machines-metacognition",
       "target": "agentic-knowledgeable-self-awareness"
+    },
+    {
+      "source": "source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement",
+      "target": "trust"
     },
     {
       "source": "source-xai-evaluation-cards-a-practical-method-for-designing-human-centred-xai-evaluations",

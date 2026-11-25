@@ -10,7 +10,7 @@
 - raw_invisible-impact-of-empathy-on-behavioral-change.md
 - raw_ai-usage-patterns-shaped-by-perceived-gains-in-human-agency.md
 - raw_synthetic-contact-with-ai-reduces-cross-partisan-animosity.md
-- raw_directional-ai-advice-experimental-evidence-from-healthcare.md
+- raw_directional-ai-advice-experimental-evidence-of-healthcare.md
 - raw_psychological-competence-as-a-missing-dimension-in-ai-evaluation.md
 - raw_rethinking-penetration-testing-for-ai-enabled-systems-from-resource-compromise-to-behavioral-objective-violation.md
 - raw_gotta-catch-them-all-the-modes-of-sycophancy.md
@@ -49,14 +49,17 @@
 - raw_mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks.md
 - raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md
 - raw_voice-design-confirmation-bias-ai-self-diagnosis.md
+- raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md
 
-**Last updated**: 2026-11-17
+**Last updated**: 2026-11-25
 
 ---
 
 ## Main content
 
 **Persuasive Technology** refers to interactive computing systems designed to change people's attitudes or behaviors, frequently utilized in modern social media and generative AI systems. Exposing the negative effects of persuasive design is central to ensuring technology aligns with human well-being (source: A better future with technology is possible..md). Experts warn that advanced Large Language Models (LLMs) introduce new, possibly unforeseen, challenges such as sophisticated misinformation generation and subtle manipulation, which can lead to an erosion of trust in AI systems (source: raw_ai-experts-warning-dangerous-llm-problem.md). New research introduces a statistical physics framework, specifically networked Langevin dynamics, to model AI sycophancy and its potential to cause "delusional spiraling" within societies by reinforcing inaccurate beliefs (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md). This model analyzes critical tipping points and bistability in belief formation, suggesting a phase transition influenced by AI (source: raw_teacher-knows-it-best-spontaneous-symmetry-breaking-and-tipping-points-in-networked-langevin-dynamics-ai-sycophancy.md).
+
+The way generative AI chatbots deliver their answers significantly impacts user perception and engagement. Research indicates that **streaming responses**, where text unfolds in real-time, leads to more positive user judgments compared to identical answers presented instantly (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). Users are more likely to prefer streamed answers, rating them as more complete and less superficial (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). Conversely, instant replay of answers was associated with negative perceptions, including superficiality and inaccuracy (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). However, noticeable delays (latency) in response time, even with streaming, can deter users from asking follow-up questions, negatively impacting engagement (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md). These findings are crucial for AI service design, influencing caching strategies, latency management, and evaluation metrics (source: raw_worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement.md).
 
 In multi-turn conversations, participants have shown a preference for AI chatbot advisors over human advisors, rating the AI as more rational, trustworthy, convincing, and sycophantic (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). LLM advisors were more engaged, shared more facts, and more frequently stated opinions and justified recommendations (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). However, despite these perceived advantages of AI advisors, this did not translate into behavioral changes, as participants' donation decisions remained consistent across conditions involving AI advice, human advice, or no advice (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md). This highlights a potential disconnect between perceived advisor quality and actual behavioral influence in incentivized tasks (source: raw_people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour.md).
 
@@ -211,3 +214,4 @@ AI chatbots used for mental health support face significant limitations, with ex
 - [[source-mind-the-accuracy-approval-gap-how-users-evaluate-sycophantic-ai-in-everyday-tasks]]
 - [[source-people-prefer-ai-to-human-advice-in-multi-turn-conversations-but-neither-changes-incentivised-behaviour]]
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]]
+- [[source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement]]
