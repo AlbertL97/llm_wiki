@@ -4782,3 +4782,23 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-26 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md
+- wiki/human-robot-interaction.md
+- wiki/human-ai-interaction.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "Embodied Lower-limb Exoskeleton Assistance: Survey, Challenges, and Perspectives" and created summary page wiki/source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

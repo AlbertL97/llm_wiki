@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-25
+**Last updated**: 2026-11-26
 
 ## Orientation
 
@@ -95,6 +95,7 @@
 - [[source-dialfork-evaluating-procedural-hallucination-conversational-agents]] — Summary of DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents.
 - [[source-early-preview-generalist]] — Summary of Generalist AI's demonstration of end-to-end AI models training dexterous sensorimotor policies.
 - [[source-echo-a-locally-deployable-agentic-health-assistant-with-temporal-memory-safety-guardrails-and-speech-assessment]] — Summary of ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment.
+- [[source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives]] — Summary of Embodied Lower-limb Exoskeleton Assistance: Survey, Challenges, and Perspectives.
 - [[source-emotional-attachment-robots-future]] — Summary of Kate Darling's excerpt on emotional lock-in, AIBO subscriptions, ELIZA history, and deceptive upgrade vacuums.
 - [[source-emotional-risks-of-ai-companions-demand-attention]] — Summary of Emotional risks of AI companions demand attention.
 - [[source-emotional-trust-scale-ceia]] — Summary of the validation study for the 4-factor Emotional Trust in Artificial Intelligence Scale (CEIA).
@@ -280,7 +281,6 @@
 - [[source-virtual-humans-ai]] — Summary of Virtual Humans and AI.
 - [[source-voice-design-confirmation-bias-ai-self-diagnosis]] — Summary of What's the Difference? Voice Design and Confirmation Bias in AI-Assisted Self-Diagnosis: Anthropomorphic vs. Machine-Like Voice Output.
 - [[source-voice-based-conversational-agents-as-ai-care-assistants-evaluating-personalization-intervention-delivery-fidelity-and-privacy-expectations-in-older-adults-care]] — Summary of Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care.
-- [[source-worth-the-wait-how-response-time-and-streaming-shape-judgments-of-generative-ai-answers-and-chatbot-engagement]] — Summary of Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement.
 - [[source-what-could-a-healthy-ai-companion-look-like]] — Summary of What Could a Healthy AI Companion Look Like?.
 - [[source-what-do-ai-chatbots-do-after-users-decline-therapeutic-redirection-for-suicide-thoughts]] — Summary of What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?.
 - [[source-what-human-ai-interaction-leaves-behind-residual-human-ai-interaction-leaves-behind-residual-human-states]] — Summary of What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis.

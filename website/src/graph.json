@@ -967,6 +967,13 @@
       "summary": ""
     },
     {
+      "id": "source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives",
+      "name": "Embodied Lower-limb Exoskeleton Assistance: Survey, Challenges, and Perspectives",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-emergent-introspective-awareness",
       "name": "Source: Emergent Introspective Awareness in Large Language Models",
       "val": 1.5,
@@ -4641,6 +4648,10 @@
       "target": "source-one-style-fits-all-cultural-values-embedded-in-conversational-ai-via-a-people-pleasing-lens"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -4995,6 +5006,10 @@
     {
       "source": "human-robot-interaction",
       "target": "source-fluid-flexible-evidence-grounded-situated-task-guidance"
+    },
+    {
+      "source": "human-robot-interaction",
+      "target": "source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives"
     },
     {
       "source": "introspective-awareness",

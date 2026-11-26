@@ -84,8 +84,9 @@
 - raw_robots-that-talk-too-much-and-dont-listen-enough.md
 - raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md
 - raw_fluid-flexible-evidence-grounded-situated-task-guidance.md
+- raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md
 
-**Last updated**: 2026-11-20
+**Last updated**: 2026-11-26
 
 ---
 
@@ -286,6 +287,9 @@ The development of anthropomorphic arms is crucial for enhancing the capabilitie
 **Emo-H2A: Enhancing Robot Expressiveness with LLM Dynamics**
 The **Emo-H2A (hidden-to-actuation)** paradigm revolutionizes how facial robots express emotions by directly leveraging the internal hidden states of Large Language Models (LLMs) during speech generation (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This approach bypasses the need for discrete, turn-level emotion labels, enabling more fluid and contextually appropriate facial expressions. The implementation, **EmoManifold**, extracts Valence-Arousal-Dominance (VAD) coordinates from LLM hidden states and maps them to facial movements at a token granularity, achieving remarkably low latency (approximately 0.96 seconds for expression updates) (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). This real-time synchronization significantly enhances the dynamism and responsiveness of robot faces, aiming to make human-robot interactions more natural, engaging, and anthropomorphic (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md). The system has demonstrated a high success rate in matching valence transitions within conversations, drastically reducing the communication gap between AI-generated content and robot embodiment (source: raw_emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate.md).
 
+### 24. Embodied Lower-limb Exoskeleton Assistance
+The field of embodied lower-limb exoskeletons is a crucial area within HRI, focusing on assistive technologies that augment human physical capabilities. Research in this domain is increasingly adopting an embodied perspective, emphasizing the interplay between the exoskeleton's mechanical structure, its sensing abilities, and its control systems to create a cohesive and responsive assistive device (source: raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md). Key challenges identified include the development of lightweight and compliant designs, effective fusion of data from multiple sensors, optimization of complex control policies, and ensuring robust control across various conditions (source: raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md). The adaptation capabilities of exoskeletons are categorized along four dimensions: structural self-adaptation, task adaptation, user-specific adaptation, and control self-regulation (source: raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md). Future research directions aim to create more comfortable, practical, and effective physical assistance technologies that seamlessly integrate with human users (source: raw_embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives.md). This work directly relates to the broader concept of human-exoskeleton neuroergonomic fit by focusing on the mechanical and control aspects that enable better synchronization between the human and the assistive device.
+
 ## Related pages
 
 - [[human-ai-interaction]]
@@ -383,3 +387,4 @@ The **Emo-H2A (hidden-to-actuation)** paradigm revolutionizes how facial robots 
 - [[source-robots-that-talk-too-much-and-dont-listen-enough]]
 - [[source-emo-h2a-driving-a-facial-robot-directly-from-llm-hidden-states-at-token-rate]]
 - [[source-fluid-flexible-evidence-grounded-situated-task-guidance]]
+- [[source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives]]
