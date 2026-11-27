@@ -23,8 +23,9 @@
 - raw_neural-representations-as-new-modes-of-interactivity.md
 - raw_context-as-a-resource.md
 - raw_lm-based-personalized-travel-planner.md
+- raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md
 
-**Last updated**: 2026-11-22
+**Last updated**: 2026-11-27
 
 ---
 
@@ -142,6 +143,10 @@ The **ClonAct** architecture offers a routerless approach to personal AI agents,
 
 Metacognitive architectures are being advanced through hierarchical multi-agent systems that break down complex tasks into specialized roles. A novel framework for LLM-based personalized travel planning employs a supervising chatbot agent to coordinate specialized agents responsible for schedule validation, user query formulation, real-time data retrieval, and constraint-aware itinerary generation (source: raw_lm-based-personalized-travel-planner.md). This system integrates LLM reasoning with external APIs and iterative refinement, utilizing a deterministic, multi-dimensional scoring mechanism for plan evaluation and improvement (source: raw_lm-based-personalized-travel-planner.md). Evaluations on the TravelPlanner benchmark show significant improvements over the ReAct baseline, with a 10% gain in budget constraint planning, a 25% gain in wider constraint set-based planning, and a substantial 45% improvement in personalized planning results, demonstrating enhanced adaptability, efficiency, and personalization (source: raw_lm-based-personalized-travel-planner.md).
 
+### 23. Evaluating Self-Evolving Agents in Long-Horizon Task Streams
+
+Assessing the self-evolving capabilities of LLM agents in dynamic, long-horizon, and interdependent task streams is crucial for their development into autonomous systems. The **EvoLink-Bench** benchmark has been introduced to address limitations in existing evaluation methodologies (source: raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md). This benchmark covers diverse workflows, including daily office tasks, multi-turn dialogues, and research processes, focusing on both language-expressible knowledge acquisition/revision (Level 1) and task-level execution capabilities based on feedback (Level 2) (source: raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md). Key findings indicate that no single agent framework consistently outperforms others across all evolution aspects, and simple task retries offer limited recovery from failures (source: raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md). Furthermore, merely maintaining persistent states does not guarantee improved future performance; effective utilization of this persistent information is critical (source: raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md). The research also highlights that mechanisms for evolving knowledge and task capabilities appear to be distinct, and evolutionary processes are not uniformly effective across different domains (source: raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md).
+
 ## Related pages
 
 - [[agentic-knowledgeable-self-awareness]]
@@ -166,6 +171,7 @@ Metacognitive architectures are being advanced through hierarchical multi-agent 
 - [[source-neural-representations-as-new-modes-of-interactivity]]
 - [[source-context-as-a-resource]]
 - [[source-lm-based-personalized-travel-planner]]
+- [[source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams]]
 - [[human-ai-interaction]]
 - [[metacognitive-agent-architectures]]
 - [[chatbots]]

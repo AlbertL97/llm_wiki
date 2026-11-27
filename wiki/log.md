@@ -4802,3 +4802,24 @@
 
 **Open issues**:  
 - None.
+
+
+## 2026-11-27 — Cloud Automation Ingestion Ingested 1 Source(s)
+
+**Source(s)**:  
+- raw/raw_evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md
+
+**Changed pages**:  
+- wiki/log.md  
+- wiki/source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md
+- wiki/human-ai-interaction.md
+- wiki/measurement-tools.md
+- wiki/metacognitive-agent-architectures.md
+- wiki/index.md
+
+**Summary of changes**:  
+- Ingested "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams" and created summary page wiki/source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams.md.
+- Automatically compiled new sources and updated related concept pages via cloud-scheduler Gemini execution.
+
+**Open issues**:  
+- None.

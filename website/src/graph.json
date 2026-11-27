@@ -1100,6 +1100,13 @@
       "summary": ""
     },
     {
+      "id": "source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams",
+      "name": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+      "val": 1.5,
+      "group": 2,
+      "summary": ""
+    },
+    {
       "id": "source-explainable-ai-for-solar-pv-power-forecasting-from-model-selection-to-trustworthy-reproducible-deployment",
       "name": "Source Summary: Explainable AI for Solar PV Power Forecasting: From Model Selection to Trustworthy, Reproducible Deployment",
       "val": 1.5,
@@ -4652,6 +4659,14 @@
       "target": "source-embodied-lower-limb-exoskeleton-assistance-survey-challenges-and-perspectives"
     },
     {
+      "source": "human-ai-interaction",
+      "target": "measurement-tools"
+    },
+    {
+      "source": "human-ai-interaction",
+      "target": "source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams"
+    },
+    {
       "source": "human-robot-interaction",
       "target": "trust"
     },
@@ -5141,10 +5156,6 @@
     },
     {
       "source": "measurement-tools",
-      "target": "human-ai-interaction"
-    },
-    {
-      "source": "measurement-tools",
       "target": "source-data-standards-for-humanoid-robotics-the-missing-infrastructure-for-physical-ai"
     },
     {
@@ -5414,6 +5425,10 @@
     {
       "source": "measurement-tools",
       "target": "source-unpacking-the-evaluators-how-configuration-shapes-the-evaluation-of-alignment-in-explainable-ai"
+    },
+    {
+      "source": "measurement-tools",
+      "target": "source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams"
     },
     {
       "source": "medical-ai",
@@ -5986,6 +6001,10 @@
     {
       "source": "metacognitive-agent-architectures",
       "target": "source-lm-based-personalized-travel-planner"
+    },
+    {
+      "source": "metacognitive-agent-architectures",
+      "target": "source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams"
     },
     {
       "source": "metacognitive-agent-architectures",

@@ -1,6 +1,6 @@
 # Human–AI Interaction Psychology Wiki Index
 
-**Last updated**: 2026-11-26
+**Last updated**: 2026-11-27
 
 ## Orientation
 
@@ -116,6 +116,7 @@
 - [[source-explaining-process-control-optimisation-recommendations-via-gradien tshap-and-implicit-differentiation]] — Summary of Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation.
 - [[source-exploring-fear-in-human-robot-interaction-older-adults-social-robots]] — Summary of Exploring fear in human-robot interaction: a scoping review of older adults’ experiences with social robots.
 - [[source-extracting-system-prompt-of-llm-services-in-complex-agentic-settings-hierarchical-optimization-and-reliable-evaluation-metrics]] — Summary of Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics.
+- [[source-evolink-bench-a-benchmark-for-evaluating-self-evolving-agents-in-long-horizon-interdependent-task-streams]] — Summary of EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams.
 - [[source-few-shot-out-of-domain-intent-detection-with-covariance-corrected-mahalanobis-distance]] — Summary of Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance.
 - [[source-fixed-reference-pose-residuals-for-measuring-cross-dataset-cue-transfer-in-human-robot-interaction-anticipation]] — Summary of Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation.
 - [[source-fluid-flexible-evidence-grounded-situated-task-guidance]] — Summary of FLUID: Flexible, Evidence-Grounded Situated Task Guidance.
